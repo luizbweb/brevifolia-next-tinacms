@@ -222,6 +222,33 @@ export default function BlogTemplate(props) {
         ],
       },
       {
+        name: 'frontmatter.details',
+        label: 'Detalhes',
+        description: 'Detalhes do produto',
+        component: 'group-list',
+        itemProps: item => ({
+          label: item.name,
+        }),
+        defaultItem: () => ({
+          title: 'Novo detalhe',
+        }),
+        fields: [
+          {
+            name: 'title', 
+            label: 'Título', 
+            component: 'text',
+          },
+          {
+            name: 'image',
+            label: 'Imagem',
+            component: 'image',
+            parse: media => `/static/${media.filename}`,
+            uploadDir: () => '/public/static/',
+            previewSrc: fullSrc => fullSrc.replace('/public', ''),
+          },
+        ],
+      },
+      {
         name: 'frontmatter.details', 
         label: 'Detalhes', 
         component: 'text', 
