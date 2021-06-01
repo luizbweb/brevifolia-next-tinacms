@@ -25,7 +25,7 @@ galleries:
 slides:
   - title: Pixel
     link: /pixel
-    image: /static/undefined
+    image: /static/error.png
   - title: Elise
     link: elise
     image: /static/error.png
