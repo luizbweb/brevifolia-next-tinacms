@@ -311,11 +311,6 @@ export default function BlogTemplate(props) {
         ],
       },
       {
-        name: 'frontmatter.specs', 
-        label: 'Especificações', 
-        component: 'text', 
-      },
-      {
         name: 'markdownBody',
         label: 'Blog Body',
         component: 'markdown',
