@@ -12,7 +12,7 @@ authors:
     best-novel: Escolha a Catástrofe
 galleries:
   - name: slides
-    image: /static/undefined
+    image: /static/iceland-1.jpg
   - name: slides
     image: /static/error.png
 ---
