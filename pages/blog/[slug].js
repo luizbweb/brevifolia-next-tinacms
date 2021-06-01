@@ -12,14 +12,12 @@ export default function BlogTemplate(props) {
     fields: [
       {
         label: 'Hero Image',
-        name: 'frontmatter.hero_image',
+        name: 'frontmatter.main_image',
         component: 'image',
         // Generate the frontmatter value based on the filename
         parse: media => `/static/${media.filename}`,
-
         // Decide the file upload directory for the post
         uploadDir: () => '/public/static/',
-
         // Generate the src attribute for the preview image.
         previewSrc: fullSrc => fullSrc.replace('/public', ''),
       },
@@ -37,6 +35,119 @@ export default function BlogTemplate(props) {
         name: 'frontmatter.author',
         label: 'Author',
         component: 'text',
+      },
+      {
+        name: 'frontmatter.id', 
+        label: 'ID do Produto', 
+        component: 'number', 
+      },
+      {
+        name: 'frontmatter.link', 
+        label: 'Link', 
+        component: 'text', 
+      },
+      {
+        name: 'frontmatter.short_name', 
+        label: 'Nome Curto', 
+        component: 'text', 
+      },
+      {
+        name: 'frontmatter.micro_name', 
+        label: 'Micro Name', 
+        component: 'text', 
+      },
+      {
+        name: 'frontmatter.category', 
+        label: 'Categoria', 
+        component: 'text', 
+      },
+      {
+        name: 'frontmatter.subcategory', 
+        label: 'Subcategoria', 
+        component: 'text', 
+      },
+      {
+        name: 'frontmatter.type', 
+        label: 'Tipo', 
+        component: "select",
+        options: ["simple", "variable"],
+      },
+      {
+        name: 'frontmatter.availability', 
+        label: 'Disponibilidade', 
+        component: "select",
+        options: ["no-stock", "in-stock"],
+      },
+      {
+        name: 'frontmatter.description', 
+        label: 'Descrição', 
+        component: 'markdown', 
+      },
+      {
+        name: 'frontmatter.price', 
+        label: 'Preço', 
+        component: 'number', 
+      },
+      {
+        name: 'frontmatter.featured_image',
+        label: 'Imagem Destacada',
+        component: 'image',
+        parse: media => `/static/${media.filename}`,
+        uploadDir: () => '/public/static/',
+        previewSrc: fullSrc => fullSrc.replace('/public', ''),
+      },
+      {
+        label: 'Authors List',
+        name: 'rawJson.authors',
+        component: 'group-list',
+        description: 'Authors List',
+        itemProps: item => ({
+          key: item.id,
+          label: item.name,
+        }),
+        defaultItem: () => ({
+          name: 'New Author',
+          id: Math.random()
+            .toString(36)
+            .substr(2, 9),
+        }),
+        fields: [
+          {
+            label: 'Name',
+            name: 'name',
+            component: 'text',
+          },
+          {
+            label: 'Best Novel',
+            name: 'best-novel',
+            component: 'text',
+          },
+        ],
+      },
+      {
+        name: 'frontmatter.galleries', 
+        label: 'Galeria', 
+        component: 'text', 
+      },
+      {
+        name: 'frontmatter.slides', 
+        label: 'Slides', 
+        component: 'text', 
+      },
+      {
+        name: 'frontmatter.menu', 
+        label: 'Menu', 
+        component: 'text', 
+      },
+      {
+        name: 'frontmatter.details', 
+        label: 'Detalhes', 
+        component: 'text', 
+      },
+      {
+        name: 'frontmatter.specs', 
+        label: 'Especificações', 
+        component: 'text', 
       },
       {
         name: 'markdownBody',
@@ -59,7 +170,7 @@ export default function BlogTemplate(props) {
       <article className="blog">
         <figure className="blog__hero">
           <img
-            src={post.frontmatter.hero_image}
+            src={post.frontmatter.main_image}
             alt={`blog_hero_${post.frontmatter.title}`}
           />
         </figure>
