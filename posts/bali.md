@@ -17,6 +17,7 @@ galleries:
     availability: in-stock
     slides:
       - image: /static/undefined
+      - image: /static/ganapathy-kumar-desert.jpg
   - id: 1235
     color: Red
     color_code: '#0000FF'
