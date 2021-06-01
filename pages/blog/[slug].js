@@ -97,24 +97,59 @@ export default function BlogTemplate(props) {
         previewSrc: fullSrc => fullSrc.replace('/public', ''),
       },
       {
-        label: 'Galeria',
         name: 'frontmatter.galleries',
+        label: 'Galeria',
         component: 'group-list',
-        description: 'Fotos dos produtos',
+        description: 'Galeria de produtos',
         itemProps: item => ({
           label: item.name,
         }),
         defaultItem: () => ({
-          image: '/static/error.png',
+          id: 0,
         }),
         fields: [
           {
-            label: 'Imagem',
-            name: 'image',
-            component: 'image',
-            parse: media => `/static/${media.filename}`,
-            uploadDir: () => '/public/static/',
-            previewSrc: fullSrc => fullSrc.replace('/public', ''),
+            name: 'id', 
+            label: 'ID', 
+            component: 'number',
+          },
+          {
+            name: 'color', 
+            label: 'Cor', 
+            component: 'text',
+          },
+          {
+            name: 'color_code', 
+            label: 'Cor RGB', 
+            component: 'text', 
+          },
+          {
+            name: 'availability', 
+            label: 'Disponibilidade', 
+            component: "select",
+            options: ["no-stock", "in-stock"],
+          },
+          {
+            label: 'Slides',
+            name: 'slides',
+            component: 'group-list',
+            description: 'Fotos do produto',
+            itemProps: item => ({
+              label: item.name,
+            }),
+            defaultItem: () => ({
+              image: '/static/error.png',
+            }),
+            fields: [
+              {
+                name: 'image',
+                label: 'Imagem',
+                component: 'image',
+                parse: media => `/static/${media.filename}`,
+                uploadDir: () => '/public/static/',
+                previewSrc: fullSrc => fullSrc.replace('/public', ''),
+              },
+            ],
           },
         ],
       },
