@@ -23,9 +23,12 @@ galleries:
       - image: /static/iceland-1.jpg
       - image: /static/error.png
 slides:
+  - title: Pixel
+    link: /pixel
+    image: /static/undefined
   - title: Elise
     link: elise
-    image: /static/undefined
+    image: /static/error.png
   - title: Racing Series
     link: /racing-series
     image: /static/error.png
