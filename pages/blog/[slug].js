@@ -11,7 +11,7 @@ export default function BlogTemplate(props) {
     label: 'Blog Page',
     fields: [
       {
-        label: 'Hero Image',
+        label: 'Imagem Principal',
         name: 'frontmatter.main_image',
         component: 'image',
         // Generate the frontmatter value based on the filename
@@ -150,6 +150,43 @@ export default function BlogTemplate(props) {
                 previewSrc: fullSrc => fullSrc.replace('/public', ''),
               },
             ],
+          },
+        ],
+      },
+      /*
+        title
+        link
+        image
+       */
+      {
+        label: 'Slides',
+        name: 'slides',
+        component: 'group-list',
+        description: 'Produtos da categoria',
+        itemProps: item => ({
+          label: item.name,
+        }),
+        defaultItem: () => ({
+          title: 'Novo slide',
+        }),
+        fields: [
+          {
+            name: 'title', 
+            label: 'Titulo', 
+            component: 'text',
+          },
+          {
+            name: 'link', 
+            label: 'Link', 
+            component: 'text',
+          },
+          {
+            name: 'image',
+            label: 'Imagem',
+            component: 'image',
+            parse: media => `/static/${media.filename}`,
+            uploadDir: () => '/public/static/',
+            previewSrc: fullSrc => fullSrc.replace('/public', ''),
           },
         ],
       },
