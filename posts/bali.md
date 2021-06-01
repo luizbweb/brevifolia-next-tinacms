@@ -12,6 +12,12 @@ authors:
     best-novel: Escolha a Catástrofe
 galleries:
   - id: 1235
+    color: Blue
+    color_code: '#0000FF'
+    availability: in-stock
+    slides:
+      - image: /static/undefined
+  - id: 1235
     color: Red
     color_code: '#0000FF'
     availability: in-stock
