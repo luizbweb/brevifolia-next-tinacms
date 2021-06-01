@@ -97,16 +97,16 @@ export default function BlogTemplate(props) {
         previewSrc: fullSrc => fullSrc.replace('/public', ''),
       },
       {
-        label: 'Authors List',
-        name: 'rawJson.authors',
+        label: 'Galeria',
+        name: 'frontmatter.galleries',
         component: 'group-list',
-        description: 'Authors List',
+        description: 'Fotos dos produtos',
         itemProps: item => ({
           key: item.id,
           label: item.name,
         }),
         defaultItem: () => ({
-          name: 'New Author',
+          name: 'slides',
           id: Math.random()
             .toString(36)
             .substr(2, 9),
@@ -118,16 +118,14 @@ export default function BlogTemplate(props) {
             component: 'text',
           },
           {
-            label: 'Best Novel',
-            name: 'best-novel',
-            component: 'text',
+            label: 'Imagem',
+            name: 'image',
+            component: 'image',
+            parse: media => `/static/${media.filename}`,
+            uploadDir: () => '/public/static/',
+            previewSrc: fullSrc => fullSrc.replace('/public', ''),
           },
         ],
-      },
-      {
-        name: 'frontmatter.galleries', 
-        label: 'Galeria', 
-        component: 'text', 
       },
       {
         name: 'frontmatter.slides', 
