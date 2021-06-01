@@ -191,9 +191,40 @@ export default function BlogTemplate(props) {
         ],
       },
       {
-        name: 'frontmatter.menu', 
-        label: 'Menu', 
-        component: 'text', 
+        name: 'frontmatter.menu',
+        label: 'Menu',
+        component: 'group',
+        description: 'Menu da página',
+        fields: [
+          {
+            label: 'Itens',
+            name: 'items',
+            description: 'Itens do menu da página de produto',
+            component: 'group-list',
+            fields: [
+              {
+                itemProps: item => ({
+                  label: item.name,
+                }),
+                defaultItem: () => ({
+                  title: 'Novo link',
+                }),
+                fields: [
+                  {
+                    name: 'text', 
+                    label: 'Texto', 
+                    component: 'text',
+                  },
+                  {
+                    name: 'link', 
+                    label: 'Link', 
+                    component: 'text',
+                  },
+                ],
+              },
+            ],
+          },
+        ],
       },
       {
         name: 'frontmatter.details', 
