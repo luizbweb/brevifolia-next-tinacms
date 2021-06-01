@@ -249,11 +249,6 @@ export default function BlogTemplate(props) {
         ],
       },
       {
-        name: 'frontmatter.details', 
-        label: 'Detalhes', 
-        component: 'text', 
-      },
-      {
         name: 'frontmatter.specs', 
         label: 'Especificações', 
         component: 'text', 
