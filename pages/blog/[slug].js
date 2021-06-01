@@ -159,8 +159,8 @@ export default function BlogTemplate(props) {
         image
        */
       {
+        name: 'frontmatter.slides',
         label: 'Slides',
-        name: 'slides',
         component: 'group-list',
         description: 'Produtos da categoria',
         itemProps: item => ({
