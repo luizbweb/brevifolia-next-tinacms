@@ -4,7 +4,7 @@ date: '2019-07-10T07:00:00.000Z'
 hero_image: /static/alfons-taekema-bali.jpg
 title: 'Bali —body, mind & soul'
 id: 65574
-main_image: /static/alfons-taekema-bali.jpg
+main_image: /static/elise1_r6.png
 description: Aqui fica a descrição do produto
 galleries:
   - id: 1235
