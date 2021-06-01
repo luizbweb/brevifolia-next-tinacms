@@ -191,11 +191,6 @@ export default function BlogTemplate(props) {
         ],
       },
       {
-        name: 'frontmatter.slides', 
-        label: 'Slides', 
-        component: 'text', 
-      },
-      {
         name: 'frontmatter.menu', 
         label: 'Menu', 
         component: 'text', 
