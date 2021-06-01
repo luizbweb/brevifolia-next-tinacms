@@ -102,21 +102,12 @@ export default function BlogTemplate(props) {
         component: 'group-list',
         description: 'Fotos dos produtos',
         itemProps: item => ({
-          key: item.id,
           label: item.name,
         }),
         defaultItem: () => ({
           name: 'slides',
-          id: Math.random()
-            .toString(36)
-            .substr(2, 9),
         }),
         fields: [
-          {
-            label: 'Name',
-            name: 'name',
-            component: 'text',
-          },
           {
             label: 'Imagem',
             name: 'image',
