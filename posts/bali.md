@@ -42,7 +42,7 @@ menu:
       link: '#design'
 details:
   - title: Espuma Injetada
-    image: /static/undefined
+    image: /static/elise1_r6.png
   - title: Almofadas DT3
     image: /static/elise1_r6.png
 ---
