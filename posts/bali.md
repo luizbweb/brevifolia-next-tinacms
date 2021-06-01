@@ -6,17 +6,13 @@ title: 'Bali —body, mind & soul'
 id: 65574
 main_image: /static/alfons-taekema-bali.jpg
 description: Aqui fica a descrição do produto
-authors:
-  - name: Isaac Asimov
-    id: cmpbjo6dn
-    best-novel: Escolha a Catástrofe
 galleries:
   - id: 1235
     color: Blue
     color_code: '#0000FF'
     availability: in-stock
     slides:
-      - image: /static/undefined
+      - image: /static/error.png
       - image: /static/ganapathy-kumar-desert.jpg
   - id: 1235
     color: Red
