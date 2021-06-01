@@ -249,6 +249,68 @@ export default function BlogTemplate(props) {
         ],
       },
       {
+        name: 'frontmatter.specs',
+        label: 'Especificações',
+        component: 'group',
+        fields: [
+          {
+            name: 'front',
+            label: 'Imagem Frontal',
+            component: 'image',
+            parse: media => `/static/${media.filename}`,
+            uploadDir: () => '/public/static/',
+            previewSrc: fullSrc => fullSrc.replace('/public', ''),
+          },
+          {
+            name: 'side',
+            label: 'Imagem Lateral',
+            component: 'image',
+            parse: media => `/static/${media.filename}`,
+            uploadDir: () => '/public/static/',
+            previewSrc: fullSrc => fullSrc.replace('/public', ''),
+          },
+          {
+            label: 'Itens',
+            name: 'items',
+            description: 'Itens especificações do produto',
+            component: 'group-list',
+            itemProps: item => ({
+              label: item.name,
+            }),
+            defaultItem: () => ({
+              title: 'Novo link',
+            }),
+            fields: [
+              {
+                name: 'key', 
+                label: 'Chave', 
+                component: 'text',
+              },
+              {
+                name: 'label', 
+                label: 'Label', 
+                component: 'text',
+              },
+              {
+                name: 'value', 
+                label: 'Valor', 
+                component: 'text',
+              },
+              {
+                name: 'unit', 
+                label: 'Unidade', 
+                component: 'text',
+              },
+              {
+                name: 'precision', 
+                label: 'Precisão', 
+                component: 'text',
+              },
+            ],
+          },
+        ],
+      },
+      {
         name: 'frontmatter.specs', 
         label: 'Especificações', 
         component: 'text', 
