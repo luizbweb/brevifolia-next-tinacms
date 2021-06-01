@@ -35,6 +35,9 @@ slides:
 featured_image: /static/elise1_r6.png
 menu:
   items:
+    - title: Novo link
+      text: Construção
+      link: '#construcao'
     - text: Design
       link: '#design'
 ---
