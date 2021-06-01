@@ -194,33 +194,28 @@ export default function BlogTemplate(props) {
         name: 'frontmatter.menu',
         label: 'Menu',
         component: 'group',
-        description: 'Menu da página',
         fields: [
           {
             label: 'Itens',
             name: 'items',
             description: 'Itens do menu da página de produto',
             component: 'group-list',
+            itemProps: item => ({
+              label: item.name,
+            }),
+            defaultItem: () => ({
+              title: 'Novo link',
+            }),
             fields: [
               {
-                itemProps: item => ({
-                  label: item.name,
-                }),
-                defaultItem: () => ({
-                  title: 'Novo link',
-                }),
-                fields: [
-                  {
-                    name: 'text', 
-                    label: 'Texto', 
-                    component: 'text',
-                  },
-                  {
-                    name: 'link', 
-                    label: 'Link', 
-                    component: 'text',
-                  },
-                ],
+                name: 'text', 
+                label: 'Texto', 
+                component: 'text',
+              },
+              {
+                name: 'link', 
+                label: 'Link', 
+                component: 'text',
               },
             ],
           },
