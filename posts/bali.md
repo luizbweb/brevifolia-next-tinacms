@@ -13,7 +13,7 @@ authors:
 galleries:
   - name: Foto 2
     id: k68zgplgd
-    image: /static/undefined
+    image: /static/iceland-1.jpg
   - name: Foto 1
     id: m2szwscjd
     image: /static/error.png
