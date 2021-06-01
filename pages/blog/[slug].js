@@ -105,7 +105,7 @@ export default function BlogTemplate(props) {
           label: item.name,
         }),
         defaultItem: () => ({
-          name: 'slides',
+          image: '/static/error.png',
         }),
         fields: [
           {
