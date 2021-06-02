@@ -153,11 +153,6 @@ export default function BlogTemplate(props) {
           },
         ],
       },
-      /*
-        title
-        link
-        image
-       */
       {
         name: 'frontmatter.slides',
         label: 'Slides',
