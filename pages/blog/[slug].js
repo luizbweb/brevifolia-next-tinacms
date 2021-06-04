@@ -3,7 +3,7 @@ import matter from 'gray-matter'
 import ReactMarkdown from 'react-markdown'
 import { usePlugin } from 'tinacms'
 import { useMarkdownForm } from 'next-tinacms-markdown'
-import { Blocks } from './cms/blocks';
+import { Blocks, BannerBlock } from './cms/blocks';
 
 import Layout from '../../components/Layout'
 
@@ -307,9 +307,12 @@ export default function BlogTemplate(props) {
         ],
       },
       {
-        name: 'frontmatter._template',
-        label: 'BannerBlock',
+        name: 'frontmatter.blocks',
+        label: 'Banner Label',
         component: 'group-list',
+        templates: {
+          BannerBlock
+        },
         itemProps: item => ({
           label: item.name,
         }),
