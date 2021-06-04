@@ -306,18 +306,7 @@ export default function BlogTemplate(props) {
           },
         ],
       },
-      {
-        name: 'frontmatter.blocks',
-        label: 'Seções da página',
-        component: 'group-list',
-        _template: 'BannerBlock',
-        templates: {
-          BannerBlock
-        },
-        fields: [
-          Blocks,
-        ],
-      },
+      Blocks,
       {
         name: 'markdownBody',
         label: 'Blog Body',
