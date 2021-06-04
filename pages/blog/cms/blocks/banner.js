@@ -108,7 +108,7 @@ const blocks = {
     stretchBlock,
     debug,
   ],
-  itemProps: (item) => ({ label: blockName(item.content[0]._template) }),
+  // itemProps: (item) => ({ label: blockName(item.content[0]._template) }),
   defaultItem: {
     horizontalAlignment: "center",
     verticalAlignment: "flex-start",
