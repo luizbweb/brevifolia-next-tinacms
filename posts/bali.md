@@ -63,6 +63,12 @@ blocks:
           content:
             - title: Rodas de 65mm
               _template: TitleBlock
+            - content: >-
+
+                As rodas da Gaming Series são feitas de nylon, com diâmetro de
+                65mm. Altamente resistentes e de fácil movimentação, não deixam
+                marcas ou arranhões no piso.
+              _template: ContentBlock
         - horizontalAlignment: center
           verticalAlignment: flex-start
       full_width: true
