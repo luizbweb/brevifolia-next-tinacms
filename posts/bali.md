@@ -54,20 +54,9 @@ specs:
   front: /static/elise1_r6.png
   side: /static/error.png
 blocks:
-  - _template: Blocks
-    rawFrontmatter:
-      blocks:
-        - _template: BannerBlock
-          banner:
-            id: Banner 2
-        - _template: BannerBlock
-          banner:
-            id: Banner 1
+  - title: banner
     banner:
       blocks:
-        - _template: BannerBlock
-          banner:
-            id: Banner 2
         - _template: BannerBlock
           banner:
             id: Banner 1
