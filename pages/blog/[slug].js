@@ -313,12 +313,6 @@ export default function BlogTemplate(props) {
         templates: {
           BannerBlock
         },
-        itemProps: item => ({
-          label: item.name,
-        }),
-        defaultItem: () => ({
-          title: 'banner',
-        }),
         fields: [
           Blocks,
         ],
