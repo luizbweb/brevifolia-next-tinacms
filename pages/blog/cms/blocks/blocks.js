@@ -2,7 +2,7 @@ import { BannerBlock } from '.';
 
 
 export const blocks = {
-  name: 'banner.blocks',
+  name: 'frontmatter.blocks',
   label: 'Seções da página',
   component: 'blocks',
   templates: {
