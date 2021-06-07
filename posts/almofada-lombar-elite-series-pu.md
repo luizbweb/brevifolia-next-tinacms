@@ -8,8 +8,7 @@ micro_name: Kit Almofadas XL Elite Series
 category: Acessórios
 subcategory: null
 availability: in-stock
-main_image: >-
-  /static/img/products/acessorios/almofada-lombar-elite-series-pu/Black/almofada-lombar-elite-series-pu-00.jpg
+main_image: /static/almofada lombar elite series u-00.jpg
 description: |-
   • Almofada de cabeça.
 
