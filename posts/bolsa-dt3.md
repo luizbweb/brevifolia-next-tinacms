@@ -44,4 +44,5 @@ specs: null
 price:
   regular: 1169.91
   boleto: 1299.9
+date: '2021-06-07T00:00:00Z'
 ---
