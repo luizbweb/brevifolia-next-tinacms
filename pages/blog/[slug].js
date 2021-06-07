@@ -386,11 +386,11 @@ export default function BlogTemplate(props) {
         <p> availability: {post.frontmatter.availability} </p>  
         <p> description: {post.frontmatter.description} </p>  
         <p> price: </p> 
-          <p> regular: { JSON.stringify( post.frontmatter.price.regular) } </p>
-          <p> boleto: { JSON.stringify( post.frontmatter.price.boleto) } </p>  
-        <p> featured_image:</p> 
-          <p> desktop_image: { JSON.stringify(post.frontmatter.featured_image.desktop_image) } </p> 
-          <p> mobile_image: { JSON.stringify(post.frontmatter.featured_image.mobile_image) } </p> 
+          <p> regular: { JSON.stringify( post.frontmatter.price?.regular) } </p>
+          <p> boleto: { JSON.stringify( post.frontmatter.price?.boleto) } </p>  
+        <p> featured_image: </p> 
+          <p> desktop_image: { JSON.stringify(post.frontmatter.featured_image?.desktop_image) } </p> 
+          <p> mobile_image: { JSON.stringify(post.frontmatter.featured_image?.mobile_image) } </p> 
         <p> galleries: { JSON.stringify( post.frontmatter.galleries ) } </p> 
         <p> slides: { JSON.stringify( post.frontmatter.slides ) } </p> 
         <p> menu: { JSON.stringify( post.frontmatter.menu ) } </p> 
