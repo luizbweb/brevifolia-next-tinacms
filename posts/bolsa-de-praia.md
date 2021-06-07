@@ -9,7 +9,7 @@ category: Bolsa
 subcategory: Merch
 type: simple
 availability: in-stock
-main_image: ../../../../static/img/products/bolsa-de-praia/bolsa-de-praia.png
+main_image: /static/img/products/bolsa-de-praia/bolsa-de-praia.png
 description: >-
   • Estrutura de Metal.
 
@@ -36,7 +36,7 @@ galleries:
     color: White
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/bolsa-de-praia/bolsa-de-praia.png
+      - image: /static/img/products/bolsa-de-praia/bolsa-de-praia.png
 specs:
   items: null
 price:

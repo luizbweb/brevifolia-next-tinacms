@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Braço Esquerdo GT
 id: 18713
 link: /acessorios/braco-esquerdo-gt
 name: Braço Esquerdo GT
@@ -9,7 +9,7 @@ category: Acessórios
 subcategory: null
 availability: in-stock
 main_image: >-
-  ../../../../static/img/products/acessorios/braco-esquerdo-gt/braco-esquerdo-gt.jpg
+  /static/img/products/acessorios/braco-esquerdo-gt/braco-esquerdo-gt.jpg
 description: >-
   Braço esquerdo unitário
 
@@ -32,12 +32,12 @@ galleries:
     availability: in-stock
     slides:
       - image: >-
-          ../../../../static/img/products/acessorios/braco-esquerdo-gt/braco-esquerdo-gt.jpg
+          /static/img/products/acessorios/braco-esquerdo-gt/braco-esquerdo-gt.jpg
 price:
   regular: 39.9
   boleto: 35.91
 specs:
-  front: ../../../../static/img/placeholders/1x1.png
-  side: ../../../../static/img/placeholders/1x1.png
+  front: /static/img/placeholders/1x1.png
+  side: /static/img/placeholders/1x1.png
 ---
 

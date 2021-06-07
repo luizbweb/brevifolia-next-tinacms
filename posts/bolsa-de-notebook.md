@@ -9,7 +9,7 @@ category: Bolsa
 subcategory: Merch
 type: simple
 availability: in-stock
-main_image: ../../../../static/img/products/bolsa-de-notebook/bolsa.png
+main_image: /static/img/products/bolsa-de-notebook/bolsa.png
 description: |-
   • Estrutura de Metal.
 
@@ -27,7 +27,7 @@ galleries:
     color: Black
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/bolsa-de-notebook/bolsa.png
+      - image: /static/img/products/bolsa-de-notebook/bolsa.png
 specs:
   items: null
 price:
