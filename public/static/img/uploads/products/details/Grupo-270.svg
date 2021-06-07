@@ -1,0 +1,685 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="191" height="191" viewBox="0 0 191 191">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Elipse_28" data-name="Elipse 28" cx="95" cy="95" r="95" transform="translate(536 2158)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <circle id="Elipse_28-2" data-name="Elipse 28" cx="95" cy="95" r="95" transform="translate(440 2158)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_270" data-name="Grupo 270" transform="translate(-554 -2094)">
+    <g id="Elipse_125" data-name="Elipse 125" transform="translate(554 2094)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="95.5" cy="95.5" r="95.5" stroke="none"/>
+      <circle cx="95.5" cy="95.5" r="95" fill="none"/>
+    </g>
+    <g id="Grupo_204" data-name="Grupo 204" transform="translate(19 -63)">
+      <g id="Grupo_de_máscara_22" data-name="Grupo de máscara 22" clip-path="url(#clip-path)">
+        <g id="Sem_título-1" data-name="Sem título-1" transform="translate(298.132 1887.729)">
+          <g id="Grupo_262" data-name="Grupo 262" transform="translate(12.113 31.177)" opacity="0.56">
+            <g id="Grupo_252" data-name="Grupo 252" transform="translate(184.955 6.632)">
+              <g id="Grupo_251" data-name="Grupo 251">
+                <g id="Grupo_250" data-name="Grupo 250">
+                  <line id="Linha_602" data-name="Linha 602" x1="0.361" y1="0.1" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.287"/>
+                </g>
+              </g>
+            </g>
+            <g id="Grupo_261" data-name="Grupo 261">
+              <g id="Grupo_253" data-name="Grupo 253">
+                <path id="Caminho_1606" data-name="Caminho 1606" d="M277.964,117.277l31.28,1.1a26.914,26.914,0,0,0,5.233-.341l137.29-22.678c1.343-.2,3.248-.521,2.526-1.684l-2.045-2.526a18.8,18.8,0,0,0-4.732-2.707L379.9,74.187a6.8,6.8,0,0,0,1.083-2.226,3.45,3.45,0,0,0-2.767-3.469c-2.486-.642-42.328-8.061-57.747-11.57-1.2-.281-2.226-.5-2.988-.682-1.3-.281-3.188-.7-5.494-1.2l-.1-.02-.1-.02c-2.145-.521-3.89-.942-5.093-1.243-.7-.18-1.664-.4-2.827-.682-14.4-3.389-55.181-10.026-57.647-10.487a43.742,43.742,0,0,0-6.176-.7c-2.827.02-14.958-.321-14.958-.321l-11.209-.642-42.288-8.341a21.932,21.932,0,0,0-2.807-.361L152.744,31.3a131.184,131.184,0,0,0-20.813.461L15.253,43.549a6.773,6.773,0,0,0-3.79,2.306L10.6,46.9a1.53,1.53,0,0,0,.762,2.466l245.086,62.961C263.246,114.109,270.926,116.8,277.964,117.277Z" transform="translate(-10.237 -31.082)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.716"/>
+              </g>
+              <g id="Grupo_254" data-name="Grupo 254" transform="translate(19.511 2.421)">
+                <path id="Caminho_1607" data-name="Caminho 1607" d="M265.7,111.526l7.8.441L412.278,92.077l-.642-.962L332.916,75.193l8.642-3.569c.221-.1.441-.18.662-.281-12.392-2.948-41.185-9.905-53.537-12.773-1.343-.321-2.125-.5-2.567-.581-1.163-.261-2.867-.642-5.494-1.223l-.481-.1-.441-.12c-2.486-.622-4.01-1-5.073-1.263-.4-.1-1.143-.281-2.426-.581-11.61-2.767-38.739-8.8-49.687-11.209l-1.544.06-19.089.882L191.8,41.989l-41.686-9.805-4.03-.08L19.014,47.743a.622.622,0,0,0-.361.18h0a.623.623,0,0,0,.281,1.043Z" transform="translate(-18.471 -32.103)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.573"/>
+              </g>
+              <g id="Grupo_255" data-name="Grupo 255" transform="translate(41.449 6.071)">
+                <path id="Caminho_1608" data-name="Caminho 1608" d="M262.027,104.925l109.66-15.54-74.61-15.64,9.965-3.93c-13.956-3.389-35.751-8.742-46.058-11.169-1.283-.3-1.965-.461-2.266-.521-1.183-.261-2.887-.642-5.514-1.243l-.742-.16-.682-.18c-2.406-.6-3.97-1-5.073-1.283-.281-.06-.922-.221-2.145-.521-9.745-2.346-30.678-7.058-43.311-9.885l-21.455.942-15.74-3.83-35.07-8.321L27.729,46.1Z" transform="translate(-27.729 -33.644)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.382"/>
+              </g>
+              <g id="Grupo_256" data-name="Grupo 256" transform="translate(61.32 9.279)">
+                <path id="Caminho_1609" data-name="Caminho 1609" d="M254.331,98.78,336.04,87.291l-69.076-14.9L277.43,68.4c-12.632-3.108-30.879-7.66-40.2-9.865-1.223-.281-1.825-.421-2.045-.481-1.163-.261-2.867-.642-5.514-1.243l-.942-.221-.882-.221c-2.406-.6-3.95-1-5.053-1.283-.18-.04-.762-.2-1.925-.481-8.8-2.125-26.548-6.156-38.2-8.782l-22.1.922L140.28,41.775,112.008,35,36.114,44.341Z" transform="translate(-36.114 -34.997)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.287"/>
+              </g>
+              <g id="Grupo_257" data-name="Grupo 257" transform="translate(76.258 11.665)">
+                <path id="Caminho_1610" data-name="Caminho 1610" d="M248.484,94.213l60.9-8.522L244.334,71.355l10.828-4.03c-9.224-2.286-26.688-6.7-35.872-8.883-1.183-.281-1.724-.4-1.865-.441-1.183-.261-2.887-.662-5.514-1.263l-1.1-.261-1.023-.261c-2.406-.622-3.95-1-5.053-1.3-.12-.04-.622-.16-1.765-.441-8.7-2.125-25.766-6.015-34.348-7.96l-22.578.922-23.721-5.855L99.223,36l-56.8,7Z" transform="translate(-42.418 -36.004)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.191"/>
+              </g>
+              <g id="Grupo_258" data-name="Grupo 258" transform="translate(86.243 13.309)">
+                <path id="Caminho_1611" data-name="Caminho 1611" d="M244.537,91.157l47.1-6.557L229.2,70.645l11.068-4.05c-9.845-2.466-24.763-6.236-33.024-8.221-1.143-.281-1.644-.4-1.744-.421-1.2-.281-2.907-.662-5.514-1.263l-1.2-.281-1.123-.281c-2.386-.622-3.95-1.023-5.053-1.3-.08-.02-.541-.14-1.664-.421-7.84-1.925-22.5-5.294-31.761-7.4l-22.9.9L110.275,41.47,90.644,36.7,46.632,42.172Z" transform="translate(-46.632 -36.698)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.143"/>
+              </g>
+              <g id="Grupo_259" data-name="Grupo 259" transform="translate(91.236 14.151)">
+                <path id="Caminho_1612" data-name="Caminho 1612" d="M242.554,89.608l40.2-5.594L221.62,70.258l11.209-4.05c-10.567-2.667-23.921-6.055-31.621-7.9-1.143-.281-1.624-.381-1.684-.4-1.223-.281-2.927-.662-5.514-1.263l-1.263-.281-1.163-.3c-2.386-.622-3.93-1.023-5.053-1.3-.04-.02-.481-.12-1.6-.4-7.3-1.785-20.472-4.832-30.478-7.118l-23.039.9L104.281,41.4,86.4,37.054,48.739,41.705Z" transform="translate(-48.739 -37.054)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.096"/>
+              </g>
+              <g id="Grupo_260" data-name="Grupo 260" transform="translate(93.703 14.572)">
+                <path id="Caminho_1613" data-name="Caminho 1613" d="M241.569,88.843l36.774-5.113L217.849,70.075l11.269-4.05c-10.166-2.567-23.32-5.915-30.919-7.74-1.123-.281-1.6-.381-1.644-.4-1.2-.281-2.907-.662-5.514-1.263l-1.283-.3-1.183-.3c-2.386-.622-3.93-1.023-5.053-1.3-.02,0-.441-.12-1.564-.4-7.2-1.765-20.171-4.772-29.836-6.978l-23.139.922-27.711-6.9L84.248,37.231,49.78,41.482Z" transform="translate(-49.78 -37.231)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.048"/>
+              </g>
+            </g>
+          </g>
+          <g id="Grupo_269" data-name="Grupo 269" transform="translate(8.868 31.012)">
+            <path id="Caminho_1614" data-name="Caminho 1614" d="M63.488,56.245" transform="translate(65.943 3.548)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1615" data-name="Caminho 1615" d="M57.768,54.7" transform="translate(58.108 1.439)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1616" data-name="Caminho 1616" d="M54.417,53.8" transform="translate(53.519 0.199)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1617" data-name="Caminho 1617" d="M53.249,53.486" transform="translate(51.919 -0.23)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <line id="Linha_603" data-name="Linha 603" x2="0.02" y2="0.18" transform="translate(444.214 67.552)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1618" data-name="Caminho 1618" d="M196.339,67.364l.341-6.537a21.39,21.39,0,0,0-.581-2.145" transform="translate(247.574 6.886)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1619" data-name="Caminho 1619" d="M140.293,77.2l.16-7.058-.261-2.406" transform="translate(171.002 19.287)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1620" data-name="Caminho 1620" d="M132.184,72.026a.348.348,0,0,0,.06.281" transform="translate(160.022 25.163)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1621" data-name="Caminho 1621" d="M121.2,76.626l.1-7.018s.02-1.5.1-2.346" transform="translate(144.995 18.638)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1622" data-name="Caminho 1622" d="M117.092,76.067l.1-7a14.969,14.969,0,0,1,.261-2.526" transform="translate(139.362 17.653)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1623" data-name="Caminho 1623" d="M121.208,71.213a.36.36,0,0,0,.08.281" transform="translate(144.992 24.05)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1624" data-name="Caminho 1624" d="M117.092,70.562a.311.311,0,0,0,.18.3" transform="translate(139.362 23.158)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <line id="Linha_604" data-name="Linha 604" x1="0.04" y1="0.02" transform="translate(112.648 55.261)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1625" data-name="Caminho 1625" d="M196.116,62.615a.259.259,0,0,0,.18-.261" transform="translate(247.597 11.916)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <line id="Linha_605" data-name="Linha 605" x1="132.598" y2="22.237" transform="translate(311.114 74.53)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1626" data-name="Caminho 1626" d="M196.116,67.76a8.558,8.558,0,0,0,5.594-2.406.153.153,0,0,0,.04-.1l.02-.16v-.02l.341-6.477" transform="translate(247.597 6.77)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1627" data-name="Caminho 1627" d="M56.355,54.231a.259.259,0,0,0,.18.261" transform="translate(56.173 0.79)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <line id="Linha_606" data-name="Linha 606" x2="3.449" y2="0.361" transform="translate(262.831 95.183)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1628" data-name="Caminho 1628" d="M121.239,71.332c5.795.461,11.59.922,17.384,1.343" transform="translate(145.041 24.212)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <line id="Linha_607" data-name="Linha 607" x2="8.582" y2="0.581" transform="translate(283.664 96.887)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1629" data-name="Caminho 1629" d="M132.2,72.55a87.141,87.141,0,0,0,18.848-.7" transform="translate(160.05 24.919)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <line id="Linha_608" data-name="Linha 608" x2="0.1" y2="6.116" transform="translate(112.427 48.905)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <g id="Grupo_263" data-name="Grupo 263" transform="translate(0.02 18.768)">
+              <path id="Caminho_1630" data-name="Caminho 1630" d="M265.411,106.906,10.962,40.135c-.02,0-.04-.02-.06-.02a3.018,3.018,0,0,1-2.025-1.183" transform="translate(-8.876 -38.932)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            </g>
+            <path id="Caminho_1631" data-name="Caminho 1631" d="M117.168,70.689a59.5,59.5,0,0,0,6.216,1.163" transform="translate(139.467 23.331)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1632" data-name="Caminho 1632" d="M117.135,67.617a64.192,64.192,0,0,0,9.765,1.5" transform="translate(139.42 19.124)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1633" data-name="Caminho 1633" d="M147.282,70.136q-13.023-.842-26.026-1.885" transform="translate(145.064 19.994)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1634" data-name="Caminho 1634" d="M132.239,69.441a93.708,93.708,0,0,0,19.109-.682" transform="translate(160.108 20.689)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <g id="Grupo_264" data-name="Grupo 264" transform="translate(292.206 80.004)">
+              <path id="Caminho_1635" data-name="Caminho 1635" d="M132.179,77.449l.14-7.058.02-2.326" transform="translate(-132.179 -60.266)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1636" data-name="Caminho 1636" d="M237.952,64.774,210.081,78.91a12.713,12.713,0,0,1-3.509,1.183l-31.48,5.474-.16.02a12.234,12.234,0,0,1-3.629.04l-.18-.04L141.766,80.9" transform="translate(-119.048 -64.774)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            </g>
+            <path id="Caminho_1637" data-name="Caminho 1637" d="M139.727,84.949,272.506,63.435a12.209,12.209,0,0,0,4.512-1.6h0a.748.748,0,0,0,.241-.922c-.06-.12-1.343-1.4-1.343-1.4-1.083-1.083-3.81-3.248-5.013-4.191" transform="translate(170.364 2.273)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1638" data-name="Caminho 1638" d="M165.958,47.664" transform="translate(206.292 -8.204)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1639" data-name="Caminho 1639" d="M166.711,48.138" transform="translate(207.323 -7.555)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <line id="Linha_609" data-name="Linha 609" transform="translate(227.741 10.988)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <line id="Linha_610" data-name="Linha 610" y1="0.02" transform="translate(218.498 10.908)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <line id="Linha_611" data-name="Linha 611" x1="2.526" y1="0.561" transform="translate(258.319 84.636)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1640" data-name="Caminho 1640" d="M117.879,66.729c1.825.421,3.649.762,5.494,1" transform="translate(140.44 17.907)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <line id="Linha_612" data-name="Linha 612" x2="3.288" y2="0.341" transform="translate(263.813 85.659)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1641" data-name="Caminho 1641" d="M125.2,67.768c-2.105-.18-4.191-.441-6.256-.8" transform="translate(141.9 18.232)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <line id="Linha_613" data-name="Linha 613" x1="8.482" y1="0.662" transform="translate(267.102 86)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <line id="Linha_614" data-name="Linha 614" x2="8.622" y2="0.622" transform="translate(275.583 86.661)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <line id="Linha_615" data-name="Linha 615" x1="8.702" y1="0.561" transform="translate(284.205 87.283)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1642" data-name="Caminho 1642" d="M132.476,68.442a86.393,86.393,0,0,0,17.184-.622" transform="translate(160.432 19.403)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1643" data-name="Caminho 1643" d="M263.7,68.7l.16-3.268a2.019,2.019,0,0,0-.06-.5h0a1.51,1.51,0,0,0-.521-.7l-.18-.12a5.72,5.72,0,0,0-1.343-.7,24.939,24.939,0,0,0-3.188-.862l-128.688-25.3a63.184,63.184,0,0,0-8.9-.9c-.461-.02-3.429-.08-3.429-.08l-9.224-.06s-8.4-.281-12.532-1" transform="translate(110.191 -25.287)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1644" data-name="Caminho 1644" d="M193.23,55.652" transform="translate(243.645 2.737)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1645" data-name="Caminho 1645" d="M194.144,55.864" transform="translate(244.897 3.027)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1646" data-name="Caminho 1646" d="M140.3,96.589,273.082,74.874c2.166-.241,4.171-.722,5.494-2.346.18-.221.06-1.163.06-1.163a.49.49,0,0,1-.02-.14,2.195,2.195,0,0,0-.361-.862c-.04-.06-1.865-1.785-1.865-1.785-1.183-1-2.386-1.945-3.649-2.847a2.558,2.558,0,0,0-.5-.3h0a15.487,15.487,0,0,0-2.065-.862l-.14-.04a9.134,9.134,0,0,0-1.323-.341c-6.757-1.384-62.76-12.773-64.144-13.053a11.9,11.9,0,0,1-2.747-1.023.192.192,0,0,1-.06-.3l1.123-1.384" transform="translate(171.152 -7.161)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1647" data-name="Caminho 1647" d="M95.329,35.243" transform="translate(109.554 -25.217)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1648" data-name="Caminho 1648" d="M78.084,31.765" transform="translate(85.935 -29.98)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1649" data-name="Caminho 1649" d="M75.622,31.486" transform="translate(82.562 -30.363)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1650" data-name="Caminho 1650" d="M75.833,31.418" transform="translate(82.852 -30.456)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1651" data-name="Caminho 1651" d="M70.756,31.223" transform="translate(75.898 -30.722)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <line id="Linha_616" data-name="Linha 616" x2="0.06" transform="translate(205.906 9.905)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1652" data-name="Caminho 1652" d="M166.459,31.974c-5.835-.341-11.65-.642-17.485-.9,0,0-.882-.04-.942-.04-1.7,0-5.9-.02-5.9-.02l-3.349.14-3.108.241S21.71,42.842,18.361,43.183a19.889,19.889,0,0,0-5.735,1.424,7.979,7.979,0,0,0-1.744,1.524c-.261.281-.581.642-.862.942a1.278,1.278,0,0,0,0,1.765.376.376,0,0,0,.14.12l.06.04a7.345,7.345,0,0,0,1.1.421l254.77,66.269" transform="translate(-7.774 -31.012)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <line id="Linha_617" data-name="Linha 617" transform="translate(158.685 0.962)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1653" data-name="Caminho 1653" d="M17.229,36.284l-2.406.341-1.223.281c-.12.02-.4.12-.7.221a7.219,7.219,0,0,0-1.965.983c-.08.06-.14.1-.16.12h0l-.662.782a2.379,2.379,0,0,0-.321.461,8.7,8.7,0,0,0-.762,1.5,2.539,2.539,0,0,0-.12.561,1.548,1.548,0,0,0-.04.3c0,.08.02.7.02.7l.2,5.334.02.08a1.718,1.718,0,0,0,1.023,1.023l1.143.381.221.06,253.988,68.375" transform="translate(-8.868 -23.792)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1654" data-name="Caminho 1654" d="M56.312,51.65" transform="translate(56.115 -2.745)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <path id="Caminho_1655" data-name="Caminho 1655" d="M56.312,52.878s.16-1.6.3-2.125" transform="translate(56.115 -3.974)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            <ellipse id="Elipse_123" data-name="Elipse 123" cx="10.306" cy="2.125" rx="10.306" ry="2.125" transform="translate(172.3 7.96)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.155"/>
+            <path id="Caminho_1656" data-name="Caminho 1656" d="M81.587,35.975c0,.7,4.592,1.544,10.286,1.544S102,36.676,102,35.975s-4.431-1-10.126-1S81.587,35.273,81.587,35.975Z" transform="translate(90.733 -25.588)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.12"/>
+            <ellipse id="Elipse_124" data-name="Elipse 124" cx="10.306" cy="2.125" rx="10.306" ry="2.125" transform="translate(361.362 46.86)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.155"/>
+            <path id="Caminho_1657" data-name="Caminho 1657" d="M161.372,52.391c0,.7,4.592,1.544,10.286,1.544s10.126-.842,10.126-1.544-4.431-1-10.126-1C165.964,51.368,161.372,51.689,161.372,52.391Z" transform="translate(200.01 -3.105)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.12"/>
+            <g id="Grupo_266" data-name="Grupo 266" transform="translate(242.619 95.444)">
+              <line id="Linha_618" data-name="Linha 618" y1="0.1" x2="0.08" transform="translate(169.192 228.864)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_619" data-name="Linha 619" y1="0.301" x2="0.261" transform="translate(169.172 228.664)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_620" data-name="Linha 620" y1="0.12" x2="0.1" transform="translate(168.911 229.005)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_621" data-name="Linha 621" y1="0.12" x2="0.1" transform="translate(168.971 228.984)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_622" data-name="Linha 622" y1="0.02" x2="0.04" transform="translate(169.092 228.684)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_623" data-name="Linha 623" y1="0.06" x2="0.12" transform="translate(168.31 229.586)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_624" data-name="Linha 624" x1="0.16" y2="0.1" transform="translate(168.43 229.486)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_625" data-name="Linha 625" y1="0.14" x2="0.201" transform="translate(168.971 228.964)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_626" data-name="Linha 626" y1="0.1" x2="0.16" transform="translate(168.43 229.486)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1658" data-name="Caminho 1658" d="M182.332,168.361c.12-.1.241-.2.361-.321" transform="translate(-13.902 61.225)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_627" data-name="Linha 627" y1="0.16" x2="0.18" transform="translate(168.791 229.105)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_628" data-name="Linha 628" x2="0.02" transform="translate(169.172 228.964)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_629" data-name="Linha 629" y1="0.381" x2="0.441" transform="translate(168.751 228.964)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_630" data-name="Linha 630" y1="0.12" x2="0.16" transform="translate(168.59 229.345)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_631" data-name="Linha 631" y2="0.02" transform="translate(168.59 229.466)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1659" data-name="Caminho 1659" d="M182.628,168.142a.9.9,0,0,0,.441-.6" transform="translate(-13.496 60.542)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1660" data-name="Caminho 1660" d="M182.687,168.16a.4.4,0,0,0,.06-.5" transform="translate(-13.415 60.704)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_632" data-name="Linha 632" y1="0.14" x2="0.06" transform="translate(169.011 228.864)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_633" data-name="Linha 633" y1="0.14" x2="0.04" transform="translate(169.072 228.844)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_634" data-name="Linha 634" y1="0.461" x2="0.16" transform="translate(169.433 228.202)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_635" data-name="Linha 635" y1="0.16" x2="0.02" transform="translate(169.112 228.684)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1661" data-name="Caminho 1661" d="M182.595,167.972c-.02,0-.04.02-.06.02" transform="translate(-13.624 61.133)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_636" data-name="Linha 636" x2="0.02" transform="translate(168.29 229.646)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_637" data-name="Linha 637" y1="0.02" x2="0.08" transform="translate(97.128 244.825)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_638" data-name="Linha 638" x1="0.1" y2="0.04" transform="translate(97.008 244.785)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_639" data-name="Linha 639" y1="0.02" x2="0.08" transform="translate(157.261 216.332)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_640" data-name="Linha 640" y1="0.06" x2="0.12" transform="translate(168.31 229.586)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_641" data-name="Linha 641" x1="0.1" y2="0.06" transform="translate(98.231 245.948)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1662" data-name="Caminho 1662" d="M159.874,175.342" transform="translate(-44.66 71.227)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_642" data-name="Linha 642" y1="0.16" x2="0.02" transform="translate(169.072 228.704)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_643" data-name="Linha 643" y1="0.12" transform="translate(169.573 227.962)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_644" data-name="Linha 644" x1="0.02" y1="0.261" transform="translate(169.573 227.942)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1663" data-name="Caminho 1663" d="M154.95,176.495l8.562-.582,3.248-.08" transform="translate(-51.405 71.899)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1664" data-name="Caminho 1664" d="M154.815,176.053a.618.618,0,0,1-.381,0" transform="translate(-52.112 72.201)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1665" data-name="Caminho 1665" d="M152.674,175.1c.06,0,.12-.02.18-.02" transform="translate(-54.523 70.868)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_645" data-name="Linha 645" y1="0.02" x2="0.12" transform="translate(98.11 246.008)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1666" data-name="Caminho 1666" d="M153.315,174.992a.786.786,0,0,1-.8-.14" transform="translate(-54.743 70.555)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1667" data-name="Caminho 1667" d="M152.724,175.088a.441.441,0,0,1-.16.02" transform="translate(-54.674 70.879)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1668" data-name="Caminho 1668" d="M159.578,164.38a2.425,2.425,0,0,1,1.063-.241" transform="translate(-45.066 55.883)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_646" data-name="Linha 646" y1="0.02" x2="0.06" transform="translate(159.567 216.693)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_647" data-name="Linha 647" x1="0.06" y2="0.02" transform="translate(159.688 216.713)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_648" data-name="Linha 648" x1="23.861" y2="10.447" transform="translate(90.13 219.701)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_649" data-name="Linha 649" y1="10.467" x2="23.801" transform="translate(90.712 220.262)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1669" data-name="Caminho 1669" d="M150.05,173.333l15.64-6.918" transform="translate(-58.116 59)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1670" data-name="Caminho 1670" d="M159.358,164.062a1.394,1.394,0,0,1,.261-.1" transform="translate(-45.367 55.639)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_650" data-name="Linha 650" x1="0.08" y2="0.04" transform="translate(84.756 229.686)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_651" data-name="Linha 651" transform="translate(80.084 225.816)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_652" data-name="Linha 652" y1="6.055" x2="10.407" transform="translate(80.084 219.781)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_653" data-name="Linha 653" x1="19.951" y2="11.61" transform="translate(80.084 214.207)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_654" data-name="Linha 654" y1="5.554" x2="9.544" transform="translate(90.491 214.227)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_655" data-name="Linha 655" y1="11.389" x2="19.55" transform="translate(80.485 214.427)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1671" data-name="Caminho 1671" d="M145.22,167.338a.39.39,0,0,0-.04.481" transform="translate(-64.875 60.263)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1672" data-name="Caminho 1672" d="M153.782,163.251" transform="translate(-53.005 54.666)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_656" data-name="Linha 656" y1="0.201" x2="0.261" transform="translate(80.225 225.816)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_657" data-name="Linha 657" y1="0.201" x2="0.241" transform="translate(84.596 227.842)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_658" data-name="Linha 658" x1="0.241" y2="0.18" transform="translate(84.476 227.801)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1673" data-name="Caminho 1673" d="M144.99,167.11a.075.075,0,0,1,.12,0" transform="translate(-65.046 59.91)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_659" data-name="Linha 659" x1="0.08" y2="0.06" transform="translate(80.004 225.816)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_660" data-name="Linha 660" x1="0.221" y2="0.201" transform="translate(79.864 225.816)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1674" data-name="Caminho 1674" d="M149.2,169.46a9.8,9.8,0,0,0,.782-.8" transform="translate(-59.275 62.071)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1675" data-name="Caminho 1675" d="M153.554,164.5" transform="translate(-53.318 56.381)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1676" data-name="Caminho 1676" d="M154.442,163.674" transform="translate(-52.101 55.245)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1677" data-name="Caminho 1677" d="M150.35,169a7.38,7.38,0,0,1-.782.8" transform="translate(-58.776 62.535)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_661" data-name="Linha 661" x1="0.221" y2="0.241" transform="translate(79.784 225.897)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1678" data-name="Caminho 1678" d="M163.767,163.056l-2.426,2.867a.8.8,0,0,1-.2.241l-.12.08L147,173.4" transform="translate(-62.288 54.399)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_662" data-name="Linha 662" y1="0.301" x2="0.18" transform="translate(84.415 228.042)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_663" data-name="Linha 663" x1="0.18" y2="0.301" transform="translate(84.295 227.982)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1679" data-name="Caminho 1679" d="M152.75,175.289c.06-.12.14-.241.2-.361" transform="translate(-54.419 70.659)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_664" data-name="Linha 664" x1="0.06" y2="0.12" transform="translate(97.709 245.426)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_665" data-name="Linha 665" x1="0.06" y2="0.1" transform="translate(97.569 245.667)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_666" data-name="Linha 666" x1="0.08" y2="0.12" transform="translate(97.629 245.547)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1680" data-name="Caminho 1680" d="M197.227,172.414a2.457,2.457,0,0,0,.281-1.043l-.14-.04-22.658-6.737-.942-.04c-7.82,3.449-16.041,7.1-23.861,10.547" transform="translate(-58.313 56.45)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1681" data-name="Caminho 1681" d="M165.772,165.011" transform="translate(-36.582 57.076)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_667" data-name="Linha 667" x2="1.183" y2="6.537" transform="translate(167.909 222.167)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_668" data-name="Linha 668" y1="0.02" transform="translate(169.573 227.942)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_669" data-name="Linha 669" x2="0.201" transform="translate(97.95 245.968)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_670" data-name="Linha 670" x2="0.18" y2="0.02" transform="translate(97.93 246.008)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_671" data-name="Linha 671" x2="0.662" transform="translate(103.063 247.692)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_672" data-name="Linha 672" y1="0.02" x2="0.501" transform="translate(103.043 248.394)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1682" data-name="Caminho 1682" d="M152.823,175.129a.233.233,0,0,1-.2-.04" transform="translate(-54.593 70.879)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_673" data-name="Linha 673" x2="0.261" transform="translate(103.163 248.334)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1683" data-name="Caminho 1683" d="M153.395,175.391a.622.622,0,0,1-.5-.04" transform="translate(-54.222 71.239)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_674" data-name="Linha 674" x1="0.321" y2="0.04" transform="translate(100.517 247.592)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1684" data-name="Caminho 1684" d="M177.305,162.6a3.861,3.861,0,0,1,.481-.02" transform="translate(-20.786 53.75)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1685" data-name="Caminho 1685" d="M159.291,163.993a2.994,2.994,0,0,1,.421-.04" transform="translate(-45.46 55.628)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_675" data-name="Linha 675" y1="1.343" x2="10.788" transform="translate(148.78 216.713)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_676" data-name="Linha 676" y1="1.424" x2="11.209" transform="translate(152.128 217.896)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_677" data-name="Linha 677" y1="1.464" x2="10.988" transform="translate(148.579 216.713)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_678" data-name="Linha 678" y1="1.524" x2="11.389" transform="translate(140.739 219.32)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_679" data-name="Linha 679" y1="1.544" x2="11.209" transform="translate(137.371 218.177)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_680" data-name="Linha 680" x1="2.627" y2="0.381" transform="translate(137.792 219.179)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_681" data-name="Linha 681" y1="1.143" x2="8.462" transform="translate(140.318 218.057)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1686" data-name="Caminho 1686" d="M170.7,164.511" transform="translate(-29.837 56.392)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_682" data-name="Linha 682" x1="10.046" y2="1.424" transform="translate(127.746 219.56)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1687" data-name="Caminho 1687" d="M165.163,165.577q6.286-.9,12.572-1.785" transform="translate(-37.417 55.407)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1688" data-name="Caminho 1688" d="M177.813,165.688" transform="translate(-20.091 58.003)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1689" data-name="Caminho 1689" d="M173.168,166.373" transform="translate(-26.453 58.942)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_683" data-name="Linha 683" x1="0.1" transform="translate(156.239 216.312)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1690" data-name="Caminho 1690" d="M203.48,164l-10.366,1.524-11.008,1.624-11.65,1.764-1.544-.441-2.466-1.3-.682-.361,11.57-1.644" transform="translate(-36.594 55.686)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1691" data-name="Caminho 1691" d="M186.577,162.591c-5.354.9-10.707,1.825-16.041,2.807" transform="translate(-30.057 53.762)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_684" data-name="Linha 684" transform="translate(156.239 216.312)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_685" data-name="Linha 685" x1="8.722" y2="1.544" transform="translate(147.517 216.312)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_686" data-name="Linha 686" x1="7.038" y2="1.303" transform="translate(140.479 217.856)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_687" data-name="Linha 687" x1="0.341" y2="0.06" transform="translate(140.138 219.159)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_688" data-name="Linha 688" x1="0.08" y2="0.12" transform="translate(79.784 226.017)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_689" data-name="Linha 689" y1="0.301" x2="0.18" transform="translate(80.044 226.017)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_690" data-name="Linha 690" y1="0.341" x2="0.18" transform="translate(79.764 227.019)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_691" data-name="Linha 691" x1="0.04" y2="0.08" transform="translate(79.844 226.117)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_692" data-name="Linha 692" y1="0.341" x2="0.18" transform="translate(79.603 226.137)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_693" data-name="Linha 693" y1="0.02" transform="translate(79.603 226.478)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_694" data-name="Linha 694" x1="0.06" y2="0.14" transform="translate(79.543 226.498)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1692" data-name="Caminho 1692" d="M155.13,175.816a.857.857,0,0,1-.18.7" transform="translate(-51.405 71.876)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_695" data-name="Linha 695" x1="0.1" y2="3.028" transform="translate(103.725 244.664)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_696" data-name="Linha 696" y1="1.243" x2="0.04" transform="translate(100.015 245.567)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_697" data-name="Linha 697" x1="0.04" y2="1.143" transform="translate(99.895 245.587)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1693" data-name="Caminho 1693" d="M152.513,174.987a1.049,1.049,0,0,0,.922-.221" transform="translate(-54.743 70.439)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1694" data-name="Caminho 1694" d="M152.621,175.109a.181.181,0,0,1-.1-.02" transform="translate(-54.732 70.879)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_698" data-name="Linha 698" x1="0.12" y1="0.02" transform="translate(97.008 244.825)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_699" data-name="Linha 699" x2="0.642" y2="0.08" transform="translate(102.421 247.612)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1695" data-name="Caminho 1695" d="M149.653,169.587a1.064,1.064,0,0,0,.962-.261" transform="translate(-58.66 62.987)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1696" data-name="Caminho 1696" d="M159.883,163.919a1.723,1.723,0,0,1,.321.02" transform="translate(-44.649 55.581)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1697" data-name="Caminho 1697" d="M160.027,164.139a1.941,1.941,0,0,1,.341.02" transform="translate(-44.452 55.883)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1698" data-name="Caminho 1698" d="M159.857,163.919h.08" transform="translate(-44.683 55.581)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_700" data-name="Linha 700" x1="0.481" y2="0.04" transform="translate(156.339 216.272)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1699" data-name="Caminho 1699" d="M160.391,163.919c-.3.02-.622.04-.922.08" transform="translate(-45.217 55.581)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_701" data-name="Linha 701" x1="0.08" y2="0.261" transform="translate(79.703 226.157)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_702" data-name="Linha 702" x1="0.08" y2="0.381" transform="translate(84.215 228.283)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_703" data-name="Linha 703" y1="0.361" x2="0.08" transform="translate(84.335 228.343)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1700" data-name="Caminho 1700" d="M149.086,169.283a1.181,1.181,0,0,1,.481-.862" transform="translate(-59.437 61.747)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_704" data-name="Linha 704" y1="0.341" x2="0.08" transform="translate(79.964 226.318)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_705" data-name="Linha 705" y1="0.04" transform="translate(79.764 227.36)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1701" data-name="Caminho 1701" d="M152.972,174.767a.6.6,0,0,1-.12.361" transform="translate(-54.28 70.439)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_706" data-name="Linha 706" x1="0.02" y2="0.381" transform="translate(79.523 226.639)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_707" data-name="Linha 707" y1="0.12" transform="translate(89.649 231.03)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1702" data-name="Caminho 1702" d="M159.857,164.74a1.8,1.8,0,0,1,.14.541" transform="translate(-44.683 56.705)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1703" data-name="Caminho 1703" d="M160.3,164.545a1.575,1.575,0,0,1,0,.862" transform="translate(-44.081 56.439)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_708" data-name="Linha 708" x1="0.06" y1="0.16" transform="translate(169.513 227.781)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_709" data-name="Linha 709" x2="0.541" y2="0.16" transform="translate(101.88 247.452)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_710" data-name="Linha 710" x1="0.08" y1="0.02" transform="translate(100.436 247.612)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_711" data-name="Linha 711" x2="0.14" y2="0.04" transform="translate(97.79 245.968)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1704" data-name="Caminho 1704" d="M154.594,176.053a2.013,2.013,0,0,0,.481.08" transform="translate(-51.892 72.201)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1705" data-name="Caminho 1705" d="M145.451,166.611a.467.467,0,0,0-.4,0" transform="translate(-64.965 59.206)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1706" data-name="Caminho 1706" d="M160.018,163.928l.241.06" transform="translate(-44.463 55.593)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1707" data-name="Caminho 1707" d="M160.162,164.148a.9.9,0,0,1,.221.06" transform="translate(-44.266 55.894)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1708" data-name="Caminho 1708" d="M145.4,167.355a.256.256,0,0,0-.241,0" transform="translate(-64.814 60.246)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_712" data-name="Linha 712" x2="0.762" y2="0.12" transform="translate(158.043 216.473)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_713" data-name="Linha 713" x2="0.782" y2="0.12" transform="translate(157.261 216.352)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_714" data-name="Linha 714" x2="0.261" y2="0.02" transform="translate(157.001 216.332)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_715" data-name="Linha 715" x2="0.281" y2="0.04" transform="translate(156.239 216.312)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_716" data-name="Linha 716" x1="0.521" y1="0.06" transform="translate(156.82 216.272)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1709" data-name="Caminho 1709" d="M160.622,164.909l-.02.08-.541,25" transform="translate(-44.405 56.937)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_717" data-name="Linha 717" x1="0.221" y1="0.02" transform="translate(159.988 216.793)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_718" data-name="Linha 718" x1="0.06" y1="0.381" transform="translate(100.015 246.81)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_719" data-name="Linha 719" x1="0.06" y1="0.401" transform="translate(99.895 246.73)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_720" data-name="Linha 720" x1="0.02" y1="0.14" transform="translate(84.335 228.704)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1710" data-name="Caminho 1710" d="M146.793,167.786a1.007,1.007,0,0,0,.04.241" transform="translate(-62.578 60.878)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_721" data-name="Linha 721" x1="0.321" y1="0.942" transform="translate(115.896 220.042)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1711" data-name="Caminho 1711" d="M179.129,162.855c-.16-.04-.3-.08-.461-.12" transform="translate(-18.92 53.959)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1712" data-name="Caminho 1712" d="M168.944,163.134H168.5c-.04,0-.281.02-.321.02l-.1.02-.1.02-.1.02-8.622,1.5-.742.1-.662.02-.581-.06-.3-.08a.7.7,0,0,1-.281-.12l-1.6-.762-.12-.04-2.125-.922" transform="translate(-54.291 54.121)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1713" data-name="Caminho 1713" d="M178.642,162.751c.08.02.14.02.221.04" transform="translate(-18.955 53.982)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_722" data-name="Linha 722" x1="0.12" y1="0.02" transform="translate(159.567 216.713)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_723" data-name="Linha 723" x1="0.12" y1="0.02" transform="translate(159.627 216.693)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_724" data-name="Linha 724" transform="translate(159.627 216.693)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_725" data-name="Linha 725" x1="0.541" y1="0.1" transform="translate(159.086 216.593)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_726" data-name="Linha 726" x1="1.404" y1="0.221" transform="translate(157.682 216.372)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_727" data-name="Linha 727" x2="0.762" y2="0.12" transform="translate(158.805 216.593)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_728" data-name="Linha 728" x1="0.341" y1="0.04" transform="translate(157.342 216.332)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1714" data-name="Caminho 1714" d="M144.889,166.838a.771.771,0,0,0,.241.582" transform="translate(-65.185 59.58)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1715" data-name="Caminho 1715" d="M144.872,167.454a.657.657,0,0,1,.02-.581" transform="translate(-65.288 59.626)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_729" data-name="Linha 729" x1="0.02" y1="0.1" transform="translate(84.355 228.844)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1716" data-name="Caminho 1716" d="M152.242,174.53c.06.08.06.14,0,.2" transform="translate(-55.114 70.115)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1717" data-name="Caminho 1717" d="M150.259,169.8a2.9,2.9,0,0,0-.361-.8" transform="translate(-58.324 62.535)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1718" data-name="Caminho 1718" d="M149.137,169.056a.715.715,0,0,1-.06-.221" transform="translate(-59.449 62.315)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_730" data-name="Linha 730" x2="0.04" y2="0.08" transform="translate(98.11 246.008)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1719" data-name="Caminho 1719" d="M156.262,164.113l-.12-.481a2.114,2.114,0,0,1,.12.481l-1.143,1.063a3.231,3.231,0,0,0,.241.962" transform="translate(-51.174 55.187)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_731" data-name="Linha 731" x1="0.14" y1="0.261" transform="translate(115.034 221.185)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1720" data-name="Caminho 1720" d="M188.166,173.742l-1.083-5.935a3.821,3.821,0,0,0-.2-.682h0a3.05,3.05,0,0,0-.341-.6h0a4.014,4.014,0,0,0-.381-.441l-.2-.18a2.853,2.853,0,0,0-.762-.521l-3.168-1.564-3.168-1.023" transform="translate(-18.653 54.04)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_732" data-name="Linha 732" x2="0.12" y2="0.341" transform="translate(79.523 227.019)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_733" data-name="Linha 733" x2="0.04" y2="0.12" transform="translate(84.255 228.884)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_734" data-name="Linha 734" x1="0.04" y1="0.12" transform="translate(84.375 228.944)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1721" data-name="Caminho 1721" d="M144.954,167.373a.285.285,0,0,1-.04-.12" transform="translate(-65.151 60.147)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_735" data-name="Linha 735" x2="0.521" y2="0.922" transform="translate(114.512 220.262)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1722" data-name="Caminho 1722" d="M159.88,164.565a1.289,1.289,0,0,0-.521-.561" transform="translate(-45.367 55.697)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1723" data-name="Caminho 1723" d="M145.087,167.3a.687.687,0,0,1-.08-.361" transform="translate(-65.023 59.719)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_736" data-name="Linha 736" x1="4.451" y1="8.482" transform="translate(94.241 236.724)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_737" data-name="Linha 737" x1="2.306" y1="4.391" transform="translate(91.935 232.333)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_738" data-name="Linha 738" x2="0.341" y2="0.662" transform="translate(84.415 229.065)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_739" data-name="Linha 739" x1="0.341" y1="0.662" transform="translate(84.295 229.005)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_740" data-name="Linha 740" x1="0.321" y1="0.622" transform="translate(79.804 227.521)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_741" data-name="Linha 741" x2="0.381" y2="0.722" transform="translate(79.643 227.36)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_742" data-name="Linha 742" x2="6.076" y2="11.509" transform="translate(91.052 233.135)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_743" data-name="Linha 743" x1="2.286" y1="4.331" transform="translate(90.992 232.574)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1724" data-name="Caminho 1724" d="M155.109,179.774c-1.5-2.827-3.008-5.674-4.491-8.5" transform="translate(-57.339 65.653)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_744" data-name="Linha 744" x1="0.16" y1="0.281" transform="translate(100.075 247.191)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_745" data-name="Linha 745" x1="0.16" y1="0.281" transform="translate(99.955 247.131)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1725" data-name="Caminho 1725" d="M149.757,169.575l-.18-.241" transform="translate(-58.765 62.999)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_746" data-name="Linha 746" x1="0.18" y1="0.281" transform="translate(79.583 227.08)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_747" data-name="Linha 747" x2="0.341" y2="0.501" transform="translate(90.712 232.634)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1726" data-name="Caminho 1726" d="M152.75,184.525q5.444-1.293,10.888-2.647l.421-.02a2.716,2.716,0,0,1,2.125.782l.02.02.06.08c.7.842,1.363,1.6,2.065,2.446l.341.361.441.581.922.261,52.815-18.206" transform="translate(-54.419 61.422)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1727" data-name="Caminho 1727" d="M149.882,168.982a2.014,2.014,0,0,0-.6-.561" transform="translate(-59.17 61.747)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1728" data-name="Caminho 1728" d="M160.12,163.953a1.032,1.032,0,0,1,.321.5" transform="translate(-44.324 55.628)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1729" data-name="Caminho 1729" d="M198.65,165.807l-.02-.281a2.115,2.115,0,0,0-.12-.481h0a1.159,1.159,0,0,0-.361-.461h0a.4.4,0,0,0-.361-.08c-9.264,2.266-18.507,4.632-27.751,6.978" transform="translate(-30.741 56.36)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_748" data-name="Linha 748" x2="0.461" y2="0.461" transform="translate(90.25 232.173)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1730" data-name="Caminho 1730" d="M160.019,174.031l3.629,3.509-8.622.722" transform="translate(-51.301 69.431)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_749" data-name="Linha 749" x1="0.02" y1="0.02" transform="translate(159.748 216.713)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_750" data-name="Linha 750" x1="0.16" y1="0.16" transform="translate(79.643 227.36)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_751" data-name="Linha 751" x1="0.862" y1="0.802" transform="translate(90.712 230.729)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_752" data-name="Linha 752" x2="0.862" y2="0.802" transform="translate(89.93 231.531)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_753" data-name="Linha 753" x2="0.521" y2="0.501" transform="translate(98.151 246.088)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1731" data-name="Caminho 1731" d="M149.343,169.089a1.674,1.674,0,0,0-.241-.16" transform="translate(-59.414 62.442)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <g id="Grupo_265" data-name="Grupo 265" transform="translate(98.692 242.349)">
+                <path id="Caminho_1732" data-name="Caminho 1732" d="M152.9,176.418l3.589-.882,7.038-1.765a9.037,9.037,0,0,1,1.063-.18l.18-.02a3.053,3.053,0,0,1,1.464.241,3.391,3.391,0,0,1,1.083.782c.642.782,2.346,3.449,2.988,4.211" transform="translate(-152.902 -173.561)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              </g>
+              <line id="Linha_754" data-name="Linha 754" x2="0.481" y2="0.381" transform="translate(89.769 231.792)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1733" data-name="Caminho 1733" d="M153.067,175.7a.714.714,0,0,1-.3-.6" transform="translate(-54.396 70.891)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_755" data-name="Linha 755" x1="0.12" y1="0.06" transform="translate(103.424 248.334)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1734" data-name="Caminho 1734" d="M152.428,175a.677.677,0,0,0,.381.18" transform="translate(-54.859 70.763)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1735" data-name="Caminho 1735" d="M174.764,164.012l-9.564,1.343-.02.12,1.464,1.3" transform="translate(-37.394 55.709)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1736" data-name="Caminho 1736" d="M160.347,73.456l-6.938,211.8,1.524.561.14.04,1.564.8.1.04a3.129,3.129,0,0,0,1.143.12" transform="translate(-53.515 -68.322)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1737" data-name="Caminho 1737" d="M154.689,176.525a.862.862,0,0,1-.441-.8" transform="translate(-52.367 71.749)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_756" data-name="Linha 756" x1="0.201" y1="0.14" transform="translate(100.236 247.472)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_757" data-name="Linha 757" x2="1.363" y2="0.782" transform="translate(98.672 246.589)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_758" data-name="Linha 758" x2="0.702" y2="0.421" transform="translate(99.173 246.63)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_759" data-name="Linha 759" x1="1.363" y1="0.802" transform="translate(98.531 245.928)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_760" data-name="Linha 760" x2="0.461" y2="0.261" transform="translate(89.308 231.531)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_761" data-name="Linha 761" x1="3.85" y1="1.985" transform="translate(80.786 227.681)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1738" data-name="Caminho 1738" d="M153.554,164.5" transform="translate(-53.318 56.381)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_762" data-name="Linha 762" x2="4.231" y2="1.985" transform="translate(80.064 227.019)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_763" data-name="Linha 763" x1="4.231" y1="1.985" transform="translate(80.485 225.816)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_764" data-name="Linha 764" x2="5.273" y2="2.306" transform="translate(84.415 229.065)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_765" data-name="Linha 765" x1="5.294" y1="2.306" transform="translate(84.837 227.842)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_766" data-name="Linha 766" x1="0.16" y1="0.08" transform="translate(113.831 219.621)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1739" data-name="Caminho 1739" d="M168.858,166.856l-9.665,1.7a10.513,10.513,0,0,1-3.629.08l-.361-.1-.281-.12-1.043-.5-.983-.381c-.762-.461-.722-1.023-.261-1.845l.2-.361.662-1.243.261-.5,1.283-1.724" transform="translate(-55.028 52.765)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_767" data-name="Linha 767" x2="3.349" y2="1.103" transform="translate(159.988 216.793)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1740" data-name="Caminho 1740" d="M155.288,289.787l8.6-1.5.12-.02.12-.02h.4l.14.02.16.02c.08.02.18.04.261.06l.04.02,13.474,4.311.12.02,8.5-221.405" transform="translate(-50.942 -71.289)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_768" data-name="Linha 768" x2="0.08" y2="0.02" transform="translate(159.908 216.773)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1741" data-name="Caminho 1741" d="M152.649,175.2a.427.427,0,0,1-.221-.2" transform="translate(-54.859 70.763)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_769" data-name="Linha 769" x1="0.201" y1="0.08" transform="translate(80.586 227.601)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_770" data-name="Linha 770" x1="0.842" y1="0.341" transform="translate(96.165 244.484)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_771" data-name="Linha 771" x2="4.552" y2="1.805" transform="translate(84.756 229.726)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_772" data-name="Linha 772" x1="2.446" y1="0.882" transform="translate(95.123 244.885)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_773" data-name="Linha 773" x2="2.807" y2="1.023" transform="translate(94.982 244.945)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_774" data-name="Linha 774" x2="1.885" y2="0.662" transform="translate(100.436 247.612)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_775" data-name="Linha 775" x2="1.524" y2="0.541" transform="translate(100.837 247.592)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_776" data-name="Linha 776" x1="1.865" y1="0.642" transform="translate(100.015 246.81)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1742" data-name="Caminho 1742" d="M216.973,165.222q-14.2,3.218-28.332,6.7l-.14.02a.836.836,0,0,1-.541-.02l-22.558-7h0a2.482,2.482,0,0,0-.942.1.2.2,0,0,1-.08.02l-7.72,3.429" transform="translate(-49.064 56.945)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1743" data-name="Caminho 1743" d="M154.434,176.062a3.062,3.062,0,0,0,.722.14" transform="translate(-52.112 72.212)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_777" data-name="Linha 777" x1="7.599" y2="214.407" transform="translate(113.911 2.587)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_778" data-name="Linha 778" x1="7.138" y2="214.167" transform="translate(104.246 4.331)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_779" data-name="Linha 779" y1="213.886" x2="7.098" transform="translate(103.484 4.491)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_780" data-name="Linha 780" x1="0.02" y2="0.02" transform="translate(8.201 277.709)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1744" data-name="Caminho 1744" d="M112.142,183.049a.431.431,0,0,1,.381.04" transform="translate(-110.037 81.747)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_781" data-name="Linha 781" y1="0.02" x2="0.04" transform="translate(0.381 273.578)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_782" data-name="Linha 782" x1="80.064" y2="36.794" transform="translate(9.605 231.731)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_783" data-name="Linha 783" x1="0.16" y2="0.08" transform="translate(2.446 264.896)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_784" data-name="Linha 784" x1="78.841" y2="37.014" transform="translate(2.085 227.761)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_785" data-name="Linha 785" y1="36.974" x2="78.661" transform="translate(2.486 227.862)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1745" data-name="Caminho 1745" d="M114.926,187.157a2.767,2.767,0,0,1,1.524-2.346" transform="translate(-106.224 84.196)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_786" data-name="Linha 786" y1="6.597" x2="0.08" transform="translate(8.622 271.353)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1746" data-name="Caminho 1746" d="M111.288,185.044a2.129,2.129,0,0,1,1.965-1.985" transform="translate(-111.207 81.797)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1747" data-name="Caminho 1747" d="M119.956,201.69l-8.241-4.311-.381-.2-.02.221-.06,6.336,8.6,4.552,9.484-2.968-.02-.742a1.605,1.605,0,0,0,.18-.08l78.46-30.3" transform="translate(-111.254 69.663)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_787" data-name="Linha 787" x1="0.441" y1="0.241" transform="translate(2.005 264.736)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1748" data-name="Caminho 1748" d="M115.366,205.084l.481.541.1,1.1,80.566-37.115" transform="translate(-105.621 63.381)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_788" data-name="Linha 788" x2="8.241" y2="4.191" transform="translate(1.905 264.776)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_789" data-name="Linha 789" x2="0.12" y2="0.06" transform="translate(2.486 264.836)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1749" data-name="Caminho 1749" d="M140.159,72.01a.284.284,0,0,0,.18-.281" transform="translate(-71.664 -70.687)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_790" data-name="Linha 790" x1="0.642" y2="0.18" transform="translate(5.093 276.426)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_791" data-name="Linha 791" y1="0.14" x2="0.481" transform="translate(5.334 276.466)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1750" data-name="Caminho 1750" d="M115.479,188.192a4.839,4.839,0,0,0-2.546,1.383,6.243,6.243,0,0,0-.461.561,2.4,2.4,0,0,0-.361.622,1.3,1.3,0,0,0-.02.622,3.1,3.1,0,0,0,1.6,1.945,9.454,9.454,0,0,0,2.406,1.023,18.28,18.28,0,0,0,2.526.541,19.6,19.6,0,0,0,2.647.2,24.451,24.451,0,0,0,2.707-.12,18.664,18.664,0,0,0,2.567-.481,8.565,8.565,0,0,0,2.386-.982,2.662,2.662,0,0,0,1.484-2.025,1.519,1.519,0,0,0-.02-.3,1.346,1.346,0,0,0-.2-.461,5.8,5.8,0,0,0-1-1.1,7.332,7.332,0,0,0-2.546-1.383,12.541,12.541,0,0,0-1.444-.341" transform="translate(-110.146 88.414)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_792" data-name="Linha 792" y2="0.06" transform="translate(1.023 280.416)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1751" data-name="Caminho 1751" d="M125.686,187.866a10.851,10.851,0,0,1,3.569,1.263,10.149,10.149,0,0,1,1.524,1.1,2.094,2.094,0,0,1,.461.481c.1.16.18.3.281.461a2.356,2.356,0,0,1,.241.722,2.45,2.45,0,0,1,.04.662c-.02.14-.02.281-.04.421-.04.14-.1.281-.14.4a2.834,2.834,0,0,1-.381.682,4.115,4.115,0,0,1-1.083,1.043,7.454,7.454,0,0,1-1.343.762,14.252,14.252,0,0,1-3.128.882c-.461.1-.942.14-1.424.2-.481.04-.962.08-1.464.08-.541,0-1.083.02-1.624-.02-.561-.02-1.123-.08-1.684-.14a14.753,14.753,0,0,1-2.948-.581A11.338,11.338,0,0,1,113.595,195a4.141,4.141,0,0,1-1.865-2.446,2.4,2.4,0,0,1-.04-.662c.02-.14.02-.3.04-.441.04-.12.1-.261.14-.381a1.143,1.143,0,0,1,.221-.441,6.555,6.555,0,0,1,.6-.7,6.936,6.936,0,0,1,1.424-1.1,6.423,6.423,0,0,1,1.644-.662" transform="translate(-110.667 88.38)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1752" data-name="Caminho 1752" d="M118.446,188.827a4.821,4.821,0,0,1-.922-1.063" transform="translate(-102.666 88.24)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1753" data-name="Caminho 1753" d="M152.894,164.579" transform="translate(-54.222 56.485)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1754" data-name="Caminho 1754" d="M178.325,168.989l-17.966-4.552a.981.981,0,0,0-.341-.5" transform="translate(-44.463 55.604)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <line id="Linha_793" data-name="Linha 793" x1="13.715" y1="2.907" transform="translate(115.635 219.58)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1755" data-name="Caminho 1755" d="M160.044,164.841" transform="translate(-44.429 56.844)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+              <path id="Caminho_1756" data-name="Caminho 1756" d="M174.944,172.959c-.14.2-.2.4.261.762,2.306,1.3,4.913,1.3,7.519,1.183,3.529-.12,8.281-.481,9.986-3.308-.762-1.765-3.369-2.366-5.654-2.506" transform="translate(-24.159 62.662)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.148"/>
+              <path id="Caminho_1757" data-name="Caminho 1757" d="M187.667,169.072a13.751,13.751,0,0,1,3.288.541,6.69,6.69,0,0,1,2.647,1.3c1.484,1.484.08,3.028-1.644,3.89a18.61,18.61,0,0,1-6.537,1.564,28.662,28.662,0,0,1-6.938-.241c-1.8-.3-4.211-1.063-4.131-2.727" transform="translate(-24.832 62.639)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.148"/>
+              <path id="Caminho_1758" data-name="Caminho 1758" d="M180.917,169.933a4.186,4.186,0,0,1-1.023-.962" transform="translate(-17.239 62.5)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.169"/>
+            </g>
+            <g id="Grupo_268" data-name="Grupo 268" transform="translate(20.312 54.539)">
+              <line id="Linha_794" data-name="Linha 794" y1="0.06" x2="0.08" transform="translate(148.018 166.545)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_795" data-name="Linha 795" y1="0.221" x2="0.201" transform="translate(148.018 166.385)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_796" data-name="Linha 796" y1="0.08" x2="0.06" transform="translate(147.797 166.645)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_797" data-name="Linha 797" y1="0.08" x2="0.08" transform="translate(147.837 166.625)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_798" data-name="Linha 798" y1="0.02" x2="0.02" transform="translate(147.938 166.385)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_799" data-name="Linha 799" y1="0.04" x2="0.08" transform="translate(147.276 167.066)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_800" data-name="Linha 800" x1="0.16" y2="0.08" transform="translate(147.356 166.986)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_801" data-name="Linha 801" y1="0.1" x2="0.18" transform="translate(147.837 166.605)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_802" data-name="Linha 802" y1="0.08" x2="0.14" transform="translate(147.376 166.986)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1759" data-name="Caminho 1759" d="M79.624,124.669l.3-.241" transform="translate(67.732 42.397)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_803" data-name="Linha 803" y1="0.12" x2="0.16" transform="translate(147.677 166.706)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_804" data-name="Linha 804" transform="translate(148.018 166.605)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_805" data-name="Linha 805" y1="0.281" x2="0.381" transform="translate(147.637 166.605)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_806" data-name="Linha 806" y1="0.1" x2="0.12" transform="translate(147.517 166.886)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_807" data-name="Linha 807" transform="translate(147.517 166.986)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1760" data-name="Caminho 1760" d="M79.878,124.5a.612.612,0,0,0,.361-.441" transform="translate(68.08 41.887)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1761" data-name="Caminho 1761" d="M79.937,124.53a.262.262,0,0,0,.04-.381" transform="translate(68.161 42.015)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_808" data-name="Linha 808" y1="0.12" x2="0.06" transform="translate(147.857 166.525)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_809" data-name="Linha 809" y1="0.1" x2="0.04" transform="translate(147.918 166.525)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_810" data-name="Linha 810" y1="0.341" x2="0.12" transform="translate(148.218 166.044)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_811" data-name="Linha 811" y1="0.14" transform="translate(147.958 166.385)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1762" data-name="Caminho 1762" d="M79.85,124.378c-.02,0-.04,0-.04.02" transform="translate(67.987 42.328)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_812" data-name="Linha 812" x2="0.02" transform="translate(147.256 167.107)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_813" data-name="Linha 813" y1="0.02" x2="0.06" transform="translate(85.278 176.631)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_814" data-name="Linha 814" x1="0.08" y2="0.02" transform="translate(85.177 176.611)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_815" data-name="Linha 815" y1="0.02" x2="0.06" transform="translate(137.23 156.74)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_816" data-name="Linha 816" y1="0.04" x2="0.1" transform="translate(147.276 167.066)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_817" data-name="Linha 817" x1="0.08" y2="0.04" transform="translate(86.28 177.513)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1763" data-name="Caminho 1763" d="M60.145,129.345" transform="translate(41.053 49.131)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_818" data-name="Linha 818" y1="0.12" x2="0.02" transform="translate(147.918 166.405)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_819" data-name="Linha 819" x1="0.02" y1="0.1" transform="translate(148.319 165.843)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_820" data-name="Linha 820" x1="0.02" y1="0.201" transform="translate(148.319 165.843)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1764" data-name="Caminho 1764" d="M55.83,129.892l7.519-.2,2.847.04" transform="translate(35.142 49.606)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1765" data-name="Caminho 1765" d="M55.7,129.717a.58.58,0,0,1-.321,0" transform="translate(34.528 49.641)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1766" data-name="Caminho 1766" d="M53.816,128.947h.16" transform="translate(32.384 48.586)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_821" data-name="Linha 821" x2="0.12" transform="translate(86.16 177.553)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1767" data-name="Caminho 1767" d="M54.374,128.89a.878.878,0,0,1-.7-.12" transform="translate(32.187 48.343)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1768" data-name="Caminho 1768" d="M53.863,128.939a.341.341,0,0,1-.14.02" transform="translate(32.256 48.575)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1769" data-name="Caminho 1769" d="M59.646,121.111a2.785,2.785,0,0,1,.922-.16" transform="translate(40.369 37.634)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_822" data-name="Linha 822" y1="0.02" x2="0.04" transform="translate(139.255 157.061)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_823" data-name="Linha 823" x1="0.06" y2="0.02" transform="translate(139.356 157.081)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_824" data-name="Linha 824" x1="20.673" y2="7.218" transform="translate(78.881 158.324)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_825" data-name="Linha 825" y1="7.218" x2="20.593" transform="translate(79.423 158.765)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1770" data-name="Caminho 1770" d="M51.413,127.336q6.8-2.376,13.555-4.752" transform="translate(29.092 39.871)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1771" data-name="Caminho 1771" d="M59.452,120.887c.08-.02.16-.06.221-.08" transform="translate(40.103 37.437)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_826" data-name="Linha 826" x1="0.06" y2="0.02" transform="translate(74.189 165.061)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_827" data-name="Linha 827" transform="translate(70.019 162.074)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_828" data-name="Linha 828" y1="4.231" x2="8.983" transform="translate(70.039 157.843)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_829" data-name="Linha 829" x1="17.244" y2="8.161" transform="translate(70.019 153.913)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_830" data-name="Linha 830" y1="3.91" x2="8.241" transform="translate(79.022 153.933)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_831" data-name="Linha 831" y1="7.98" x2="16.883" transform="translate(70.38 154.093)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1772" data-name="Caminho 1772" d="M47.149,122.982a.273.273,0,0,0-.04.361" transform="translate(23.13 40.415)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1773" data-name="Caminho 1773" d="M54.569,120.155" transform="translate(33.415 36.545)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_832" data-name="Linha 832" y1="0.14" x2="0.221" transform="translate(70.159 162.074)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_833" data-name="Linha 833" y1="0.14" x2="0.221" transform="translate(74.009 163.698)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_834" data-name="Linha 834" x1="0.201" y2="0.12" transform="translate(73.909 163.658)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1774" data-name="Caminho 1774" d="M46.945,122.8a.091.091,0,0,1,.1,0" transform="translate(22.973 40.152)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_835" data-name="Linha 835" x1="0.06" y2="0.04" transform="translate(69.959 162.074)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_836" data-name="Linha 836" x1="0.201" y2="0.14" transform="translate(69.838 162.074)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1775" data-name="Caminho 1775" d="M50.668,124.655a6.232,6.232,0,0,0,.662-.581" transform="translate(28.073 41.91)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1776" data-name="Caminho 1776" d="M54.383,121.078" transform="translate(33.16 37.808)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1777" data-name="Caminho 1777" d="M55.153,120.485" transform="translate(34.215 36.997)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1778" data-name="Caminho 1778" d="M51.66,124.335c-.2.2-.441.4-.662.581" transform="translate(28.525 42.27)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_837" data-name="Linha 837" x1="0.201" y2="0.18" transform="translate(69.758 162.134)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1779" data-name="Caminho 1779" d="M63.179,120.012,61.114,122.1a1.3,1.3,0,0,1-.16.18l-.1.06L48.722,127.31" transform="translate(25.407 36.348)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_838" data-name="Linha 838" y1="0.201" x2="0.14" transform="translate(73.869 163.838)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_839" data-name="Linha 839" x1="0.16" y2="0.221" transform="translate(73.748 163.778)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1780" data-name="Caminho 1780" d="M53.884,129.089c.06-.08.12-.18.18-.261" transform="translate(32.477 48.424)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_840" data-name="Linha 840" x1="0.06" y2="0.1" transform="translate(85.799 177.092)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_841" data-name="Linha 841" x1="0.04" y2="0.08" transform="translate(85.699 177.272)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_842" data-name="Linha 842" x1="0.06" y2="0.08" transform="translate(85.739 177.192)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1781" data-name="Caminho 1781" d="M92.612,127.732c.08-.2.281-.581.221-.782l-.12-.04-19.951-5.594-.822-.06c-6.757,2.386-13.875,4.913-20.653,7.279" transform="translate(28.919 38.051)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1782" data-name="Caminho 1782" d="M65.079,121.746" transform="translate(47.81 38.723)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_843" data-name="Linha 843" x2="1.243" y2="4.993" transform="translate(146.694 161.412)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_844" data-name="Linha 844" transform="translate(148.319 165.843)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_845" data-name="Linha 845" x2="0.18" y2="0.02" transform="translate(86.02 177.513)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_846" data-name="Linha 846" x2="0.14" transform="translate(86.02 177.553)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_847" data-name="Linha 847" x2="0.581" y2="0.02" transform="translate(90.551 178.957)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_848" data-name="Linha 848" x2="0.421" y2="0.02" transform="translate(90.551 179.478)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1783" data-name="Caminho 1783" d="M53.954,128.979a.3.3,0,0,1-.18-.04" transform="translate(32.326 48.575)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_849" data-name="Linha 849" x2="0.241" transform="translate(90.651 179.438)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1784" data-name="Caminho 1784" d="M54.452,129.2a.565.565,0,0,1-.441-.06" transform="translate(32.65 48.853)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_850" data-name="Linha 850" x1="0.281" transform="translate(88.305 178.816)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1785" data-name="Caminho 1785" d="M75.08,120.181a1.48,1.48,0,0,1,.421,0" transform="translate(61.508 36.559)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1786" data-name="Caminho 1786" d="M59.392,120.827a2.178,2.178,0,0,1,.361-.02" transform="translate(40.021 37.437)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_851" data-name="Linha 851" y1="0.782" x2="9.364" transform="translate(129.892 157.081)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_852" data-name="Linha 852" y1="0.842" x2="9.745" transform="translate(132.819 158.063)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_853" data-name="Linha 853" y1="0.882" x2="9.544" transform="translate(129.711 157.081)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_854" data-name="Linha 854" y1="0.902" x2="9.885" transform="translate(122.934 158.906)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_855" data-name="Linha 855" y1="0.902" x2="9.745" transform="translate(119.966 157.963)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_856" data-name="Linha 856" x1="2.286" y2="0.201" transform="translate(120.327 158.545)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_857" data-name="Linha 857" y1="0.682" x2="7.359" transform="translate(122.533 157.863)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1787" data-name="Caminho 1787" d="M69.369,121.484" transform="translate(53.685 38.364)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_858" data-name="Linha 858" x1="8.742" y2="0.842" transform="translate(111.585 158.745)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1788" data-name="Caminho 1788" d="M64.529,122c3.649-.361,7.3-.722,10.928-1.063" transform="translate(47.056 37.611)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1789" data-name="Caminho 1789" d="M75.6,122.533" transform="translate(62.227 39.801)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1790" data-name="Caminho 1790" d="M71.569,122.948" transform="translate(56.699 40.369)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_859" data-name="Linha 859" x1="0.08" y2="0.02" transform="translate(136.348 156.7)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1791" data-name="Caminho 1791" d="M97.934,121.332l-9,.922-9.564.983L69.221,124.3l-1.363-.361L65.672,122.9l-.6-.3,10.066-.942" transform="translate(47.798 38.155)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1792" data-name="Caminho 1792" d="M83.135,120.172c-4.652.561-9.284,1.143-13.936,1.785" transform="translate(53.454 36.568)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_860" data-name="Linha 860" transform="translate(136.348 156.72)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_861" data-name="Linha 861" x1="7.579" y2="0.962" transform="translate(128.769 156.72)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_862" data-name="Linha 862" x1="6.116" y2="0.842" transform="translate(122.653 157.682)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_863" data-name="Linha 863" x1="0.281" y2="0.04" transform="translate(122.372 158.525)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_864" data-name="Linha 864" x1="0.08" y2="0.1" transform="translate(69.758 162.214)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_865" data-name="Linha 865" y1="0.221" x2="0.16" transform="translate(69.999 162.214)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_866" data-name="Linha 866" y1="0.241" x2="0.14" transform="translate(69.778 162.956)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_867" data-name="Linha 867" x1="0.04" y2="0.04" transform="translate(69.818 162.294)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_868" data-name="Linha 868" y1="0.241" x2="0.14" transform="translate(69.618 162.314)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_869" data-name="Linha 869" transform="translate(69.618 162.555)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_870" data-name="Linha 870" x1="0.04" y2="0.1" transform="translate(69.578 162.555)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1793" data-name="Caminho 1793" d="M55.979,129.556a.6.6,0,0,1-.14.521" transform="translate(35.154 49.421)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_871" data-name="Linha 871" x1="0.02" y2="2.266" transform="translate(91.133 176.711)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_872" data-name="Linha 872" y1="0.922" transform="translate(87.864 177.272)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_873" data-name="Linha 873" x1="0.02" y2="0.842" transform="translate(87.744 177.293)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1794" data-name="Caminho 1794" d="M53.672,128.842a1.013,1.013,0,0,0,.8-.14" transform="translate(32.187 48.25)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1795" data-name="Caminho 1795" d="M53.761,128.959a.121.121,0,0,1-.08-.02" transform="translate(32.199 48.575)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_874" data-name="Linha 874" x1="0.1" y1="0.02" transform="translate(85.177 176.631)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_875" data-name="Linha 875" x2="0.561" y2="0.08" transform="translate(89.99 178.877)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1796" data-name="Caminho 1796" d="M51.066,124.75a1.117,1.117,0,0,0,.842-.16" transform="translate(28.617 42.617)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1797" data-name="Caminho 1797" d="M59.908,120.79c.1,0,.18.02.281.02" transform="translate(40.728 37.414)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1798" data-name="Caminho 1798" d="M60.035,120.959a1.518,1.518,0,0,1,.3.02" transform="translate(40.902 37.646)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1799" data-name="Caminho 1799" d="M59.883,120.79h.06" transform="translate(40.694 37.414)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_876" data-name="Linha 876" x1="0.421" transform="translate(136.428 156.7)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1800" data-name="Caminho 1800" d="M60.347,120.79c-.261,0-.541.02-.8.04" transform="translate(40.23 37.414)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_877" data-name="Linha 877" x1="0.06" y2="0.201" transform="translate(69.698 162.314)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_878" data-name="Linha 878" x1="0.06" y2="0.281" transform="translate(73.688 163.999)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_879" data-name="Linha 879" y1="0.281" x2="0.08" transform="translate(73.788 164.039)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1801" data-name="Caminho 1801" d="M50.558,124.52a.839.839,0,0,1,.4-.642" transform="translate(27.922 41.644)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_880" data-name="Linha 880" y1="0.261" x2="0.06" transform="translate(69.939 162.435)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_881" data-name="Linha 881" y1="0.04" x2="0.02" transform="translate(69.758 163.197)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1802" data-name="Caminho 1802" d="M54.069,128.71a.422.422,0,0,1-.1.261" transform="translate(32.593 48.262)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_882" data-name="Linha 882" x1="0.02" y2="0.301" transform="translate(69.558 162.655)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_883" data-name="Linha 883" y1="0.1" transform="translate(78.48 166.164)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1803" data-name="Caminho 1803" d="M59.9,121.4a1.6,1.6,0,0,1,.14.4" transform="translate(40.717 38.248)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1804" data-name="Caminho 1804" d="M60.281,121.264a1.009,1.009,0,0,1,.02.642" transform="translate(41.238 38.063)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_884" data-name="Linha 884" x1="0.06" y1="0.12" transform="translate(148.258 165.723)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_885" data-name="Linha 885" x2="0.481" y2="0.14" transform="translate(89.508 178.736)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_886" data-name="Linha 886" x1="0.06" y1="0.02" transform="translate(88.245 178.796)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_887" data-name="Linha 887" x2="0.14" y2="0.04" transform="translate(85.879 177.513)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1805" data-name="Caminho 1805" d="M55.517,129.717a3.116,3.116,0,0,0,.421.08" transform="translate(34.713 49.641)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1806" data-name="Caminho 1806" d="M47.337,122.441a.5.5,0,0,0-.341,0" transform="translate(23.043 39.633)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1807" data-name="Caminho 1807" d="M60.027,120.8c.08.02.14.02.221.04" transform="translate(40.891 37.425)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1808" data-name="Caminho 1808" d="M60.162,120.968c.06.02.14.02.2.04" transform="translate(41.076 37.657)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1809" data-name="Caminho 1809" d="M47.318,122.99a.412.412,0,0,0-.221,0" transform="translate(23.182 40.407)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_888" data-name="Linha 888" x2="0.682" y2="0.12" transform="translate(137.912 156.86)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_889" data-name="Linha 889" x2="0.682" y2="0.1" transform="translate(137.23 156.76)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_890" data-name="Linha 890" x2="0.221" y2="0.02" transform="translate(137.01 156.74)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_891" data-name="Linha 891" x2="0.241" y2="0.02" transform="translate(136.348 156.72)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_892" data-name="Linha 892" x1="0.441" y1="0.04" transform="translate(136.849 156.7)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1810" data-name="Caminho 1810" d="M60.3,121.543l-.02.06.08,18.708" transform="translate(41.238 38.445)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_893" data-name="Linha 893" x1="0.18" y1="0.02" transform="translate(139.636 157.161)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_894" data-name="Linha 894" x1="0.04" y1="0.301" transform="translate(87.864 178.195)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_895" data-name="Linha 895" x1="0.06" y1="0.301" transform="translate(87.744 178.135)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_896" data-name="Linha 896" x1="0.02" y1="0.1" transform="translate(73.788 164.319)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1811" data-name="Caminho 1811" d="M48.536,123.354a.585.585,0,0,0,.04.18" transform="translate(25.152 40.925)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_897" data-name="Linha 897" x1="0.281" y1="0.702" transform="translate(101.238 158.625)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1812" data-name="Caminho 1812" d="M76.674,120.416a3.9,3.9,0,0,0-.4-.1" transform="translate(63.143 36.765)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1813" data-name="Caminho 1813" d="M67.842,120.427l-.381-.02H66.98l-.1.02-7.5.942-.642.06h-.582l-.521-.06-.261-.08c-.08-.02-.18-.06-.261-.08l-1.4-.6-.12-.04-1.885-.742" transform="translate(32.233 36.093)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1814" data-name="Caminho 1814" d="M76.248,120.325c.06.02.12.02.18.04" transform="translate(63.108 36.776)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_898" data-name="Linha 898" x1="0.1" y1="0.02" transform="translate(139.255 157.081)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_899" data-name="Linha 899" x1="0.12" y1="0.02" transform="translate(139.296 157.061)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_900" data-name="Linha 900" transform="translate(139.296 157.061)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_901" data-name="Linha 901" x1="0.461" y1="0.08" transform="translate(138.834 156.981)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_902" data-name="Linha 902" x1="1.223" y1="0.18" transform="translate(137.611 156.8)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_903" data-name="Linha 903" x2="0.662" y2="0.1" transform="translate(138.594 156.981)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_904" data-name="Linha 904" x1="0.321" y1="0.06" transform="translate(137.29 156.74)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1815" data-name="Caminho 1815" d="M46.852,122.609a.508.508,0,0,0,.221.441" transform="translate(22.846 39.906)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1816" data-name="Caminho 1816" d="M46.836,123.067a.562.562,0,0,1,0-.441" transform="translate(22.762 39.929)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_905" data-name="Linha 905" x1="0.02" y1="0.08" transform="translate(73.808 164.42)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1817" data-name="Caminho 1817" d="M53.427,128.516c.06.06.06.1,0,.14" transform="translate(31.851 47.995)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1818" data-name="Caminho 1818" d="M51.61,124.937a1.509,1.509,0,0,0-.341-.6" transform="translate(28.895 42.27)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1819" data-name="Caminho 1819" d="M50.6,124.352a.472.472,0,0,1-.04-.16" transform="translate(27.922 42.073)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_906" data-name="Linha 906" x2="0.02" y2="0.06" transform="translate(86.18 177.553)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1820" data-name="Caminho 1820" d="M56.728,120.838l-.12-.361a.855.855,0,0,1,.12.361l-.983.762a2.489,2.489,0,0,0,.221.722" transform="translate(35.026 36.985)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_907" data-name="Linha 907" x1="0.12" y1="0.201" transform="translate(100.497 159.447)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1821" data-name="Caminho 1821" d="M84.884,128.889l-1.123-4.532a2.339,2.339,0,0,0-.2-.521h0a2.278,2.278,0,0,0-.3-.461h0a2.737,2.737,0,0,0-.341-.341l-.18-.14a3.268,3.268,0,0,0-.682-.421l-2.827-1.263-2.787-.842" transform="translate(63.374 36.834)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_908" data-name="Linha 908" x2="0.1" y2="0.261" transform="translate(69.558 162.956)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_909" data-name="Linha 909" x2="0.04" y2="0.08" transform="translate(73.728 164.46)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_910" data-name="Linha 910" x1="0.04" y1="0.08" transform="translate(73.828 164.5)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1822" data-name="Caminho 1822" d="M46.918,123.006a.153.153,0,0,1-.04-.1" transform="translate(22.881 40.311)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_911" data-name="Linha 911" x2="0.481" y2="0.702" transform="translate(100.015 158.745)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1823" data-name="Caminho 1823" d="M59.924,121.282a1.459,1.459,0,0,0-.481-.441" transform="translate(40.091 37.483)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1824" data-name="Caminho 1824" d="M47.034,122.946a.441.441,0,0,1-.08-.261" transform="translate(22.985 40.01)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_912" data-name="Linha 912" x1="4.05" y1="6.436" transform="translate(82.611 170.535)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_913" data-name="Linha 913" x1="2.105" y1="3.328" transform="translate(80.505 167.207)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_914" data-name="Linha 914" x2="0.321" y2="0.501" transform="translate(73.869 164.58)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_915" data-name="Linha 915" x1="0.301" y1="0.501" transform="translate(73.768 164.54)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_916" data-name="Linha 916" x1="0.301" y1="0.461" transform="translate(69.798 163.317)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_917" data-name="Linha 917" x2="0.361" y2="0.521" transform="translate(69.658 163.217)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_918" data-name="Linha 918" x2="5.534" y2="8.722" transform="translate(79.744 167.788)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_919" data-name="Linha 919" x1="2.085" y1="3.268" transform="translate(79.683 167.367)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1825" data-name="Caminho 1825" d="M56.037,132.493c-1.384-2.145-2.747-4.311-4.09-6.456" transform="translate(29.823 44.599)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_920" data-name="Linha 920" x1="0.16" y1="0.221" transform="translate(87.904 178.496)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_921" data-name="Linha 921" x1="0.16" y1="0.221" transform="translate(87.804 178.435)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1826" data-name="Caminho 1826" d="M51.159,124.761a1.3,1.3,0,0,0-.16-.18" transform="translate(28.525 42.606)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_922" data-name="Linha 922" x1="0.18" y1="0.201" transform="translate(69.598 162.996)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_923" data-name="Linha 923" x2="0.301" y2="0.381" transform="translate(79.443 167.407)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1827" data-name="Caminho 1827" d="M53.884,134.965c3.168-.541,6.336-1.1,9.5-1.664h.361a2.764,2.764,0,0,1,1.885.642l.02.02.06.06c.642.642,1.223,1.243,1.865,1.885l.3.281.4.461.8.221,45.8-12.331" transform="translate(32.477 42.548)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1828" data-name="Caminho 1828" d="M51.257,124.328a1.849,1.849,0,0,0-.521-.441" transform="translate(28.165 41.656)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1829" data-name="Caminho 1829" d="M60.12,120.824a.91.91,0,0,1,.3.381" transform="translate(41.018 37.46)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1830" data-name="Caminho 1830" d="M93.693,122.738l-.02-.221a1.1,1.1,0,0,0-.12-.361h0a1.1,1.1,0,0,0-.321-.361h0a.432.432,0,0,0-.321-.08c-8.02,1.524-16.021,3.088-24.041,4.632" transform="translate(53.002 38.674)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_924" data-name="Linha 924" x2="0.401" y2="0.361" transform="translate(79.042 167.046)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1831" data-name="Caminho 1831" d="M60.189,128.279l3.268,2.727-7.559.3" transform="translate(35.235 47.671)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_925" data-name="Linha 925" x1="0.02" y1="0.02" transform="translate(139.416 157.081)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_926" data-name="Linha 926" x1="0.12" y1="0.1" transform="translate(69.678 163.217)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_927" data-name="Linha 927" x1="0.782" y1="0.622" transform="translate(79.403 165.984)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_928" data-name="Linha 928" x2="0.762" y2="0.622" transform="translate(78.741 166.565)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_929" data-name="Linha 929" x2="0.481" y2="0.381" transform="translate(86.2 177.613)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1832" data-name="Caminho 1832" d="M50.8,124.4a.828.828,0,0,0-.221-.14" transform="translate(27.945 42.165)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <g id="Grupo_267" data-name="Grupo 267" transform="translate(86.661 175.184)">
+                <path id="Caminho_1833" data-name="Caminho 1833" d="M54.011,129.743l3.128-.561,6.136-1.123a7.2,7.2,0,0,1,.922-.1h.16a3.1,3.1,0,0,1,1.283.221,3.877,3.877,0,0,1,.983.622c.581.6,2.125,2.647,2.727,3.248" transform="translate(-54.011 -127.956)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              </g>
+              <line id="Linha_930" data-name="Linha 930" x2="0.441" y2="0.301" transform="translate(78.601 166.746)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1834" data-name="Caminho 1834" d="M54.181,129.408a.608.608,0,0,1-.281-.461" transform="translate(32.5 48.586)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_931" data-name="Linha 931" x1="0.08" y1="0.06" transform="translate(90.892 179.438)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1835" data-name="Caminho 1835" d="M53.6,128.871a.659.659,0,0,0,.321.14" transform="translate(32.094 48.482)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1836" data-name="Caminho 1836" d="M72.887,121.069l-8.321.8-.02.08,1.3,1.023" transform="translate(47.079 37.796)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1837" data-name="Caminho 1837" d="M56.325,54.028c-.722,51.953-1.564,103.965-2.085,156a9.86,9.86,0,0,1,2.707,1.063,2.335,2.335,0,0,0,1.183.16" transform="translate(32.963 -54.028)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1838" data-name="Caminho 1838" d="M55.613,130.076a.694.694,0,0,1-.4-.622" transform="translate(34.296 49.281)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_932" data-name="Linha 932" x1="0.18" y1="0.08" transform="translate(88.065 178.716)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_933" data-name="Linha 933" x2="1.203" y2="0.622" transform="translate(86.681 177.994)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_934" data-name="Linha 934" x2="0.642" y2="0.321" transform="translate(87.102 178.054)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_935" data-name="Linha 935" x1="1.223" y1="0.622" transform="translate(86.521 177.513)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_936" data-name="Linha 936" x2="0.401" y2="0.201" transform="translate(78.2 166.545)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_937" data-name="Linha 937" x1="3.409" y1="1.564" transform="translate(70.66 163.477)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1839" data-name="Caminho 1839" d="M54.383,121.078" transform="translate(33.16 37.808)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_938" data-name="Linha 938" x2="3.75" y2="1.584" transform="translate(70.019 162.956)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_939" data-name="Linha 939" x1="3.73" y1="1.584" transform="translate(70.38 162.074)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_940" data-name="Linha 940" x2="4.652" y2="1.845" transform="translate(73.869 164.58)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_941" data-name="Linha 941" x1="4.652" y1="1.845" transform="translate(74.229 163.698)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_942" data-name="Linha 942" x1="0.14" y1="0.06" transform="translate(99.414 158.264)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1840" data-name="Caminho 1840" d="M67.74,123.145l-8.4,1.043a11.181,11.181,0,0,1-3.168-.02l-.321-.08-.241-.08-.922-.4-.862-.3c-.662-.361-.642-.782-.261-1.384l.16-.261.561-.922.221-.361,1.083-1.263" transform="translate(31.674 35.119)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_943" data-name="Linha 943" x2="2.927" y2="0.902" transform="translate(139.636 157.161)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1841" data-name="Caminho 1841" d="M55.889,207.567c1.063-.02,2.025-.581,3.148-.521,1.6.08,3.208-.722,4.812-.341A94.629,94.629,0,0,1,76.4,210.274v-.12c0,.04.02.1,0,.12.742-51.231,1.384-102.321,2.045-153.572" transform="translate(35.223 -50.365)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_944" data-name="Linha 944" x2="0.08" y2="0.02" transform="translate(139.556 157.141)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1842" data-name="Caminho 1842" d="M53.8,129.031a.509.509,0,0,1-.2-.16" transform="translate(32.083 48.482)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_945" data-name="Linha 945" x1="0.16" y1="0.08" transform="translate(70.5 163.397)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_946" data-name="Linha 946" x1="0.742" y1="0.281" transform="translate(84.436 176.35)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_947" data-name="Linha 947" x2="4.01" y2="1.464" transform="translate(74.189 165.081)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_948" data-name="Linha 948" x1="2.166" y1="0.722" transform="translate(83.533 176.631)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_949" data-name="Linha 949" x2="2.486" y2="0.842" transform="translate(83.393 176.671)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_950" data-name="Linha 950" x2="1.664" y2="0.561" transform="translate(88.245 178.796)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_951" data-name="Linha 951" x2="1.363" y2="0.441" transform="translate(88.586 178.816)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_952" data-name="Linha 952" x1="1.644" y1="0.541" transform="translate(87.864 178.195)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1843" data-name="Caminho 1843" d="M109.744,122.96c-8.2,1.4-16.382,2.887-24.563,4.391l-.12.02a.892.892,0,0,1-.461-.02l-19.891-5.795h0a2.794,2.794,0,0,0-.822.06.088.088,0,0,0-.06.02l-6.677,2.386" transform="translate(36.95 38.452)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1844" data-name="Caminho 1844" d="M55.381,129.717a3.3,3.3,0,0,0,.642.12" transform="translate(34.528 49.641)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1845" data-name="Caminho 1845" d="M61.438,55.415c-.762,51.05-1.4,101.92-2.045,153.011" transform="translate(40.021 -52.127)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1846" data-name="Caminho 1846" d="M57.912,54.485Q56.739,132.5,55.847,210.6" transform="translate(35.165 -53.402)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1847" data-name="Caminho 1847" d="M55.559,210.653c0-27.59.9-55.1,1-82.651.221-24.523.762-49.065,1.063-73.628" transform="translate(34.771 -53.552)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_953" data-name="Linha 953" x1="0.02" transform="translate(7.279 197.865)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1848" data-name="Caminho 1848" d="M18.226,133.495a.361.361,0,0,1,.321.04" transform="translate(-16.362 54.786)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_954" data-name="Linha 954" x2="0.04" transform="translate(0.361 194.577)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_955" data-name="Linha 955" x1="70.019" y2="24.543" transform="translate(8.502 166.706)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_956" data-name="Linha 956" x1="0.14" y2="0.06" transform="translate(2.166 188.361)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_957" data-name="Linha 957" x1="68.936" y2="24.723" transform="translate(1.865 163.537)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_958" data-name="Linha 958" y1="24.703" x2="68.796" transform="translate(2.206 163.618)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1849" data-name="Caminho 1849" d="M20.689,136.531a1.918,1.918,0,0,1,1.323-1.644" transform="translate(-12.989 56.722)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_959" data-name="Linha 959" y1="4.792" x2="0.04" transform="translate(7.66 193.253)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1850" data-name="Caminho 1850" d="M17.473,134.863A1.637,1.637,0,0,1,19.2,133.5" transform="translate(-17.393 54.821)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1851" data-name="Caminho 1851" d="M25.139,145.606l-7.3-3.409-.341-.16-.02.16-.04,4.592,7.619,3.609,8.381-1.8-.02-.541a.472.472,0,0,1,.16-.04l68.735-19.75" transform="translate(-17.439 47.647)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_960" data-name="Linha 960" x1="0.401" y1="0.201" transform="translate(1.764 188.22)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1852" data-name="Caminho 1852" d="M21.078,148.324l.421.4.1.8,70.46-24.743" transform="translate(-12.456 42.884)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_961" data-name="Linha 961" x2="7.279" y2="3.328" transform="translate(1.684 188.261)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_962" data-name="Linha 962" x2="0.1" y2="0.04" transform="translate(2.206 188.321)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_963" data-name="Linha 963" x1="0.581" y2="0.12" transform="translate(4.532 196.822)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_964" data-name="Linha 964" y1="0.08" x2="0.421" transform="translate(4.752 196.863)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1853" data-name="Caminho 1853" d="M21.179,137.138a4.675,4.675,0,0,0-2.246.9,3.6,3.6,0,0,0-.4.381,1.386,1.386,0,0,0-.321.441,1.093,1.093,0,0,0-.02.441,2.7,2.7,0,0,0,1.424,1.484,10.917,10.917,0,0,0,2.125.842,17.281,17.281,0,0,0,2.246.5,23.315,23.315,0,0,0,2.346.261c.8.04,1.6.04,2.386.02a21.153,21.153,0,0,0,2.266-.241,8.24,8.24,0,0,0,2.105-.622c.622-.3,1.3-.762,1.3-1.4a.752.752,0,0,0-.02-.221.8.8,0,0,0-.18-.341,7.041,7.041,0,0,0-.882-.842,8.078,8.078,0,0,0-2.246-1.1c-.421-.12-.842-.221-1.283-.3" transform="translate(-16.427 59.805)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_965" data-name="Linha 965" y2="0.04" transform="translate(0.942 199.529)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1854" data-name="Caminho 1854" d="M30.2,137.285a11.527,11.527,0,0,1,3.168,1.043,7.682,7.682,0,0,1,1.343.862,1.908,1.908,0,0,1,.421.381c.08.12.16.241.241.341a1.407,1.407,0,0,1,.221.541,1.343,1.343,0,0,1,.04.481c-.02.1-.02.2-.04.3a1.184,1.184,0,0,1-.12.281,2.514,2.514,0,0,1-.321.481,3.193,3.193,0,0,1-.962.722,7.755,7.755,0,0,1-1.183.5,15.688,15.688,0,0,1-2.767.521c-.421.04-.842.08-1.263.08-.421.02-.862.02-1.283,0-.481-.02-.962-.04-1.444-.08-.5-.04-.983-.1-1.484-.16a16.258,16.258,0,0,1-2.607-.541A11.425,11.425,0,0,1,19.555,142a3.437,3.437,0,0,1-1.664-1.845,1.273,1.273,0,0,1-.04-.481c.02-.1.02-.221.04-.321a1.689,1.689,0,0,1,.12-.281,1.407,1.407,0,0,1,.2-.321,3.905,3.905,0,0,1,.521-.481A5.237,5.237,0,0,1,20,137.525a5.873,5.873,0,0,1,1.464-.421" transform="translate(-16.888 59.758)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1855" data-name="Caminho 1855" d="M23.8,137.906a3.384,3.384,0,0,1-.8-.8" transform="translate(-9.825 59.758)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1856" data-name="Caminho 1856" d="M53.816,121.12" transform="translate(32.384 37.866)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1857" data-name="Caminho 1857" d="M76.128,125.018l-15.8-3.83a.8.8,0,0,0-.3-.381" transform="translate(40.891 37.437)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <line id="Linha_966" data-name="Linha 966" x1="12.051" y1="2.506" transform="translate(100.978 158.264)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1858" data-name="Caminho 1858" d="M60.061,121.484" transform="translate(40.937 38.364)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+              <path id="Caminho_1859" data-name="Caminho 1859" d="M73.244,127.791c-.12.14-.18.3.241.582a13.981,13.981,0,0,0,6.617,1.083c3.088,0,7.238-.14,8.642-2.246-.722-1.363-3.028-1.885-5.033-2.045" transform="translate(58.873 43.406)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.118"/>
+              <path id="Caminho_1860" data-name="Caminho 1860" d="M84.269,125.148a13.814,13.814,0,0,1,2.887.5,6.563,6.563,0,0,1,2.366,1.063c1.343,1.163.16,2.306-1.323,2.907a17.82,17.82,0,0,1-5.674,1.023,28.307,28.307,0,0,1-6.1-.361c-1.584-.281-3.709-.9-3.709-2.166" transform="translate(58.275 43.382)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.118"/>
+              <path id="Caminho_1861" data-name="Caminho 1861" d="M78.448,125.834a3.664,3.664,0,0,1-.922-.762" transform="translate(64.858 43.278)" fill="none" stroke="#000" stroke-miterlimit="2" stroke-width="0.135"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

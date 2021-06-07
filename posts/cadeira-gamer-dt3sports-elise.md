@@ -1,5 +1,5 @@
 ---
-title: Cadeira Gamer DT3sports Elise
+title: ''
 id: 13528
 link: /racing-series/cadeira-gamer-dt3sports-elise
 name: Cadeira Gamer DT3sports Elise
@@ -319,16 +319,6 @@ blocks:
       mobile_card: true
       background_image: ../../../../static/img/banner/product/elise/design__desktop.jpg
       blocks:
-        - width: 1px
-          content:
-            - objectFit: contain
-              objectPosition: center
-              _template: ImageBlock
-              image:
-                desktop_image: >-
-                  ../../../../static/img/banner/product/elise/main-banner__desktop.jpg
-                mobile_image: >-
-                  ../../../../static/img/banner/product/elise/main-banner__mobile.jpg
         - content:
             - title: Design
               foreground: '#FFFFFF'
