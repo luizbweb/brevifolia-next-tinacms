@@ -5,7 +5,7 @@ hero_image: /static/alfons-taekema-bali.jpg
 title: 'Bali —body, mind & soul'
 id: 65574
 main_image: /static/alfons-taekema-bali.jpg
-description: Aqui fica a descrição do produto
+description: Aqui fica a descrição do produto.
 galleries:
   - id: 1235
     color: Blue
