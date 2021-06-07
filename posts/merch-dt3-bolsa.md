@@ -9,7 +9,7 @@ category: Merch
 subcategory: Merch
 type: simple
 availability: in-stock
-main_image: /static/img/products/dt3-bolsa/dt3-bolsa.png
+main_image: /static/dt3-bolsa.png
 description: >-
   • Estrutura de Metal.
 
@@ -98,4 +98,5 @@ specs:
 price:
   regular: 1169.91
   boleto: 1299.9
+author: DT3
 ---
