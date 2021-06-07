@@ -51,4 +51,5 @@ specs:
     /static/img/products/acessorios/apoio-de-pe-efr01/Apoio-de-pé_EFR01-FRONTAL.svg
   side: >-
     /static/img/products/acessorios/apoio-de-pe-efr01/Apoio-de-pé_EFR01-LATERAL.svg
+author: DT3
 ---
