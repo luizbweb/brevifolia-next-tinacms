@@ -60,4 +60,6 @@ specs:
   side: /static/img/placeholders/1x1.png
 date: '2021-06-07T00:00:00Z'
 author: DT3
+featured_image:
+  desktop_image: /static/almofada lombar elite series u-00.jpg
 ---
