@@ -58,4 +58,6 @@ specs:
   front: >-
     /static/img/products/acessorios/almofada-lombar-elite-series-suede/almofada-lombar-elite-series-suede-specs-frontal.svg
   side: /static/img/placeholders/1x1.png
+date: '2021-06-07T00:00:00Z'
+author: DT3
 ---
