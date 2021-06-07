@@ -87,15 +87,44 @@ export default function BlogTemplate(props) {
       {
         name: 'frontmatter.price', 
         label: 'Preço', 
-        component: 'number', 
+        component: 'group',
+        description: 'Preço o produto à vista e parcelado',
+        fields: [
+          {
+            name: 'regular', 
+            label: 'Regular', 
+            component: 'number',
+          },
+          {
+            name: 'boleto', 
+            label: 'boleto', 
+            component: 'number',
+          },
+        ],
       },
       {
         name: 'frontmatter.featured_image',
         label: 'Imagem Destacada',
-        component: 'image',
-        parse: media => `/static/${media.filename}`,
-        uploadDir: () => '/public/static/',
-        previewSrc: fullSrc => fullSrc.replace('/public', ''),
+        component: 'group',
+        description: 'Imagem representando o produto',
+        fields: [
+          {
+            name: 'desktop_image', 
+            label: 'Desktop', 
+            component: 'image',
+            parse: media => `/static/${media.filename}`,
+            uploadDir: () => '/public/static/',
+            previewSrc: fullSrc => fullSrc.replace('/public', ''),
+          },
+          {
+            name: 'mobile_image', 
+            label: 'Mobile', 
+            component: 'image',
+            parse: media => `/static/${media.filename}`,
+            uploadDir: () => '/public/static/',
+            previewSrc: fullSrc => fullSrc.replace('/public', ''),
+          },
+        ],
       },
       {
         name: 'frontmatter.galleries',
@@ -342,7 +371,7 @@ export default function BlogTemplate(props) {
         <h2 className="blog__footer">Written By: {post.frontmatter.author}</h2>
       </article>
       <div className="dt3_editor_log">
-        <p> Log do Editor </p>
+        <p> <b>Log do DT3editor 2.0</b> </p>
         <p> main_image: {post.frontmatter.main_image} </p>
         <p> title: {post.frontmatter.title} </p>
         <p> date: {post.frontmatter.date} </p>
@@ -356,8 +385,12 @@ export default function BlogTemplate(props) {
         <p> type: {post.frontmatter.type} </p>
         <p> availability: {post.frontmatter.availability} </p>  
         <p> description: {post.frontmatter.description} </p>  
-        <p> price: {post.frontmatter.price} </p>  
-        <p> featured_image: {post.frontmatter.featured_image} </p> 
+        <p> price: </p> 
+          <p> regular: { JSON.stringify( post.frontmatter.price.regular) } </p>
+          <p> boleto: { JSON.stringify( post.frontmatter.price.boleto) } </p>  
+        <p> featured_image:</p> 
+          <p> desktop_image: { JSON.stringify(post.frontmatter.featured_image.desktop_image) } </p> 
+          <p> mobile_image: { JSON.stringify(post.frontmatter.featured_image.mobile_image) } </p> 
         <p> galleries: { JSON.stringify( post.frontmatter.galleries ) } </p> 
         <p> slides: { JSON.stringify( post.frontmatter.slides ) } </p> 
         <p> menu: { JSON.stringify( post.frontmatter.menu ) } </p> 
