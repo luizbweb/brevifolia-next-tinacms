@@ -341,6 +341,31 @@ export default function BlogTemplate(props) {
         </div>
         <h2 className="blog__footer">Written By: {post.frontmatter.author}</h2>
       </article>
+      <div className="dt3_editor_log">
+        <p> Log do Editor </p>
+        <p> main_image: {post.frontmatter.main_image} </p>
+        <p> title: {post.frontmatter.title} </p>
+        <p> date: {post.frontmatter.date} </p>
+        <p> author: {post.frontmatter.author} </p>
+        <p> id: {post.frontmatter.id} </p>
+        <p> link: {post.frontmatter.link} </p>
+        <p> short_name: {post.frontmatter.short_name} </p>
+        <p> micro_name: {post.frontmatter.micro_name} </p>
+        <p> category: {post.frontmatter.category} </p>
+        <p> subcategory: {post.frontmatter.subcategory} </p>
+        <p> type: {post.frontmatter.type} </p>
+        <p> availability: {post.frontmatter.availability} </p>  
+        <p> description: {post.frontmatter.description} </p>  
+        <p> price: {post.frontmatter.price} </p>  
+        <p> featured_image: {post.frontmatter.featured_image} </p> 
+        <p> galleries: { JSON.stringify( post.frontmatter.galleries ) } </p> 
+        <p> slides: { JSON.stringify( post.frontmatter.slides ) } </p> 
+        <p> menu: { JSON.stringify( post.frontmatter.menu ) } </p> 
+        <p> details: { JSON.stringify( post.frontmatter.details ) } </p> 
+        <p> blocks: { JSON.stringify( post.frontmatter.blocks ) } </p> 
+        <p> specs: { JSON.stringify( post.frontmatter.specs ) } </p> 
+  
+      </div>
       <style jsx>
         {`
           .blog h1 {
@@ -423,6 +448,15 @@ export default function BlogTemplate(props) {
           }
           .blog__footer a svg {
             width: 20px;
+          }
+          .dt3_editor_log {
+            background-color: #111010;
+          }
+          .dt3_editor_log > p {
+            color: #aaaaaa;
+            margin-bottom: 5px;
+            margin-left: 5px;
+            font-size: small;
           }
 
           @media (min-width: 768px) {
