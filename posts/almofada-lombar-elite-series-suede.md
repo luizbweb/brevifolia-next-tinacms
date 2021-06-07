@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Kit Almofadas XL Elite Series Suede
 id: 106151
 link: /acessorios/almofada-lombar-elite-series-suede
 name: Kit Almofadas XL Elite Series Suede
@@ -45,4 +45,5 @@ specs:
   front: >-
     ../../../../static/img/products/acessorios/almofada-lombar-elite-series-suede/almofada-lombar-elite-series-suede-specs-frontal.svg
   side: ../../../../static/img/uploads/products/specs/
+author: DT3
 ---
