@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Cadeira Gamer DT3sports GTI
 id: 1432
 link: /gaming-series/cadeira-gamer-dt3sports-gti
 name: Cadeira Gamer DT3sports GTI
@@ -8,7 +8,7 @@ micro_name: GTI
 category: Cadeira
 subcategory: Gaming Series
 availability: in-stock
-main_image: ../../../../static/img/products/gti/gti.jpg
+main_image: /static/img/products/gti/gti.jpg
 description: >-
   • Couro PU.  
 
@@ -35,57 +35,57 @@ galleries:
     color_code: '#F8002E'
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/gti/red/00.jpg
-      - image: ../../../../static/img/products/gti/red/01.jpg
-      - image: ../../../../static/img/products/gti/red/02.jpg
-      - image: ../../../../static/img/products/gti/red/03.jpg
-      - image: ../../../../static/img/products/gti/red/04.jpg
-      - image: ../../../../static/img/products/gti/red/05.jpg
-      - image: ../../../../static/img/products/gti/red/06.jpg
-      - image: ../../../../static/img/products/gti/red/07.jpg
-      - image: ../../../../static/img/products/gti/red/08.jpg
+      - image: /static/img/products/gti/red/00.jpg
+      - image: /static/img/products/gti/red/01.jpg
+      - image: /static/img/products/gti/red/02.jpg
+      - image: /static/img/products/gti/red/03.jpg
+      - image: /static/img/products/gti/red/04.jpg
+      - image: /static/img/products/gti/red/05.jpg
+      - image: /static/img/products/gti/red/06.jpg
+      - image: /static/img/products/gti/red/07.jpg
+      - image: /static/img/products/gti/red/08.jpg
   - id: 16057
     color: Blue
     color_code: '#0433BF'
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/gti/blue/00.jpg
-      - image: ../../../../static/img/products/gti/blue/01.jpg
-      - image: ../../../../static/img/products/gti/blue/02.jpg
-      - image: ../../../../static/img/products/gti/blue/03.jpg
-      - image: ../../../../static/img/products/gti/blue/04.jpg
-      - image: ../../../../static/img/products/gti/blue/05.jpg
-      - image: ../../../../static/img/products/gti/blue/06.jpg
-      - image: ../../../../static/img/products/gti/blue/07.jpg
-      - image: ../../../../static/img/products/gti/blue/08.jpg
+      - image: /static/img/products/gti/blue/00.jpg
+      - image: /static/img/products/gti/blue/01.jpg
+      - image: /static/img/products/gti/blue/02.jpg
+      - image: /static/img/products/gti/blue/03.jpg
+      - image: /static/img/products/gti/blue/04.jpg
+      - image: /static/img/products/gti/blue/05.jpg
+      - image: /static/img/products/gti/blue/06.jpg
+      - image: /static/img/products/gti/blue/07.jpg
+      - image: /static/img/products/gti/blue/08.jpg
   - id: 16058
     color: Green
     color_code: '#51C819'
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/gti/green/00.jpg
-      - image: ../../../../static/img/products/gti/green/01.jpg
-      - image: ../../../../static/img/products/gti/green/02.jpg
-      - image: ../../../../static/img/products/gti/green/03.jpg
-      - image: ../../../../static/img/products/gti/green/04.jpg
-      - image: ../../../../static/img/products/gti/green/05.jpg
-      - image: ../../../../static/img/products/gti/green/06.jpg
-      - image: ../../../../static/img/products/gti/green/07.jpg
-      - image: ../../../../static/img/products/gti/green/08.jpg
+      - image: /static/img/products/gti/green/00.jpg
+      - image: /static/img/products/gti/green/01.jpg
+      - image: /static/img/products/gti/green/02.jpg
+      - image: /static/img/products/gti/green/03.jpg
+      - image: /static/img/products/gti/green/04.jpg
+      - image: /static/img/products/gti/green/05.jpg
+      - image: /static/img/products/gti/green/06.jpg
+      - image: /static/img/products/gti/green/07.jpg
+      - image: /static/img/products/gti/green/08.jpg
   - id: 16059
     color: Orange
     color_code: '#F25C05'
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/gti/orange/00.jpg
-      - image: ../../../../static/img/products/gti/orange/01.jpg
-      - image: ../../../../static/img/products/gti/orange/02.jpg
-      - image: ../../../../static/img/products/gti/orange/03.jpg
-      - image: ../../../../static/img/products/gti/orange/04.jpg
-      - image: ../../../../static/img/products/gti/orange/05.jpg
-      - image: ../../../../static/img/products/gti/orange/06.jpg
-      - image: ../../../../static/img/products/gti/orange/07.jpg
-      - image: ../../../../static/img/products/gti/orange/08.jpg
+      - image: /static/img/products/gti/orange/00.jpg
+      - image: /static/img/products/gti/orange/01.jpg
+      - image: /static/img/products/gti/orange/02.jpg
+      - image: /static/img/products/gti/orange/03.jpg
+      - image: /static/img/products/gti/orange/04.jpg
+      - image: /static/img/products/gti/orange/05.jpg
+      - image: /static/img/products/gti/orange/06.jpg
+      - image: /static/img/products/gti/orange/07.jpg
+      - image: /static/img/products/gti/orange/08.jpg
   - id: 16055
     color: Black O
     color_code: >-
@@ -93,62 +93,62 @@ galleries:
       70%, #1D1D1D 70%, #1D1D1D 100%)
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/gti/black-o/00.jpg
-      - image: ../../../../static/img/products/gti/black-o/01.jpg
-      - image: ../../../../static/img/products/gti/black-o/02.jpg
-      - image: ../../../../static/img/products/gti/black-o/03.jpg
-      - image: ../../../../static/img/products/gti/black-o/04.jpg
-      - image: ../../../../static/img/products/gti/black-o/05.jpg
-      - image: ../../../../static/img/products/gti/black-o/06.jpg
-      - image: ../../../../static/img/products/gti/black-o/07.jpg
-      - image: ../../../../static/img/products/gti/black-o/08.jpg
+      - image: /static/img/products/gti/black-o/00.jpg
+      - image: /static/img/products/gti/black-o/01.jpg
+      - image: /static/img/products/gti/black-o/02.jpg
+      - image: /static/img/products/gti/black-o/03.jpg
+      - image: /static/img/products/gti/black-o/04.jpg
+      - image: /static/img/products/gti/black-o/05.jpg
+      - image: /static/img/products/gti/black-o/06.jpg
+      - image: /static/img/products/gti/black-o/07.jpg
+      - image: /static/img/products/gti/black-o/08.jpg
   - id: 16056
     color: Black
     color_code: '#1D1D1D'
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/gti/black/00.jpg
-      - image: ../../../../static/img/products/gti/black/01.jpg
-      - image: ../../../../static/img/products/gti/black/02.jpg
-      - image: ../../../../static/img/products/gti/black/03.jpg
-      - image: ../../../../static/img/products/gti/black/04.jpg
-      - image: ../../../../static/img/products/gti/black/05.jpg
-      - image: ../../../../static/img/products/gti/black/06.jpg
-      - image: ../../../../static/img/products/gti/black/07.jpg
-      - image: ../../../../static/img/products/gti/black/08.jpg
+      - image: /static/img/products/gti/black/00.jpg
+      - image: /static/img/products/gti/black/01.jpg
+      - image: /static/img/products/gti/black/02.jpg
+      - image: /static/img/products/gti/black/03.jpg
+      - image: /static/img/products/gti/black/04.jpg
+      - image: /static/img/products/gti/black/05.jpg
+      - image: /static/img/products/gti/black/06.jpg
+      - image: /static/img/products/gti/black/07.jpg
+      - image: /static/img/products/gti/black/08.jpg
   - id: 16060
     color: White
     color_code: '#FFFFFF'
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/gti/white/00.jpg
-      - image: ../../../../static/img/products/gti/white/01.jpg
-      - image: ../../../../static/img/products/gti/white/02.jpg
-      - image: ../../../../static/img/products/gti/white/03.jpg
-      - image: ../../../../static/img/products/gti/white/04.jpg
-      - image: ../../../../static/img/products/gti/white/05.jpg
-      - image: ../../../../static/img/products/gti/white/06.jpg
-      - image: ../../../../static/img/products/gti/white/07.jpg
-      - image: ../../../../static/img/products/gti/white/08.jpg
+      - image: /static/img/products/gti/white/00.jpg
+      - image: /static/img/products/gti/white/01.jpg
+      - image: /static/img/products/gti/white/02.jpg
+      - image: /static/img/products/gti/white/03.jpg
+      - image: /static/img/products/gti/white/04.jpg
+      - image: /static/img/products/gti/white/05.jpg
+      - image: /static/img/products/gti/white/06.jpg
+      - image: /static/img/products/gti/white/07.jpg
+      - image: /static/img/products/gti/white/08.jpg
 slides:
   - title: Gaming Series
     link: /gaming-series
-    image: ../../../../static/img/categories/gaming-series.svg
+    image: /static/img/categories/gaming-series.svg
   - title: GTI
     link: /gaming-series/cadeira-gamer-dt3sports-gti
-    image: ../../../../static/img/products/gti/gti.svg
+    image: /static/img/products/gti/gti.svg
   - title: GT
     link: /gaming-series/cadeira-gamer-dt3sports-gt
-    image: ../../../../static/img/products/gt/gt.svg
+    image: /static/img/products/gt/gt.svg
   - title: GTZ
     link: /gaming-series/cadeira-gamer-dt3sports-gtz
-    image: ../../../../static/img/products/gtz/gtz.svg
+    image: /static/img/products/gtz/gtz.svg
   - title: GTS
     link: /gaming-series/cadeira-gamer-dt3sports-gts
-    image: ../../../../static/img/products/gts/gts.svg
+    image: /static/img/products/gts/gts.svg
   - title: GTX
     link: /gaming-series/cadeira-gamer-dt3sports-gtx
-    image: ../../../../static/img/products/gtx/gtx.svg
+    image: /static/img/products/gtx/gtx.svg
 menu:
   items:
     - text: Mecanismo
@@ -160,8 +160,8 @@ menu:
     - text: Garantia
       link: '#garantia'
 specs:
-  front: ../../../../static/img/products/gti/gti-specs-frontal.svg
-  side: ../../../../static/img/products/gti/gti-specs-lateral.svg
+  front: /static/img/products/gti/gti-specs-frontal.svg
+  side: /static/img/products/gti/gti-specs-lateral.svg
   items:
     - key: coating
       label: Revestimento
@@ -265,9 +265,9 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  ../../../../static/img/banner/product/gts/mecanismo__desktop.jpg
+                  /static/img/banner/product/gts/mecanismo__desktop.jpg
                 mobile_image: >-
-                  ../../../../static/img/banner/product/gts/mecanismo__mobile.jpg
+                  /static/img/banner/product/gts/mecanismo__mobile.jpg
           stretch: true
         - content:
             - title: Mecanismo Borboleta
@@ -313,8 +313,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: ../../../../static/img/banner/product/gts/rodas__desktop.jpg
-                mobile_image: ../../../../static/img/banner/product/gts/rodas__desktop.jpg
+                desktop_image: /static/img/banner/product/gts/rodas__desktop.jpg
+                mobile_image: /static/img/banner/product/gts/rodas__desktop.jpg
           stretch: true
       full_width: true
       mobile_card: true
@@ -327,8 +327,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: ../../../../static/img/banner/product/gts/base__desktop.jpg
-                mobile_image: ../../../../static/img/banner/product/gts/base__mobile.jpg
+                desktop_image: /static/img/banner/product/gts/base__desktop.jpg
+                mobile_image: /static/img/banner/product/gts/base__mobile.jpg
           stretch: true
         - content:
             - title: Base reforçada
@@ -365,8 +365,8 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  ../../../../static/img/banner/product/gts/garantia__desktop.png
-                mobile_image: ../../../../static/img/banner/product/gts/garantia__mobile.jpg
+                  /static/img/banner/product/gts/garantia__desktop.png
+                mobile_image: /static/img/banner/product/gts/garantia__mobile.jpg
           stretch: true
         - content:
             - title: 'Todas as cadeiras da Gaming Series contam com:'
@@ -390,7 +390,7 @@ blocks:
           width: 50%
       mobile_card: true
 featured_image:
-  desktop_image: ../../../../static/img/banner/product/gti/main-banner__desktop.jpg
+  desktop_image: /static/img/banner/product/gti/main-banner__desktop.jpg
 price:
   regular: 1099.9
   boleto: 989.91

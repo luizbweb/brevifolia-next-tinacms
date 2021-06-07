@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Cadeira de Escritório DT3 GTS Black Office
 id: 13578
 link: /office-series/cadeira-de-escritorio-dt3-gts-black/
 name: Cadeira de Escritório DT3 GTS Black Office
@@ -8,7 +8,7 @@ micro_name: GTS Black
 category: Cadeira
 subcategory: Office Series
 availability: in-stock
-main_image: ../../../../static/img/products/gts-se/gts-se.jpg
+main_image: /static/img/products/gts-se/gts-se.jpg
 description: >-
   • Couro PU.
 
@@ -42,34 +42,34 @@ galleries:
     color: Black
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/gts/black/00.jpg
-      - image: ../../../../static/img/products/gts/black/01.jpg
-      - image: ../../../../static/img/products/gts/black/02.jpg
-      - image: ../../../../static/img/products/gts/black/03.jpg
-      - image: ../../../../static/img/products/gts/black/04.jpg
-      - image: ../../../../static/img/products/gts/black/05.jpg
-      - image: ../../../../static/img/products/gts/black/06.jpg
-      - image: ../../../../static/img/products/gts/black/07.jpg
-      - image: ../../../../static/img/products/gts/black/08.jpg
+      - image: /static/img/products/gts/black/00.jpg
+      - image: /static/img/products/gts/black/01.jpg
+      - image: /static/img/products/gts/black/02.jpg
+      - image: /static/img/products/gts/black/03.jpg
+      - image: /static/img/products/gts/black/04.jpg
+      - image: /static/img/products/gts/black/05.jpg
+      - image: /static/img/products/gts/black/06.jpg
+      - image: /static/img/products/gts/black/07.jpg
+      - image: /static/img/products/gts/black/08.jpg
 slides:
   - title: Office Series
     link: /office-series
-    image: ../../../../static/img/categories/office-series.svg
+    image: /static/img/categories/office-series.svg
   - title: Spider
     link: /office-series/cadeira-de-escritorio-dt3-spider/
-    image: ../../../../static/img/products/spider/spider.svg
+    image: /static/img/products/spider/spider.svg
   - title: Gamma Office
     link: /office-series/cadeira-de-escritorio-dt3-gamma-office/
-    image: ../../../../static/img/products/gamma-office/gamma-office.svg
+    image: /static/img/products/gamma-office/gamma-office.svg
   - title: GTO
     link: /office-series/cadeira-de-escritorio-dt3-gto-office/
-    image: ../../../../static/img/products/gto/gto.svg
+    image: /static/img/products/gto/gto.svg
   - title: GTS Black
     link: /office-series/cadeira-de-escritorio-dt3-gts-black/
-    image: ../../../../static/img/products/gts-se/gts-se.svg
+    image: /static/img/products/gts-se/gts-se.svg
   - title: GTX Special Edition
     link: /office-series/cadeira-de-escritorio-dt3-gtx-se/
-    image: ../../../../static/img/products/gtx-se/gtx-se.svg
+    image: /static/img/products/gtx-se/gtx-se.svg
 menu:
   items:
     - text: Mecanismo
@@ -81,8 +81,8 @@ menu:
     - text: Garantia
       link: '#garantia'
 specs:
-  front: ../../../../static/img/products/gts/gts-specs-frontal.svg
-  side: ../../../../static/img/products/gts/gts-specs-lateral.svg
+  front: /static/img/products/gts/gts-specs-frontal.svg
+  side: /static/img/products/gts/gts-specs-lateral.svg
   items:
     - key: coating
       label: Revestimento
@@ -184,9 +184,9 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  ../../../../static/img/banner/product/gts/mecanismo__desktop.jpg
+                  /static/img/banner/product/gts/mecanismo__desktop.jpg
                 mobile_image: >-
-                  ../../../../static/img/banner/product/gts/mecanismo__mobile.jpg
+                  /static/img/banner/product/gts/mecanismo__mobile.jpg
           stretch: true
         - content:
             - title: Mecanismo Borboleta
@@ -232,8 +232,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: ../../../../static/img/banner/product/gts/rodas__desktop.jpg
-                mobile_image: ../../../../static/img/banner/product/gts/rodas__desktop.jpg
+                desktop_image: /static/img/banner/product/gts/rodas__desktop.jpg
+                mobile_image: /static/img/banner/product/gts/rodas__desktop.jpg
           stretch: true
       full_width: true
       mobile_card: true
@@ -246,8 +246,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: ../../../../static/img/banner/product/gts/base__desktop.jpg
-                mobile_image: ../../../../static/img/banner/product/gts/base__mobile.jpg
+                desktop_image: /static/img/banner/product/gts/base__desktop.jpg
+                mobile_image: /static/img/banner/product/gts/base__mobile.jpg
           stretch: true
         - content:
             - title: Base reforçada
@@ -284,8 +284,8 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  ../../../../static/img/banner/product/gts/garantia__desktop.png
-                mobile_image: ../../../../static/img/banner/product/gts/garantia__mobile.jpg
+                  /static/img/banner/product/gts/garantia__desktop.png
+                mobile_image: /static/img/banner/product/gts/garantia__mobile.jpg
           stretch: true
         - content:
             - title: 'Todas as cadeiras da Gaming Series contam com:'
@@ -309,7 +309,7 @@ blocks:
           width: 50%
       mobile_card: true
 featured_image:
-  desktop_image: ../../../../static/img/banner/product/gts-se/main-banner__desktop.jpg
+  desktop_image: /static/img/banner/product/gts-se/main-banner__desktop.jpg
 price:
   regular: 1049.9
   boleto: 944.91

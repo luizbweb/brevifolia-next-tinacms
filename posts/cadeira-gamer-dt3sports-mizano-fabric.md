@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Cadeira Gamer DT3sports Mizano Fabric
 id: 16209
 link: /racing-series/cadeira-gamer-dt3sports-mizano-fabric
 name: Cadeira Gamer DT3sports Mizano Fabric
@@ -9,7 +9,7 @@ category: Cadeira
 subcategory: Racing Series
 type: variable
 availability: in-stock
-main_image: ../../../../static/img/products/mizano/mizano.jpg
+main_image: /static/img/products/mizano/mizano.jpg
 description: >-
   • Apoio de braço 3D ajustável.
 
@@ -36,121 +36,121 @@ price:
   regular: 1799.9
   boleto: 1619.91
 featured_image:
-  desktop_image: ../../../../static/img/banner/product/mizano/main-banner__desktop.jpg
-  mobile_image: ../../../../static/img/banner/product/mizano/main-banner__mobile.jpg
+  desktop_image: /static/img/banner/product/mizano/main-banner__desktop.jpg
+  mobile_image: /static/img/banner/product/mizano/main-banner__mobile.jpg
 galleries:
   - id: 16212
     color: Red
     color_code: '#F8002E'
     availability: no-stock
     slides:
-      - image: ../../../../static/img/products/mizano/red/mizano-00.jpg
-      - image: ../../../../static/img/products/mizano/red/mizano-01.jpg
-      - image: ../../../../static/img/products/mizano/red/mizano-02.jpg
-      - image: ../../../../static/img/products/mizano/red/mizano-03.jpg
-      - image: ../../../../static/img/products/mizano/red/mizano-04.jpg
-      - image: ../../../../static/img/products/mizano/red/mizano-05.jpg
-      - image: ../../../../static/img/products/mizano/red/mizano-06.jpg
-      - image: ../../../../static/img/products/mizano/red/mizano-07.jpg
-      - image: ../../../../static/img/products/mizano/red/mizano-08.jpg
-      - image: ../../../../static/img/products/mizano/red/mizano-09.jpg
+      - image: /static/img/products/mizano/red/mizano-00.jpg
+      - image: /static/img/products/mizano/red/mizano-01.jpg
+      - image: /static/img/products/mizano/red/mizano-02.jpg
+      - image: /static/img/products/mizano/red/mizano-03.jpg
+      - image: /static/img/products/mizano/red/mizano-04.jpg
+      - image: /static/img/products/mizano/red/mizano-05.jpg
+      - image: /static/img/products/mizano/red/mizano-06.jpg
+      - image: /static/img/products/mizano/red/mizano-07.jpg
+      - image: /static/img/products/mizano/red/mizano-08.jpg
+      - image: /static/img/products/mizano/red/mizano-09.jpg
   - id: 16210
     color: Blue
     color_code: '#0433BF'
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/mizano/blue/mizano-00.jpg
-      - image: ../../../../static/img/products/mizano/blue/mizano-01.jpg
-      - image: ../../../../static/img/products/mizano/blue/mizano-02.jpg
-      - image: ../../../../static/img/products/mizano/blue/mizano-03.jpg
-      - image: ../../../../static/img/products/mizano/blue/mizano-04.jpg
-      - image: ../../../../static/img/products/mizano/blue/mizano-05.jpg
-      - image: ../../../../static/img/products/mizano/blue/mizano-06.jpg
-      - image: ../../../../static/img/products/mizano/blue/mizano-07.jpg
-      - image: ../../../../static/img/products/mizano/blue/mizano-08.jpg
-      - image: ../../../../static/img/products/mizano/blue/mizano-09.jpg
+      - image: /static/img/products/mizano/blue/mizano-00.jpg
+      - image: /static/img/products/mizano/blue/mizano-01.jpg
+      - image: /static/img/products/mizano/blue/mizano-02.jpg
+      - image: /static/img/products/mizano/blue/mizano-03.jpg
+      - image: /static/img/products/mizano/blue/mizano-04.jpg
+      - image: /static/img/products/mizano/blue/mizano-05.jpg
+      - image: /static/img/products/mizano/blue/mizano-06.jpg
+      - image: /static/img/products/mizano/blue/mizano-07.jpg
+      - image: /static/img/products/mizano/blue/mizano-08.jpg
+      - image: /static/img/products/mizano/blue/mizano-09.jpg
   - id: 16211
     color: Green
     color_code: '#51C819'
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/mizano/green/mizano-00.jpg
-      - image: ../../../../static/img/products/mizano/green/mizano-01.jpg
-      - image: ../../../../static/img/products/mizano/green/mizano-02.jpg
-      - image: ../../../../static/img/products/mizano/green/mizano-03.jpg
-      - image: ../../../../static/img/products/mizano/green/mizano-04.jpg
-      - image: ../../../../static/img/products/mizano/green/mizano-05.jpg
-      - image: ../../../../static/img/products/mizano/green/mizano-06.jpg
-      - image: ../../../../static/img/products/mizano/green/mizano-07.jpg
-      - image: ../../../../static/img/products/mizano/green/mizano-08.jpg
-      - image: ../../../../static/img/products/mizano/green/mizano-09.jpg
+      - image: /static/img/products/mizano/green/mizano-00.jpg
+      - image: /static/img/products/mizano/green/mizano-01.jpg
+      - image: /static/img/products/mizano/green/mizano-02.jpg
+      - image: /static/img/products/mizano/green/mizano-03.jpg
+      - image: /static/img/products/mizano/green/mizano-04.jpg
+      - image: /static/img/products/mizano/green/mizano-05.jpg
+      - image: /static/img/products/mizano/green/mizano-06.jpg
+      - image: /static/img/products/mizano/green/mizano-07.jpg
+      - image: /static/img/products/mizano/green/mizano-08.jpg
+      - image: /static/img/products/mizano/green/mizano-09.jpg
   - id: 16214
     color: Orange
     color_code: '#F25C05'
     availability: no-stock
     slides:
-      - image: ../../../../static/img/products/mizano/orange/mizano-00.jpg
-      - image: ../../../../static/img/products/mizano/orange/mizano-01.jpg
-      - image: ../../../../static/img/products/mizano/orange/mizano-02.jpg
-      - image: ../../../../static/img/products/mizano/orange/mizano-03.jpg
-      - image: ../../../../static/img/products/mizano/orange/mizano-04.jpg
-      - image: ../../../../static/img/products/mizano/orange/mizano-05.jpg
-      - image: ../../../../static/img/products/mizano/orange/mizano-06.jpg
-      - image: ../../../../static/img/products/mizano/orange/mizano-07.jpg
-      - image: ../../../../static/img/products/mizano/orange/mizano-08.jpg
-      - image: ../../../../static/img/products/mizano/orange/mizano-09.jpg
+      - image: /static/img/products/mizano/orange/mizano-00.jpg
+      - image: /static/img/products/mizano/orange/mizano-01.jpg
+      - image: /static/img/products/mizano/orange/mizano-02.jpg
+      - image: /static/img/products/mizano/orange/mizano-03.jpg
+      - image: /static/img/products/mizano/orange/mizano-04.jpg
+      - image: /static/img/products/mizano/orange/mizano-05.jpg
+      - image: /static/img/products/mizano/orange/mizano-06.jpg
+      - image: /static/img/products/mizano/orange/mizano-07.jpg
+      - image: /static/img/products/mizano/orange/mizano-08.jpg
+      - image: /static/img/products/mizano/orange/mizano-09.jpg
   - id: 16213
     color: Grey
     color_code: '#BFBFBF'
     availability: no-stock
     slides:
-      - image: ../../../../static/img/products/mizano/grey/mizano-00.jpg
-      - image: ../../../../static/img/products/mizano/grey/mizano-01.jpg
-      - image: ../../../../static/img/products/mizano/grey/mizano-02.jpg
-      - image: ../../../../static/img/products/mizano/grey/mizano-03.jpg
-      - image: ../../../../static/img/products/mizano/grey/mizano-04.jpg
-      - image: ../../../../static/img/products/mizano/grey/mizano-05.jpg
-      - image: ../../../../static/img/products/mizano/grey/mizano-06.jpg
-      - image: ../../../../static/img/products/mizano/grey/mizano-07.jpg
-      - image: ../../../../static/img/products/mizano/grey/mizano-08.jpg
-      - image: ../../../../static/img/products/mizano/grey/mizano-09.jpg
+      - image: /static/img/products/mizano/grey/mizano-00.jpg
+      - image: /static/img/products/mizano/grey/mizano-01.jpg
+      - image: /static/img/products/mizano/grey/mizano-02.jpg
+      - image: /static/img/products/mizano/grey/mizano-03.jpg
+      - image: /static/img/products/mizano/grey/mizano-04.jpg
+      - image: /static/img/products/mizano/grey/mizano-05.jpg
+      - image: /static/img/products/mizano/grey/mizano-06.jpg
+      - image: /static/img/products/mizano/grey/mizano-07.jpg
+      - image: /static/img/products/mizano/grey/mizano-08.jpg
+      - image: /static/img/products/mizano/grey/mizano-09.jpg
 slides:
   - title: Racing Series
     link: /racing-series
-    image: ../../../../static/img/categories/racing-series.svg
+    image: /static/img/categories/racing-series.svg
   - title: Elise
     link: /racing-series/cadeira-gamer-dt3sports-elise
-    image: ../../../../static/img/products/elise/elise.svg
+    image: /static/img/products/elise/elise.svg
   - title: Elise Fabric
     link: /racing-series/cadeira-gamer-dt3sports-elise-fabric
-    image: ../../../../static/img/products/elise-fabric/elise-fabric.svg
+    image: /static/img/products/elise-fabric/elise-fabric.svg
   - title: Elise Flamengo
     link: /racing-series/cadeira-gamer-dt3sports-elise-flamengo
-    image: ../../../../static/img/products/elise-flamengo/elise-flamengo.svg
+    image: /static/img/products/elise-flamengo/elise-flamengo.svg
   - title: Pixel
     link: /racing-series/cadeira-gamer-dt3sports-rgb-pixel
-    image: ../../../../static/img/products/pixel/pixel.svg
+    image: /static/img/products/pixel/pixel.svg
   - title: Estelar
     link: /racing-series/cadeira-gamer-dt3sports-rgb-estelar
-    image: ../../../../static/img/products/estelar/estelar.svg
+    image: /static/img/products/estelar/estelar.svg
   - title: Jaguar
     link: /racing-series/cadeira-gamer-dt3sports-jaguar
-    image: ../../../../static/img/products/jaguar/jaguar.svg
+    image: /static/img/products/jaguar/jaguar.svg
   - title: Mizano
     link: /racing-series/cadeira-gamer-dt3sports-mizano-fabric
-    image: ../../../../static/img/products/mizano/mizano.svg
+    image: /static/img/products/mizano/mizano.svg
   - title: Módena
     link: /racing-series/cadeira-gamer-dt3sports-modena
-    image: ../../../../static/img/products/modena/modena.svg
+    image: /static/img/products/modena/modena.svg
   - title: Ravena
     link: /racing-series/cadeira-gamer-dt3sports-ravena
-    image: ../../../../static/img/products/ravena/ravena.svg
+    image: /static/img/products/ravena/ravena.svg
   - title: Romeo
     link: /racing-series/cadeira-gamer-dt3sports-romeo-tecido
-    image: ../../../../static/img/products/romeo/romeo.svg
+    image: /static/img/products/romeo/romeo.svg
   - title: Pandora
     link: /racing-series/cadeira-gamer-dt3sports-pandora
-    image: ../../../../static/img/products/pandora/pandora.svg
+    image: /static/img/products/pandora/pandora.svg
 menu:
   items:
     - text: Design
@@ -173,20 +173,20 @@ menu:
       link: '#especificacoes'
 details:
   - title: Almofadas DT3
-    image: ../../../../static/img/banner/product/shared/details/almofadas-dt3.svg
+    image: /static/img/banner/product/shared/details/almofadas-dt3.svg
   - title: Espuma Injetada
-    image: ../../../../static/img/banner/product/shared/details/espuma-injetada.svg
+    image: /static/img/banner/product/shared/details/espuma-injetada.svg
   - title: Braço 4D
-    image: ../../../../static/img/banner/product/shared/details/braco-3d.svg
+    image: /static/img/banner/product/shared/details/braco-3d.svg
   - title: Inclinação
-    image: ../../../../static/img/banner/product/shared/details/inclinacao.svg
+    image: /static/img/banner/product/shared/details/inclinacao.svg
   - title: Base de Aço
-    image: ../../../../static/img/banner/product/shared/details/base-aco.svg
+    image: /static/img/banner/product/shared/details/base-aco.svg
   - title: Roda 65mm
-    image: ../../../../static/img/banner/product/shared/details/roda-65.svg
+    image: /static/img/banner/product/shared/details/roda-65.svg
 specs:
-  front: ../../../../static/img/products/mizano/mizano-specs-frontal.svg
-  side: ../../../../static/img/products/mizano/mizano-specs-lateral.svg
+  front: /static/img/products/mizano/mizano-specs-frontal.svg
+  side: /static/img/products/mizano/mizano-specs-lateral.svg
   items:
     - key: coating
       label: Revestimento
@@ -313,9 +313,9 @@ blocks:
               objectFit: contain
               image:
                 desktop_image: >-
-                  ../../../../static/img/banner/product/mizano/design__desktop.jpg
+                  /static/img/banner/product/mizano/design__desktop.jpg
                 mobile_image: >-
-                  ../../../../static/img/banner/product/mizano/main-banner__mobile.jpg
+                  /static/img/banner/product/mizano/main-banner__mobile.jpg
           screen: all
           debug: false
           width: ''
@@ -370,9 +370,9 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  ../../../../static/img/banner/product/mizano/construcao__desktop.jpg
+                  /static/img/banner/product/mizano/construcao__desktop.jpg
                 mobile_image: >-
-                  ../../../../static/img/banner/product/mizano/construcao__mobile.jpg
+                  /static/img/banner/product/mizano/construcao__mobile.jpg
           stretch: true
           height: ''
           debug: false
@@ -392,9 +392,9 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  ../../../../static/img/banner/product/mizano/mecanismo__desktop.jpg
+                  /static/img/banner/product/mizano/mecanismo__desktop.jpg
                 mobile_image: >-
-                  ../../../../static/img/banner/product/mizano/mecanismo__mobile.jpg
+                  /static/img/banner/product/mizano/mecanismo__mobile.jpg
           stretch: true
         - content:
             - title: Mecanismo Borboleta
@@ -417,7 +417,7 @@ blocks:
     banner:
       id: almofadas
       full_width: true
-      background_image: ../../../../static/img/banner/product/mizano/almofadas__desktop.jpg
+      background_image: /static/img/banner/product/mizano/almofadas__desktop.jpg
       blocks:
         - content:
             - objectFit: contain
@@ -425,7 +425,7 @@ blocks:
               _template: ImageBlock
               image:
                 mobile_image: >-
-                  ../../../../static/img/banner/product/mizano/almofadas__mobile.jpg
+                  /static/img/banner/product/mizano/almofadas__mobile.jpg
           width: 80px
         - background_color_alpha:
             color: ''
@@ -488,8 +488,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: ../../../../static/img/banner/product/mizano/base__desktop.jpg
-                mobile_image: ../../../../static/img/banner/product/mizano/base__mobile.jpg
+                desktop_image: /static/img/banner/product/mizano/base__desktop.jpg
+                mobile_image: /static/img/banner/product/mizano/base__mobile.jpg
           stretch: true
       full_width: true
       mobile_card: true
@@ -504,8 +504,8 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  ../../../../static/img/banner/product/mizano/rodas__desktop.jpg
-                mobile_image: ../../../../static/img/banner/product/mizano/rodas__mobile.jpg
+                  /static/img/banner/product/mizano/rodas__desktop.jpg
+                mobile_image: /static/img/banner/product/mizano/rodas__mobile.jpg
           stretch: true
         - content:
             - title: Rodas de 65mm
@@ -554,9 +554,9 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  ../../../../static/img/banner/product/mizano/material__desktop.jpg
+                  /static/img/banner/product/mizano/material__desktop.jpg
                 mobile_image: >-
-                  ../../../../static/img/banner/product/mizano/material__mobile.jpg
+                  /static/img/banner/product/mizano/material__mobile.jpg
           stretch: true
       full_width: true
       vertical_alignment: center
@@ -574,8 +574,8 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  ../../../../static/img/banner/product/mizano/braco__desktop.jpg
-                mobile_image: ../../../../static/img/banner/product/mizano/braco__mobile.jpg
+                  /static/img/banner/product/mizano/braco__desktop.jpg
+                mobile_image: /static/img/banner/product/mizano/braco__mobile.jpg
         - content:
             - title: Apoio de braço 3D
               text_alignment: left
@@ -603,9 +603,9 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  ../../../../static/img/banner/product/mizano/reclinio__desktop.jpg
+                  /static/img/banner/product/mizano/reclinio__desktop.jpg
                 mobile_image: >-
-                  ../../../../static/img/banner/product/mizano/reclinio__mobile.jpg
+                  /static/img/banner/product/mizano/reclinio__mobile.jpg
           stretch: true
       full_width: true
       vertical_alignment: center
@@ -624,9 +624,9 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  ../../../../static/img/banner/product/mizano/garantia__desktop.jpg
+                  /static/img/banner/product/mizano/garantia__desktop.jpg
                 mobile_image: >-
-                  ../../../../static/img/banner/product/mizano/garantia__mobile.jpg
+                  /static/img/banner/product/mizano/garantia__mobile.jpg
           stretch: true
         - content:
             - title: 'Todas as cadeiras da Racing Series contam com:'

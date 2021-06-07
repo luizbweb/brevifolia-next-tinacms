@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Cadeira Gamer DT3sports Pandora
 id: 26969
 link: /racing-series/cadeira-gamer-dt3sports-pandora
 name: Cadeira Gamer DT3sports Pandora
@@ -9,122 +9,122 @@ category: Cadeira
 subcategory: Racing Series
 type: variable
 availability: no-stock
-main_image: ../../../../static/img/products/pandora/pandora.jpg
+main_image: /static/img/products/pandora/pandora.jpg
 description: "• Apoio de braço 4D ajustável.-  \n• Estrutura de aço reforçado.  \n• Estofamento de Couro PU.  \n• Rodas 65mm super resistentes para piso ou carpete.  \n• Duas almofadas inclusas para apoio lombar e pescoço.\_"
 price:
   regular: 1549.9
   boleto: 1394.91
 featured_image:
-  desktop_image: ../../../../static/img/banner/product/pandora/main-banner__desktop.jpg
-  mobile_image: ../../../../static/img/banner/product/pandora/main-banner__mobile.jpg
+  desktop_image: /static/img/banner/product/pandora/main-banner__desktop.jpg
+  mobile_image: /static/img/banner/product/pandora/main-banner__mobile.jpg
 galleries:
   - id: 26974
     color: Red
     color_code: '#F8002E'
     availability: no-stock
     slides:
-      - image: ../../../../static/img/products/pandora/red/pandora-00.jpg
-      - image: ../../../../static/img/products/pandora/red/pandora-01.jpg
-      - image: ../../../../static/img/products/pandora/red/pandora-02.jpg
-      - image: ../../../../static/img/products/pandora/red/pandora-03.jpg
-      - image: ../../../../static/img/products/pandora/red/pandora-04.jpg
-      - image: ../../../../static/img/products/pandora/red/pandora-05.jpg
-      - image: ../../../../static/img/products/pandora/red/pandora-06.jpg
-      - image: ../../../../static/img/products/pandora/red/pandora-07.jpg
-      - image: ../../../../static/img/products/pandora/red/pandora-08.jpg
+      - image: /static/img/products/pandora/red/pandora-00.jpg
+      - image: /static/img/products/pandora/red/pandora-01.jpg
+      - image: /static/img/products/pandora/red/pandora-02.jpg
+      - image: /static/img/products/pandora/red/pandora-03.jpg
+      - image: /static/img/products/pandora/red/pandora-04.jpg
+      - image: /static/img/products/pandora/red/pandora-05.jpg
+      - image: /static/img/products/pandora/red/pandora-06.jpg
+      - image: /static/img/products/pandora/red/pandora-07.jpg
+      - image: /static/img/products/pandora/red/pandora-08.jpg
   - id: 26971
     color: Blue
     color_code: '#0433BF'
     availability: no-stock
     slides:
-      - image: ../../../../static/img/products/pandora/blue/pandora-00.jpg
-      - image: ../../../../static/img/products/pandora/blue/pandora-01.jpg
-      - image: ../../../../static/img/products/pandora/blue/pandora-02.jpg
-      - image: ../../../../static/img/products/pandora/blue/pandora-03.jpg
-      - image: ../../../../static/img/products/pandora/blue/pandora-04.jpg
-      - image: ../../../../static/img/products/pandora/blue/pandora-05.jpg
-      - image: ../../../../static/img/products/pandora/blue/pandora-06.jpg
-      - image: ../../../../static/img/products/pandora/blue/pandora-07.jpg
-      - image: ../../../../static/img/products/pandora/blue/pandora-08.jpg
+      - image: /static/img/products/pandora/blue/pandora-00.jpg
+      - image: /static/img/products/pandora/blue/pandora-01.jpg
+      - image: /static/img/products/pandora/blue/pandora-02.jpg
+      - image: /static/img/products/pandora/blue/pandora-03.jpg
+      - image: /static/img/products/pandora/blue/pandora-04.jpg
+      - image: /static/img/products/pandora/blue/pandora-05.jpg
+      - image: /static/img/products/pandora/blue/pandora-06.jpg
+      - image: /static/img/products/pandora/blue/pandora-07.jpg
+      - image: /static/img/products/pandora/blue/pandora-08.jpg
   - id: 26972
     color: Green
     color_code: '#51C819'
     availability: no-stock
     slides:
-      - image: ../../../../static/img/products/pandora/green/pandora-00.jpg
-      - image: ../../../../static/img/products/pandora/green/pandora-01.jpg
-      - image: ../../../../static/img/products/pandora/green/pandora-02.jpg
-      - image: ../../../../static/img/products/pandora/green/pandora-03.jpg
-      - image: ../../../../static/img/products/pandora/green/pandora-04.jpg
-      - image: ../../../../static/img/products/pandora/green/pandora-05.jpg
-      - image: ../../../../static/img/products/pandora/green/pandora-06.jpg
-      - image: ../../../../static/img/products/pandora/green/pandora-07.jpg
-      - image: ../../../../static/img/products/pandora/green/pandora-08.jpg
+      - image: /static/img/products/pandora/green/pandora-00.jpg
+      - image: /static/img/products/pandora/green/pandora-01.jpg
+      - image: /static/img/products/pandora/green/pandora-02.jpg
+      - image: /static/img/products/pandora/green/pandora-03.jpg
+      - image: /static/img/products/pandora/green/pandora-04.jpg
+      - image: /static/img/products/pandora/green/pandora-05.jpg
+      - image: /static/img/products/pandora/green/pandora-06.jpg
+      - image: /static/img/products/pandora/green/pandora-07.jpg
+      - image: /static/img/products/pandora/green/pandora-08.jpg
   - id: 26973
     color: Orange
     color_code: '#F25C05'
     availability: no-stock
     slides:
-      - image: ../../../../static/img/products/pandora/orange/pandora-00.jpg
-      - image: ../../../../static/img/products/pandora/orange/pandora-01.jpg
-      - image: ../../../../static/img/products/pandora/orange/pandora-02.jpg
-      - image: ../../../../static/img/products/pandora/orange/pandora-03.jpg
-      - image: ../../../../static/img/products/pandora/orange/pandora-04.jpg
-      - image: ../../../../static/img/products/pandora/orange/pandora-05.jpg
-      - image: ../../../../static/img/products/pandora/orange/pandora-06.jpg
-      - image: ../../../../static/img/products/pandora/orange/pandora-07.jpg
-      - image: ../../../../static/img/products/pandora/orange/pandora-08.jpg
+      - image: /static/img/products/pandora/orange/pandora-00.jpg
+      - image: /static/img/products/pandora/orange/pandora-01.jpg
+      - image: /static/img/products/pandora/orange/pandora-02.jpg
+      - image: /static/img/products/pandora/orange/pandora-03.jpg
+      - image: /static/img/products/pandora/orange/pandora-04.jpg
+      - image: /static/img/products/pandora/orange/pandora-05.jpg
+      - image: /static/img/products/pandora/orange/pandora-06.jpg
+      - image: /static/img/products/pandora/orange/pandora-07.jpg
+      - image: /static/img/products/pandora/orange/pandora-08.jpg
   - id: 26970
     color: Grey
     color_code: '#BFBFBF'
     availability: no-stock
     slides:
-      - image: ../../../../static/img/products/pandora/grey/pandora-00.jpg
-      - image: ../../../../static/img/products/pandora/grey/pandora-01.jpg
-      - image: ../../../../static/img/products/pandora/grey/pandora-02.jpg
-      - image: ../../../../static/img/products/pandora/grey/pandora-03.jpg
-      - image: ../../../../static/img/products/pandora/grey/pandora-04.jpg
-      - image: ../../../../static/img/products/pandora/grey/pandora-05.jpg
-      - image: ../../../../static/img/products/pandora/grey/pandora-06.jpg
-      - image: ../../../../static/img/products/pandora/grey/pandora-07.jpg
-      - image: ../../../../static/img/products/pandora/grey/pandora-08.jpg
+      - image: /static/img/products/pandora/grey/pandora-00.jpg
+      - image: /static/img/products/pandora/grey/pandora-01.jpg
+      - image: /static/img/products/pandora/grey/pandora-02.jpg
+      - image: /static/img/products/pandora/grey/pandora-03.jpg
+      - image: /static/img/products/pandora/grey/pandora-04.jpg
+      - image: /static/img/products/pandora/grey/pandora-05.jpg
+      - image: /static/img/products/pandora/grey/pandora-06.jpg
+      - image: /static/img/products/pandora/grey/pandora-07.jpg
+      - image: /static/img/products/pandora/grey/pandora-08.jpg
 slides:
   - title: Racing Series
     link: /racing-series
-    image: ../../../../static/img/categories/racing-series.svg
+    image: /static/img/categories/racing-series.svg
   - title: Elise
     link: /racing-series/cadeira-gamer-dt3sports-elise
-    image: ../../../../static/img/products/elise/elise.svg
+    image: /static/img/products/elise/elise.svg
   - title: Elise Fabric
     link: /racing-series/cadeira-gamer-dt3sports-elise-fabric
-    image: ../../../../static/img/products/elise-fabric/elise-fabric.svg
+    image: /static/img/products/elise-fabric/elise-fabric.svg
   - title: Elise Flamengo
     link: /racing-series/cadeira-gamer-dt3sports-elise-flamengo
-    image: ../../../../static/img/products/elise-flamengo/elise-flamengo.svg
+    image: /static/img/products/elise-flamengo/elise-flamengo.svg
   - title: Pixel
     link: /racing-series/cadeira-gamer-dt3sports-rgb-pixel
-    image: ../../../../static/img/products/pixel/pixel.svg
+    image: /static/img/products/pixel/pixel.svg
   - title: Estelar
     link: /racing-series/cadeira-gamer-dt3sports-rgb-estelar
-    image: ../../../../static/img/products/estelar/estelar.svg
+    image: /static/img/products/estelar/estelar.svg
   - title: Jaguar
     link: /racing-series/cadeira-gamer-dt3sports-jaguar
-    image: ../../../../static/img/products/jaguar/jaguar.svg
+    image: /static/img/products/jaguar/jaguar.svg
   - title: Mizano
     link: /racing-series/cadeira-gamer-dt3sports-mizano-fabric
-    image: ../../../../static/img/products/mizano/mizano.svg
+    image: /static/img/products/mizano/mizano.svg
   - title: Módena
     link: /racing-series/cadeira-gamer-dt3sports-modena
-    image: ../../../../static/img/products/modena/modena.svg
+    image: /static/img/products/modena/modena.svg
   - title: Ravena
     link: /racing-series/cadeira-gamer-dt3sports-ravena
-    image: ../../../../static/img/products/ravena/ravena.svg
+    image: /static/img/products/ravena/ravena.svg
   - title: Romeo
     link: /racing-series/cadeira-gamer-dt3sports-romeo-tecido
-    image: ../../../../static/img/products/romeo/romeo.svg
+    image: /static/img/products/romeo/romeo.svg
   - title: Pandora
     link: /racing-series/cadeira-gamer-dt3sports-pandora
-    image: ../../../../static/img/products/pandora/pandora.svg
+    image: /static/img/products/pandora/pandora.svg
 menu:
   items:
     - text: Design
@@ -147,18 +147,18 @@ menu:
       link: '#especificacoes'
 details:
   - title: Almofadas DT3
-    image: ../../../../static/img/banner/product/pandora/details/almofadas.svg
+    image: /static/img/banner/product/pandora/details/almofadas.svg
   - title: Espuma Injetada
-    image: ../../../../static/img/banner/product/pandora/details/espuma.svg
+    image: /static/img/banner/product/pandora/details/espuma.svg
   - title: Braço 4D
-    image: ../../../../static/img/banner/product/pandora/details/braco.svg
+    image: /static/img/banner/product/pandora/details/braco.svg
   - title: Inclinação 150º
-    image: ../../../../static/img/banner/product/pandora/details/inclinacao.svg
+    image: /static/img/banner/product/pandora/details/inclinacao.svg
   - title: Rodas de 65mm
-    image: ../../../../static/img/banner/product/pandora/details/rodas.svg
+    image: /static/img/banner/product/pandora/details/rodas.svg
 specs:
-  front: ../../../../static/img/products/pandora/pandora-specs-frontal.svg
-  side: ../../../../static/img/products/pandora/pandora-specs-lateral.svg
+  front: /static/img/products/pandora/pandora-specs-frontal.svg
+  side: /static/img/products/pandora/pandora-specs-lateral.svg
   items:
     - key: coating
       label: Revestimento
@@ -264,9 +264,9 @@ blocks:
               objectFit: contain
               image:
                 desktop_image: >-
-                  ../../../../static/img/banner/product/pandora/design__desktop.jpg
+                  /static/img/banner/product/pandora/design__desktop.jpg
                 mobile_image: >-
-                  ../../../../static/img/banner/product/pandora/main-banner__mobile.jpg
+                  /static/img/banner/product/pandora/main-banner__mobile.jpg
           screen: all
           debug: false
           width: ''
@@ -340,9 +340,9 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  ../../../../static/img/banner/product/pandora/construcao__desktop.jpg
+                  /static/img/banner/product/pandora/construcao__desktop.jpg
                 mobile_image: >-
-                  ../../../../static/img/banner/product/pandora/construcao__mobile.jpg
+                  /static/img/banner/product/pandora/construcao__mobile.jpg
           stretch: true
           height: ''
           debug: false
@@ -362,9 +362,9 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  ../../../../static/img/banner/product/pandora/mecanismo__desktop.jpg
+                  /static/img/banner/product/pandora/mecanismo__desktop.jpg
                 mobile_image: >-
-                  ../../../../static/img/banner/product/pandora/mecanismo__mobile.jpg
+                  /static/img/banner/product/pandora/mecanismo__mobile.jpg
           stretch: true
         - content:
             - title: Mecanismo Borboleta
@@ -386,7 +386,7 @@ blocks:
     banner:
       id: almofadas
       full_width: true
-      background_image: ../../../../static/img/banner/product/pandora/almofadas__desktop.jpg
+      background_image: /static/img/banner/product/pandora/almofadas__desktop.jpg
       blocks:
         - background_color_alpha:
             color: ''
@@ -427,7 +427,7 @@ blocks:
               _template: ImageBlock
               image:
                 mobile_image: >-
-                  ../../../../static/img/banner/product/pandora/almofadas__mobile.jpg
+                  /static/img/banner/product/pandora/almofadas__mobile.jpg
           width: 210px
           debug: false
       horizontal_alignment: center
@@ -444,8 +444,8 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  ../../../../static/img/banner/product/pandora/base__desktop.jpg
-                mobile_image: ../../../../static/img/banner/product/pandora/base__mobile.jpg
+                  /static/img/banner/product/pandora/base__desktop.jpg
+                mobile_image: /static/img/banner/product/pandora/base__mobile.jpg
           stretch: true
         - content:
             - title: Base reforçada
@@ -495,9 +495,9 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  ../../../../static/img/banner/product/pandora/rodas__desktop.jpg
+                  /static/img/banner/product/pandora/rodas__desktop.jpg
                 mobile_image: >-
-                  ../../../../static/img/banner/product/pandora/rodas__mobile.jpg
+                  /static/img/banner/product/pandora/rodas__mobile.jpg
           stretch: true
       full_width: true
       mobile_card: true
@@ -511,9 +511,9 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  ../../../../static/img/banner/product/pandora/material__desktop.jpg
+                  /static/img/banner/product/pandora/material__desktop.jpg
                 mobile_image: >-
-                  ../../../../static/img/banner/product/pandora/material__mobile.jpg
+                  /static/img/banner/product/pandora/material__mobile.jpg
           stretch: true
         - content:
             - title: Couro PU de alta qualidade
@@ -542,7 +542,7 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: ../../../../static/img/banner/product/braco-4d/braco-4d-01.gif
+                desktop_image: /static/img/banner/product/braco-4d/braco-4d-01.gif
           width: 50%
           screen: desktop
         - content:
@@ -550,7 +550,7 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: ../../../../static/img/banner/product/braco-4d/braco-4d-02.gif
+                desktop_image: /static/img/banner/product/braco-4d/braco-4d-02.gif
           screen: desktop
           width: 50%
         - content:
@@ -559,7 +559,7 @@ blocks:
               _template: ImageBlock
               image:
                 mobile_image: >-
-                  ../../../../static/img/banner/product/braco-4d/bracos__mobile.jpg
+                  /static/img/banner/product/braco-4d/bracos__mobile.jpg
           screen: mobile
         - content:
             - title: Braços 4D
@@ -602,9 +602,9 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  ../../../../static/img/banner/product/pandora/reclinio__desktop.jpg
+                  /static/img/banner/product/pandora/reclinio__desktop.jpg
                 mobile_image: >-
-                  ../../../../static/img/banner/product/pandora/reclinio__mobile.jpg
+                  /static/img/banner/product/pandora/reclinio__mobile.jpg
           stretch: true
       full_width: true
       vertical_alignment: center
@@ -623,9 +623,9 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  ../../../../static/img/banner/product/pandora/garantia__desktop.jpg
+                  /static/img/banner/product/pandora/garantia__desktop.jpg
                 mobile_image: >-
-                  ../../../../static/img/banner/product/pandora/garantia__mobile.jpg
+                  /static/img/banner/product/pandora/garantia__mobile.jpg
           stretch: true
         - content:
             - title: 'Todas as cadeiras da Racing Series contam com:'

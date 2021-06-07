@@ -9,71 +9,71 @@ category: Cadeira
 subcategory: Elite Series
 type: simple
 availability: in-stock
-main_image: ../../../../static/img/products/orion-flamengo/orion-flamengo.jpg
+main_image: /static/img/products/orion-flamengo/orion-flamengo.jpg
 description: "•\_[**DESCONTO ESPECIAL PARA SÓCIO TORCEDOR. CLIQUE AQUI PARA GERAR UM CUPOM DE DESCONTO**](https://www.dt3sports.com.br/loja/elite-series/cadeira-gamer-dt3sports-orion-flamengo/#)  \n• Logo do Flamengo, CRF e DT3sports bordado.  \n• Apoio de braço 4D ajustável.  \n• Estrutura 100% de aço reforçado para suportar maior peso.  \n• Couro sintético PU “Premium Label” com maior espessura.  \n• Rodas especiais de 75mm, com revestimento de poliuretano.  \n• Duas almofadas inclusas para apoio lombar e pescoço.  \n• Mecanismo Frog com trava do sistema rocking.\n\n[Fazer Download do Manual de Instruções](https://drive.google.com/open?id=17qo26Y80x4kK4XXQR2F1TN-qqdkmXAc4)"
 featured_image:
   desktop_image: >-
-    ../../../../static/img/banner/product/orion-flamengo/main-banner__desktop.jpg
+    /static/img/banner/product/orion-flamengo/main-banner__desktop.jpg
   mobile_image: >-
-    ../../../../static/img/banner/product/orion-flamengo/main-banner__desktop.jpg
+    /static/img/banner/product/orion-flamengo/main-banner__desktop.jpg
 galleries:
   - color: Red
     availability: in-stock
     slides:
       - image: >-
-          ../../../../static/img/products/orion-flamengo/red/Orion-Flamengo-00.jpg
+          /static/img/products/orion-flamengo/red/Orion-Flamengo-00.jpg
       - image: >-
-          ../../../../static/img/products/orion-flamengo/red/Orion-Flamengo-01.jpg
+          /static/img/products/orion-flamengo/red/Orion-Flamengo-01.jpg
       - image: >-
-          ../../../../static/img/products/orion-flamengo/red/Orion-Flamengo-02.jpg
+          /static/img/products/orion-flamengo/red/Orion-Flamengo-02.jpg
       - image: >-
-          ../../../../static/img/products/orion-flamengo/red/Orion-Flamengo-03.jpg
+          /static/img/products/orion-flamengo/red/Orion-Flamengo-03.jpg
       - image: >-
-          ../../../../static/img/products/orion-flamengo/red/Orion-Flamengo-04.jpg
+          /static/img/products/orion-flamengo/red/Orion-Flamengo-04.jpg
       - image: >-
-          ../../../../static/img/products/orion-flamengo/red/Orion-Flamengo-05.jpg
+          /static/img/products/orion-flamengo/red/Orion-Flamengo-05.jpg
       - image: >-
-          ../../../../static/img/products/orion-flamengo/red/Orion-Flamengo-06.jpg
+          /static/img/products/orion-flamengo/red/Orion-Flamengo-06.jpg
       - image: >-
-          ../../../../static/img/products/orion-flamengo/red/Orion-Flamengo-07.jpg
+          /static/img/products/orion-flamengo/red/Orion-Flamengo-07.jpg
       - image: >-
-          ../../../../static/img/products/orion-flamengo/red/Orion-Flamengo-08.jpg
+          /static/img/products/orion-flamengo/red/Orion-Flamengo-08.jpg
       - image: >-
-          ../../../../static/img/products/orion-flamengo/red/Orion-Flamengo-09.jpg
+          /static/img/products/orion-flamengo/red/Orion-Flamengo-09.jpg
       - image: >-
-          ../../../../static/img/products/orion-flamengo/red/Orion-Flamengo-010.jpg
+          /static/img/products/orion-flamengo/red/Orion-Flamengo-010.jpg
       - image: >-
-          ../../../../static/img/products/orion-flamengo/red/Orion-Flamengo-011.jpg
+          /static/img/products/orion-flamengo/red/Orion-Flamengo-011.jpg
       - image: >-
-          ../../../../static/img/products/orion-flamengo/red/Orion-Flamengo-012.jpg
+          /static/img/products/orion-flamengo/red/Orion-Flamengo-012.jpg
       - image: >-
-          ../../../../static/img/products/orion-flamengo/red/Orion-Flamengo-013.jpg
+          /static/img/products/orion-flamengo/red/Orion-Flamengo-013.jpg
       - image: >-
-          ../../../../static/img/products/orion-flamengo/red/Orion-Flamengo-014.jpg
+          /static/img/products/orion-flamengo/red/Orion-Flamengo-014.jpg
       - image: >-
-          ../../../../static/img/products/orion-flamengo/red/Orion-Flamengo-015.jpg
+          /static/img/products/orion-flamengo/red/Orion-Flamengo-015.jpg
 slides:
   - title: Elite Series
     link: /elite-series
-    image: ../../../../static/img/categories/elite-series.svg
+    image: /static/img/categories/elite-series.svg
   - title: Royce
     link: /elite-series/cadeira-gamer-dt3sports-royce-tecido
-    image: ../../../../static/img/products/royce/royce.svg
+    image: /static/img/products/royce/royce.svg
   - title: Rhino
     link: /elite-series/cadeira-gamer-dt3sports-rhino
-    image: ../../../../static/img/products/rhino/rhino.svg
+    image: /static/img/products/rhino/rhino.svg
   - title: Orion
     link: /elite-series/cadeira-gamer-dt3sports-orion
-    image: ../../../../static/img/products/orion/orion.svg
+    image: /static/img/products/orion/orion.svg
   - title: Onix Diamond
     link: /elite-series/cadeira-gamer-dt3sports-onix-diamond
-    image: ../../../../static/img/products/onix-dimond/onix-dimond.svg
+    image: /static/img/products/onix-dimond/onix-dimond.svg
   - title: Prime Evo
     link: /elite-series/cadeira-gamer-dt3sports-prime-evo
-    image: ../../../../static/img/products/prime-evo/prime-evo.svg
+    image: /static/img/products/prime-evo/prime-evo.svg
   - title: Orion Flamengo
     link: /elite-series/cadeira-gamer-dt3sports-orion-flamengo/
-    image: ../../../../static/img/products/orion/orion.svg
+    image: /static/img/products/orion/orion.svg
 menu:
   items:
     - text: Introdução
@@ -100,20 +100,20 @@ menu:
       link: '#especificacoes'
 details:
   - title: Almofadas DT3
-    image: ../../../../static/img/banner/product/shared/details/almofadas.svg
+    image: /static/img/banner/product/shared/details/almofadas.svg
   - title: Espuma Injetada
-    image: ../../../../static/img/banner/product/shared/details/espuma.svg
+    image: /static/img/banner/product/shared/details/espuma.svg
   - title: Mecanismo Frog
-    image: ../../../../static/img/banner/product/shared/details/mecanismo.svg
+    image: /static/img/banner/product/shared/details/mecanismo.svg
   - title: Base Reforçada
-    image: ../../../../static/img/banner/product/shared/details/base.svg
+    image: /static/img/banner/product/shared/details/base.svg
   - title: Roda 75mm
-    image: ../../../../static/img/banner/product/shared/details/roda.svg
+    image: /static/img/banner/product/shared/details/roda.svg
   - title: Braço 4D
-    image: ../../../../static/img/banner/product/shared/details/braco.svg
+    image: /static/img/banner/product/shared/details/braco.svg
 specs:
-  front: ../../../../static/img/products/orion/orion-specs-frontal.svg
-  side: ../../../../static/img/products/orion/orion-specs-lateral.svg
+  front: /static/img/products/orion/orion-specs-frontal.svg
+  side: /static/img/products/orion/orion-specs-lateral.svg
   items:
     - key: coating
       label: Revestimento
@@ -217,7 +217,7 @@ blocks:
       vertical_alignment: center
       full_width: true
       mobile_card: true
-      background_image: ../../../../static/img/banner/product/orion/orion-design__desktop.jpg
+      background_image: /static/img/banner/product/orion/orion-design__desktop.jpg
       blocks:
         - width: 1px
           content:
@@ -226,7 +226,7 @@ blocks:
               _template: ImageBlock
               image:
                 mobile_image: >-
-                  ../../../../static/img/banner/product/orion/orion-design__mobile.jpg
+                  /static/img/banner/product/orion/orion-design__mobile.jpg
         - content:
             - title: Design
               text_alignment: center
@@ -264,9 +264,9 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  ../../../../static/img/banner/product/orion/orion-construcao__desktop.jpg
+                  /static/img/banner/product/orion/orion-construcao__desktop.jpg
                 mobile_image: >-
-                  ../../../../static/img/banner/product/orion/orion-construcao__mobile.jpg
+                  /static/img/banner/product/orion/orion-construcao__mobile.jpg
           stretch: true
           width: 100%
           height: 80vh
@@ -356,7 +356,7 @@ blocks:
         - content:
             - _template: ImageBlock
               image:
-                mobile_image: ../../../../static/img/banner/product/shared/frog__mobile.jpg
+                mobile_image: /static/img/banner/product/shared/frog__mobile.jpg
           screen: mobile
       horizontal_alignment: flex-start
       vertical_alignment: stretch
@@ -371,8 +371,8 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  ../../../../static/img/banner/product/shared/rodas__desktop.jpg
-                mobile_image: ../../../../static/img/banner/product/shared/rodas__mobile.jpg
+                  /static/img/banner/product/shared/rodas__desktop.jpg
+                mobile_image: /static/img/banner/product/shared/rodas__mobile.jpg
           stretch: true
         - content:
             - title: Rodas 75mm com revestimento de poliuretano
@@ -424,8 +424,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: ../../../../static/img/banner/product/shared/base__desktop.jpg
-                mobile_image: ../../../../static/img/banner/product/shared/base__mobile.jpg
+                desktop_image: /static/img/banner/product/shared/base__desktop.jpg
+                mobile_image: /static/img/banner/product/shared/base__mobile.jpg
           stretch: true
       full_width: true
       vertical_alignment: center
@@ -441,9 +441,9 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  ../../../../static/img/banner/product/orion/orion-material__desktop.jpg
+                  /static/img/banner/product/orion/orion-material__desktop.jpg
                 mobile_image: >-
-                  ../../../../static/img/banner/product/orion/orion-material__mobile.jpg
+                  /static/img/banner/product/orion/orion-material__mobile.jpg
           stretch: true
         - content:
             - title: Couro PU da mais alta qualidade
@@ -482,7 +482,7 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: ../../../../static/img/banner/product/braco-4d/braco-4d-01.gif
+                desktop_image: /static/img/banner/product/braco-4d/braco-4d-01.gif
           width: 50%
           screen: desktop
         - content:
@@ -490,7 +490,7 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: ../../../../static/img/banner/product/braco-4d/braco-4d-02.gif
+                desktop_image: /static/img/banner/product/braco-4d/braco-4d-02.gif
           screen: desktop
           width: 50%
         - content:
@@ -499,7 +499,7 @@ blocks:
               _template: ImageBlock
               image:
                 mobile_image: >-
-                  ../../../../static/img/banner/product/braco-4d/braco-4d__mobile.jpg
+                  /static/img/banner/product/braco-4d/braco-4d__mobile.jpg
           screen: mobile
         - content:
             - title: Braços 4D
@@ -552,7 +552,7 @@ blocks:
               _template: ImageBlock
               image:
                 mobile_image: >-
-                  ../../../../static/img/banner/product/shared/reclinio__mobile.jpg
+                  /static/img/banner/product/shared/reclinio__mobile.jpg
           screen: mobile
       background_color: '#474747'
       full_width: true
@@ -571,9 +571,9 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  ../../../../static/img/banner/product/orion/orion-garantia__desktop.jpg
+                  /static/img/banner/product/orion/orion-garantia__desktop.jpg
                 mobile_image: >-
-                  ../../../../static/img/banner/product/orion/orion-garantia__mobile.jpg
+                  /static/img/banner/product/orion/orion-garantia__mobile.jpg
           stretch: true
         - content:
             - title: 'Todas as cadeiras da Elite Series contam com:'

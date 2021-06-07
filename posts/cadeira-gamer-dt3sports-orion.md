@@ -9,7 +9,7 @@ category: Cadeira
 subcategory: Elite Series
 type: variable
 availability: in-stock
-main_image: ../../../../static/img/products/orion/red/orion-00.jpg
+main_image: /static/img/products/orion/red/orion-00.jpg
 description: >-
   • Apoio de braço 4D ajustável.
 
@@ -36,93 +36,93 @@ galleries:
     color_code: '#F8002E'
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/orion/red/orion-00.jpg
-      - image: ../../../../static/img/products/orion/red/orion-01.jpg
-      - image: ../../../../static/img/products/orion/red/orion-02.jpg
-      - image: ../../../../static/img/products/orion/red/orion-03.jpg
-      - image: ../../../../static/img/products/orion/red/orion-04.jpg
-      - image: ../../../../static/img/products/orion/red/orion-05.jpg
-      - image: ../../../../static/img/products/orion/red/orion-06.jpg
-      - image: ../../../../static/img/products/orion/red/orion-07.jpg
-      - image: ../../../../static/img/products/orion/red/orion-08.jpg
+      - image: /static/img/products/orion/red/orion-00.jpg
+      - image: /static/img/products/orion/red/orion-01.jpg
+      - image: /static/img/products/orion/red/orion-02.jpg
+      - image: /static/img/products/orion/red/orion-03.jpg
+      - image: /static/img/products/orion/red/orion-04.jpg
+      - image: /static/img/products/orion/red/orion-05.jpg
+      - image: /static/img/products/orion/red/orion-06.jpg
+      - image: /static/img/products/orion/red/orion-07.jpg
+      - image: /static/img/products/orion/red/orion-08.jpg
   - id: 14042
     color: Blue
     color_code: '#0433BF'
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/orion/blue/orion-00.jpg
-      - image: ../../../../static/img/products/orion/blue/orion-01.jpg
-      - image: ../../../../static/img/products/orion/blue/orion-02.jpg
-      - image: ../../../../static/img/products/orion/blue/orion-03.jpg
-      - image: ../../../../static/img/products/orion/blue/orion-04.jpg
-      - image: ../../../../static/img/products/orion/blue/orion-05.jpg
-      - image: ../../../../static/img/products/orion/blue/orion-06.jpg
-      - image: ../../../../static/img/products/orion/blue/orion-07.jpg
-      - image: ../../../../static/img/products/orion/blue/orion-08.jpg
+      - image: /static/img/products/orion/blue/orion-00.jpg
+      - image: /static/img/products/orion/blue/orion-01.jpg
+      - image: /static/img/products/orion/blue/orion-02.jpg
+      - image: /static/img/products/orion/blue/orion-03.jpg
+      - image: /static/img/products/orion/blue/orion-04.jpg
+      - image: /static/img/products/orion/blue/orion-05.jpg
+      - image: /static/img/products/orion/blue/orion-06.jpg
+      - image: /static/img/products/orion/blue/orion-07.jpg
+      - image: /static/img/products/orion/blue/orion-08.jpg
   - id: 14036
     color: Grey
     color_code: '#BFBFBF'
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/orion/grey/orion-00.jpg
-      - image: ../../../../static/img/products/orion/grey/orion-01.jpg
-      - image: ../../../../static/img/products/orion/grey/orion-02.jpg
-      - image: ../../../../static/img/products/orion/grey/orion-03.jpg
-      - image: ../../../../static/img/products/orion/grey/orion-04.jpg
-      - image: ../../../../static/img/products/orion/grey/orion-05.jpg
-      - image: ../../../../static/img/products/orion/grey/orion-06.jpg
-      - image: ../../../../static/img/products/orion/grey/orion-07.jpg
-      - image: ../../../../static/img/products/orion/grey/orion-08.jpg
+      - image: /static/img/products/orion/grey/orion-00.jpg
+      - image: /static/img/products/orion/grey/orion-01.jpg
+      - image: /static/img/products/orion/grey/orion-02.jpg
+      - image: /static/img/products/orion/grey/orion-03.jpg
+      - image: /static/img/products/orion/grey/orion-04.jpg
+      - image: /static/img/products/orion/grey/orion-05.jpg
+      - image: /static/img/products/orion/grey/orion-06.jpg
+      - image: /static/img/products/orion/grey/orion-07.jpg
+      - image: /static/img/products/orion/grey/orion-08.jpg
   - id: 14041
     color: Green
     color_code: '#51C819'
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/orion/green/orion-00.jpg
-      - image: ../../../../static/img/products/orion/green/orion-01.jpg
-      - image: ../../../../static/img/products/orion/green/orion-02.jpg
-      - image: ../../../../static/img/products/orion/green/orion-03.jpg
-      - image: ../../../../static/img/products/orion/green/orion-04.jpg
-      - image: ../../../../static/img/products/orion/green/orion-05.jpg
-      - image: ../../../../static/img/products/orion/green/orion-06.jpg
-      - image: ../../../../static/img/products/orion/green/orion-07.jpg
-      - image: ../../../../static/img/products/orion/green/orion-08.jpg
+      - image: /static/img/products/orion/green/orion-00.jpg
+      - image: /static/img/products/orion/green/orion-01.jpg
+      - image: /static/img/products/orion/green/orion-02.jpg
+      - image: /static/img/products/orion/green/orion-03.jpg
+      - image: /static/img/products/orion/green/orion-04.jpg
+      - image: /static/img/products/orion/green/orion-05.jpg
+      - image: /static/img/products/orion/green/orion-06.jpg
+      - image: /static/img/products/orion/green/orion-07.jpg
+      - image: /static/img/products/orion/green/orion-08.jpg
   - id: 14037
     color: Orange
     color_code: '#F25C05'
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/orion/orange/orion-00.jpg
-      - image: ../../../../static/img/products/orion/orange/orion-01.jpg
-      - image: ../../../../static/img/products/orion/orange/orion-02.jpg
-      - image: ../../../../static/img/products/orion/orange/orion-03.jpg
-      - image: ../../../../static/img/products/orion/orange/orion-04.jpg
-      - image: ../../../../static/img/products/orion/orange/orion-05.jpg
-      - image: ../../../../static/img/products/orion/orange/orion-06.jpg
-      - image: ../../../../static/img/products/orion/orange/orion-07.jpg
-      - image: ../../../../static/img/products/orion/orange/orion-08.jpg
+      - image: /static/img/products/orion/orange/orion-00.jpg
+      - image: /static/img/products/orion/orange/orion-01.jpg
+      - image: /static/img/products/orion/orange/orion-02.jpg
+      - image: /static/img/products/orion/orange/orion-03.jpg
+      - image: /static/img/products/orion/orange/orion-04.jpg
+      - image: /static/img/products/orion/orange/orion-05.jpg
+      - image: /static/img/products/orion/orange/orion-06.jpg
+      - image: /static/img/products/orion/orange/orion-07.jpg
+      - image: /static/img/products/orion/orange/orion-08.jpg
 slides:
   - title: Elite Series
     link: /elite-series
-    image: ../../../../static/img/categories/elite-series.svg
+    image: /static/img/categories/elite-series.svg
   - title: Royce
     link: /elite-series/cadeira-gamer-dt3sports-royce-tecido
-    image: ../../../../static/img/products/royce/royce.svg
+    image: /static/img/products/royce/royce.svg
   - title: Rhino
     link: /elite-series/cadeira-gamer-dt3sports-rhino
-    image: ../../../../static/img/products/rhino/rhino.svg
+    image: /static/img/products/rhino/rhino.svg
   - title: Orion
     link: /elite-series/cadeira-gamer-dt3sports-orion
-    image: ../../../../static/img/products/orion/orion.svg
+    image: /static/img/products/orion/orion.svg
   - title: Onix Diamond
     link: /elite-series/cadeira-gamer-dt3sports-onix-diamond
-    image: ../../../../static/img/products/onix-dimond/onix-dimond.svg
+    image: /static/img/products/onix-dimond/onix-dimond.svg
   - title: Prime Evo
     link: /elite-series/cadeira-gamer-dt3sports-prime-evo
-    image: ../../../../static/img/products/prime-evo/prime-evo.svg
+    image: /static/img/products/prime-evo/prime-evo.svg
   - title: Orion Flamengo
     link: /elite-series/cadeira-gamer-dt3sports-orion-flamengo/
-    image: ../../../../static/img/products/orion/orion.svg
+    image: /static/img/products/orion/orion.svg
 menu:
   items:
     - text: Introdução
@@ -149,20 +149,20 @@ menu:
       link: '#especificacoes'
 details:
   - title: Almofadas DT3
-    image: ../../../../static/img/banner/product/shared/details/almofadas.svg
+    image: /static/img/banner/product/shared/details/almofadas.svg
   - title: Espuma Injetada
-    image: ../../../../static/img/banner/product/shared/details/espuma.svg
+    image: /static/img/banner/product/shared/details/espuma.svg
   - title: Mecanismo Frog
-    image: ../../../../static/img/banner/product/shared/details/mecanismo.svg
+    image: /static/img/banner/product/shared/details/mecanismo.svg
   - title: Base Reforçada
-    image: ../../../../static/img/banner/product/shared/details/base.svg
+    image: /static/img/banner/product/shared/details/base.svg
   - title: Roda 75mm
-    image: ../../../../static/img/banner/product/shared/details/roda.svg
+    image: /static/img/banner/product/shared/details/roda.svg
   - title: Braço 4D
-    image: ../../../../static/img/banner/product/shared/details/braco.svg
+    image: /static/img/banner/product/shared/details/braco.svg
 specs:
-  front: ../../../../static/img/products/orion/orion-specs-frontal.svg
-  side: ../../../../static/img/products/orion/orion-specs-lateral.svg
+  front: /static/img/products/orion/orion-specs-frontal.svg
+  side: /static/img/products/orion/orion-specs-lateral.svg
   items:
     - key: coating
       label: Revestimento
@@ -267,7 +267,7 @@ blocks:
       full_width: true
       mobile_card: true
       background_image: >-
-        ../../../../static/img/uploads/banner/background/8-material-orion-desktop.jpg
+        /static/img/uploads/banner/background/8-material-orion-desktop.jpg
       blocks:
         - content:
             - title: Design
@@ -297,7 +297,7 @@ blocks:
       full_width: true
       height: 60vh
       background_image: >-
-        ../../../../static/img/uploads/banner/background/3-design2-orion-desktop2.jpg
+        /static/img/uploads/banner/background/3-design2-orion-desktop2.jpg
   - _template: BannerBlock
     banner:
       id: base
@@ -307,7 +307,7 @@ blocks:
       mobile_card: true
       height: 60vh
       background_image: >-
-        ../../../../static/img/uploads/banner/background/4-estrutura-orion-desktop.jpg
+        /static/img/uploads/banner/background/4-estrutura-orion-desktop.jpg
   - _template: BannerBlock
     banner:
       id: revestimento
@@ -316,7 +316,7 @@ blocks:
       mobile_card: true
       height: 60vh
       background_image: >-
-        ../../../../static/img/uploads/banner/background/5-cores-orion-desktop.jpg
+        /static/img/uploads/banner/background/5-cores-orion-desktop.jpg
   - _template: BannerBlock
     banner:
       id: rodas
@@ -325,7 +325,7 @@ blocks:
       mobile_card: true
       height: 60vh
       background_image: >-
-        ../../../../static/img/uploads/banner/background/6-rodas-orion-desktop.jpg
+        /static/img/uploads/banner/background/6-rodas-orion-desktop.jpg
   - _template: BannerBlock
     banner:
       id: bracos
@@ -335,7 +335,7 @@ blocks:
       mobile_card: true
       height: 60vh
       background_image: >-
-        ../../../../static/img/uploads/banner/background/7-base-orion-desktop.jpg
+        /static/img/uploads/banner/background/7-base-orion-desktop.jpg
   - _template: BannerBlock
     banner:
       id: almofadas
@@ -346,7 +346,7 @@ blocks:
       mobile_card: true
       height: 60vh
       background_image: >-
-        ../../../../static/img/uploads/banner/background/2-design1-orion-desktop2.jpg
+        /static/img/uploads/banner/background/2-design1-orion-desktop2.jpg
   - _template: BannerBlock
     banner:
       id: garantia
@@ -354,7 +354,7 @@ blocks:
       mobile_card: true
       height: 60vh
       background_image: >-
-        ../../../../static/img/uploads/banner/background/9-garantia-orion-desktop.jpg
+        /static/img/uploads/banner/background/9-garantia-orion-desktop.jpg
 keywords: >-
   cadeira, gamer, jogar, setup, couro, pu, premium, reclinio, 160, graus, braço,
   braços, 4d, de, para, com
@@ -363,5 +363,5 @@ price:
   boleto: 2609.91
 featured_image:
   desktop_image: >-
-    ../../../../static/img/uploads/products/featured/1-intro-orion-desktop_Prancheta1.jpg
+    /static/img/uploads/products/featured/1-intro-orion-desktop_Prancheta1.jpg
 ---

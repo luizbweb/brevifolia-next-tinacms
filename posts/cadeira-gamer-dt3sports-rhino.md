@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Cadeira Gamer DT3Sports Rhino
 id: 18549
 link: /elite-series/cadeira-gamer-dt3sports-rhino
 name: Cadeira Gamer DT3Sports Rhino
@@ -9,7 +9,7 @@ category: Cadeira
 subcategory: Elite Series
 type: variable
 availability: in-stock
-main_image: ../../../../static/img/products/rhino/red/rhino-00.jpg
+main_image: /static/img/products/rhino/red/rhino-00.jpg
 description: >-
   • Apoio de braço 4D ajustável.
 
@@ -38,109 +38,109 @@ price:
   boleto: 2699.91
 featured_image:
   desktop_image: >-
-    ../../../../static/img/uploads/products/featured/1-introbanner-rhino-desktop.jpg
-  mobile_image: ../../../../static/img/banner/product/rhino/rhino-00__mobile.jpg
+    /static/img/uploads/products/featured/1-introbanner-rhino-desktop.jpg
+  mobile_image: /static/img/banner/product/rhino/rhino-00__mobile.jpg
 galleries:
   - id: 18552
     color: Red
     color_code: '#F8002E'
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/rhino/red/rhino-00.jpg
-      - image: ../../../../static/img/products/rhino/red/rhino-01.jpg
-      - image: ../../../../static/img/products/rhino/red/rhino-02.jpg
-      - image: ../../../../static/img/products/rhino/red/rhino-03.jpg
-      - image: ../../../../static/img/products/rhino/red/rhino-04.jpg
-      - image: ../../../../static/img/products/rhino/red/rhino-05.jpg
-      - image: ../../../../static/img/products/rhino/red/rhino-06.jpg
-      - image: ../../../../static/img/products/rhino/red/rhino-07.jpg
+      - image: /static/img/products/rhino/red/rhino-00.jpg
+      - image: /static/img/products/rhino/red/rhino-01.jpg
+      - image: /static/img/products/rhino/red/rhino-02.jpg
+      - image: /static/img/products/rhino/red/rhino-03.jpg
+      - image: /static/img/products/rhino/red/rhino-04.jpg
+      - image: /static/img/products/rhino/red/rhino-05.jpg
+      - image: /static/img/products/rhino/red/rhino-06.jpg
+      - image: /static/img/products/rhino/red/rhino-07.jpg
   - id: 18550
     color: Black
     color_code: '#1D1D1D'
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/rhino/black/rhino-00.jpg
-      - image: ../../../../static/img/products/rhino/black/rhino-01.jpg
-      - image: ../../../../static/img/products/rhino/black/rhino-02.jpg
-      - image: ../../../../static/img/products/rhino/black/rhino-03.jpg
-      - image: ../../../../static/img/products/rhino/black/rhino-04.jpg
-      - image: ../../../../static/img/products/rhino/black/rhino-05.jpg
-      - image: ../../../../static/img/products/rhino/black/rhino-06.jpg
-      - image: ../../../../static/img/products/rhino/black/rhino-07.jpg
+      - image: /static/img/products/rhino/black/rhino-00.jpg
+      - image: /static/img/products/rhino/black/rhino-01.jpg
+      - image: /static/img/products/rhino/black/rhino-02.jpg
+      - image: /static/img/products/rhino/black/rhino-03.jpg
+      - image: /static/img/products/rhino/black/rhino-04.jpg
+      - image: /static/img/products/rhino/black/rhino-05.jpg
+      - image: /static/img/products/rhino/black/rhino-06.jpg
+      - image: /static/img/products/rhino/black/rhino-07.jpg
   - id: 18551
     color: White
     color_code: '#FFFFFF'
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/rhino/white/rhino-00.jpg
-      - image: ../../../../static/img/products/rhino/white/rhino-01.jpg
-      - image: ../../../../static/img/products/rhino/white/rhino-02.jpg
-      - image: ../../../../static/img/products/rhino/white/rhino-03.jpg
-      - image: ../../../../static/img/products/rhino/white/rhino-04.jpg
-      - image: ../../../../static/img/products/rhino/white/rhino-05.jpg
-      - image: ../../../../static/img/products/rhino/white/rhino-06.jpg
-      - image: ../../../../static/img/products/rhino/white/rhino-07.jpg
+      - image: /static/img/products/rhino/white/rhino-00.jpg
+      - image: /static/img/products/rhino/white/rhino-01.jpg
+      - image: /static/img/products/rhino/white/rhino-02.jpg
+      - image: /static/img/products/rhino/white/rhino-03.jpg
+      - image: /static/img/products/rhino/white/rhino-04.jpg
+      - image: /static/img/products/rhino/white/rhino-05.jpg
+      - image: /static/img/products/rhino/white/rhino-06.jpg
+      - image: /static/img/products/rhino/white/rhino-07.jpg
   - id: 18555
     color: Blue
     color_code: '#0433BF'
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/rhino/blue/rhino-00.jpg
-      - image: ../../../../static/img/products/rhino/blue/rhino-01.jpg
-      - image: ../../../../static/img/products/rhino/blue/rhino-02.jpg
-      - image: ../../../../static/img/products/rhino/blue/rhino-03.jpg
-      - image: ../../../../static/img/products/rhino/blue/rhino-04.jpg
-      - image: ../../../../static/img/products/rhino/blue/rhino-05.jpg
-      - image: ../../../../static/img/products/rhino/blue/rhino-06.jpg
-      - image: ../../../../static/img/products/rhino/blue/rhino-07.jpg
+      - image: /static/img/products/rhino/blue/rhino-00.jpg
+      - image: /static/img/products/rhino/blue/rhino-01.jpg
+      - image: /static/img/products/rhino/blue/rhino-02.jpg
+      - image: /static/img/products/rhino/blue/rhino-03.jpg
+      - image: /static/img/products/rhino/blue/rhino-04.jpg
+      - image: /static/img/products/rhino/blue/rhino-05.jpg
+      - image: /static/img/products/rhino/blue/rhino-06.jpg
+      - image: /static/img/products/rhino/blue/rhino-07.jpg
   - id: 18553
     color: Orange
     color_code: '#F25C05'
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/rhino/orange/rhino-00.jpg
-      - image: ../../../../static/img/products/rhino/orange/rhino-01.jpg
-      - image: ../../../../static/img/products/rhino/orange/rhino-02.jpg
-      - image: ../../../../static/img/products/rhino/orange/rhino-03.jpg
-      - image: ../../../../static/img/products/rhino/orange/rhino-04.jpg
-      - image: ../../../../static/img/products/rhino/orange/rhino-05.jpg
-      - image: ../../../../static/img/products/rhino/orange/rhino-06.jpg
-      - image: ../../../../static/img/products/rhino/orange/rhino-07.jpg
+      - image: /static/img/products/rhino/orange/rhino-00.jpg
+      - image: /static/img/products/rhino/orange/rhino-01.jpg
+      - image: /static/img/products/rhino/orange/rhino-02.jpg
+      - image: /static/img/products/rhino/orange/rhino-03.jpg
+      - image: /static/img/products/rhino/orange/rhino-04.jpg
+      - image: /static/img/products/rhino/orange/rhino-05.jpg
+      - image: /static/img/products/rhino/orange/rhino-06.jpg
+      - image: /static/img/products/rhino/orange/rhino-07.jpg
   - id: 18554
     color: Green
     color_code: '#51C819'
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/rhino/green/rhino-00.jpg
-      - image: ../../../../static/img/products/rhino/green/rhino-01.jpg
-      - image: ../../../../static/img/products/rhino/green/rhino-02.jpg
-      - image: ../../../../static/img/products/rhino/green/rhino-03.jpg
-      - image: ../../../../static/img/products/rhino/green/rhino-04.jpg
-      - image: ../../../../static/img/products/rhino/green/rhino-05.jpg
-      - image: ../../../../static/img/products/rhino/green/rhino-06.jpg
-      - image: ../../../../static/img/products/rhino/green/rhino-07.jpg
+      - image: /static/img/products/rhino/green/rhino-00.jpg
+      - image: /static/img/products/rhino/green/rhino-01.jpg
+      - image: /static/img/products/rhino/green/rhino-02.jpg
+      - image: /static/img/products/rhino/green/rhino-03.jpg
+      - image: /static/img/products/rhino/green/rhino-04.jpg
+      - image: /static/img/products/rhino/green/rhino-05.jpg
+      - image: /static/img/products/rhino/green/rhino-06.jpg
+      - image: /static/img/products/rhino/green/rhino-07.jpg
 slides:
   - title: Elite Series
     link: /elite-series
-    image: ../../../../static/img/categories/elite-series.svg
+    image: /static/img/categories/elite-series.svg
   - title: Royce
     link: /elite-series/cadeira-gamer-dt3sports-royce-tecido
-    image: ../../../../static/img/products/royce/royce.svg
+    image: /static/img/products/royce/royce.svg
   - title: Rhino
     link: /elite-series/cadeira-gamer-dt3sports-rhino
-    image: ../../../../static/img/products/rhino/rhino.svg
+    image: /static/img/products/rhino/rhino.svg
   - title: Orion
     link: /elite-series/cadeira-gamer-dt3sports-orion
-    image: ../../../../static/img/products/orion/orion.svg
+    image: /static/img/products/orion/orion.svg
   - title: Onix Diamond
     link: /elite-series/cadeira-gamer-dt3sports-onix-diamond
-    image: ../../../../static/img/products/onix-dimond/onix-dimond.svg
+    image: /static/img/products/onix-dimond/onix-dimond.svg
   - title: Prime Evo
     link: /elite-series/cadeira-gamer-dt3sports-prime-evo
-    image: ../../../../static/img/products/prime-evo/prime-evo.svg
+    image: /static/img/products/prime-evo/prime-evo.svg
   - title: Orion Flamengo
     link: /elite-series/cadeira-gamer-dt3sports-orion-flamengo/
-    image: ../../../../static/img/products/orion/orion.svg
+    image: /static/img/products/orion/orion.svg
 menu:
   items:
     - text: Introdução
@@ -163,20 +163,20 @@ menu:
       link: '#especificacoes'
 details:
   - title: Almofadas XL
-    image: ../../../../static/img/banner/product/rhino/details/almofadas.svg
+    image: /static/img/banner/product/rhino/details/almofadas.svg
   - title: Espuma Injetada
-    image: ../../../../static/img/banner/product/rhino/details/espuma.svg
+    image: /static/img/banner/product/rhino/details/espuma.svg
   - title: Mecanismo Frog
-    image: ../../../../static/img/banner/product/rhino/details/mecanismo.svg
+    image: /static/img/banner/product/rhino/details/mecanismo.svg
   - title: Base Reforçada
-    image: ../../../../static/img/banner/product/rhino/details/base.svg
+    image: /static/img/banner/product/rhino/details/base.svg
   - title: Roda 75mm
-    image: ../../../../static/img/banner/product/rhino/details/roda.svg
+    image: /static/img/banner/product/rhino/details/roda.svg
   - title: Braço 4D
-    image: ../../../../static/img/banner/product/rhino/details/braco.svg
+    image: /static/img/banner/product/rhino/details/braco.svg
 specs:
-  front: ../../../../static/img/products/rhino/rhino-specs-frontal.svg
-  side: ../../../../static/img/products/rhino/rhino-specs-lateral.svg
+  front: /static/img/products/rhino/rhino-specs-frontal.svg
+  side: /static/img/products/rhino/rhino-specs-lateral.svg
   items:
     - key: coating
       label: Revestimento
@@ -303,7 +303,7 @@ blocks:
       mobile_card: true
       horizontal_alignment: flex-end
       background_image: >-
-        ../../../../static/img/uploads/banner/background/2-designc-rhino-desktop.jpg
+        /static/img/uploads/banner/background/2-designc-rhino-desktop.jpg
       height: 60vh
   - _template: BannerBlock
     banner:
@@ -315,7 +315,7 @@ blocks:
       vertical_alignment: center
       horizontal_alignment: flex-start
       background_image: >-
-        ../../../../static/img/uploads/banner/background/3-contrucao-rhino-desktop.jpg
+        /static/img/uploads/banner/background/3-contrucao-rhino-desktop.jpg
       height: 60vh
   - _template: BannerBlock
     banner:
@@ -329,9 +329,9 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  ../../../../static/img/banner/product/rhino/rhino-03__desktop.jpg
+                  /static/img/banner/product/rhino/rhino-03__desktop.jpg
                 mobile_image: >-
-                  ../../../../static/img/banner/product/rhino/rhino-03__mobile.jpg
+                  /static/img/banner/product/rhino/rhino-03__mobile.jpg
           width: 100%
           horizontal_alignment: center
         - screen: mobile
@@ -351,7 +351,7 @@ blocks:
               _template: ContentBlock
       mobile_card: true
       background_image: >-
-        ../../../../static/img/uploads/banner/background/4-contrucao2-rhino-desktop.jpg
+        /static/img/uploads/banner/background/4-contrucao2-rhino-desktop.jpg
       height: 60vh
   - _template: BannerBlock
     banner:
@@ -363,7 +363,7 @@ blocks:
       mobile_card: true
       height: 60vh
       background_image: >-
-        ../../../../static/img/uploads/banner/background/5-heavyduty-rhino-desktop.jpg
+        /static/img/uploads/banner/background/5-heavyduty-rhino-desktop.jpg
   - _template: BannerBlock
     banner:
       id: rodas
@@ -372,7 +372,7 @@ blocks:
       mobile_card: true
       height: 60vh
       background_image: >-
-        ../../../../static/img/uploads/banner/background/6-rodas-rhino-desktop.jpg
+        /static/img/uploads/banner/background/6-rodas-rhino-desktop.jpg
   - _template: BannerBlock
     banner:
       id: base
@@ -382,7 +382,7 @@ blocks:
       mobile_card: true
       height: 60vh
       background_image: >-
-        ../../../../static/img/uploads/banner/background/7-base-rhino-desktop.jpg
+        /static/img/uploads/banner/background/7-base-rhino-desktop.jpg
   - _template: BannerBlock
     banner:
       id: cores
@@ -390,7 +390,7 @@ blocks:
       full_width: true
       vertical_alignment: center
       background_image: >-
-        ../../../../static/img/uploads/banner/background/8-cores-rhino-desktop.jpg
+        /static/img/uploads/banner/background/8-cores-rhino-desktop.jpg
       blocks: []
       mobile_card: true
   - _template: BannerBlock
@@ -402,7 +402,7 @@ blocks:
       blocks: []
       mobile_card: true
       background_image: >-
-        ../../../../static/img/uploads/banner/background/9-garantia-rhino-desktop.jpg
+        /static/img/uploads/banner/background/9-garantia-rhino-desktop.jpg
       height: 60vh
 keywords: >-
   cadeira, gamer, jogar, setup, couro, pu, premium, reclinio, 180, graus, braço,

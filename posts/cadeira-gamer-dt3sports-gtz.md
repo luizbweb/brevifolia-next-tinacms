@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Cadeira Gamer DT3sports GTZ Tecido
 id: 101975
 link: /gaming-series/cadeira-gamer-dt3sports-gtz
 name: Cadeira Gamer DT3sports GTZ Tecido
@@ -8,7 +8,7 @@ micro_name: GTZ
 category: Cadeira
 subcategory: Gaming Series
 availability: in-stock
-main_image: ../../../../static/img/products/gtz/gtz.jpg
+main_image: /static/img/products/gtz/gtz.jpg
 description: >-
   • Reclinação de até 130º.
 
@@ -42,91 +42,91 @@ galleries:
     color: Red
     color_code: '#F8002E'
     slides:
-      - image: ../../../../static/img/products/gtz/red/00.jpg
-      - image: ../../../../static/img/products/gtz/red/01.jpg
-      - image: ../../../../static/img/products/gtz/red/02.jpg
-      - image: ../../../../static/img/products/gtz/red/03.jpg
-      - image: ../../../../static/img/products/gtz/red/04.jpg
-      - image: ../../../../static/img/products/gtz/red/05.jpg
+      - image: /static/img/products/gtz/red/00.jpg
+      - image: /static/img/products/gtz/red/01.jpg
+      - image: /static/img/products/gtz/red/02.jpg
+      - image: /static/img/products/gtz/red/03.jpg
+      - image: /static/img/products/gtz/red/04.jpg
+      - image: /static/img/products/gtz/red/05.jpg
   - id: 101978
     color: Blue
     color_code: '#0433BF'
     slides:
-      - image: ../../../../static/img/products/gtz/blue/00.jpg
-      - image: ../../../../static/img/products/gtz/blue/01.jpg
-      - image: ../../../../static/img/products/gtz/blue/02.jpg
-      - image: ../../../../static/img/products/gtz/blue/03.jpg
-      - image: ../../../../static/img/products/gtz/blue/04.jpg
-      - image: ../../../../static/img/products/gtz/blue/05.jpg
+      - image: /static/img/products/gtz/blue/00.jpg
+      - image: /static/img/products/gtz/blue/01.jpg
+      - image: /static/img/products/gtz/blue/02.jpg
+      - image: /static/img/products/gtz/blue/03.jpg
+      - image: /static/img/products/gtz/blue/04.jpg
+      - image: /static/img/products/gtz/blue/05.jpg
   - id: 101979
     color: Green
     color_code: '#51C819'
     slides:
-      - image: ../../../../static/img/products/gtz/green/00.JPG
-      - image: ../../../../static/img/products/gtz/green/01.JPG
-      - image: ../../../../static/img/products/gtz/green/02.JPG
-      - image: ../../../../static/img/products/gtz/green/03.JPG
-      - image: ../../../../static/img/products/gtz/green/04.JPG
-      - image: ../../../../static/img/products/gtz/green/05.JPG
+      - image: /static/img/products/gtz/green/00.JPG
+      - image: /static/img/products/gtz/green/01.JPG
+      - image: /static/img/products/gtz/green/02.JPG
+      - image: /static/img/products/gtz/green/03.JPG
+      - image: /static/img/products/gtz/green/04.JPG
+      - image: /static/img/products/gtz/green/05.JPG
   - id: 101980
     color: Orange
     color_code: '#F25C05'
     slides:
-      - image: ../../../../static/img/products/gtz/orange/00.JPG
-      - image: ../../../../static/img/products/gtz/orange/01.JPG
-      - image: ../../../../static/img/products/gtz/orange/02.JPG
-      - image: ../../../../static/img/products/gtz/orange/03.JPG
-      - image: ../../../../static/img/products/gtz/orange/04.JPG
-      - image: ../../../../static/img/products/gtz/orange/05.JPG
+      - image: /static/img/products/gtz/orange/00.JPG
+      - image: /static/img/products/gtz/orange/01.JPG
+      - image: /static/img/products/gtz/orange/02.JPG
+      - image: /static/img/products/gtz/orange/03.JPG
+      - image: /static/img/products/gtz/orange/04.JPG
+      - image: /static/img/products/gtz/orange/05.JPG
   - id: 106478
     color: Pink
     color_code: '#F2A0B7'
     slides:
-      - image: ../../../../static/img/products/gtz/pink/00.jpg
-      - image: ../../../../static/img/products/gtz/pink/01.jpg
-      - image: ../../../../static/img/products/gtz/pink/02.jpg
-      - image: ../../../../static/img/products/gtz/pink/03.jpg
-      - image: ../../../../static/img/products/gtz/pink/04.jpg
-      - image: ../../../../static/img/products/gtz/pink/05.jpg
+      - image: /static/img/products/gtz/pink/00.jpg
+      - image: /static/img/products/gtz/pink/01.jpg
+      - image: /static/img/products/gtz/pink/02.jpg
+      - image: /static/img/products/gtz/pink/03.jpg
+      - image: /static/img/products/gtz/pink/04.jpg
+      - image: /static/img/products/gtz/pink/05.jpg
   - id: 101976
     color: White
     color_code: '#FFFFFF'
     slides:
-      - image: ../../../../static/img/products/gtz/white/00.jpg
-      - image: ../../../../static/img/products/gtz/white/01.jpg
-      - image: ../../../../static/img/products/gtz/white/02.jpg
-      - image: ../../../../static/img/products/gtz/white/03.jpg
-      - image: ../../../../static/img/products/gtz/white/04.jpg
-      - image: ../../../../static/img/products/gtz/white/05.jpg
+      - image: /static/img/products/gtz/white/00.jpg
+      - image: /static/img/products/gtz/white/01.jpg
+      - image: /static/img/products/gtz/white/02.jpg
+      - image: /static/img/products/gtz/white/03.jpg
+      - image: /static/img/products/gtz/white/04.jpg
+      - image: /static/img/products/gtz/white/05.jpg
   - id: 101977
     color: Black
     color_code: '#1D1D1D'
     slides:
-      - image: ../../../../static/img/products/gtz/black/00.JPG
-      - image: ../../../../static/img/products/gtz/black/01.JPG
-      - image: ../../../../static/img/products/gtz/black/02.JPG
-      - image: ../../../../static/img/products/gtz/black/03.JPG
-      - image: ../../../../static/img/products/gtz/black/04.JPG
-      - image: ../../../../static/img/products/gtz/black/05.JPG
+      - image: /static/img/products/gtz/black/00.JPG
+      - image: /static/img/products/gtz/black/01.JPG
+      - image: /static/img/products/gtz/black/02.JPG
+      - image: /static/img/products/gtz/black/03.JPG
+      - image: /static/img/products/gtz/black/04.JPG
+      - image: /static/img/products/gtz/black/05.JPG
 slides:
   - title: Gaming Series
     link: /gaming-series
-    image: ../../../../static/img/categories/gaming-series.svg
+    image: /static/img/categories/gaming-series.svg
   - title: GTZ
     link: /gaming-series/cadeira-gamer-dt3sports-gtz
-    image: ../../../../static/img/products/gtz/gtz.svg
+    image: /static/img/products/gtz/gtz.svg
   - title: GT
     link: /gaming-series/cadeira-gamer-dt3sports-gt
-    image: ../../../../static/img/products/gt/gt.svg
+    image: /static/img/products/gt/gt.svg
   - title: GTI
     link: /gaming-series/cadeira-gamer-dt3sports-gti
-    image: ../../../../static/img/products/gti/gti.svg
+    image: /static/img/products/gti/gti.svg
   - title: GTS
     link: /gaming-series/cadeira-gamer-dt3sports-gts
-    image: ../../../../static/img/products/gts/gts.svg
+    image: /static/img/products/gts/gts.svg
   - title: GTX
     link: /gaming-series/cadeira-gamer-dt3sports-gtx
-    image: ../../../../static/img/products/gtx/gtx.svg
+    image: /static/img/products/gtx/gtx.svg
 menu:
   items:
     - text: Mecanismo
@@ -138,8 +138,8 @@ menu:
     - text: Garantia
       link: '#garantia'
 specs:
-  front: ../../../../static/img/products/gtz/gtz-specs-frontal.svg
-  side: ../../../../static/img/products/gtz/gtz-specs-lateral.svg
+  front: /static/img/products/gtz/gtz-specs-frontal.svg
+  side: /static/img/products/gtz/gtz-specs-lateral.svg
   items:
     - key: coating
       label: Revestimento
@@ -243,9 +243,9 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  ../../../../static/img/banner/product/gts/mecanismo__desktop.jpg
+                  /static/img/banner/product/gts/mecanismo__desktop.jpg
                 mobile_image: >-
-                  ../../../../static/img/banner/product/gts/mecanismo__mobile.jpg
+                  /static/img/banner/product/gts/mecanismo__mobile.jpg
           stretch: true
         - content:
             - title: Mecanismo Borboleta
@@ -291,8 +291,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: ../../../../static/img/banner/product/gts/rodas__desktop.jpg
-                mobile_image: ../../../../static/img/banner/product/gts/rodas__desktop.jpg
+                desktop_image: /static/img/banner/product/gts/rodas__desktop.jpg
+                mobile_image: /static/img/banner/product/gts/rodas__desktop.jpg
           stretch: true
       full_width: true
       mobile_card: true
@@ -305,8 +305,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: ../../../../static/img/banner/product/gts/base__desktop.jpg
-                mobile_image: ../../../../static/img/banner/product/gts/base__mobile.jpg
+                desktop_image: /static/img/banner/product/gts/base__desktop.jpg
+                mobile_image: /static/img/banner/product/gts/base__mobile.jpg
           stretch: true
         - content:
             - title: Base reforçada
@@ -343,8 +343,8 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  ../../../../static/img/banner/product/gts/garantia__desktop.png
-                mobile_image: ../../../../static/img/banner/product/gts/garantia__mobile.jpg
+                  /static/img/banner/product/gts/garantia__desktop.png
+                mobile_image: /static/img/banner/product/gts/garantia__mobile.jpg
           stretch: true
         - content:
             - title: 'Todas as cadeiras da Gaming Series contam com:'
@@ -368,5 +368,5 @@ blocks:
           width: 50%
       mobile_card: true
 featured_image:
-  desktop_image: ../../../../static/img/banner/product/gtz/main-banner__desktop.jpeg
+  desktop_image: /static/img/banner/product/gtz/main-banner__desktop.jpeg
 ---

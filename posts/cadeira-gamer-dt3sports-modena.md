@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Cadeira Gamer DT3sports Módena
 id: 13567
 link: /racing-series/cadeira-gamer-dt3sports-modena
 name: Cadeira Gamer DT3sports Módena
@@ -9,7 +9,7 @@ category: Cadeira
 subcategory: Racing Series
 type: variable
 availability: in-stock
-main_image: ../../../../static/img/products/modena/modena.jpg
+main_image: /static/img/products/modena/modena.jpg
 description: >-
   • Apoio de braço 3D ajustável.  
 
@@ -33,130 +33,130 @@ price:
   regular: 1799.9
   boleto: 1619.91
 featured_image:
-  desktop_image: ../../../../static/img/uploads/products/featured/1-intro.jpg
-  mobile_image: ../../../../static/img/banner/product/modena/main-banner__mobile.jpg
+  desktop_image: /static/img/uploads/products/featured/1-intro.jpg
+  mobile_image: /static/img/banner/product/modena/main-banner__mobile.jpg
 galleries:
   - id: 14093
     color: Red
     color_code: '#F8002E'
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/modena/red/modena-00.jpg
-      - image: ../../../../static/img/products/modena/red/modena-01.jpg
-      - image: ../../../../static/img/products/modena/red/modena-02.jpg
-      - image: ../../../../static/img/products/modena/red/modena-03.jpg
-      - image: ../../../../static/img/products/modena/red/modena-04.jpg
-      - image: ../../../../static/img/products/modena/red/modena-05.jpg
-      - image: ../../../../static/img/products/modena/red/modena-06.jpg
-      - image: ../../../../static/img/products/modena/red/modena-07.jpg
-      - image: ../../../../static/img/products/modena/red/modena-08.jpg
+      - image: /static/img/products/modena/red/modena-00.jpg
+      - image: /static/img/products/modena/red/modena-01.jpg
+      - image: /static/img/products/modena/red/modena-02.jpg
+      - image: /static/img/products/modena/red/modena-03.jpg
+      - image: /static/img/products/modena/red/modena-04.jpg
+      - image: /static/img/products/modena/red/modena-05.jpg
+      - image: /static/img/products/modena/red/modena-06.jpg
+      - image: /static/img/products/modena/red/modena-07.jpg
+      - image: /static/img/products/modena/red/modena-08.jpg
   - id: 14167
     color: Blue
     color_code: '#0433BF'
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/modena/blue/modena-00.jpg
-      - image: ../../../../static/img/products/modena/blue/modena-01.jpg
-      - image: ../../../../static/img/products/modena/blue/modena-02.jpg
-      - image: ../../../../static/img/products/modena/blue/modena-03.jpg
-      - image: ../../../../static/img/products/modena/blue/modena-04.jpg
-      - image: ../../../../static/img/products/modena/blue/modena-05.jpg
-      - image: ../../../../static/img/products/modena/blue/modena-06.jpg
-      - image: ../../../../static/img/products/modena/blue/modena-07.jpg
-      - image: ../../../../static/img/products/modena/blue/modena-08.jpg
+      - image: /static/img/products/modena/blue/modena-00.jpg
+      - image: /static/img/products/modena/blue/modena-01.jpg
+      - image: /static/img/products/modena/blue/modena-02.jpg
+      - image: /static/img/products/modena/blue/modena-03.jpg
+      - image: /static/img/products/modena/blue/modena-04.jpg
+      - image: /static/img/products/modena/blue/modena-05.jpg
+      - image: /static/img/products/modena/blue/modena-06.jpg
+      - image: /static/img/products/modena/blue/modena-07.jpg
+      - image: /static/img/products/modena/blue/modena-08.jpg
   - id: 14168
     color: Green
     color_code: '#51C819'
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/modena/green/modena-00.jpg
-      - image: ../../../../static/img/products/modena/green/modena-01.jpg
-      - image: ../../../../static/img/products/modena/green/modena-02.jpg
-      - image: ../../../../static/img/products/modena/green/modena-03.jpg
-      - image: ../../../../static/img/products/modena/green/modena-04.jpg
-      - image: ../../../../static/img/products/modena/green/modena-05.jpg
-      - image: ../../../../static/img/products/modena/green/modena-06.jpg
-      - image: ../../../../static/img/products/modena/green/modena-07.jpg
-      - image: ../../../../static/img/products/modena/green/modena-08.jpg
+      - image: /static/img/products/modena/green/modena-00.jpg
+      - image: /static/img/products/modena/green/modena-01.jpg
+      - image: /static/img/products/modena/green/modena-02.jpg
+      - image: /static/img/products/modena/green/modena-03.jpg
+      - image: /static/img/products/modena/green/modena-04.jpg
+      - image: /static/img/products/modena/green/modena-05.jpg
+      - image: /static/img/products/modena/green/modena-06.jpg
+      - image: /static/img/products/modena/green/modena-07.jpg
+      - image: /static/img/products/modena/green/modena-08.jpg
   - id: 14169
     color: Orange
     color_code: '#F25C05'
     availability: no-stock
     slides:
-      - image: ../../../../static/img/products/modena/orange/modena-00.jpg
-      - image: ../../../../static/img/products/modena/orange/modena-01.jpg
-      - image: ../../../../static/img/products/modena/orange/modena-02.jpg
-      - image: ../../../../static/img/products/modena/orange/modena-03.jpg
-      - image: ../../../../static/img/products/modena/orange/modena-04.jpg
-      - image: ../../../../static/img/products/modena/orange/modena-05.jpg
-      - image: ../../../../static/img/products/modena/orange/modena-06.jpg
-      - image: ../../../../static/img/products/modena/orange/modena-07.jpg
-      - image: ../../../../static/img/products/modena/orange/modena-08.jpg
+      - image: /static/img/products/modena/orange/modena-00.jpg
+      - image: /static/img/products/modena/orange/modena-01.jpg
+      - image: /static/img/products/modena/orange/modena-02.jpg
+      - image: /static/img/products/modena/orange/modena-03.jpg
+      - image: /static/img/products/modena/orange/modena-04.jpg
+      - image: /static/img/products/modena/orange/modena-05.jpg
+      - image: /static/img/products/modena/orange/modena-06.jpg
+      - image: /static/img/products/modena/orange/modena-07.jpg
+      - image: /static/img/products/modena/orange/modena-08.jpg
   - id: 14170
     color: Grey
     color_code: '#BFBFBF'
     availability: no-stock
     slides:
-      - image: ../../../../static/img/products/modena/grey/modena-00.jpg
-      - image: ../../../../static/img/products/modena/grey/modena-01.jpg
-      - image: ../../../../static/img/products/modena/grey/modena-02.jpg
-      - image: ../../../../static/img/products/modena/grey/modena-03.jpg
-      - image: ../../../../static/img/products/modena/grey/modena-04.jpg
-      - image: ../../../../static/img/products/modena/grey/modena-05.jpg
-      - image: ../../../../static/img/products/modena/grey/modena-06.jpg
-      - image: ../../../../static/img/products/modena/grey/modena-07.jpg
-      - image: ../../../../static/img/products/modena/grey/modena-08.jpg
+      - image: /static/img/products/modena/grey/modena-00.jpg
+      - image: /static/img/products/modena/grey/modena-01.jpg
+      - image: /static/img/products/modena/grey/modena-02.jpg
+      - image: /static/img/products/modena/grey/modena-03.jpg
+      - image: /static/img/products/modena/grey/modena-04.jpg
+      - image: /static/img/products/modena/grey/modena-05.jpg
+      - image: /static/img/products/modena/grey/modena-06.jpg
+      - image: /static/img/products/modena/grey/modena-07.jpg
+      - image: /static/img/products/modena/grey/modena-08.jpg
   - id: 105237
     color: Dark Grey
     color_code: '#BFBFBF'
     availability: no-stock
     slides:
-      - image: ../../../../static/img/products/modena/dark_grey/modena-00.jpg
-      - image: ../../../../static/img/products/modena/dark_grey/modena-01.jpg
-      - image: ../../../../static/img/products/modena/dark_grey/modena-02.jpg
-      - image: ../../../../static/img/products/modena/dark_grey/modena-03.jpg
-      - image: ../../../../static/img/products/modena/dark_grey/modena-04.jpg
-      - image: ../../../../static/img/products/modena/dark_grey/modena-05.jpg
-      - image: ../../../../static/img/products/modena/dark_grey/modena-06.jpg
-      - image: ../../../../static/img/products/modena/dark_grey/modena-07.jpg
-      - image: ../../../../static/img/products/modena/dark_grey/modena-08.jpg
+      - image: /static/img/products/modena/dark_grey/modena-00.jpg
+      - image: /static/img/products/modena/dark_grey/modena-01.jpg
+      - image: /static/img/products/modena/dark_grey/modena-02.jpg
+      - image: /static/img/products/modena/dark_grey/modena-03.jpg
+      - image: /static/img/products/modena/dark_grey/modena-04.jpg
+      - image: /static/img/products/modena/dark_grey/modena-05.jpg
+      - image: /static/img/products/modena/dark_grey/modena-06.jpg
+      - image: /static/img/products/modena/dark_grey/modena-07.jpg
+      - image: /static/img/products/modena/dark_grey/modena-08.jpg
 slides:
   - title: Racing Series
     link: /racing-series
-    image: ../../../../static/img/categories/racing-series.svg
+    image: /static/img/categories/racing-series.svg
   - title: Elise
     link: /racing-series/cadeira-gamer-dt3sports-elise
-    image: ../../../../static/img/products/elise/elise.svg
+    image: /static/img/products/elise/elise.svg
   - title: Elise Fabric
     link: /racing-series/cadeira-gamer-dt3sports-elise-fabric
-    image: ../../../../static/img/products/elise-fabric/elise-fabric.svg
+    image: /static/img/products/elise-fabric/elise-fabric.svg
   - title: Elise Flamengo
     link: /racing-series/cadeira-gamer-dt3sports-elise-flamengo
-    image: ../../../../static/img/products/elise-flamengo/elise-flamengo.svg
+    image: /static/img/products/elise-flamengo/elise-flamengo.svg
   - title: Pixel
     link: /racing-series/cadeira-gamer-dt3sports-rgb-pixel
-    image: ../../../../static/img/products/pixel/pixel.svg
+    image: /static/img/products/pixel/pixel.svg
   - title: Estelar
     link: /racing-series/cadeira-gamer-dt3sports-rgb-estelar
-    image: ../../../../static/img/products/estelar/estelar.svg
+    image: /static/img/products/estelar/estelar.svg
   - title: Jaguar
     link: /racing-series/cadeira-gamer-dt3sports-jaguar
-    image: ../../../../static/img/products/jaguar/jaguar.svg
+    image: /static/img/products/jaguar/jaguar.svg
   - title: Mizano
     link: /racing-series/cadeira-gamer-dt3sports-mizano-fabric
-    image: ../../../../static/img/products/mizano/mizano.svg
+    image: /static/img/products/mizano/mizano.svg
   - title: Módena
     link: /racing-series/cadeira-gamer-dt3sports-modena
-    image: ../../../../static/img/products/modena/modena.svg
+    image: /static/img/products/modena/modena.svg
   - title: Ravena
     link: /racing-series/cadeira-gamer-dt3sports-ravena
-    image: ../../../../static/img/products/ravena/ravena.svg
+    image: /static/img/products/ravena/ravena.svg
   - title: Romeo
     link: /racing-series/cadeira-gamer-dt3sports-romeo-tecido
-    image: ../../../../static/img/products/romeo/romeo.svg
+    image: /static/img/products/romeo/romeo.svg
   - title: Pandora
     link: /racing-series/cadeira-gamer-dt3sports-pandora
-    image: ../../../../static/img/products/pandora/pandora.svg
+    image: /static/img/products/pandora/pandora.svg
 menu:
   items:
     - text: Design
@@ -179,20 +179,20 @@ menu:
       link: '#especificacoes'
 details:
   - title: Almofadas DT3
-    image: ../../../../static/img/banner/product/shared/details/almofadas-dt3.svg
+    image: /static/img/banner/product/shared/details/almofadas-dt3.svg
   - title: Espuma Injetada
-    image: ../../../../static/img/banner/product/shared/details/espuma-injetada.svg
+    image: /static/img/banner/product/shared/details/espuma-injetada.svg
   - title: Braço 3D
-    image: ../../../../static/img/banner/product/shared/details/braco-3d.svg
+    image: /static/img/banner/product/shared/details/braco-3d.svg
   - title: Inclinação
-    image: ../../../../static/img/banner/product/shared/details/inclinacao.svg
+    image: /static/img/banner/product/shared/details/inclinacao.svg
   - title: Base de Aço
-    image: ../../../../static/img/banner/product/shared/details/base-aco.svg
+    image: /static/img/banner/product/shared/details/base-aco.svg
   - title: Rodas de 65mm
-    image: ../../../../static/img/banner/product/shared/details/roda-65.svg
+    image: /static/img/banner/product/shared/details/roda-65.svg
 specs:
-  front: ../../../../static/img/products/modena/modena-specs-frontal.svg
-  side: ../../../../static/img/products/modena/modena-specs-lateral.svg
+  front: /static/img/products/modena/modena-specs-frontal.svg
+  side: /static/img/products/modena/modena-specs-lateral.svg
   items:
     - key: coating
       label: Revestimento
@@ -323,7 +323,7 @@ blocks:
       stretch: false
       mobile_card: true
       height: 60vh
-      background_image: ../../../../static/img/uploads/banner/background/2-ergonomiaedesign.jpg
+      background_image: /static/img/uploads/banner/background/2-ergonomiaedesign.jpg
   - _template: BannerBlock
     banner:
       id: material
@@ -349,7 +349,7 @@ blocks:
       full_width: true
       vertical_alignment: center
       mobile_card: true
-      background_image: ../../../../static/img/uploads/banner/background/undefined
+      background_image: /static/img/uploads/banner/background/undefined
       height: 60vh
   - _template: BannerBlock
     banner:
@@ -374,13 +374,13 @@ blocks:
       id: mecanismo
       mobile_card: true
       background_image: >-
-        ../../../../static/img/uploads/banner/background/4-Mecanismoborboleta.jpg
+        /static/img/uploads/banner/background/4-Mecanismoborboleta.jpg
       height: 60vh
   - _template: BannerBlock
     banner:
       id: almofadas
       full_width: true
-      background_image: ../../../../static/img/uploads/banner/background/5-almofadasmodena.jpg
+      background_image: /static/img/uploads/banner/background/5-almofadasmodena.jpg
       blocks:
         - horizontalAlignment: center
           verticalAlignment: flex-start
@@ -431,7 +431,7 @@ blocks:
       full_width: true
       mobile_card: true
       vertical_alignment: center
-      background_image: ../../../../static/img/uploads/banner/background/6-rodasebase2.jpg
+      background_image: /static/img/uploads/banner/background/6-rodasebase2.jpg
       height: 60vh
   - _template: BannerBlock
     banner:
@@ -460,7 +460,7 @@ blocks:
       vertical_alignment: center
       mobile_card: true
       background_color: '#1D1D1D'
-      background_image: ../../../../static/img/uploads/banner/background/7-reclinio.jpg
+      background_image: /static/img/uploads/banner/background/7-reclinio.jpg
       height: 60vh
   - _template: BannerBlock
     banner:
@@ -489,7 +489,7 @@ blocks:
           verticalAlignment: flex-start
       vertical_alignment: center
       height: 60vh
-      background_image: ../../../../static/img/uploads/banner/background/8-apoiodebraço3d.jpg
+      background_image: /static/img/uploads/banner/background/8-apoiodebraço3d.jpg
   - _template: BannerBlock
     banner:
       id: garantia
@@ -522,7 +522,7 @@ blocks:
           width: 50%
       mobile_card: true
       height: 60vh
-      background_image: ../../../../static/img/uploads/banner/background/9-garantiamodena.jpg
+      background_image: /static/img/uploads/banner/background/9-garantiamodena.jpg
 keywords: >-
   cadeira, gamer, jogar, setup, couro, pu, premium, reclinio, 180, graus, braco,
   3d, de, para, com

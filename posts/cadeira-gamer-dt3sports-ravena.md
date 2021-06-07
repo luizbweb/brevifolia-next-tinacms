@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Cadeira Gamer DT3sports Ravena
 id: 19245
 link: /racing-series/cadeira-gamer-dt3sports-ravena
 name: Cadeira Gamer DT3sports Ravena
@@ -9,7 +9,7 @@ category: Cadeira
 subcategory: Racing Series
 type: variable
 availability: in-stock
-main_image: ../../../../static/img/products/ravena/ravena.jpg
+main_image: /static/img/products/ravena/ravena.jpg
 description: >-
   • Apoio de braço 4D ajustável.  
 
@@ -34,130 +34,130 @@ price:
   regular: 1799.9
   boleto: 1619.91
 featured_image:
-  desktop_image: ../../../../static/img/uploads/products/featured/1-intordu.jpg
-  mobile_image: ../../../../static/img/banner/product/ravena/main-banner__mobile.jpg
+  desktop_image: /static/img/uploads/products/featured/1-intordu.jpg
+  mobile_image: /static/img/banner/product/ravena/main-banner__mobile.jpg
 galleries:
   - id: 19248
     color: Red
     color_code: '#F8002E'
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/ravena/red/ravena-00.jpg
-      - image: ../../../../static/img/products/ravena/red/ravena-01.jpg
-      - image: ../../../../static/img/products/ravena/red/ravena-02.jpg
-      - image: ../../../../static/img/products/ravena/red/ravena-03.jpg
-      - image: ../../../../static/img/products/ravena/red/ravena-04.jpg
-      - image: ../../../../static/img/products/ravena/red/ravena-05.jpg
-      - image: ../../../../static/img/products/ravena/red/ravena-06.jpg
-      - image: ../../../../static/img/products/ravena/red/ravena-07.jpg
-      - image: ../../../../static/img/products/ravena/red/ravena-08.jpg
+      - image: /static/img/products/ravena/red/ravena-00.jpg
+      - image: /static/img/products/ravena/red/ravena-01.jpg
+      - image: /static/img/products/ravena/red/ravena-02.jpg
+      - image: /static/img/products/ravena/red/ravena-03.jpg
+      - image: /static/img/products/ravena/red/ravena-04.jpg
+      - image: /static/img/products/ravena/red/ravena-05.jpg
+      - image: /static/img/products/ravena/red/ravena-06.jpg
+      - image: /static/img/products/ravena/red/ravena-07.jpg
+      - image: /static/img/products/ravena/red/ravena-08.jpg
   - id: 19247
     color: Blue
     color_code: '#0433BF'
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/ravena/blue/ravena-00.jpg
-      - image: ../../../../static/img/products/ravena/blue/ravena-01.jpg
-      - image: ../../../../static/img/products/ravena/blue/ravena-02.jpg
-      - image: ../../../../static/img/products/ravena/blue/ravena-03.jpg
-      - image: ../../../../static/img/products/ravena/blue/ravena-04.jpg
-      - image: ../../../../static/img/products/ravena/blue/ravena-05.jpg
-      - image: ../../../../static/img/products/ravena/blue/ravena-06.jpg
-      - image: ../../../../static/img/products/ravena/blue/ravena-07.jpg
-      - image: ../../../../static/img/products/ravena/blue/ravena-08.jpg
+      - image: /static/img/products/ravena/blue/ravena-00.jpg
+      - image: /static/img/products/ravena/blue/ravena-01.jpg
+      - image: /static/img/products/ravena/blue/ravena-02.jpg
+      - image: /static/img/products/ravena/blue/ravena-03.jpg
+      - image: /static/img/products/ravena/blue/ravena-04.jpg
+      - image: /static/img/products/ravena/blue/ravena-05.jpg
+      - image: /static/img/products/ravena/blue/ravena-06.jpg
+      - image: /static/img/products/ravena/blue/ravena-07.jpg
+      - image: /static/img/products/ravena/blue/ravena-08.jpg
   - id: 19246
     color: Green
     color_code: '#51C819'
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/ravena/green/ravena-00.jpg
-      - image: ../../../../static/img/products/ravena/green/ravena-01.jpg
-      - image: ../../../../static/img/products/ravena/green/ravena-02.jpg
-      - image: ../../../../static/img/products/ravena/green/ravena-03.jpg
-      - image: ../../../../static/img/products/ravena/green/ravena-04.jpg
-      - image: ../../../../static/img/products/ravena/green/ravena-05.jpg
-      - image: ../../../../static/img/products/ravena/green/ravena-06.jpg
-      - image: ../../../../static/img/products/ravena/green/ravena-07.jpg
-      - image: ../../../../static/img/products/ravena/green/ravena-08.jpg
+      - image: /static/img/products/ravena/green/ravena-00.jpg
+      - image: /static/img/products/ravena/green/ravena-01.jpg
+      - image: /static/img/products/ravena/green/ravena-02.jpg
+      - image: /static/img/products/ravena/green/ravena-03.jpg
+      - image: /static/img/products/ravena/green/ravena-04.jpg
+      - image: /static/img/products/ravena/green/ravena-05.jpg
+      - image: /static/img/products/ravena/green/ravena-06.jpg
+      - image: /static/img/products/ravena/green/ravena-07.jpg
+      - image: /static/img/products/ravena/green/ravena-08.jpg
   - id: 19251
     color: Orange
     color_code: '#F25C05'
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/ravena/orange/ravena-00.jpg
-      - image: ../../../../static/img/products/ravena/orange/ravena-01.jpg
-      - image: ../../../../static/img/products/ravena/orange/ravena-02.jpg
-      - image: ../../../../static/img/products/ravena/orange/ravena-03.jpg
-      - image: ../../../../static/img/products/ravena/orange/ravena-04.jpg
-      - image: ../../../../static/img/products/ravena/orange/ravena-05.jpg
-      - image: ../../../../static/img/products/ravena/orange/ravena-06.jpg
-      - image: ../../../../static/img/products/ravena/orange/ravena-07.jpg
-      - image: ../../../../static/img/products/ravena/orange/ravena-08.jpg
+      - image: /static/img/products/ravena/orange/ravena-00.jpg
+      - image: /static/img/products/ravena/orange/ravena-01.jpg
+      - image: /static/img/products/ravena/orange/ravena-02.jpg
+      - image: /static/img/products/ravena/orange/ravena-03.jpg
+      - image: /static/img/products/ravena/orange/ravena-04.jpg
+      - image: /static/img/products/ravena/orange/ravena-05.jpg
+      - image: /static/img/products/ravena/orange/ravena-06.jpg
+      - image: /static/img/products/ravena/orange/ravena-07.jpg
+      - image: /static/img/products/ravena/orange/ravena-08.jpg
   - id: 19249
     color: White
     color_code: '#FFFFFF'
     availability: no-stock
     slides:
-      - image: ../../../../static/img/products/ravena/white/ravena-00.jpg
-      - image: ../../../../static/img/products/ravena/white/ravena-01.jpg
-      - image: ../../../../static/img/products/ravena/white/ravena-02.jpg
-      - image: ../../../../static/img/products/ravena/white/ravena-03.jpg
-      - image: ../../../../static/img/products/ravena/white/ravena-04.jpg
-      - image: ../../../../static/img/products/ravena/white/ravena-05.jpg
-      - image: ../../../../static/img/products/ravena/white/ravena-06.jpg
-      - image: ../../../../static/img/products/ravena/white/ravena-07.jpg
-      - image: ../../../../static/img/products/ravena/white/ravena-08.jpg
+      - image: /static/img/products/ravena/white/ravena-00.jpg
+      - image: /static/img/products/ravena/white/ravena-01.jpg
+      - image: /static/img/products/ravena/white/ravena-02.jpg
+      - image: /static/img/products/ravena/white/ravena-03.jpg
+      - image: /static/img/products/ravena/white/ravena-04.jpg
+      - image: /static/img/products/ravena/white/ravena-05.jpg
+      - image: /static/img/products/ravena/white/ravena-06.jpg
+      - image: /static/img/products/ravena/white/ravena-07.jpg
+      - image: /static/img/products/ravena/white/ravena-08.jpg
   - id: 19250
     color: Black
     color_code: '#1D1D1D'
     availability: no-stock
     slides:
-      - image: ../../../../static/img/products/ravena/black/ravena-00.jpg
-      - image: ../../../../static/img/products/ravena/black/ravena-01.jpg
-      - image: ../../../../static/img/products/ravena/black/ravena-02.jpg
-      - image: ../../../../static/img/products/ravena/black/ravena-03.jpg
-      - image: ../../../../static/img/products/ravena/black/ravena-04.jpg
-      - image: ../../../../static/img/products/ravena/black/ravena-05.jpg
-      - image: ../../../../static/img/products/ravena/black/ravena-06.jpg
-      - image: ../../../../static/img/products/ravena/black/ravena-07.jpg
-      - image: ../../../../static/img/products/ravena/black/ravena-08.jpg
+      - image: /static/img/products/ravena/black/ravena-00.jpg
+      - image: /static/img/products/ravena/black/ravena-01.jpg
+      - image: /static/img/products/ravena/black/ravena-02.jpg
+      - image: /static/img/products/ravena/black/ravena-03.jpg
+      - image: /static/img/products/ravena/black/ravena-04.jpg
+      - image: /static/img/products/ravena/black/ravena-05.jpg
+      - image: /static/img/products/ravena/black/ravena-06.jpg
+      - image: /static/img/products/ravena/black/ravena-07.jpg
+      - image: /static/img/products/ravena/black/ravena-08.jpg
 slides:
   - title: Racing Series
     link: /racing-series
-    image: ../../../../static/img/categories/racing-series.svg
+    image: /static/img/categories/racing-series.svg
   - title: Elise
     link: /racing-series/cadeira-gamer-dt3sports-elise
-    image: ../../../../static/img/products/elise/elise.svg
+    image: /static/img/products/elise/elise.svg
   - title: Elise Fabric
     link: /racing-series/cadeira-gamer-dt3sports-elise-fabric
-    image: ../../../../static/img/products/elise-fabric/elise-fabric.svg
+    image: /static/img/products/elise-fabric/elise-fabric.svg
   - title: Elise Flamengo
     link: /racing-series/cadeira-gamer-dt3sports-elise-flamengo
-    image: ../../../../static/img/products/elise-flamengo/elise-flamengo.svg
+    image: /static/img/products/elise-flamengo/elise-flamengo.svg
   - title: Pixel
     link: /racing-series/cadeira-gamer-dt3sports-rgb-pixel
-    image: ../../../../static/img/products/pixel/pixel.svg
+    image: /static/img/products/pixel/pixel.svg
   - title: Estelar
     link: /racing-series/cadeira-gamer-dt3sports-rgb-estelar
-    image: ../../../../static/img/products/estelar/estelar.svg
+    image: /static/img/products/estelar/estelar.svg
   - title: Jaguar
     link: /racing-series/cadeira-gamer-dt3sports-jaguar
-    image: ../../../../static/img/products/jaguar/jaguar.svg
+    image: /static/img/products/jaguar/jaguar.svg
   - title: Mizano
     link: /racing-series/cadeira-gamer-dt3sports-mizano-fabric
-    image: ../../../../static/img/products/mizano/mizano.svg
+    image: /static/img/products/mizano/mizano.svg
   - title: Módena
     link: /racing-series/cadeira-gamer-dt3sports-modena
-    image: ../../../../static/img/products/modena/modena.svg
+    image: /static/img/products/modena/modena.svg
   - title: Ravena
     link: /racing-series/cadeira-gamer-dt3sports-ravena
-    image: ../../../../static/img/products/ravena/ravena.svg
+    image: /static/img/products/ravena/ravena.svg
   - title: Romeo
     link: /racing-series/cadeira-gamer-dt3sports-romeo-tecido
-    image: ../../../../static/img/products/romeo/romeo.svg
+    image: /static/img/products/romeo/romeo.svg
   - title: Pandora
     link: /racing-series/cadeira-gamer-dt3sports-pandora
-    image: ../../../../static/img/products/pandora/pandora.svg
+    image: /static/img/products/pandora/pandora.svg
 menu:
   items:
     - text: Design
@@ -180,18 +180,18 @@ menu:
       link: '#especificacoes'
 details:
   - title: Almofadas DT3
-    image: ../../../../static/img/banner/product/ravena/details/almofadas.svg
+    image: /static/img/banner/product/ravena/details/almofadas.svg
   - title: Espuma Injetada
-    image: ../../../../static/img/banner/product/ravena/details/espuma.svg
+    image: /static/img/banner/product/ravena/details/espuma.svg
   - title: Braço 4D
-    image: ../../../../static/img/banner/product/ravena/details/bracos.svg
+    image: /static/img/banner/product/ravena/details/bracos.svg
   - title: Inclinação
-    image: ../../../../static/img/banner/product/ravena/details/inclinacao.svg
+    image: /static/img/banner/product/ravena/details/inclinacao.svg
   - title: Roda 65mm
-    image: ../../../../static/img/banner/product/ravena/details/rodas.svg
+    image: /static/img/banner/product/ravena/details/rodas.svg
 specs:
-  front: ../../../../static/img/products/ravena/ravena-specs-frontal.svg
-  side: ../../../../static/img/products/ravena/ravena-specs-lateral.svg
+  front: /static/img/products/ravena/ravena-specs-frontal.svg
+  side: /static/img/products/ravena/ravena-specs-lateral.svg
   items:
     - key: coating
       label: Revestimento
@@ -289,7 +289,7 @@ specs:
 blocks:
   - _template: BannerBlock
     banner:
-      background_image: ../../../../static/img/uploads/banner/background/2-design.jpg
+      background_image: /static/img/uploads/banner/background/2-design.jpg
       blocks: []
       full_width: true
       horizontal_alignment: flex-end
@@ -309,7 +309,7 @@ blocks:
       vertical_alignment: center
       horizontal_alignment: flex-start
       height: 60vh
-      background_image: ../../../../static/img/uploads/banner/background/3-material.jpg
+      background_image: /static/img/uploads/banner/background/3-material.jpg
   - _template: BannerBlock
     banner:
       blocks: []
@@ -318,12 +318,12 @@ blocks:
       id: mecanismo
       mobile_card: true
       height: 60vh
-      background_image: ../../../../static/img/uploads/banner/background/4-mecanismo.jpg
+      background_image: /static/img/uploads/banner/background/4-mecanismo.jpg
   - _template: BannerBlock
     banner:
       id: almofadas
       full_width: true
-      background_image: ../../../../static/img/uploads/banner/background/5-almofadas.jpg
+      background_image: /static/img/uploads/banner/background/5-almofadas.jpg
       blocks: []
       horizontal_alignment: center
       vertical_alignment: center
@@ -336,7 +336,7 @@ blocks:
       full_width: true
       mobile_card: true
       height: 60vh
-      background_image: ../../../../static/img/uploads/banner/background/6-rodas.jpg
+      background_image: /static/img/uploads/banner/background/6-rodas.jpg
   - _template: BannerBlock
     banner:
       id: braço
@@ -344,7 +344,7 @@ blocks:
       full_width: true
       vertical_alignment: center
       mobile_card: true
-      background_image: ../../../../static/img/uploads/banner/background/7-braço.jpg
+      background_image: /static/img/uploads/banner/background/7-braço.jpg
       height: 60vh
   - _template: BannerBlock
     banner:
@@ -354,7 +354,7 @@ blocks:
       vertical_alignment: center
       mobile_card: true
       background_color: '#1D1D1D'
-      background_image: ../../../../static/img/uploads/banner/background/8-reclinio.jpg
+      background_image: /static/img/uploads/banner/background/8-reclinio.jpg
       height: 60vh
   - _template: BannerBlock
     banner:
@@ -365,7 +365,7 @@ blocks:
       blocks: []
       mobile_card: true
       height: 60vh
-      background_image: ../../../../static/img/uploads/banner/background/9-garantia.jpg
+      background_image: /static/img/uploads/banner/background/9-garantia.jpg
 keywords: >-
   cadeira, gamer, jogar, setup, couro, pu, reclinio, 150, graus, braço, braços,
   4d, de, para, com

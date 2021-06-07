@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Cadeira Gamer DT3sports Elise Six Siege Black
 id: 407497
 link: /personalizadas/cadeira-gamer-dt3sports-elise-six-siege-black/
 name: Cadeira Gamer DT3sports Elise Six Siege Black
@@ -10,7 +10,7 @@ subcategory: null
 type: variable
 availability: in-stock
 main_image: >-
-  ../../../../static/img/products/elise-six-siege-black/elise-six-siege-black.jpg
+  /static/img/products/elise-six-siege-black/elise-six-siege-black.jpg
 description: >-
   • Produto oficial Six Siege 
 
@@ -38,56 +38,56 @@ price:
   boleto: 1529.91
 featured_image:
   desktop_image: >-
-    ../../../../static/img/banner/product/elise-six-siege-black/main-banner__desktop.jpg
+    /static/img/banner/product/elise-six-siege-black/main-banner__desktop.jpg
   mobile_image: >-
-    ../../../../static/img/banner/product/elise-six-siege-black/main-banner__desktop.jpg
+    /static/img/banner/product/elise-six-siege-black/main-banner__desktop.jpg
 galleries:
   - color: Black
     availability: in-stock
     slides:
       - image: >-
-          ../../../../static/img/products/elise-six-siege-black/Black/elise-six-siege-black-00.jpg
+          /static/img/products/elise-six-siege-black/Black/elise-six-siege-black-00.jpg
       - image: >-
-          ../../../../static/img/products/elise-six-siege-black/Black/elise-six-siege-black-01.jpg
+          /static/img/products/elise-six-siege-black/Black/elise-six-siege-black-01.jpg
       - image: >-
-          ../../../../static/img/products/elise-six-siege-black/Black/elise-six-siege-black-02.jpg
+          /static/img/products/elise-six-siege-black/Black/elise-six-siege-black-02.jpg
       - image: >-
-          ../../../../static/img/products/elise-six-siege-black/Black/elise-six-siege-black-03.jpg
+          /static/img/products/elise-six-siege-black/Black/elise-six-siege-black-03.jpg
       - image: >-
-          ../../../../static/img/products/elise-six-siege-black/Black/elise-six-siege-black-04.jpg
+          /static/img/products/elise-six-siege-black/Black/elise-six-siege-black-04.jpg
       - image: >-
-          ../../../../static/img/products/elise-six-siege-black/Black/elise-six-siege-black-05.jpg
+          /static/img/products/elise-six-siege-black/Black/elise-six-siege-black-05.jpg
       - image: >-
-          ../../../../static/img/products/elise-six-siege-black/Black/elise-six-siege-black-06.jpg
+          /static/img/products/elise-six-siege-black/Black/elise-six-siege-black-06.jpg
       - image: >-
-          ../../../../static/img/products/elise-six-siege-black/Black/elise-six-siege-black-07.jpg
+          /static/img/products/elise-six-siege-black/Black/elise-six-siege-black-07.jpg
       - image: >-
-          ../../../../static/img/products/elise-six-siege-black/Black/elise-six-siege-black-08.jpg
+          /static/img/products/elise-six-siege-black/Black/elise-six-siege-black-08.jpg
       - image: >-
-          ../../../../static/img/products/elise-six-siege-black/Black/elise-six-siege-black-09.jpg
+          /static/img/products/elise-six-siege-black/Black/elise-six-siege-black-09.jpg
       - image: >-
-          ../../../../static/img/products/elise-six-siege-black/Black/elise-six-siege-black-010.jpg
+          /static/img/products/elise-six-siege-black/Black/elise-six-siege-black-010.jpg
       - image: >-
-          ../../../../static/img/products/elise-six-siege-black/Black/elise-six-siege-black-011.jpg
+          /static/img/products/elise-six-siege-black/Black/elise-six-siege-black-011.jpg
       - image: >-
-          ../../../../static/img/products/elise-six-siege-black/Black/elise-six-siege-black-013.jpg
+          /static/img/products/elise-six-siege-black/Black/elise-six-siege-black-013.jpg
       - image: >-
-          ../../../../static/img/products/elise-six-siege-black/Black/elise-six-siege-black-014.jpg
+          /static/img/products/elise-six-siege-black/Black/elise-six-siege-black-014.jpg
 slides:
   - title: Personalizados
     link: /personalizadas
-    image: ../../../../static/img/products/elise/elise.svg
+    image: /static/img/products/elise/elise.svg
   - title: Elise Six Siege Black
     link: /personalizadas/cadeira-gamer-dt3sports-elise-six-siege-black/
     image: >-
-      ../../../../static/img/products/elise-six-siege-black/elise-six-siege-black.jpg
+      /static/img/products/elise-six-siege-black/elise-six-siege-black.jpg
   - title: Elise Rainbow Six Grey
     link: /personalizadas/cadeira-gamer-dt3sports-elise-rainbow-six-grey/
     image: >-
-      ../../../../static/img/products/elise-rainbow-six-grey/elise-rainbow-six-grey.jpg
+      /static/img/products/elise-rainbow-six-grey/elise-rainbow-six-grey.jpg
 specs:
-  front: ../../../../static/img/products/elise/elise-specs-frontal.svg
-  side: ../../../../static/img/products/elise/elise-specs-lateral.svg
+  front: /static/img/products/elise/elise-specs-frontal.svg
+  side: /static/img/products/elise/elise-specs-lateral.svg
   items:
     - key: coating
       label: Revestimento

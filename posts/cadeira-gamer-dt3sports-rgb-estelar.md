@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Cadeira Gamer DT3sports RGB 
 id: 105534
 link: /racing-series/cadeira-gamer-dt3sports-rgb-estelar
 name: Cadeira Gamer DT3sports RGB Estelar
@@ -9,7 +9,7 @@ category: Cadeira
 subcategory: Racing Series
 type: simple
 availability: in-stock
-main_image: ../../../../static/img/products/estelar/estelar.jpg
+main_image: /static/img/products/estelar/estelar.jpg
 description: >-
   **A Cadeira RGB Estelar é a primeira a ter um verdadeiro RGB! As luzes e
   efeitos RGB preenchem por total o contorno da cadeira sendo controlado por
@@ -45,55 +45,55 @@ galleries:
     color: RGB
     color_code: 'linear-gradient(55deg, rgb(13, 62, 199) 0%, rgb(235, 11, 96) 100%)'
     slides:
-      - image: ../../../../static/img/products/estelar/estelar-00.jpg
-      - image: ../../../../static/img/products/estelar/estelar-01.jpg
-      - image: ../../../../static/img/products/estelar/estelar-02.jpg
-      - image: ../../../../static/img/products/estelar/estelar-03.jpg
-      - image: ../../../../static/img/products/estelar/estelar-04.jpg
-      - image: ../../../../static/img/products/estelar/estelar-05.jpg
-      - image: ../../../../static/img/products/estelar/estelar-06.jpg
-      - image: ../../../../static/img/products/estelar/estelar-07.jpg
-      - image: ../../../../static/img/products/estelar/estelar-08.jpg
-      - image: ../../../../static/img/products/estelar/estelar-09.jpg
-      - image: ../../../../static/img/products/estelar/estelar-10.jpg
-      - image: ../../../../static/img/products/estelar/estelar-11.jpg
+      - image: /static/img/products/estelar/estelar-00.jpg
+      - image: /static/img/products/estelar/estelar-01.jpg
+      - image: /static/img/products/estelar/estelar-02.jpg
+      - image: /static/img/products/estelar/estelar-03.jpg
+      - image: /static/img/products/estelar/estelar-04.jpg
+      - image: /static/img/products/estelar/estelar-05.jpg
+      - image: /static/img/products/estelar/estelar-06.jpg
+      - image: /static/img/products/estelar/estelar-07.jpg
+      - image: /static/img/products/estelar/estelar-08.jpg
+      - image: /static/img/products/estelar/estelar-09.jpg
+      - image: /static/img/products/estelar/estelar-10.jpg
+      - image: /static/img/products/estelar/estelar-11.jpg
 slides:
   - title: Racing Series
     link: /racing-series
-    image: ../../../../static/img/categories/racing-series.svg
+    image: /static/img/categories/racing-series.svg
   - title: Elise
     link: /racing-series/cadeira-gamer-dt3sports-elise
-    image: ../../../../static/img/products/elise/elise.svg
+    image: /static/img/products/elise/elise.svg
   - title: Elise Fabric
     link: /racing-series/cadeira-gamer-dt3sports-elise-fabric
-    image: ../../../../static/img/products/elise-fabric/elise-fabric.svg
+    image: /static/img/products/elise-fabric/elise-fabric.svg
   - title: Elise Flamengo
     link: /racing-series/cadeira-gamer-dt3sports-elise-flamengo
-    image: ../../../../static/img/products/elise-flamengo/elise-flamengo.svg
+    image: /static/img/products/elise-flamengo/elise-flamengo.svg
   - title: Pixel
     link: /racing-series/cadeira-gamer-dt3sports-rgb-pixel
-    image: ../../../../static/img/products/pixel/pixel.svg
+    image: /static/img/products/pixel/pixel.svg
   - title: Estelar
     link: /racing-series/cadeira-gamer-dt3sports-rgb-estelar
-    image: ../../../../static/img/products/estelar/estelar.svg
+    image: /static/img/products/estelar/estelar.svg
   - title: Jaguar
     link: /racing-series/cadeira-gamer-dt3sports-jaguar
-    image: ../../../../static/img/products/jaguar/jaguar.svg
+    image: /static/img/products/jaguar/jaguar.svg
   - title: Mizano
     link: /racing-series/cadeira-gamer-dt3sports-mizano-fabric
-    image: ../../../../static/img/products/mizano/mizano.svg
+    image: /static/img/products/mizano/mizano.svg
   - title: Módena
     link: /racing-series/cadeira-gamer-dt3sports-modena
-    image: ../../../../static/img/products/modena/modena.svg
+    image: /static/img/products/modena/modena.svg
   - title: Ravena
     link: /racing-series/cadeira-gamer-dt3sports-ravena
-    image: ../../../../static/img/products/ravena/ravena.svg
+    image: /static/img/products/ravena/ravena.svg
   - title: Romeo
     link: /racing-series/cadeira-gamer-dt3sports-romeo-tecido
-    image: ../../../../static/img/products/romeo/romeo.svg
+    image: /static/img/products/romeo/romeo.svg
   - title: Pandora
     link: /racing-series/cadeira-gamer-dt3sports-pandora
-    image: ../../../../static/img/products/pandora/pandora.svg
+    image: /static/img/products/pandora/pandora.svg
 menu:
   items:
     - text: RGB
@@ -117,12 +117,12 @@ menu:
     - text: Tabela detalhada
       link: '#tabela'
 featured_image:
-  desktop_image: ../../../../static/img/uploads/products/featured/
+  desktop_image: /static/img/uploads/products/featured/
   mobile_image: >-
-    ../../../../static/img/banner/product/estelar/estelar-main-banner__mobile.jpg
+    /static/img/banner/product/estelar/estelar-main-banner__mobile.jpg
 specs:
-  front: ../../../../static/img/products/estelar/estelar-specs-frontal.svg
-  side: ../../../../static/img/products/estelar/estelar-specs-lateral.svg
+  front: /static/img/products/estelar/estelar-specs-frontal.svg
+  side: /static/img/products/estelar/estelar-specs-lateral.svg
   items:
     - key: coating
       label: Revestimento
@@ -243,7 +243,7 @@ blocks:
       background_color: ''
       height: 60vh
       background_image: >-
-        ../../../../static/img/uploads/banner/background/2-bateria-estelar-desktop.jpg
+        /static/img/uploads/banner/background/2-bateria-estelar-desktop.jpg
   - _template: BannerBlock
     banner:
       id: espuma
@@ -253,7 +253,7 @@ blocks:
       mobile_card: true
       height: 60vh
       background_image: >-
-        ../../../../static/img/uploads/banner/background/3-espuma-estelar-desktop.jpg
+        /static/img/uploads/banner/background/3-espuma-estelar-desktop.jpg
   - _template: BannerBlock
     banner:
       id: base
@@ -264,7 +264,7 @@ blocks:
       vertical_alignment: center
       height: 60vh
       background_image: >-
-        ../../../../static/img/uploads/banner/background/4-base-estelar-desktop.jpg
+        /static/img/uploads/banner/background/4-base-estelar-desktop.jpg
   - _template: BannerBlock
     banner:
       id: reclinio
@@ -274,7 +274,7 @@ blocks:
       mobile_card: true
       height: 60vh
       background_image: >-
-        ../../../../static/img/uploads/banner/background/5-reclino-estelar-desktop.jpg
+        /static/img/uploads/banner/background/5-reclino-estelar-desktop.jpg
   - _template: BannerBlock
     banner:
       id: almofadas
@@ -285,7 +285,7 @@ blocks:
       vertical_alignment: center
       height: 60vh
       background_image: >-
-        ../../../../static/img/uploads/banner/background/6-almofadas-estelar-desktop.jpg
+        /static/img/uploads/banner/background/6-almofadas-estelar-desktop.jpg
   - _template: BannerBlock
     banner:
       id: revestimento
@@ -296,7 +296,7 @@ blocks:
       vertical_alignment: center
       height: 60vh
       background_image: >-
-        ../../../../static/img/uploads/banner/background/7-couro-estelar-desktop.jpg
+        /static/img/uploads/banner/background/7-couro-estelar-desktop.jpg
   - _template: BannerBlock
     banner:
       id: garantia
@@ -307,7 +307,7 @@ blocks:
       blocks: []
       height: 60vh
       background_image: >-
-        ../../../../static/img/uploads/banner/background/8-garantia-estelar-desktop.jpg
+        /static/img/uploads/banner/background/8-garantia-estelar-desktop.jpg
 keywords: >-
   cadeira, gamer, jogar, setup, estelar, pixel, rgb, luzes, fita, led, braço,
   braços, 2d, reclinio, 180, graus, de, para, com

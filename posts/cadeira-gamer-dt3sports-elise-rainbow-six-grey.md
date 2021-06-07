@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Cadeira Gamer DT3sports Elise Rainbow Six Grey
 id: 407416
 link: /personalizadas/cadeira-gamer-dt3sports-elise-rainbow-six-grey/
 name: Cadeira Gamer DT3sports Elise Rainbow Six Grey
@@ -10,7 +10,7 @@ subcategory: null
 type: variable
 availability: in-stock
 main_image: >-
-  ../../../../static/img/products/elise-rainbow-six-grey/elise-rainbow-six-grey.jpg
+  /static/img/products/elise-rainbow-six-grey/elise-rainbow-six-grey.jpg
 description: >-
   • Produto oficial Six Siege 
 
@@ -38,54 +38,54 @@ price:
   boleto: 1529.91
 featured_image:
   desktop_image: >-
-    ../../../../static/img/banner/product/elise-rainbow-six-grey/main-banner__desktop.jpg
+    /static/img/banner/product/elise-rainbow-six-grey/main-banner__desktop.jpg
   mobile_image: >-
-    ../../../../static/img/banner/product/elise-rainbow-six-grey/main-banner__desktop.jpg
+    /static/img/banner/product/elise-rainbow-six-grey/main-banner__desktop.jpg
 galleries:
   - color: Black
     availability: in-stock
     slides:
       - image: >-
-          ../../../../static/img/products/elise-rainbow-six-grey/Grey/elise-rainbow-six-grey-00.jpg
+          /static/img/products/elise-rainbow-six-grey/Grey/elise-rainbow-six-grey-00.jpg
       - image: >-
-          ../../../../static/img/products/elise-rainbow-six-grey/Grey/elise-rainbow-six-grey-01.jpg
+          /static/img/products/elise-rainbow-six-grey/Grey/elise-rainbow-six-grey-01.jpg
       - image: >-
-          ../../../../static/img/products/elise-rainbow-six-grey/Grey/elise-rainbow-six-grey-02.jpg
+          /static/img/products/elise-rainbow-six-grey/Grey/elise-rainbow-six-grey-02.jpg
       - image: >-
-          ../../../../static/img/products/elise-rainbow-six-grey/Grey/elise-rainbow-six-grey-03.jpg
+          /static/img/products/elise-rainbow-six-grey/Grey/elise-rainbow-six-grey-03.jpg
       - image: >-
-          ../../../../static/img/products/elise-rainbow-six-grey/Grey/elise-rainbow-six-grey-04.jpg
+          /static/img/products/elise-rainbow-six-grey/Grey/elise-rainbow-six-grey-04.jpg
       - image: >-
-          ../../../../static/img/products/elise-rainbow-six-grey/Grey/elise-rainbow-six-grey-05.jpg
+          /static/img/products/elise-rainbow-six-grey/Grey/elise-rainbow-six-grey-05.jpg
       - image: >-
-          ../../../../static/img/products/elise-rainbow-six-grey/Grey/elise-rainbow-six-grey-06.jpg
+          /static/img/products/elise-rainbow-six-grey/Grey/elise-rainbow-six-grey-06.jpg
       - image: >-
-          ../../../../static/img/products/elise-rainbow-six-grey/Grey/elise-rainbow-six-grey-07.jpg
+          /static/img/products/elise-rainbow-six-grey/Grey/elise-rainbow-six-grey-07.jpg
       - image: >-
-          ../../../../static/img/products/elise-rainbow-six-grey/Grey/elise-rainbow-six-grey-08.jpg
+          /static/img/products/elise-rainbow-six-grey/Grey/elise-rainbow-six-grey-08.jpg
       - image: >-
-          ../../../../static/img/products/elise-rainbow-six-grey/Grey/elise-rainbow-six-grey-09.jpg
+          /static/img/products/elise-rainbow-six-grey/Grey/elise-rainbow-six-grey-09.jpg
       - image: >-
-          ../../../../static/img/products/elise-rainbow-six-grey/Grey/elise-rainbow-six-grey-010.jpg
+          /static/img/products/elise-rainbow-six-grey/Grey/elise-rainbow-six-grey-010.jpg
       - image: >-
-          ../../../../static/img/products/elise-rainbow-six-grey/Grey/elise-rainbow-six-grey-011.jpg
+          /static/img/products/elise-rainbow-six-grey/Grey/elise-rainbow-six-grey-011.jpg
       - image: >-
-          ../../../../static/img/products/elise-rainbow-six-grey/Grey/elise-rainbow-six-grey-012.jpg
+          /static/img/products/elise-rainbow-six-grey/Grey/elise-rainbow-six-grey-012.jpg
 slides:
   - title: Personalizados
     link: /personalizadas
-    image: ../../../../static/img/products/elise/elise.svg
+    image: /static/img/products/elise/elise.svg
   - title: Elise Six Siege Black
     link: /personalizadas/cadeira-gamer-dt3sports-elise-six-siege-black/
     image: >-
-      ../../../../static/img/products/elise-six-siege-black/elise-six-siege-black.jpg
+      /static/img/products/elise-six-siege-black/elise-six-siege-black.jpg
   - title: Elise Rainbow Six Grey
     link: /personalizadas/cadeira-gamer-dt3sports-elise-rainbow-six-grey/
     image: >-
-      ../../../../static/img/products/elise-rainbow-six-grey/elise-rainbow-six-grey.jpg
+      /static/img/products/elise-rainbow-six-grey/elise-rainbow-six-grey.jpg
 specs:
-  front: ../../../../static/img/products/elise/elise-specs-frontal.svg
-  side: ../../../../static/img/products/elise/elise-specs-lateral.svg
+  front: /static/img/products/elise/elise-specs-frontal.svg
+  side: /static/img/products/elise/elise-specs-lateral.svg
   items:
     - key: coating
       label: Revestimento
