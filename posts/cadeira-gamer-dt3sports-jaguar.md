@@ -271,8 +271,7 @@ blocks:
       background_color: '#000000'
       stretch: false
       mobile_card: true
-      background_image: >-
-        /static/img/uploads/banner/background/2-material-jaguar-desktop.jpg
+      background_image: /static/img/uploads/banner/background/2-material-jaguar-desktop.jpg
       height: 60vh
   - _template: BannerBlock
     banner:
@@ -308,8 +307,7 @@ blocks:
       debug: false
       vertical_alignment: center
       horizontal_alignment: flex-start
-      background_image: >-
-        /static/img/uploads/banner/background/3-almofada-jaguar-desktop.jpg
+      background_image: /static/img/uploads/banner/background/3-almofada-jaguar-desktop.jpg
       height: 60vh
   - _template: BannerBlock
     banner:
@@ -318,15 +316,13 @@ blocks:
       vertical_alignment: center
       id: reclinio
       mobile_card: true
-      background_image: >-
-        /static/img/uploads/banner/background/4-reclino-jaguar-desktop.jpg
+      background_image: /static/img/uploads/banner/background/4-reclino-jaguar-desktop.jpg
       height: 60vh
   - _template: BannerBlock
     banner:
       id: rodas
       full_width: true
-      background_image: >-
-        /static/img/uploads/banner/background/4-rodas-jaguar-desktop.jpg
+      background_image: /static/img/uploads/banner/background/4-rodas-jaguar-desktop.jpg
       blocks: []
       horizontal_alignment: center
       vertical_alignment: center
@@ -339,8 +335,7 @@ blocks:
       full_width: true
       vertical_alignment: center
       mobile_card: true
-      background_image: >-
-        /static/img/uploads/banner/background/5-couro-jaguar-desktop.jpg
+      background_image: /static/img/uploads/banner/background/5-couro-jaguar-desktop.jpg
       height: 60vh
   - _template: BannerBlock
     banner:
@@ -350,8 +345,7 @@ blocks:
       horizontal_alignment: flex-start
       blocks: []
       mobile_card: true
-      background_image: >-
-        /static/img/uploads/banner/background/6-garantia-jaguar-desktop.jpg
+      background_image: /static/img/uploads/banner/background/6-garantia-jaguar-desktop.jpg
       height: 60vh
 keywords: >-
   cadeira, gamer, jogar, setup, couro, pu, reclinio 180, graus, braço, 2d, de,

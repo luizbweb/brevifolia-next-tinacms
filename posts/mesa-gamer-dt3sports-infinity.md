@@ -9,7 +9,7 @@ category: Mesa
 subcategory: Gaming Desk
 type: simple
 availability: in-stock
-main_image: ../../../../static/img/products/infinity/infinity.jpg
+main_image: /static/img/products/infinity/infinity.jpg
 description: >-
   • Estrutura de Metal.
 
@@ -32,35 +32,35 @@ description: >-
   [Fazer Download do Manual de
   Instruções](https://drive.google.com/open?id=1ciDsM446JU9ELzHeCzmWRduGqkkbOzIM)
 featured_image:
-  desktop_image: ../../../../static/img/banner/product/infinity/main-banner__desktop.jpg
-  mobile_image: ../../../../static/img/banner/product/infinity/main-banner__desktop.jpg
+  desktop_image: /static/img/banner/product/infinity/main-banner__desktop.jpg
+  mobile_image: /static/img/banner/product/infinity/main-banner__desktop.jpg
 galleries:
   - id: 104164
     color: Black
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/infinity/black/infinity-01.jpg
-      - image: ../../../../static/img/products/infinity/black/infinity-00.jpg
-      - image: ../../../../static/img/products/infinity/black/infinity-02.jpg
-      - image: ../../../../static/img/products/infinity/black/infinity-03.jpg
-      - image: ../../../../static/img/products/infinity/black/infinity-04.jpg
-      - image: ../../../../static/img/products/infinity/black/infinity-05.jpg
-      - image: ../../../../static/img/products/infinity/black/infinity-06.jpg
-      - image: ../../../../static/img/products/infinity/black/infinity-07.jpg
-      - image: ../../../../static/img/products/infinity/black/infinity-08.jpg
-      - image: ../../../../static/img/products/infinity/black/infinity-09.jpg
-      - image: ../../../../static/img/products/infinity/black/infinity-010.jpg
-      - image: ../../../../static/img/products/infinity/black/infinity-011.jpg
+      - image: /static/img/products/infinity/black/infinity-01.jpg
+      - image: /static/img/products/infinity/black/infinity-00.jpg
+      - image: /static/img/products/infinity/black/infinity-02.jpg
+      - image: /static/img/products/infinity/black/infinity-03.jpg
+      - image: /static/img/products/infinity/black/infinity-04.jpg
+      - image: /static/img/products/infinity/black/infinity-05.jpg
+      - image: /static/img/products/infinity/black/infinity-06.jpg
+      - image: /static/img/products/infinity/black/infinity-07.jpg
+      - image: /static/img/products/infinity/black/infinity-08.jpg
+      - image: /static/img/products/infinity/black/infinity-09.jpg
+      - image: /static/img/products/infinity/black/infinity-010.jpg
+      - image: /static/img/products/infinity/black/infinity-011.jpg
 slides:
   - title: Gaming Desk
     link: /gaming-desk
-    image: ../../../../static/img/categories/gaming-desk.svg
+    image: /static/img/categories/gaming-desk.svg
   - title: Infinity
     link: /gaming-desk/mesa-gamer-dt3sports-infinity
-    image: ../../../../static/img/products/infinity/infinity.svg
+    image: /static/img/products/infinity/infinity.svg
 specs:
-  front: ../../../../static/img/products/infinity/infinity-specs-lateral.svg
-  side: ../../../../static/img/products/infinity/infinity-specs-superior.svg
+  front: /static/img/products/infinity/infinity-specs-lateral.svg
+  side: /static/img/products/infinity/infinity-specs-superior.svg
   items:
     - label: Material do tampo
       value: MDP

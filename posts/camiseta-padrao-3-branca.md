@@ -10,7 +10,7 @@ subcategory: Merch
 type: simple
 availability: in-stock
 main_image: >-
-  ../../../../static/img/products/camiseta-padrao-3-branca/camiseta-padrao-3-branca.png
+  /static/img/products/camiseta-padrao-3-branca/camiseta-padrao-3-branca.png
 description: >-
   • Estrutura de Metal.
 
@@ -38,25 +38,25 @@ galleries:
     availability: in-stock
     slides:
       - image: >-
-          ../../../../static/img/products/camiseta-padrao-3-branca/camiseta-padrao-3-branca.png
+          /static/img/products/camiseta-padrao-3-branca/camiseta-padrao-3-branca.png
       - image: >-
-          ../../../../static/img/products/camiseta-padrao-3-branca/camiseta-padrao-3-branca.png
+          /static/img/products/camiseta-padrao-3-branca/camiseta-padrao-3-branca.png
   - id: 205245
     color: M
     availability: in-stock
     slides:
       - image: >-
-          ../../../../static/img/products/camiseta-padrao-3-branca/camiseta-padrao-3-branca.png
+          /static/img/products/camiseta-padrao-3-branca/camiseta-padrao-3-branca.png
       - image: >-
-          ../../../../static/img/products/camiseta-padrao-3-branca/camiseta-padrao-3-branca.png
+          /static/img/products/camiseta-padrao-3-branca/camiseta-padrao-3-branca.png
   - id: 205244
     color: G
     availability: in-stock
     slides:
       - image: >-
-          ../../../../static/img/products/camiseta-padrao-3-branca/camiseta-padrao-3-branca.png
+          /static/img/products/camiseta-padrao-3-branca/camiseta-padrao-3-branca.png
       - image: >-
-          ../../../../static/img/products/camiseta-padrao-3-branca/camiseta-padrao-3-branca.png
+          /static/img/products/camiseta-padrao-3-branca/camiseta-padrao-3-branca.png
 specs:
   items: null
 price:

@@ -9,7 +9,7 @@ category: Hardware
 subcategory: null
 type: simple
 availability: in-stock
-main_image: ../../../../static/img/products/apollo/apollo.jpg
+main_image: /static/img/products/apollo/apollo.jpg
 description: >-
   Estilo, elegância e sofisticação. O gabinete DT3sports Apollo traz tudo isso e
   muito mais. Chassi moderno com “PSU shroud” esconde aqueles cabos/fios feios
@@ -19,78 +19,78 @@ description: >-
 
   Fans RGB frontais não inclusos. Imagem ilustrativa.
 featured_image:
-  desktop_image: ../../../../static/img/banner/product/apollo/main-banner__desktop.jpg
-  mobile_image: ../../../../static/img/banner/product/apollo/main-banner__desktop.jpg
+  desktop_image: /static/img/banner/product/apollo/main-banner__desktop.jpg
+  mobile_image: /static/img/banner/product/apollo/main-banner__desktop.jpg
 galleries:
   - id: 22892
     color: Black
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/apollo/Black/apollo-01.jpg
-      - image: ../../../../static/img/products/apollo/Black/apollo-02.jpg
-      - image: ../../../../static/img/products/apollo/Black/apollo-03.jpg
-      - image: ../../../../static/img/products/apollo/Black/apollo-04.jpg
-      - image: ../../../../static/img/products/apollo/Black/apollo-05.jpg
-      - image: ../../../../static/img/products/apollo/Black/apollo-06.jpg
-      - image: ../../../../static/img/products/apollo/Black/apollo-07.jpg
+      - image: /static/img/products/apollo/Black/apollo-01.jpg
+      - image: /static/img/products/apollo/Black/apollo-02.jpg
+      - image: /static/img/products/apollo/Black/apollo-03.jpg
+      - image: /static/img/products/apollo/Black/apollo-04.jpg
+      - image: /static/img/products/apollo/Black/apollo-05.jpg
+      - image: /static/img/products/apollo/Black/apollo-06.jpg
+      - image: /static/img/products/apollo/Black/apollo-07.jpg
 slides:
   - title: Hardware
     link: /hardware
-    image: ../../../../static/img/categories/hardware.svg
+    image: /static/img/categories/hardware.svg
   - title: Orbiter
     link: /hardware/gabinete-gamer-dt3sports-orbiter/
-    image: ../../../../static/img/products/orbiter/orbiter.svg
+    image: /static/img/products/orbiter/orbiter.svg
   - title: Kronos
     link: /hardware/gabinete-gamer-dt3sports-kronos/
-    image: ../../../../static/img/products/kronos/kronos.svg
+    image: /static/img/products/kronos/kronos.svg
   - title: Hyperstone
     link: /hardware/suporte-de-vga-rgb-hyperstone/
-    image: ../../../../static/img/products/hyperstone/hyperstone.svg
+    image: /static/img/products/hyperstone/hyperstone.svg
   - title: Wolf120
     link: /hardware/cooler-de-processador-wolf120/
-    image: ../../../../static/img/products/wolf120/wolf120.svg
+    image: /static/img/products/wolf120/wolf120.svg
   - title: Apollo
     link: /hardware/gabinete-gamer-dt3sports-apollo/
-    image: ../../../../static/img/products/apollo/apollo.svg
+    image: /static/img/products/apollo/apollo.svg
   - title: Andromeda
     link: /hardware/gabinete-gamer-dt3sports-andromeda/
-    image: ../../../../static/img/products/andromeda/andromeda.svg
+    image: /static/img/products/andromeda/andromeda.svg
   - title: Hyperspace + 2 Kit ZX120
     link: /hardware/gabinete-gamer-dt3sports-hyperspace-2-kit-zx120
-    image: ../../../../static/img/products/hyperspace/hyperspace.svg
+    image: /static/img/products/hyperspace/hyperspace.svg
   - title: Hyperspace + 1 Kit ZX120
     link: /hardware/gabinete-gamer-dt3sports-hyperspace-1-kit-zx120
-    image: ../../../../static/img/products/hyperspace/hyperspace.svg
+    image: /static/img/products/hyperspace/hyperspace.svg
   - title: Hyperspace
     link: /hardware/gabinete-gamer-dt3sports-hyperspace
-    image: ../../../../static/img/products/hyperspace/hyperspace.svg
+    image: /static/img/products/hyperspace/hyperspace.svg
   - title: 3 Kit Fan ZX120
     link: /hardware/zx120-9-fans/
-    image: ../../../../static/img/products/zx120/zx120-kit.svg
+    image: /static/img/products/zx120/zx120-kit.svg
   - title: 2 Kit Fan ZX120
     link: /hardware/zx120-6-fans/
-    image: ../../../../static/img/products/zx120/zx120-kit.svg
+    image: /static/img/products/zx120/zx120-kit.svg
   - title: ZX120 Trio
     link: /hardware/zx120-3-fans/
-    image: ../../../../static/img/products/zx120/zx120.svg
+    image: /static/img/products/zx120/zx120.svg
   - title: Lynx
     link: /hardware/gabinete-gamer-dt3sports-lynx
-    image: ../../../../static/img/products/lynx/lynx.svg
+    image: /static/img/products/lynx/lynx.svg
   - title: Atomo
     link: /hardware/gabinete-gamer-dt3sports-atomo
-    image: ../../../../static/img/products/atomo/atomo.svg
+    image: /static/img/products/atomo/atomo.svg
   - title: BX700
     link: /hardware/fonte-de-alimentacao-psu-dt3sports-bx700-80plus-bronze/
-    image: ../../../../static/img/products/bx700/bx700.svg
+    image: /static/img/products/bx700/bx700.svg
   - title: BX500
     link: /hardware/fonte-de-alimentacao-psu-dt3sports-bx500-80plus-bronze/
-    image: ../../../../static/img/products/bx500/bx500.svg
+    image: /static/img/products/bx500/bx500.svg
   - title: Edge Hyve
     link: /hardware/gabinete-gamer-dt3sports-edge-hyve
-    image: ../../../../static/img/products/edge-hyve/edge-hyve.svg
+    image: /static/img/products/edge-hyve/edge-hyve.svg
 specs:
-  front: ../../../../static/img/products/apollo/apollo-specs-frontal.svg
-  side: ../../../../static/img/products/apollo/apollo-specs-lateral.svg
+  front: /static/img/products/apollo/apollo-specs-frontal.svg
+  side: /static/img/products/apollo/apollo-specs-lateral.svg
   items:
     - key: coating
       label: Material

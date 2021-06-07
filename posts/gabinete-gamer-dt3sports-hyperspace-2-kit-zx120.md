@@ -9,7 +9,7 @@ category: Hardware
 subcategory: null
 type: simple
 availability: in-stock
-main_image: ../../../../static/img/products/hyperspace/hyperspace-2-zx120.jpg
+main_image: /static/img/products/hyperspace/hyperspace-2-zx120.jpg
 description: >-
   O Hyperspace possui design moderno, com painéis frontal e lateral em um design
   fino e minimalista. Além disso possui chassi diferenciado, escondendo a fonte
@@ -18,83 +18,83 @@ description: >-
 
   Este conjunto acompanha dois kits de fan RGB ZX120.
 featured_image:
-  desktop_image: ../../../../static/img/banner/product/hyperspace/main-banner__desktop.jpg
-  mobile_image: ../../../../static/img/banner/product/hyperspace/main-banner__desktop.jpg
+  desktop_image: /static/img/banner/product/hyperspace/main-banner__desktop.jpg
+  mobile_image: /static/img/banner/product/hyperspace/main-banner__desktop.jpg
 galleries:
   - id: 106074
     color: Black
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/hyperspace/hyperspace-2-zx120.jpg
-      - image: ../../../../static/img/products/hyperspace/Black/Hyperspace-00.jpg
-      - image: ../../../../static/img/products/hyperspace/Black/Hyperspace-01.jpg
-      - image: ../../../../static/img/products/hyperspace/Black/Hyperspace-02.jpg
-      - image: ../../../../static/img/products/hyperspace/Black/Hyperspace-03.jpg
-      - image: ../../../../static/img/products/hyperspace/Black/Hyperspace-04.jpg
-      - image: ../../../../static/img/products/hyperspace/Black/Hyperspace-05.jpg
-      - image: ../../../../static/img/products/hyperspace/Black/Hyperspace-06.jpg
-      - image: ../../../../static/img/products/hyperspace/Black/Hyperspace-07.jpg
-      - image: ../../../../static/img/products/hyperspace/Black/Hyperspace-08.jpg
-      - image: ../../../../static/img/products/hyperspace/Black/Hyperspace-09.jpg
-      - image: ../../../../static/img/products/hyperspace/Black/Hyperspace-010.jpg
+      - image: /static/img/products/hyperspace/hyperspace-2-zx120.jpg
+      - image: /static/img/products/hyperspace/Black/Hyperspace-00.jpg
+      - image: /static/img/products/hyperspace/Black/Hyperspace-01.jpg
+      - image: /static/img/products/hyperspace/Black/Hyperspace-02.jpg
+      - image: /static/img/products/hyperspace/Black/Hyperspace-03.jpg
+      - image: /static/img/products/hyperspace/Black/Hyperspace-04.jpg
+      - image: /static/img/products/hyperspace/Black/Hyperspace-05.jpg
+      - image: /static/img/products/hyperspace/Black/Hyperspace-06.jpg
+      - image: /static/img/products/hyperspace/Black/Hyperspace-07.jpg
+      - image: /static/img/products/hyperspace/Black/Hyperspace-08.jpg
+      - image: /static/img/products/hyperspace/Black/Hyperspace-09.jpg
+      - image: /static/img/products/hyperspace/Black/Hyperspace-010.jpg
 slides:
   - title: Hardware
     link: /hardware
-    image: ../../../../static/img/categories/hardware.svg
+    image: /static/img/categories/hardware.svg
   - title: Orbiter
     link: /hardware/gabinete-gamer-dt3sports-orbiter/
-    image: ../../../../static/img/products/orbiter/orbiter.svg
+    image: /static/img/products/orbiter/orbiter.svg
   - title: Kronos
     link: /hardware/gabinete-gamer-dt3sports-kronos/
-    image: ../../../../static/img/products/kronos/kronos.svg
+    image: /static/img/products/kronos/kronos.svg
   - title: Hyperstone
     link: /hardware/suporte-de-vga-rgb-hyperstone/
-    image: ../../../../static/img/products/hyperstone/hyperstone.svg
+    image: /static/img/products/hyperstone/hyperstone.svg
   - title: Wolf120
     link: /hardware/cooler-de-processador-wolf120/
-    image: ../../../../static/img/products/wolf120/wolf120.svg
+    image: /static/img/products/wolf120/wolf120.svg
   - title: Apollo
     link: /hardware/gabinete-gamer-dt3sports-apollo/
-    image: ../../../../static/img/products/apollo/apollo.svg
+    image: /static/img/products/apollo/apollo.svg
   - title: Andromeda
     link: /hardware/gabinete-gamer-dt3sports-andromeda/
-    image: ../../../../static/img/products/andromeda/andromeda.svg
+    image: /static/img/products/andromeda/andromeda.svg
   - title: Hyperspace + 2 Kit ZX120
     link: /hardware/gabinete-gamer-dt3sports-hyperspace-2-kit-zx120
-    image: ../../../../static/img/products/hyperspace/hyperspace.svg
+    image: /static/img/products/hyperspace/hyperspace.svg
   - title: Hyperspace + 1 Kit ZX120
     link: /hardware/gabinete-gamer-dt3sports-hyperspace-1-kit-zx120
-    image: ../../../../static/img/products/hyperspace/hyperspace.svg
+    image: /static/img/products/hyperspace/hyperspace.svg
   - title: Hyperspace
     link: /hardware/gabinete-gamer-dt3sports-hyperspace
-    image: ../../../../static/img/products/hyperspace/hyperspace.svg
+    image: /static/img/products/hyperspace/hyperspace.svg
   - title: 3 Kit Fan ZX120
     link: /hardware/zx120-9-fans/
-    image: ../../../../static/img/products/zx120/zx120-kit.svg
+    image: /static/img/products/zx120/zx120-kit.svg
   - title: 2 Kit Fan ZX120
     link: /hardware/zx120-6-fans/
-    image: ../../../../static/img/products/zx120/zx120-kit.svg
+    image: /static/img/products/zx120/zx120-kit.svg
   - title: ZX120 Trio
     link: /hardware/zx120-3-fans/
-    image: ../../../../static/img/products/zx120/zx120.svg
+    image: /static/img/products/zx120/zx120.svg
   - title: Lynx
     link: /hardware/gabinete-gamer-dt3sports-lynx
-    image: ../../../../static/img/products/lynx/lynx.svg
+    image: /static/img/products/lynx/lynx.svg
   - title: Atomo
     link: /hardware/gabinete-gamer-dt3sports-atomo
-    image: ../../../../static/img/products/atomo/atomo.svg
+    image: /static/img/products/atomo/atomo.svg
   - title: BX700
     link: /hardware/fonte-de-alimentacao-psu-dt3sports-bx700-80plus-bronze/
-    image: ../../../../static/img/products/bx700/bx700.svg
+    image: /static/img/products/bx700/bx700.svg
   - title: BX500
     link: /hardware/fonte-de-alimentacao-psu-dt3sports-bx500-80plus-bronze/
-    image: ../../../../static/img/products/bx500/bx500.svg
+    image: /static/img/products/bx500/bx500.svg
   - title: Edge Hyve
     link: /hardware/gabinete-gamer-dt3sports-edge-hyve
-    image: ../../../../static/img/products/edge-hyve/edge-hyve.svg
+    image: /static/img/products/edge-hyve/edge-hyve.svg
 specs:
-  front: ../../../../static/img/placeholders/1x1.png
-  side: ../../../../static/img/placeholders/1x1.png
+  front: /static/img/placeholders/1x1.png
+  side: /static/img/placeholders/1x1.png
   items:
     - key: coating
       label: Material

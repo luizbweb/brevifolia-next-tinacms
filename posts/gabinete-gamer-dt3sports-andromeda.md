@@ -9,7 +9,7 @@ category: Hardware
 subcategory: null
 type: simple
 availability: in-stock
-main_image: ../../../../static/img/products/andromeda/andromeda.jpg
+main_image: /static/img/products/andromeda/andromeda.jpg
 description: >-
   Estilo, elegância e sofisticação. O gabinete DT3sports Andromeda traz tudo
   isso e muito mais. Chassi moderno com PSU shroud esconde aqueles cabos/fios
@@ -20,79 +20,79 @@ description: >-
 
   Fans RGB frontais não inclusos. Imagem ilustrativa.
 featured_image:
-  desktop_image: ../../../../static/img/banner/product/andromeda/main-banner__desktop.jpg
-  mobile_image: ../../../../static/img/banner/product/andromeda/main-banner__desktop.jpg
+  desktop_image: /static/img/banner/product/andromeda/main-banner__desktop.jpg
+  mobile_image: /static/img/banner/product/andromeda/main-banner__desktop.jpg
 galleries:
   - id: 22952
     color: Black
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/andromeda/Black/Andromeda-00.jpg
-      - image: ../../../../static/img/products/andromeda/Black/Andromeda-04.jpg
-      - image: ../../../../static/img/products/andromeda/Black/Andromeda-05.jpg
-      - image: ../../../../static/img/products/andromeda/Black/Andromeda-06.jpg
-      - image: ../../../../static/img/products/andromeda/Black/Andromeda-07.jpg
-      - image: ../../../../static/img/products/andromeda/Black/Andromeda-08.jpg
-      - image: ../../../../static/img/products/andromeda/Black/Andromeda-09.jpg
-      - image: ../../../../static/img/products/andromeda/Black/Andromeda-010.jpg
+      - image: /static/img/products/andromeda/Black/Andromeda-00.jpg
+      - image: /static/img/products/andromeda/Black/Andromeda-04.jpg
+      - image: /static/img/products/andromeda/Black/Andromeda-05.jpg
+      - image: /static/img/products/andromeda/Black/Andromeda-06.jpg
+      - image: /static/img/products/andromeda/Black/Andromeda-07.jpg
+      - image: /static/img/products/andromeda/Black/Andromeda-08.jpg
+      - image: /static/img/products/andromeda/Black/Andromeda-09.jpg
+      - image: /static/img/products/andromeda/Black/Andromeda-010.jpg
 slides:
   - title: Hardware
     link: /hardware
-    image: ../../../../static/img/categories/hardware.svg
+    image: /static/img/categories/hardware.svg
   - title: Orbiter
     link: /hardware/gabinete-gamer-dt3sports-orbiter/
-    image: ../../../../static/img/products/orbiter/orbiter.svg
+    image: /static/img/products/orbiter/orbiter.svg
   - title: Kronos
     link: /hardware/gabinete-gamer-dt3sports-kronos/
-    image: ../../../../static/img/products/kronos/kronos.svg
+    image: /static/img/products/kronos/kronos.svg
   - title: Hyperstone
     link: /hardware/suporte-de-vga-rgb-hyperstone/
-    image: ../../../../static/img/products/hyperstone/hyperstone.svg
+    image: /static/img/products/hyperstone/hyperstone.svg
   - title: Wolf120
     link: /hardware/cooler-de-processador-wolf120/
-    image: ../../../../static/img/products/wolf120/wolf120.svg
+    image: /static/img/products/wolf120/wolf120.svg
   - title: Apollo
     link: /hardware/gabinete-gamer-dt3sports-apollo/
-    image: ../../../../static/img/products/apollo/apollo.svg
+    image: /static/img/products/apollo/apollo.svg
   - title: Andromeda
     link: /hardware/gabinete-gamer-dt3sports-andromeda/
-    image: ../../../../static/img/products/andromeda/andromeda.svg
+    image: /static/img/products/andromeda/andromeda.svg
   - title: Hyperspace + 2 Kit ZX120
     link: /hardware/gabinete-gamer-dt3sports-hyperspace-2-kit-zx120
-    image: ../../../../static/img/products/hyperspace/hyperspace.svg
+    image: /static/img/products/hyperspace/hyperspace.svg
   - title: Hyperspace + 1 Kit ZX120
     link: /hardware/gabinete-gamer-dt3sports-hyperspace-1-kit-zx120
-    image: ../../../../static/img/products/hyperspace/hyperspace.svg
+    image: /static/img/products/hyperspace/hyperspace.svg
   - title: Hyperspace
     link: /hardware/gabinete-gamer-dt3sports-hyperspace
-    image: ../../../../static/img/products/hyperspace/hyperspace.svg
+    image: /static/img/products/hyperspace/hyperspace.svg
   - title: 3 Kit Fan ZX120
     link: /hardware/zx120-9-fans/
-    image: ../../../../static/img/products/zx120/zx120-kit.svg
+    image: /static/img/products/zx120/zx120-kit.svg
   - title: 2 Kit Fan ZX120
     link: /hardware/zx120-6-fans/
-    image: ../../../../static/img/products/zx120/zx120-kit.svg
+    image: /static/img/products/zx120/zx120-kit.svg
   - title: ZX120 Trio
     link: /hardware/zx120-3-fans/
-    image: ../../../../static/img/products/zx120/zx120.svg
+    image: /static/img/products/zx120/zx120.svg
   - title: Lynx
     link: /hardware/gabinete-gamer-dt3sports-lynx
-    image: ../../../../static/img/products/lynx/lynx.svg
+    image: /static/img/products/lynx/lynx.svg
   - title: Atomo
     link: /hardware/gabinete-gamer-dt3sports-atomo
-    image: ../../../../static/img/products/atomo/atomo.svg
+    image: /static/img/products/atomo/atomo.svg
   - title: BX700
     link: /hardware/fonte-de-alimentacao-psu-dt3sports-bx700-80plus-bronze/
-    image: ../../../../static/img/products/bx700/bx700.svg
+    image: /static/img/products/bx700/bx700.svg
   - title: BX500
     link: /hardware/fonte-de-alimentacao-psu-dt3sports-bx500-80plus-bronze/
-    image: ../../../../static/img/products/bx500/bx500.svg
+    image: /static/img/products/bx500/bx500.svg
   - title: Edge Hyve
     link: /hardware/gabinete-gamer-dt3sports-edge-hyve
-    image: ../../../../static/img/products/edge-hyve/edge-hyve.svg
+    image: /static/img/products/edge-hyve/edge-hyve.svg
 specs:
-  front: ../../../../static/img/products/andromeda/andromeda-specs-frontal.svg
-  side: ../../../../static/img/products/andromeda/andromeda-specs-lateral.svg
+  front: /static/img/products/andromeda/andromeda-specs-frontal.svg
+  side: /static/img/products/andromeda/andromeda-specs-lateral.svg
   items:
     - key: coating
       label: Material
@@ -183,5 +183,5 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  ../../../../static/img/uploads/banner/image/banners_05-1920x601.jpg
+                  /static/img/uploads/banner/image/banners_05-1920x601.jpg
 ---

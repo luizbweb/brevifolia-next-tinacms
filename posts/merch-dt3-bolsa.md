@@ -9,7 +9,7 @@ category: Merch
 subcategory: Merch
 type: simple
 availability: in-stock
-main_image: ../../../../static/img/products/dt3-bolsa/dt3-bolsa.png
+main_image: /static/img/products/dt3-bolsa/dt3-bolsa.png
 description: >-
   • Estrutura de Metal.
 
@@ -32,24 +32,24 @@ description: >-
   [Fazer Download do Manual de
   Instruções](https://drive.google.com/open?id=1ciDsM446JU9ELzHeCzmWRduGqkkbOzIM)
 featured_image:
-  desktop_image: ../../../../static/img/banner/product/dt3-bolsa/dt3-bolsa.png
+  desktop_image: /static/img/banner/product/dt3-bolsa/dt3-bolsa.png
 galleries:
   - id: 104164
     color: Red
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/dt3-bolsa/dt3-bolsa.png
-      - image: ../../../../static/img/products/dt3-bolsa/dt3-bolsa-01.png
+      - image: /static/img/products/dt3-bolsa/dt3-bolsa.png
+      - image: /static/img/products/dt3-bolsa/dt3-bolsa-01.png
 slides:
   - title: Gaming Desk
     link: /gaming-desk
-    image: ../../../../static/img/categories/gaming-desk.svg
+    image: /static/img/categories/gaming-desk.svg
   - title: Infinity
     link: /gaming-desk/mesa-gamer-dt3sports-infinity
-    image: ../../../../static/img/products/infinity/infinity.svg
+    image: /static/img/products/infinity/infinity.svg
 specs:
-  front: ../../../../static/img/products/infinity/infinity-specs-lateral.svg
-  side: ../../../../static/img/products/infinity/infinity-specs-superior.svg
+  front: /static/img/products/infinity/infinity-specs-lateral.svg
+  side: /static/img/products/infinity/infinity-specs-superior.svg
   items:
     - label: Material do tampo
       value: MDP
