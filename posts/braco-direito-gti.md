@@ -75,4 +75,5 @@ specs:
   front: /static/img/placeholders/1x1.png
   side: /static/img/placeholders/1x1.png
 date: '2021-06-08T00:00:00Z'
+author: DT3
 ---
