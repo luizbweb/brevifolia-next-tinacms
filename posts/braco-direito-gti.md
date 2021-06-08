@@ -8,8 +8,7 @@ micro_name: Braço Direito GTI
 category: Acessórios
 subcategory: null
 availability: in-stock
-main_image: >-
-  /static/img/products/acessorios/braco-direito-gti/braco-direito-gti.jpg
+main_image: /static/img/products/acessorios/braco-direito-gti/braco-direito-gti.jpg
 description: >-
   Braço direito unitário
 
@@ -75,4 +74,5 @@ price:
 specs:
   front: /static/img/placeholders/1x1.png
   side: /static/img/placeholders/1x1.png
+date: '2021-06-08T00:00:00Z'
 ---
