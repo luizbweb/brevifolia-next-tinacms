@@ -242,14 +242,12 @@ blocks:
               _template: ContentBlock
               foreground: '#FFFFFF'
           vertical_alignment: center
-      background_image: >-
-        /static/img/uploads/banner/background/2-designmoderno-royce-desktop.jpg
+      background_image: /static/img/uploads/banner/background/2-designmoderno-royce-desktop.jpg
   - _template: BannerBlock
     banner:
       id: construcao
       height: 60vh
-      background_image: >-
-        /static/img/uploads/banner/background/3-materialtecido-royce-desktop.jpg
+      background_image: /static/img/uploads/banner/background/3-materialtecido-royce-desktop.jpg
       blocks:
         - horizontalAlignment: center
           verticalAlignment: flex-start
@@ -273,8 +271,7 @@ blocks:
     banner:
       id: espuma
       height: 60vh
-      background_image: >-
-        /static/img/uploads/banner/background/4-almofadas-royce-desktop.jpg
+      background_image: /static/img/uploads/banner/background/4-almofadas-royce-desktop.jpg
       full_width: true
       blocks:
         - horizontalAlignment: center
@@ -301,8 +298,7 @@ blocks:
   - _template: BannerBlock
     banner:
       id: reclínio
-      background_image: >-
-        /static/img/uploads/banner/background/5-reclinio-royce-desktop.jpg
+      background_image: /static/img/uploads/banner/background/5-reclinio-royce-desktop.jpg
       height: 60vh
       blocks:
         - horizontalAlignment: center
@@ -328,8 +324,7 @@ blocks:
   - _template: BannerBlock
     banner:
       id: frog
-      background_image: >-
-        /static/img/uploads/banner/background/6-sistemafrog-royce-desktop.jpg
+      background_image: /static/img/uploads/banner/background/6-sistemafrog-royce-desktop.jpg
       height: 60vh
       blocks:
         - horizontalAlignment: center
@@ -375,16 +370,14 @@ blocks:
         - horizontalAlignment: center
           verticalAlignment: flex-start
       height: 60vh
-      background_image: >-
-        /static/img/uploads/banner/background/7-base-royce-desktop.jpg
+      background_image: /static/img/uploads/banner/background/7-base-royce-desktop.jpg
       full_width: true
       vertical_alignment: center
       mobile_card: true
   - _template: BannerBlock
     banner:
       id: garantia
-      background_image: >-
-        /static/img/uploads/banner/background/8-garantia-royce-desktop.jpg
+      background_image: /static/img/uploads/banner/background/8-garantia-royce-desktop.jpg
       height: 60vh
       full_width: true
       stretch: true
