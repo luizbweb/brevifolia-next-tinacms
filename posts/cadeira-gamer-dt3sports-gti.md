@@ -391,4 +391,5 @@ featured_image:
 price:
   regular: 1099.9
   boleto: 989.91
+author: DT3
 ---
