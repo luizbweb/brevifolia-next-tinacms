@@ -48,4 +48,6 @@ specs:
   front: >-
     /static/img/products/acessorios/almofadas-gaming-series/almofadas-gaming-series-specs-frontal.svg
   side: /static/img/placeholders/1x1.png
+date: '2021-06-08T00:00:00Z'
+author: DT3
 ---
