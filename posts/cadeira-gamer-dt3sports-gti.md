@@ -8,7 +8,7 @@ micro_name: GTI
 category: Cadeira
 subcategory: Gaming Series
 availability: in-stock
-main_image: /static/error.png
+main_image: /static/dt3_editor_1.png
 description: >-
   • Couro PU.  
 
