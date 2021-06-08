@@ -50,4 +50,6 @@ specs:
   side: /static/img/placeholders/1x1.png
 author: DT3
 date: '2021-06-08T00:00:00Z'
+featured_image:
+  desktop_image: /static/almofada-lombar-elite-series-u-00.jpg
 ---
