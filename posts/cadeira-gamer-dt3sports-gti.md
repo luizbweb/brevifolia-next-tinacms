@@ -8,7 +8,7 @@ micro_name: GTI
 category: Cadeira
 subcategory: Gaming Series
 availability: in-stock
-main_image: /static/img/products/gti/gti.jpg
+main_image: /static/error.png
 description: >-
   • Couro PU.  
 
@@ -264,10 +264,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: >-
-                  /static/img/banner/product/gts/mecanismo__desktop.jpg
-                mobile_image: >-
-                  /static/img/banner/product/gts/mecanismo__mobile.jpg
+                desktop_image: /static/img/banner/product/gts/mecanismo__desktop.jpg
+                mobile_image: /static/img/banner/product/gts/mecanismo__mobile.jpg
           stretch: true
         - content:
             - title: Mecanismo Borboleta
@@ -364,8 +362,7 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: >-
-                  /static/img/banner/product/gts/garantia__desktop.png
+                desktop_image: /static/img/banner/product/gts/garantia__desktop.png
                 mobile_image: /static/img/banner/product/gts/garantia__mobile.jpg
           stretch: true
         - content:
