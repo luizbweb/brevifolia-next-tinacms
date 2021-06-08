@@ -87,5 +87,7 @@ specs:
     /static/img/products/acessorios/apoio-de-pe-EFR02C/Apoio-de-pé_EFR02C-LATERAL.svg
   side: >-
     /static/img/products/acessorios/apoio-de-pe-EFR02C/Apoio-de-pé_EFR02-DIAGONAL.svg
+date: '2021-06-08T00:00:00Z'
+author: DT3
 ---
 
