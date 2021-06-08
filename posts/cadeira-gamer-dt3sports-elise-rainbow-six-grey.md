@@ -9,8 +9,7 @@ category: Personalizadas
 subcategory: null
 type: variable
 availability: in-stock
-main_image: >-
-  /static/img/products/elise-rainbow-six-grey/elise-rainbow-six-grey.jpg
+main_image: /static/img/products/elise-rainbow-six-grey/elise-rainbow-six-grey.jpg
 description: >-
   • Produto oficial Six Siege 
 
@@ -37,10 +36,8 @@ price:
   regular: 1699.9
   boleto: 1529.91
 featured_image:
-  desktop_image: >-
-    /static/img/banner/product/elise-rainbow-six-grey/main-banner__desktop.jpg
-  mobile_image: >-
-    /static/img/banner/product/elise-rainbow-six-grey/main-banner__desktop.jpg
+  desktop_image: /static/img/banner/product/elise-rainbow-six-grey/main-banner__desktop.jpg
+  mobile_image: /static/img/banner/product/elise-rainbow-six-grey/main-banner__desktop.jpg
 galleries:
   - color: Black
     availability: in-stock
@@ -77,12 +74,10 @@ slides:
     image: /static/img/products/elise/elise.svg
   - title: Elise Six Siege Black
     link: /personalizadas/cadeira-gamer-dt3sports-elise-six-siege-black/
-    image: >-
-      /static/img/products/elise-six-siege-black/elise-six-siege-black.jpg
+    image: /static/img/products/elise-six-siege-black/elise-six-siege-black.jpg
   - title: Elise Rainbow Six Grey
     link: /personalizadas/cadeira-gamer-dt3sports-elise-rainbow-six-grey/
-    image: >-
-      /static/img/products/elise-rainbow-six-grey/elise-rainbow-six-grey.jpg
+    image: /static/img/products/elise-rainbow-six-grey/elise-rainbow-six-grey.jpg
 specs:
   front: /static/img/products/elise/elise-specs-frontal.svg
   side: /static/img/products/elise/elise-specs-lateral.svg

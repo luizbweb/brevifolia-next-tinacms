@@ -2,6 +2,7 @@
 title: Cadeira Gamer DT3Sports Rhino
 id: 18549
 link: /elite-series/cadeira-gamer-dt3sports-rhino
+hero_image: /static/img/products/rhino/red/rhino-00.jpg
 name: Cadeira Gamer DT3Sports Rhino
 short_name: Cadeira Gamer Rhino
 micro_name: Rhino
@@ -37,8 +38,7 @@ price:
   regular: 2999.9
   boleto: 2699.91
 featured_image:
-  desktop_image: >-
-    /static/img/uploads/products/featured/1-introbanner-rhino-desktop.jpg
+  desktop_image: /static/img/uploads/products/featured/1-introbanner-rhino-desktop.jpg
   mobile_image: /static/img/banner/product/rhino/rhino-00__mobile.jpg
 galleries:
   - id: 18552
@@ -302,8 +302,7 @@ blocks:
       vertical_alignment: center
       mobile_card: true
       horizontal_alignment: flex-end
-      background_image: >-
-        /static/img/uploads/banner/background/2-designc-rhino-desktop.jpg
+      background_image: /static/img/uploads/banner/background/2-designc-rhino-desktop.jpg
       height: 60vh
   - _template: BannerBlock
     banner:
@@ -314,8 +313,7 @@ blocks:
       debug: false
       vertical_alignment: center
       horizontal_alignment: flex-start
-      background_image: >-
-        /static/img/uploads/banner/background/3-contrucao-rhino-desktop.jpg
+      background_image: /static/img/uploads/banner/background/3-contrucao-rhino-desktop.jpg
       height: 60vh
   - _template: BannerBlock
     banner:
@@ -328,10 +326,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: >-
-                  /static/img/banner/product/rhino/rhino-03__desktop.jpg
-                mobile_image: >-
-                  /static/img/banner/product/rhino/rhino-03__mobile.jpg
+                desktop_image: /static/img/banner/product/rhino/rhino-03__desktop.jpg
+                mobile_image: /static/img/banner/product/rhino/rhino-03__mobile.jpg
           width: 100%
           horizontal_alignment: center
         - screen: mobile
@@ -350,8 +346,7 @@ blocks:
               font_weight: '300'
               _template: ContentBlock
       mobile_card: true
-      background_image: >-
-        /static/img/uploads/banner/background/4-contrucao2-rhino-desktop.jpg
+      background_image: /static/img/uploads/banner/background/4-contrucao2-rhino-desktop.jpg
       height: 60vh
   - _template: BannerBlock
     banner:
@@ -362,8 +357,7 @@ blocks:
       vertical_alignment: stretch
       mobile_card: true
       height: 60vh
-      background_image: >-
-        /static/img/uploads/banner/background/5-heavyduty-rhino-desktop.jpg
+      background_image: /static/img/uploads/banner/background/5-heavyduty-rhino-desktop.jpg
   - _template: BannerBlock
     banner:
       id: rodas
@@ -371,8 +365,7 @@ blocks:
       full_width: true
       mobile_card: true
       height: 60vh
-      background_image: >-
-        /static/img/uploads/banner/background/6-rodas-rhino-desktop.jpg
+      background_image: /static/img/uploads/banner/background/6-rodas-rhino-desktop.jpg
   - _template: BannerBlock
     banner:
       id: base
@@ -381,16 +374,14 @@ blocks:
       vertical_alignment: center
       mobile_card: true
       height: 60vh
-      background_image: >-
-        /static/img/uploads/banner/background/7-base-rhino-desktop.jpg
+      background_image: /static/img/uploads/banner/background/7-base-rhino-desktop.jpg
   - _template: BannerBlock
     banner:
       id: cores
       height: 60vh
       full_width: true
       vertical_alignment: center
-      background_image: >-
-        /static/img/uploads/banner/background/8-cores-rhino-desktop.jpg
+      background_image: /static/img/uploads/banner/background/8-cores-rhino-desktop.jpg
       blocks: []
       mobile_card: true
   - _template: BannerBlock
@@ -401,8 +392,7 @@ blocks:
       horizontal_alignment: flex-start
       blocks: []
       mobile_card: true
-      background_image: >-
-        /static/img/uploads/banner/background/9-garantia-rhino-desktop.jpg
+      background_image: /static/img/uploads/banner/background/9-garantia-rhino-desktop.jpg
       height: 60vh
 keywords: >-
   cadeira, gamer, jogar, setup, couro, pu, premium, reclinio, 180, graus, braço,

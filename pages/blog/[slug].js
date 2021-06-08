@@ -1,137 +1,138 @@
-import * as React from 'react'
-import matter from 'gray-matter'
-import ReactMarkdown from 'react-markdown'
-import { usePlugin } from 'tinacms'
-import { useMarkdownForm } from 'next-tinacms-markdown'
-import { Blocks, BannerBlock } from './cms/blocks';
+import * as React from "react";
+import matter from "gray-matter";
+import ReactMarkdown from "react-markdown";
+import { usePlugin } from "tinacms";
+import { useMarkdownForm } from "next-tinacms-markdown";
+import { Blocks, BannerBlock } from "./cms/blocks";
+import Carousel from "../../components/Carousel";
 
-import Layout from '../../components/Layout'
+import Layout from "../../components/Layout";
 
 export default function BlogTemplate(props) {
   const formOptions = {
-    label: 'Blog Page',
+    label: "Blog Page",
     fields: [
       {
-        label: 'Imagem Principal',
-        name: 'frontmatter.main_image',
-        component: 'image',
+        label: "Imagem Principal",
+        name: "frontmatter.main_image",
+        component: "image",
         // Generate the frontmatter value based on the filename
-        parse: media => `/static/${media.filename}`,
+        parse: (media) => `/static/${media.filename}`,
         // Decide the file upload directory for the post
-        uploadDir: () => '/public/static/',
+        uploadDir: () => "/public/static/",
         // Generate the src attribute for the preview image.
-        previewSrc: fullSrc => fullSrc.replace('/public', ''),
+        previewSrc: (fullSrc) => fullSrc.replace("/public", ""),
       },
       {
-        name: 'frontmatter.title',
-        label: 'Title',
-        component: 'text',
+        name: "frontmatter.title",
+        label: "Title",
+        component: "text",
       },
       {
-        name: 'frontmatter.date',
-        label: 'Date',
-        component: 'date',
+        name: "frontmatter.date",
+        label: "Date",
+        component: "date",
       },
       {
-        name: 'frontmatter.author',
-        label: 'Author',
-        component: 'text',
+        name: "frontmatter.author",
+        label: "Author",
+        component: "text",
       },
       {
-        name: 'frontmatter.id', 
-        label: 'ID do Produto', 
-        component: 'number', 
+        name: "frontmatter.id",
+        label: "ID do Produto",
+        component: "number",
       },
       {
-        name: 'frontmatter.link', 
-        label: 'Link', 
-        component: 'text', 
+        name: "frontmatter.link",
+        label: "Link",
+        component: "text",
       },
       {
-        name: 'frontmatter.short_name', 
-        label: 'Nome Curto', 
-        component: 'text', 
+        name: "frontmatter.short_name",
+        label: "Nome Curto",
+        component: "text",
       },
       {
-        name: 'frontmatter.micro_name', 
-        label: 'Micro Name', 
-        component: 'text', 
+        name: "frontmatter.micro_name",
+        label: "Micro Name",
+        component: "text",
       },
       {
-        name: 'frontmatter.category', 
-        label: 'Categoria', 
-        component: 'text', 
+        name: "frontmatter.category",
+        label: "Categoria",
+        component: "text",
       },
       {
-        name: 'frontmatter.subcategory', 
-        label: 'Subcategoria', 
-        component: 'text', 
+        name: "frontmatter.subcategory",
+        label: "Subcategoria",
+        component: "text",
       },
       {
-        name: 'frontmatter.type', 
-        label: 'Tipo', 
+        name: "frontmatter.type",
+        label: "Tipo",
         component: "select",
         options: ["simple", "variable"],
       },
       {
-        name: 'frontmatter.availability', 
-        label: 'Disponibilidade', 
+        name: "frontmatter.availability",
+        label: "Disponibilidade",
         component: "select",
         options: ["no-stock", "in-stock"],
       },
       {
-        name: 'frontmatter.description', 
-        label: 'Descrição', 
-        component: 'markdown', 
+        name: "frontmatter.description",
+        label: "Descrição",
+        component: "markdown",
       },
       {
-        name: 'frontmatter.price', 
-        label: 'Preço', 
-        component: 'group',
-        description: 'Preço o produto à vista e parcelado',
+        name: "frontmatter.price",
+        label: "Preço",
+        component: "group",
+        description: "Preço o produto à vista e parcelado",
         fields: [
           {
-            name: 'regular', 
-            label: 'Regular', 
-            component: 'number',
+            name: "regular",
+            label: "Regular",
+            component: "number",
           },
           {
-            name: 'boleto', 
-            label: 'boleto', 
-            component: 'number',
+            name: "boleto",
+            label: "boleto",
+            component: "number",
           },
         ],
       },
       {
-        name: 'frontmatter.featured_image',
-        label: 'Imagem Destacada',
-        component: 'group',
-        description: 'Imagem representando o produto',
+        name: "frontmatter.featured_image",
+        label: "Imagem Destacada",
+        component: "group",
+        description: "Imagem representando o produto",
         fields: [
           {
-            name: 'desktop_image', 
-            label: 'Desktop', 
-            component: 'image',
-            parse: media => `/static/${media.filename}`,
-            uploadDir: () => '/public/static/',
-            previewSrc: fullSrc => fullSrc.replace('/public', ''),
+            name: "desktop_image",
+            label: "Desktop",
+            component: "image",
+            parse: (media) => `/static/${media.filename}`,
+            uploadDir: () => "/public/static/",
+            previewSrc: (fullSrc) => fullSrc.replace("/public", ""),
           },
           {
-            name: 'mobile_image', 
-            label: 'Mobile', 
-            component: 'image',
-            parse: media => `/static/${media.filename}`,
-            uploadDir: () => '/public/static/',
-            previewSrc: fullSrc => fullSrc.replace('/public', ''),
+            name: "mobile_image",
+            label: "Mobile",
+            component: "image",
+            parse: (media) => `/static/${media.filename}`,
+            uploadDir: () => "/public/static/",
+            previewSrc: (fullSrc) => fullSrc.replace("/public", ""),
           },
         ],
       },
       {
-        name: 'frontmatter.galleries',
-        label: 'Galeria',
-        component: 'group-list',
-        description: 'Galeria de produtos',
-        itemProps: item => ({
+        name: "frontmatter.galleries",
+        label: "Galeria",
+        component: "group-list",
+        description: "Galeria de produtos",
+        itemProps: (item) => ({
           label: item.name,
         }),
         defaultItem: () => ({
@@ -139,197 +140,197 @@ export default function BlogTemplate(props) {
         }),
         fields: [
           {
-            name: 'id', 
-            label: 'ID', 
-            component: 'number',
+            name: "id",
+            label: "ID",
+            component: "number",
           },
           {
-            name: 'color', 
-            label: 'Cor', 
-            component: 'text',
+            name: "color",
+            label: "Cor",
+            component: "text",
           },
           {
-            name: 'color_code', 
-            label: 'Cor RGB', 
-            component: 'text', 
+            name: "color_code",
+            label: "Cor RGB",
+            component: "text",
           },
           {
-            name: 'availability', 
-            label: 'Disponibilidade', 
+            name: "availability",
+            label: "Disponibilidade",
             component: "select",
             options: ["no-stock", "in-stock"],
           },
           {
-            label: 'Slides',
-            name: 'slides',
-            component: 'group-list',
-            description: 'Fotos do produto',
-            itemProps: item => ({
+            label: "Slides",
+            name: "slides",
+            component: "group-list",
+            description: "Fotos do produto",
+            itemProps: (item) => ({
               label: item.name,
             }),
             defaultItem: () => ({
-              image: '/static/error.png',
+              image: "/static/error.png",
             }),
             fields: [
               {
-                name: 'image',
-                label: 'Imagem',
-                component: 'image',
-                parse: media => `/static/${media.filename}`,
-                uploadDir: () => '/public/static/',
-                previewSrc: fullSrc => fullSrc.replace('/public', ''),
+                name: "image",
+                label: "Imagem",
+                component: "image",
+                parse: (media) => `/static/${media.filename}`,
+                uploadDir: () => "/public/static/",
+                previewSrc: (fullSrc) => fullSrc.replace("/public", ""),
               },
             ],
           },
         ],
       },
       {
-        name: 'frontmatter.slides',
-        label: 'Slides',
-        component: 'group-list',
-        description: 'Produtos da categoria',
-        itemProps: item => ({
+        name: "frontmatter.slides",
+        label: "Slides",
+        component: "group-list",
+        description: "Produtos da categoria",
+        itemProps: (item) => ({
           label: item.name,
         }),
         defaultItem: () => ({
-          title: 'Novo slide',
+          title: "Novo slide",
         }),
         fields: [
           {
-            name: 'title', 
-            label: 'Titulo', 
-            component: 'text',
+            name: "title",
+            label: "Titulo",
+            component: "text",
           },
           {
-            name: 'link', 
-            label: 'Link', 
-            component: 'text',
+            name: "link",
+            label: "Link",
+            component: "text",
           },
           {
-            name: 'image',
-            label: 'Imagem',
-            component: 'image',
-            parse: media => `/static/${media.filename}`,
-            uploadDir: () => '/public/static/',
-            previewSrc: fullSrc => fullSrc.replace('/public', ''),
+            name: "image",
+            label: "Imagem",
+            component: "image",
+            parse: (media) => `/static/${media.filename}`,
+            uploadDir: () => "/public/static/",
+            previewSrc: (fullSrc) => fullSrc.replace("/public", ""),
           },
         ],
       },
       {
-        name: 'frontmatter.menu',
-        label: 'Menu',
-        component: 'group',
+        name: "frontmatter.menu",
+        label: "Menu",
+        component: "group",
         fields: [
           {
-            label: 'Itens',
-            name: 'items',
-            description: 'Itens do menu da página de produto',
-            component: 'group-list',
-            itemProps: item => ({
+            label: "Itens",
+            name: "items",
+            description: "Itens do menu da página de produto",
+            component: "group-list",
+            itemProps: (item) => ({
               label: item.name,
             }),
             defaultItem: () => ({
-              title: 'Novo link',
+              title: "Novo link",
             }),
             fields: [
               {
-                name: 'text', 
-                label: 'Texto', 
-                component: 'text',
+                name: "text",
+                label: "Texto",
+                component: "text",
               },
               {
-                name: 'link', 
-                label: 'Link', 
-                component: 'text',
+                name: "link",
+                label: "Link",
+                component: "text",
               },
             ],
           },
         ],
       },
       {
-        name: 'frontmatter.details',
-        label: 'Detalhes',
-        description: 'Detalhes do produto',
-        component: 'group-list',
-        itemProps: item => ({
+        name: "frontmatter.details",
+        label: "Detalhes",
+        description: "Detalhes do produto",
+        component: "group-list",
+        itemProps: (item) => ({
           label: item.name,
         }),
         defaultItem: () => ({
-          title: 'Novo detalhe',
+          title: "Novo detalhe",
         }),
         fields: [
           {
-            name: 'title', 
-            label: 'Título', 
-            component: 'text',
+            name: "title",
+            label: "Título",
+            component: "text",
           },
           {
-            name: 'image',
-            label: 'Imagem',
-            component: 'image',
-            parse: media => `/static/${media.filename}`,
-            uploadDir: () => '/public/static/',
-            previewSrc: fullSrc => fullSrc.replace('/public', ''),
+            name: "image",
+            label: "Imagem",
+            component: "image",
+            parse: (media) => `/static/${media.filename}`,
+            uploadDir: () => "/public/static/",
+            previewSrc: (fullSrc) => fullSrc.replace("/public", ""),
           },
         ],
       },
       {
-        name: 'frontmatter.specs',
-        label: 'Especificações',
-        component: 'group',
+        name: "frontmatter.specs",
+        label: "Especificações",
+        component: "group",
         fields: [
           {
-            name: 'front',
-            label: 'Imagem Frontal',
-            component: 'image',
-            parse: media => `/static/${media.filename}`,
-            uploadDir: () => '/public/static/',
-            previewSrc: fullSrc => fullSrc.replace('/public', ''),
+            name: "front",
+            label: "Imagem Frontal",
+            component: "image",
+            parse: (media) => `/static/${media.filename}`,
+            uploadDir: () => "/public/static/",
+            previewSrc: (fullSrc) => fullSrc.replace("/public", ""),
           },
           {
-            name: 'side',
-            label: 'Imagem Lateral',
-            component: 'image',
-            parse: media => `/static/${media.filename}`,
-            uploadDir: () => '/public/static/',
-            previewSrc: fullSrc => fullSrc.replace('/public', ''),
+            name: "side",
+            label: "Imagem Lateral",
+            component: "image",
+            parse: (media) => `/static/${media.filename}`,
+            uploadDir: () => "/public/static/",
+            previewSrc: (fullSrc) => fullSrc.replace("/public", ""),
           },
           {
-            label: 'Itens',
-            name: 'items',
-            description: 'Itens especificações do produto',
-            component: 'group-list',
-            itemProps: item => ({
+            label: "Itens",
+            name: "items",
+            description: "Itens especificações do produto",
+            component: "group-list",
+            itemProps: (item) => ({
               label: item.name,
             }),
             defaultItem: () => ({
-              title: 'Novo link',
+              title: "Novo link",
             }),
             fields: [
               {
-                name: 'key', 
-                label: 'Chave', 
-                component: 'text',
+                name: "key",
+                label: "Chave",
+                component: "text",
               },
               {
-                name: 'label', 
-                label: 'Label', 
-                component: 'text',
+                name: "label",
+                label: "Label",
+                component: "text",
               },
               {
-                name: 'value', 
-                label: 'Valor', 
-                component: 'text',
+                name: "value",
+                label: "Valor",
+                component: "text",
               },
               {
-                name: 'unit', 
-                label: 'Unidade', 
-                component: 'text',
+                name: "unit",
+                label: "Unidade",
+                component: "text",
               },
               {
-                name: 'precision', 
-                label: 'Precisão', 
-                component: 'text',
+                name: "precision",
+                label: "Precisão",
+                component: "text",
               },
             ],
           },
@@ -337,19 +338,19 @@ export default function BlogTemplate(props) {
       },
       Blocks,
       {
-        name: 'markdownBody',
-        label: 'Blog Body',
-        component: 'markdown',
+        name: "markdownBody",
+        label: "Blog Body",
+        component: "markdown",
       },
     ],
-  }
+  };
 
-  const [post, form] = useMarkdownForm(props.markdownFile, formOptions)
-  usePlugin(form)
+  const [post, form] = useMarkdownForm(props.markdownFile, formOptions);
+  usePlugin(form);
 
   function reformatDate(fullDate) {
-    const date = new Date(fullDate)
-    return date.toDateString().slice(4)
+    const date = new Date(fullDate);
+    return date.toDateString().slice(4);
   }
 
   return (
@@ -370,8 +371,16 @@ export default function BlogTemplate(props) {
         </div>
         <h2 className="blog__footer">Written By: {post.frontmatter.author}</h2>
       </article>
+      <div>
+        <h1>p</h1>
+        <Carousel />
+      </div>
+
       <div className="dt3_editor_log">
-        <p> <b>Log do DT3editor 2.0</b> </p>
+        <p>
+          {" "}
+          <b>Log do DT3editor 2.0</b>{" "}
+        </p>
         <p> main_image: {post.frontmatter.main_image} </p>
         <p> title: {post.frontmatter.title} </p>
         <p> date: {post.frontmatter.date} </p>
@@ -383,21 +392,28 @@ export default function BlogTemplate(props) {
         <p> category: {post.frontmatter.category} </p>
         <p> subcategory: {post.frontmatter.subcategory} </p>
         <p> type: {post.frontmatter.type} </p>
-        <p> availability: {post.frontmatter.availability} </p>  
-        <p> description: {post.frontmatter.description} </p>  
-        <p> price: </p> 
-          <p> regular: { JSON.stringify( post.frontmatter.price?.regular) } </p>
-          <p> boleto: { JSON.stringify( post.frontmatter.price?.boleto) } </p>  
-        <p> featured_image: </p> 
-          <p> desktop_image: { JSON.stringify(post.frontmatter.featured_image?.desktop_image) } </p> 
-          <p> mobile_image: { JSON.stringify(post.frontmatter.featured_image?.mobile_image) } </p> 
-        <p> galleries: { JSON.stringify( post.frontmatter.galleries ) } </p> 
-        <p> slides: { JSON.stringify( post.frontmatter.slides ) } </p> 
-        <p> menu: { JSON.stringify( post.frontmatter.menu ) } </p> 
-        <p> details: { JSON.stringify( post.frontmatter.details ) } </p> 
-        <p> blocks: { JSON.stringify( post.frontmatter.blocks ) } </p> 
-        <p> specs: { JSON.stringify( post.frontmatter.specs ) } </p> 
-  
+        <p> availability: {post.frontmatter.availability} </p>
+        <p> description: {post.frontmatter.description} </p>
+        <p> price: </p>
+        <p> regular: {JSON.stringify(post.frontmatter.price?.regular)} </p>
+        <p> boleto: {JSON.stringify(post.frontmatter.price?.boleto)} </p>
+        <p> featured_image: </p>
+        <p>
+          {" "}
+          desktop_image:{" "}
+          {JSON.stringify(post.frontmatter.featured_image?.desktop_image)}{" "}
+        </p>
+        <p>
+          {" "}
+          mobile_image:{" "}
+          {JSON.stringify(post.frontmatter.featured_image?.mobile_image)}{" "}
+        </p>
+        <p> galleries: {JSON.stringify(post.frontmatter.galleries)} </p>
+        <p> slides: {JSON.stringify(post.frontmatter.slides)} </p>
+        <p> menu: {JSON.stringify(post.frontmatter.menu)} </p>
+        <p> details: {JSON.stringify(post.frontmatter.details)} </p>
+        <p> blocks: {JSON.stringify(post.frontmatter.blocks)} </p>
+        <p> specs: {JSON.stringify(post.frontmatter.specs)} </p>
       </div>
       <style jsx>
         {`
@@ -540,14 +556,14 @@ export default function BlogTemplate(props) {
         `}
       </style>
     </Layout>
-  )
+  );
 }
 
 BlogTemplate.getInitialProps = async function(ctx) {
-  const { slug } = ctx.query
-  const content = await import(`../../posts/${slug}.md`)
-  const config = await import(`../../data/config.json`)
-  const data = matter(content.default)
+  const { slug } = ctx.query;
+  const content = await import(`../../posts/${slug}.md`);
+  const config = await import(`../../data/config.json`);
+  const data = matter(content.default);
 
   return {
     markdownFile: {
@@ -556,5 +572,5 @@ BlogTemplate.getInitialProps = async function(ctx) {
       markdownBody: data.content,
     },
     title: config.default.title,
-  }
-}
+  };
+};

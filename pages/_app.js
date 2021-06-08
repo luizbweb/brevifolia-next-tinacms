@@ -4,6 +4,7 @@ import { TinaProvider, TinaCMS } from 'tinacms'
 import { GitClient, GitMediaStore } from '@tinacms/git-client'
 import { MarkdownFieldPlugin } from 'react-tinacms-editor'
 import { DateFieldPlugin } from 'react-tinacms-date'
+import 'react-responsive-carousel/lib/styles/carousel.min.css'
 
 import { CreateBlogPlugin } from '../plugins/markdownCreator'
 

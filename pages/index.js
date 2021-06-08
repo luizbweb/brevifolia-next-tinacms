@@ -37,6 +37,7 @@ const Index = ({ jsonFile, allBlogs }) => {
     >
       <section>
         <BlogList allBlogs={allBlogs} />
+        {console.log(allBlogs)}
       </section>
     </Layout>
   )
