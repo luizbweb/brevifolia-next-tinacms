@@ -40,6 +40,7 @@ galleries:
           /static/img/products/acessorios/almofadas-gaming-series/Black/almofadas-gaming-series-06.jpg
       - image: >-
           /static/img/products/acessorios/almofadas-gaming-series/Black/almofadas-gaming-series-07.jpg
+    id: 1
 price:
   regular: 99.9
   boleto: 89.91
@@ -47,4 +48,6 @@ specs:
   front: >-
     /static/img/products/acessorios/almofadas-gaming-series/almofadas-gaming-series-specs-frontal.svg
   side: /static/img/placeholders/1x1.png
+author: DT3
+date: '2021-06-08T00:00:00Z'
 ---
