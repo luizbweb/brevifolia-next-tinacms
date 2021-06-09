@@ -232,8 +232,7 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: >-
-                  /static/img/uploads/banner/image/2-teaser-pixel-desktop.jpg
+                desktop_image: /static/img/uploads/banner/image/2-teaser-pixel-desktop.jpg
       id: design
   - _template: BannerBlock
     banner:
@@ -243,8 +242,7 @@ blocks:
       vertical_alignment: center
       mobile_card: true
       height: 60vh
-      background_image: >-
-        /static/img/uploads/banner/background/4-estatura-pixel-desktop.jpg
+      background_image: /static/img/uploads/banner/background/4-estatura-pixel-desktop.jpg
   - _template: BannerBlock
     banner:
       id: reclinio
@@ -253,8 +251,7 @@ blocks:
       stretch: true
       mobile_card: true
       height: 60vh
-      background_image: >-
-        /static/img/uploads/banner/background/6-reclino-pixel-desktop.jpg
+      background_image: /static/img/uploads/banner/background/6-reclino-pixel-desktop.jpg
   - _template: BannerBlock
     banner:
       id: bateria
@@ -263,8 +260,7 @@ blocks:
       mobile_card: true
       vertical_alignment: center
       background_color: '#000000'
-      background_image: >-
-        /static/img/uploads/banner/background/2-bateria-estelar-desktop.jpg
+      background_image: /static/img/uploads/banner/background/2-bateria-estelar-desktop.jpg
       height: 60vh
   - _template: BannerBlock
     banner:
@@ -274,8 +270,7 @@ blocks:
       vertical_alignment: center
       mobile_card: true
       height: 60vh
-      background_image: >-
-        /static/img/uploads/banner/background/5-espuma-pixel-desktop.jpg
+      background_image: /static/img/uploads/banner/background/5-espuma-pixel-desktop.jpg
   - _template: BannerBlock
     banner:
       id: revestimento
@@ -285,8 +280,7 @@ blocks:
       background_color: '#000000'
       vertical_alignment: center
       height: 60vh
-      background_image: >-
-        /static/img/uploads/banner/background/8-couro-pixel-desktop.jpg
+      background_image: /static/img/uploads/banner/background/8-couro-pixel-desktop.jpg
   - _template: BannerBlock
     banner:
       id: almofadas
@@ -296,14 +290,12 @@ blocks:
       mobile_card: true
       vertical_alignment: center
       height: 60vh
-      background_image: >-
-        /static/img/uploads/banner/background/7-almofadas-pixel-desktop.jpg
+      background_image: /static/img/uploads/banner/background/7-almofadas-pixel-desktop.jpg
   - _template: BannerBlock
     banner:
       id: base
       height: 60vh
-      background_image: >-
-        /static/img/uploads/banner/background/9-base-pixel-desktop.jpg
+      background_image: /static/img/uploads/banner/background/9-base-pixel-desktop.jpg
   - _template: BannerBlock
     banner:
       id: garantia
@@ -313,8 +305,7 @@ blocks:
       background_color: '#000000'
       blocks: []
       height: 60vh
-      background_image: >-
-        /static/img/uploads/banner/background/10-garantia-pixel-desktop.jpg
+      background_image: /static/img/uploads/banner/background/10-garantia-pixel-desktop.jpg
 keywords: >-
   cadeira, infantil, gamer, jogar, setup, estelar, pixel, rgb, luzes, fita, led,
   braço, braços, 2d, reclinio, 180, graus, de, para, com

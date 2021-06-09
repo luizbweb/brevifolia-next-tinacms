@@ -292,10 +292,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: >-
-                  /static/img/banner/product/elise/main-banner__desktop.jpg
-                mobile_image: >-
-                  /static/img/banner/product/elise/main-banner__mobile.jpg
+                desktop_image: /static/img/banner/product/elise/main-banner__desktop.jpg
+                mobile_image: /static/img/banner/product/elise/main-banner__mobile.jpg
         - content:
             - title: Design
               foreground: '#1D1D1D'
@@ -385,10 +383,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: >-
-                  /static/img/banner/product/elise/mecanismo__desktop.jpg
-                mobile_image: >-
-                  /static/img/banner/product/elise/mecanismo__mobile.jpg
+                desktop_image: /static/img/banner/product/elise/mecanismo__desktop.jpg
+                mobile_image: /static/img/banner/product/elise/mecanismo__mobile.jpg
           stretch: true
         - content:
             - title: Mecanismo Borboleta
@@ -411,8 +407,7 @@ blocks:
     banner:
       id: almofadas
       full_width: true
-      background_image: >-
-        /static/img/banner/product/elise-fabric/almofadas__desktop.jpeg
+      background_image: /static/img/banner/product/elise-fabric/almofadas__desktop.jpeg
       blocks:
         - content:
             - objectFit: contain
@@ -421,8 +416,7 @@ blocks:
               image:
                 desktop_image: >-
                   /static/img/banner/product/elise-fabric/almofadas__desktop.jpeg
-                mobile_image: >-
-                  /static/img/banner/product/elise-fabric/almofadas__mobile.jpeg
+                mobile_image: /static/img/banner/product/elise-fabric/almofadas__mobile.jpeg
           width: 150px
         - background_color_alpha:
             color: ''
@@ -531,10 +525,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: >-
-                  /static/img/banner/product/elise-fabric/material__desktop.jpeg
-                mobile_image: >-
-                  /static/img/banner/product/elise-fabric/material__mobile.jpeg
+                desktop_image: /static/img/banner/product/elise-fabric/material__desktop.jpeg
+                mobile_image: /static/img/banner/product/elise-fabric/material__mobile.jpeg
           stretch: true
         - content:
             - title: Tecido de algodão de alta qualidade
@@ -585,10 +577,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: >-
-                  /static/img/banner/product/elise-fabric/braco__desktop.jpeg
-                mobile_image: >-
-                  /static/img/banner/product/elise-fabric/braco__mobile.jpeg
+                desktop_image: /static/img/banner/product/elise-fabric/braco__desktop.jpeg
+                mobile_image: /static/img/banner/product/elise-fabric/braco__mobile.jpeg
       vertical_alignment: center
   - _template: BannerBlock
     banner:
@@ -615,10 +605,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: >-
-                  /static/img/banner/product/elise/reclinio__desktop.jpg
-                mobile_image: >-
-                  /static/img/banner/product/elise/reclinio__mobile.jpg
+                desktop_image: /static/img/banner/product/elise/reclinio__desktop.jpg
+                mobile_image: /static/img/banner/product/elise/reclinio__mobile.jpg
           stretch: true
       full_width: true
       vertical_alignment: center
@@ -636,10 +624,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: >-
-                  /static/img/banner/product/elise-fabric/garantia__mobile.jpeg
-                mobile_image: >-
-                  /static/img/banner/product/elise-fabric/garantia__mobile.jpeg
+                desktop_image: /static/img/banner/product/elise-fabric/garantia__mobile.jpeg
+                mobile_image: /static/img/banner/product/elise-fabric/garantia__mobile.jpeg
           stretch: true
         - content:
             - title: 'Todas as cadeiras da Racing Series contam com:'

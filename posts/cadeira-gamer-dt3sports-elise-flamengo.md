@@ -15,34 +15,23 @@ price:
   regular: 1499.9
   boleto: 1349.91
 featured_image:
-  desktop_image: >-
-    /static/img/banner/product/elise-flamengo/main-banner__desktop.jpeg
-  mobile_image: >-
-    /static/img/banner/product/elise-flamengo/main-banner__mobile.jpeg
+  desktop_image: /static/img/banner/product/elise-flamengo/main-banner__desktop.jpeg
+  mobile_image: /static/img/banner/product/elise-flamengo/main-banner__mobile.jpeg
 galleries:
   - id: 24037
     color: Red
     color_code: '#F8002E'
     availability: in-stock
     slides:
-      - image: >-
-          /static/img/products/elise-flamengo/red/elise-flamengo-00.jpg
-      - image: >-
-          /static/img/products/elise-flamengo/red/elise-flamengo-01.jpg
-      - image: >-
-          /static/img/products/elise-flamengo/red/elise-flamengo-03.jpg
-      - image: >-
-          /static/img/products/elise-flamengo/red/elise-flamengo-04.jpg
-      - image: >-
-          /static/img/products/elise-flamengo/red/elise-flamengo-05.jpg
-      - image: >-
-          /static/img/products/elise-flamengo/red/elise-flamengo-06.jpg
-      - image: >-
-          /static/img/products/elise-flamengo/red/elise-flamengo-07.jpg
-      - image: >-
-          /static/img/products/elise-flamengo/red/elise-flamengo-08.jpg
-      - image: >-
-          /static/img/products/elise-flamengo/red/elise-flamengo-10.jpg
+      - image: /static/img/products/elise-flamengo/red/elise-flamengo-00.jpg
+      - image: /static/img/products/elise-flamengo/red/elise-flamengo-01.jpg
+      - image: /static/img/products/elise-flamengo/red/elise-flamengo-03.jpg
+      - image: /static/img/products/elise-flamengo/red/elise-flamengo-04.jpg
+      - image: /static/img/products/elise-flamengo/red/elise-flamengo-05.jpg
+      - image: /static/img/products/elise-flamengo/red/elise-flamengo-06.jpg
+      - image: /static/img/products/elise-flamengo/red/elise-flamengo-07.jpg
+      - image: /static/img/products/elise-flamengo/red/elise-flamengo-08.jpg
+      - image: /static/img/products/elise-flamengo/red/elise-flamengo-10.jpg
 slides:
   - title: Racing Series
     link: /racing-series
@@ -219,8 +208,7 @@ blocks:
       vertical_alignment: center
       full_width: true
       mobile_card: true
-      background_image: >-
-        /static/img/banner/product/elise-flamengo/design__desktop.jpeg
+      background_image: /static/img/banner/product/elise-flamengo/design__desktop.jpeg
       blocks:
         - width: 1px
           content:
@@ -319,10 +307,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: >-
-                  /static/img/banner/product/elise/mecanismo__desktop.jpg
-                mobile_image: >-
-                  /static/img/banner/product/elise/mecanismo__mobile.jpg
+                desktop_image: /static/img/banner/product/elise/mecanismo__desktop.jpg
+                mobile_image: /static/img/banner/product/elise/mecanismo__mobile.jpg
           stretch: true
         - content:
             - title: Mecanismo Borboleta
@@ -345,18 +331,15 @@ blocks:
     banner:
       id: almofadas
       full_width: true
-      background_image: >-
-        /static/img/banner/product/elise-flamengo/almofadas__desktop.jpeg
+      background_image: /static/img/banner/product/elise-flamengo/almofadas__desktop.jpeg
       blocks:
         - content:
             - objectFit: contain
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: >-
-                  /static/img/banner/product/elise/almofadas__desktop.jpg
-                mobile_image: >-
-                  /static/img/banner/product/elise/almofadas__mobile.jpg
+                desktop_image: /static/img/banner/product/elise/almofadas__desktop.jpg
+                mobile_image: /static/img/banner/product/elise/almofadas__mobile.jpg
           width: 150px
         - background_color_alpha:
             color: ''
@@ -517,10 +500,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: >-
-                  /static/img/banner/product/elise-flamengo/braco__desktop.jpeg
-                mobile_image: >-
-                  /static/img/banner/product/elise-flamengo/braco__mobile.jpeg
+                desktop_image: /static/img/banner/product/elise-flamengo/braco__desktop.jpeg
+                mobile_image: /static/img/banner/product/elise-flamengo/braco__mobile.jpeg
       vertical_alignment: center
   - _template: BannerBlock
     banner:
@@ -547,10 +528,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: >-
-                  /static/img/banner/product/elise/reclinio__desktop.jpg
-                mobile_image: >-
-                  /static/img/banner/product/elise/reclinio__mobile.jpg
+                desktop_image: /static/img/banner/product/elise/reclinio__desktop.jpg
+                mobile_image: /static/img/banner/product/elise/reclinio__mobile.jpg
           stretch: true
       full_width: true
       vertical_alignment: center

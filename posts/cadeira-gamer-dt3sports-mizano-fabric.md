@@ -312,10 +312,8 @@ blocks:
               objectPosition: center
               objectFit: contain
               image:
-                desktop_image: >-
-                  /static/img/banner/product/mizano/design__desktop.jpg
-                mobile_image: >-
-                  /static/img/banner/product/mizano/main-banner__mobile.jpg
+                desktop_image: /static/img/banner/product/mizano/design__desktop.jpg
+                mobile_image: /static/img/banner/product/mizano/main-banner__mobile.jpg
           screen: all
           debug: false
           width: ''
@@ -369,10 +367,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: >-
-                  /static/img/banner/product/mizano/construcao__desktop.jpg
-                mobile_image: >-
-                  /static/img/banner/product/mizano/construcao__mobile.jpg
+                desktop_image: /static/img/banner/product/mizano/construcao__desktop.jpg
+                mobile_image: /static/img/banner/product/mizano/construcao__mobile.jpg
           stretch: true
           height: ''
           debug: false
@@ -391,10 +387,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: >-
-                  /static/img/banner/product/mizano/mecanismo__desktop.jpg
-                mobile_image: >-
-                  /static/img/banner/product/mizano/mecanismo__mobile.jpg
+                desktop_image: /static/img/banner/product/mizano/mecanismo__desktop.jpg
+                mobile_image: /static/img/banner/product/mizano/mecanismo__mobile.jpg
           stretch: true
         - content:
             - title: Mecanismo Borboleta
@@ -424,8 +418,7 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                mobile_image: >-
-                  /static/img/banner/product/mizano/almofadas__mobile.jpg
+                mobile_image: /static/img/banner/product/mizano/almofadas__mobile.jpg
           width: 80px
         - background_color_alpha:
             color: ''
@@ -503,8 +496,7 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: >-
-                  /static/img/banner/product/mizano/rodas__desktop.jpg
+                desktop_image: /static/img/banner/product/mizano/rodas__desktop.jpg
                 mobile_image: /static/img/banner/product/mizano/rodas__mobile.jpg
           stretch: true
         - content:
@@ -553,10 +545,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: >-
-                  /static/img/banner/product/mizano/material__desktop.jpg
-                mobile_image: >-
-                  /static/img/banner/product/mizano/material__mobile.jpg
+                desktop_image: /static/img/banner/product/mizano/material__desktop.jpg
+                mobile_image: /static/img/banner/product/mizano/material__mobile.jpg
           stretch: true
       full_width: true
       vertical_alignment: center
@@ -573,8 +563,7 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: >-
-                  /static/img/banner/product/mizano/braco__desktop.jpg
+                desktop_image: /static/img/banner/product/mizano/braco__desktop.jpg
                 mobile_image: /static/img/banner/product/mizano/braco__mobile.jpg
         - content:
             - title: Apoio de braço 3D
@@ -602,10 +591,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: >-
-                  /static/img/banner/product/mizano/reclinio__desktop.jpg
-                mobile_image: >-
-                  /static/img/banner/product/mizano/reclinio__mobile.jpg
+                desktop_image: /static/img/banner/product/mizano/reclinio__desktop.jpg
+                mobile_image: /static/img/banner/product/mizano/reclinio__mobile.jpg
           stretch: true
       full_width: true
       vertical_alignment: center
@@ -623,10 +610,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: >-
-                  /static/img/banner/product/mizano/garantia__desktop.jpg
-                mobile_image: >-
-                  /static/img/banner/product/mizano/garantia__mobile.jpg
+                desktop_image: /static/img/banner/product/mizano/garantia__desktop.jpg
+                mobile_image: /static/img/banner/product/mizano/garantia__mobile.jpg
           stretch: true
         - content:
             - title: 'Todas as cadeiras da Racing Series contam com:'

@@ -373,8 +373,7 @@ blocks:
       vertical_alignment: center
       id: mecanismo
       mobile_card: true
-      background_image: >-
-        /static/img/uploads/banner/background/4-Mecanismoborboleta.jpg
+      background_image: /static/img/uploads/banner/background/4-Mecanismoborboleta.jpg
       height: 60vh
   - _template: BannerBlock
     banner:

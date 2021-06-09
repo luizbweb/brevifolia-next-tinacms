@@ -4,9 +4,21 @@ import ReactMarkdown from "react-markdown";
 import { usePlugin } from "tinacms";
 import { useMarkdownForm } from "next-tinacms-markdown";
 import { Blocks, BannerBlock } from "./cms/blocks";
-import Carousel from "../../components/Carousel";
-
+import styled from "styled-components";
 import Layout from "../../components/Layout";
+import { ProductInfo } from "../../components/ProductInfo";
+import ProductCarousel from "../../components/Carousel";
+import ColorSelect from "../../components/ColorSelect";
+import MainImage from "../../components/MainImage";
+const CarrouselContainer = styled.div`
+  display: flex;
+  padding: 0px 120px;
+  margin-top: 160px;
+`;
+
+const DescriptionContainer = styled.div`
+  width: 100%;
+`;
 
 export default function BlogTemplate(props) {
   const formOptions = {
@@ -353,9 +365,31 @@ export default function BlogTemplate(props) {
     return date.toDateString().slice(4);
   }
 
+  const title = post.frontmatter.title;
+  const description = post.frontmatter.description;
+  const subcategory = post.frontmatter.subcategory;
+  const galleries = post.frontmatter.galleries;
+  const colors = galleries?.map((gallery) => gallery?.color);
+  const productType = post.frontmatter.type;
+  const [activeGallery, setActiveGallery] = React.useState(
+    () => galleries && galleries[0]
+  );
+  const [chairColor, setChairColor] = React.useState("");
+  const mainDesktopImage = post.frontmatter.featured_image?.desktop_image;
+  const blocks = post.frontmatter.blocks;
+  console.log(blocks);
+  React.useEffect(() => {
+    if (!galleries) return;
+
+    const gallery = galleries.filter(
+      (gallery) => gallery && gallery.color === chairColor
+    )[0];
+
+    if (gallery) setActiveGallery(gallery);
+  }, [chairColor, galleries]);
   return (
     <Layout siteTitle={props.title}>
-      <article className="blog">
+      {/* <article className="blog">
         <figure className="blog__hero">
           <img
             src={post.frontmatter.main_image}
@@ -370,11 +404,27 @@ export default function BlogTemplate(props) {
           <ReactMarkdown source={post.markdownBody} />
         </div>
         <h2 className="blog__footer">Written By: {post.frontmatter.author}</h2>
-      </article>
-      <div>
-        <h1>p</h1>
-        <Carousel />
-      </div>
+      </article> */}
+      <CarrouselContainer>
+        <ProductCarousel gallery={activeGallery} />
+
+        <DescriptionContainer>
+          <h1>
+            {title} {chairColor}
+          </h1>
+          <h2>{subcategory}</h2>
+          <ProductInfo info={description} />
+          {productType == "variable" && (
+            <ColorSelect
+              options={colors}
+              value={chairColor}
+              setValue={setChairColor}
+            />
+          )}
+        </DescriptionContainer>
+      </CarrouselContainer>
+
+      <MainImage image={mainDesktopImage} />
 
       <div className="dt3_editor_log">
         <p>

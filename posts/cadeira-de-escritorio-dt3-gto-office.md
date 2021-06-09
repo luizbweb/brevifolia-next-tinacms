@@ -37,9 +37,7 @@ description: >-
   [Fazer Download do Manual de
   Instruções](https://drive.google.com/file/d/1y5oMJEpGANYNm2GusZiGwWScnfmoj2ID/view?usp=sharing)
 featured_image:
-  desktop_image: >-
-    /static/img/uploads/products/featured/MicrosoftTeams-image
-    (1).png
+  desktop_image: /static/img/uploads/products/featured/MicrosoftTeams-image (1).png
   mobile_image: /static/img/banner/product/gto/main-banner__desktop.jpg
 galleries:
   - id: 306
@@ -180,11 +178,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: >-
-                  /static/img/uploads/banner/image/Mecanismo
-                  Borboleta.png
-                mobile_image: >-
-                  /static/img/banner/product/gts/mecanismo__mobile.jpg
+                desktop_image: /static/img/uploads/banner/image/Mecanismo Borboleta.png
+                mobile_image: /static/img/banner/product/gts/mecanismo__mobile.jpg
           stretch: true
         - content:
             - title: Mecanismo Borboleta
@@ -281,8 +276,7 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: >-
-                  /static/img/banner/product/gts/garantia__desktop.png
+                desktop_image: /static/img/banner/product/gts/garantia__desktop.png
                 mobile_image: /static/img/banner/product/gts/garantia__mobile.jpg
           stretch: true
         - content:
