@@ -25,9 +25,6 @@ description: >-
 
   • Duas almofadas XL inclusas para apoio lombar e pescoço com revestimento
   Suede.
-
-
-  1. • Mecanismo Frog com trava do sistema rockingf
 price:
   regular: 2999.9
   boleto: 2699.91
