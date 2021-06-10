@@ -9,7 +9,7 @@ category: Cadeira
 subcategory: Elite Series
 type: variable
 availability: in-stock
-main_image: /static/img/products/royce/navy-blue/royce-00.jpg
+main_image: /static/almofada lombar elite series u-00.jpg
 description: >-
   • Apoio de braço 4D.
 
