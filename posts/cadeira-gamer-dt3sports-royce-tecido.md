@@ -1,5 +1,5 @@
 ---
-title: Cadeira Gamer DT3Sports Royce Tecido
+title: Cadeira Gamer Royce
 id: 110481
 link: /elite-series/cadeira-gamer-dt3sports-royce-tecido
 name: Cadeira Gamer DT3Sports Royce Tecido
@@ -9,7 +9,7 @@ category: Cadeira
 subcategory: Elite Series
 type: variable
 availability: in-stock
-main_image: /static/almofada lombar elite series u-00.jpg
+main_image: ../../../../static/img/products/royce/navy-blue/royce-00.jpg
 description: >-
   • Apoio de braço 4D.
 
@@ -29,57 +29,57 @@ price:
   regular: 2999.9
   boleto: 2699.91
 featured_image:
-  desktop_image: /static/img/uploads/products/featured/h2.png
-  mobile_image: /static/img/banner/product/royce/royce-00__mobile.jpg
+  desktop_image: ../../../../static/img/uploads/products/featured/h2.png
+  mobile_image: ../../../../static/img/banner/product/royce/royce-00__mobile.jpg
 galleries:
   - id: 110921
     color: Navy Blue
     availability: in-stock
     slides:
-      - image: /static/img/products/royce/navy-blue/royce-00.jpg
-      - image: /static/img/products/royce/navy-blue/royce-01.jpg
-      - image: /static/img/products/royce/navy-blue/royce-02.jpg
-      - image: /static/img/products/royce/navy-blue/royce-03.jpg
-      - image: /static/img/products/royce/navy-blue/royce-04.jpg
-      - image: /static/img/products/royce/navy-blue/royce-05.jpg
-      - image: /static/img/products/royce/navy-blue/royce-06.jpg
-      - image: /static/img/products/royce/navy-blue/royce-07.jpg
+      - image: ../../../../static/img/products/royce/navy-blue/royce-00.jpg
+      - image: ../../../../static/img/products/royce/navy-blue/royce-01.jpg
+      - image: ../../../../static/img/products/royce/navy-blue/royce-02.jpg
+      - image: ../../../../static/img/products/royce/navy-blue/royce-03.jpg
+      - image: ../../../../static/img/products/royce/navy-blue/royce-04.jpg
+      - image: ../../../../static/img/products/royce/navy-blue/royce-05.jpg
+      - image: ../../../../static/img/products/royce/navy-blue/royce-06.jpg
+      - image: ../../../../static/img/products/royce/navy-blue/royce-07.jpg
     color_code: '#738996'
   - id: 110919
     color: Space Grey
     availability: in-stock
     slides:
-      - image: /static/img/products/royce/space-grey/royce-00.jpg
-      - image: /static/img/products/royce/space-grey/royce-01.jpg
-      - image: /static/img/products/royce/space-grey/royce-02.jpg
-      - image: /static/img/products/royce/space-grey/royce-03.jpg
-      - image: /static/img/products/royce/space-grey/royce-04.jpg
-      - image: /static/img/products/royce/space-grey/royce-05.jpg
-      - image: /static/img/products/royce/space-grey/royce-06.jpg
-      - image: /static/img/products/royce/space-grey/royce-07.jpg
+      - image: ../../../../static/img/products/royce/space-grey/royce-00.jpg
+      - image: ../../../../static/img/products/royce/space-grey/royce-01.jpg
+      - image: ../../../../static/img/products/royce/space-grey/royce-02.jpg
+      - image: ../../../../static/img/products/royce/space-grey/royce-03.jpg
+      - image: ../../../../static/img/products/royce/space-grey/royce-04.jpg
+      - image: ../../../../static/img/products/royce/space-grey/royce-05.jpg
+      - image: ../../../../static/img/products/royce/space-grey/royce-06.jpg
+      - image: ../../../../static/img/products/royce/space-grey/royce-07.jpg
     color_code: '#42454e'
 slides:
   - title: Elite Series
     link: /elite-series
-    image: /static/img/categories/elite-series.svg
+    image: ../../../../static/img/categories/elite-series.svg
   - title: Royce
     link: /elite-series/cadeira-gamer-dt3sports-royce-tecido
-    image: /static/img/products/royce/royce.svg
+    image: ../../../../static/img/products/royce/royce.svg
   - title: Rhino
     link: /elite-series/cadeira-gamer-dt3sports-rhino
-    image: /static/img/products/rhino/rhino.svg
+    image: ../../../../static/img/products/rhino/rhino.svg
   - title: Orion
     link: /elite-series/cadeira-gamer-dt3sports-orion
-    image: /static/img/products/orion/orion.svg
+    image: ../../../../static/img/products/orion/orion.svg
   - title: Onix Diamond
     link: /elite-series/cadeira-gamer-dt3sports-onix-diamond
-    image: /static/img/products/onix-dimond/onix-dimond.svg
+    image: ../../../../static/img/products/onix-dimond/onix-dimond.svg
   - title: Prime Evo
     link: /elite-series/cadeira-gamer-dt3sports-prime-evo
-    image: /static/img/products/prime-evo/prime-evo.svg
+    image: ../../../../static/img/products/prime-evo/prime-evo.svg
   - title: Orion Flamengo
     link: /elite-series/cadeira-gamer-dt3sports-orion-flamengo/
-    image: /static/img/products/orion/orion.svg
+    image: ../../../../static/img/products/orion/orion.svg
 menu:
   items:
     - text: Introdução
@@ -104,20 +104,20 @@ menu:
       link: '#especificacoes'
 details:
   - title: Almofadas XL
-    image: /static/img/banner/product/royce/details/almofada.svg
+    image: ../../../../static/img/banner/product/royce/details/almofada.svg
   - title: Espuma Injetada
-    image: /static/img/banner/product/royce/details/espuma.svg
+    image: ../../../../static/img/banner/product/royce/details/espuma.svg
   - title: Mecanismo Frog
-    image: /static/img/banner/product/royce/details/mecanismo.svg
+    image: ../../../../static/img/banner/product/royce/details/mecanismo.svg
   - title: Base Reforçada
-    image: /static/img/banner/product/royce/details/base.svg
+    image: ../../../../static/img/banner/product/royce/details/base.svg
   - title: Roda 75mm
-    image: /static/img/banner/product/royce/details/rodinha.svg
+    image: ../../../../static/img/banner/product/royce/details/rodinha.svg
   - title: Braço 4D
-    image: /static/img/banner/product/royce/details/braco.svg
+    image: ../../../../static/img/banner/product/royce/details/braco.svg
 specs:
-  front: /static/img/products/royce/royce-specs-frontal.svg
-  side: /static/img/products/royce/royce-specs-lateral.svg
+  front: ../../../../static/img/products/royce/royce-specs-frontal.svg
+  side: ../../../../static/img/products/royce/royce-specs-lateral.svg
   items:
     - key: coating
       label: Revestimento
@@ -239,12 +239,14 @@ blocks:
               _template: ContentBlock
               foreground: '#FFFFFF'
           vertical_alignment: center
-      background_image: /static/img/uploads/banner/background/2-designmoderno-royce-desktop.jpg
+      background_image: >-
+        ../../../../static/img/uploads/banner/background/2-designmoderno-royce-desktop.jpg
   - _template: BannerBlock
     banner:
       id: construcao
       height: 60vh
-      background_image: /static/img/uploads/banner/background/3-materialtecido-royce-desktop.jpg
+      background_image: >-
+        ../../../../static/img/uploads/banner/background/3-materialtecido-royce-desktop.jpg
       blocks:
         - horizontalAlignment: center
           verticalAlignment: flex-start
@@ -268,7 +270,8 @@ blocks:
     banner:
       id: espuma
       height: 60vh
-      background_image: /static/img/uploads/banner/background/4-almofadas-royce-desktop.jpg
+      background_image: >-
+        ../../../../static/img/uploads/banner/background/4-almofadas-royce-desktop.jpg
       full_width: true
       blocks:
         - horizontalAlignment: center
@@ -295,7 +298,8 @@ blocks:
   - _template: BannerBlock
     banner:
       id: reclínio
-      background_image: /static/img/uploads/banner/background/5-reclinio-royce-desktop.jpg
+      background_image: >-
+        ../../../../static/img/uploads/banner/background/5-reclinio-royce-desktop.jpg
       height: 60vh
       blocks:
         - horizontalAlignment: center
@@ -321,7 +325,8 @@ blocks:
   - _template: BannerBlock
     banner:
       id: frog
-      background_image: /static/img/uploads/banner/background/6-sistemafrog-royce-desktop.jpg
+      background_image: >-
+        ../../../../static/img/uploads/banner/background/6-sistemafrog-royce-desktop.jpg
       height: 60vh
       blocks:
         - horizontalAlignment: center
@@ -367,14 +372,16 @@ blocks:
         - horizontalAlignment: center
           verticalAlignment: flex-start
       height: 60vh
-      background_image: /static/img/uploads/banner/background/7-base-royce-desktop.jpg
+      background_image: >-
+        ../../../../static/img/uploads/banner/background/7-base-royce-desktop.jpg
       full_width: true
       vertical_alignment: center
       mobile_card: true
   - _template: BannerBlock
     banner:
       id: garantia
-      background_image: /static/img/uploads/banner/background/8-garantia-royce-desktop.jpg
+      background_image: >-
+        ../../../../static/img/uploads/banner/background/8-garantia-royce-desktop.jpg
       height: 60vh
       full_width: true
       stretch: true

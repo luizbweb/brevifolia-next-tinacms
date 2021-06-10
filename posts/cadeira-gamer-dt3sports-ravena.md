@@ -289,7 +289,7 @@ specs:
 blocks:
   - _template: BannerBlock
     banner:
-      background_image: /static/img/uploads/banner/background/2-design.jpg
+      background_image: /static/1-bannerintro-royce-desktop.jpg
       blocks: []
       full_width: true
       horizontal_alignment: flex-end
@@ -356,6 +356,13 @@ blocks:
       background_color: '#1D1D1D'
       background_image: /static/img/uploads/banner/background/8-reclinio.jpg
       height: 60vh
+  - _template: BannerBlock
+    banner:
+      id: teste
+      blocks:
+        - horizontalAlignment: center
+          verticalAlignment: flex-start
+      background_image: /static/1-bannerintro-royce-desktop.jpg
   - _template: BannerBlock
     banner:
       id: garantia

@@ -1,5 +1,5 @@
 ---
-title: Cadeira Gamer DT3sports Elise
+title: ""
 id: 13528
 link: /racing-series/cadeira-gamer-dt3sports-elise
 name: Cadeira Gamer DT3sports Elise
@@ -9,7 +9,7 @@ category: Cadeira
 subcategory: Racing Series
 type: variable
 availability: in-stock
-main_image: /static/img/products/elise/elise.jpg
+main_image: ../../../../static/img/products/elise/elise.jpg
 description: >-
   • Apoio de braço ajustável.
 
@@ -40,180 +40,180 @@ price:
   regular: 1499.9
   boleto: 1349.91
 featured_image:
-  desktop_image: /static/img/banner/product/elise/main-banner__desktop.jpeg
-  mobile_image: /static/img/banner/product/elise/main-banner__mobile.jpeg
+  desktop_image: ../../../../static/img/banner/product/elise/main-banner__desktop.jpeg
+  mobile_image: ../../../../static/img/banner/product/elise/main-banner__mobile.jpeg
 galleries:
   - id: 18930
     color: Red
-    color_code: '#F8002E'
+    color_code: "#F8002E"
     availability: in-stock
     slides:
-      - image: /static/img/products/elise/red/elise-00.jpg
-      - image: /static/img/products/elise/red/elise-01.jpg
-      - image: /static/img/products/elise/red/elise-02.jpg
-      - image: /static/img/products/elise/red/elise-03.jpg
-      - image: /static/img/products/elise/red/elise-04.jpg
-      - image: /static/img/products/elise/red/elise-05.jpg
-      - image: /static/img/products/elise/red/elise-06.jpg
-      - image: /static/img/products/elise/red/elise-07.jpg
-      - image: /static/img/products/elise/red/elise-08.jpg
+      - image: ../../../../static/img/products/elise/red/elise-00.jpg
+      - image: ../../../../static/img/products/elise/red/elise-01.jpg
+      - image: ../../../../static/img/products/elise/red/elise-02.jpg
+      - image: ../../../../static/img/products/elise/red/elise-03.jpg
+      - image: ../../../../static/img/products/elise/red/elise-04.jpg
+      - image: ../../../../static/img/products/elise/red/elise-05.jpg
+      - image: ../../../../static/img/products/elise/red/elise-06.jpg
+      - image: ../../../../static/img/products/elise/red/elise-07.jpg
+      - image: ../../../../static/img/products/elise/red/elise-08.jpg
   - id: 18928
     color: Blue
-    color_code: '#0433BF'
+    color_code: "#0433BF"
     availability: in-stock
     slides:
-      - image: /static/img/products/elise/blue/elise-00.jpg
-      - image: /static/img/products/elise/blue/elise-01.jpg
-      - image: /static/img/products/elise/blue/elise-02.jpg
-      - image: /static/img/products/elise/blue/elise-03.jpg
-      - image: /static/img/products/elise/blue/elise-04.jpg
-      - image: /static/img/products/elise/blue/elise-05.jpg
-      - image: /static/img/products/elise/blue/elise-06.jpg
-      - image: /static/img/products/elise/blue/elise-07.jpg
-      - image: /static/img/products/elise/blue/elise-08.jpg
+      - image: ../../../../static/img/products/elise/blue/elise-00.jpg
+      - image: ../../../../static/img/products/elise/blue/elise-01.jpg
+      - image: ../../../../static/img/products/elise/blue/elise-02.jpg
+      - image: ../../../../static/img/products/elise/blue/elise-03.jpg
+      - image: ../../../../static/img/products/elise/blue/elise-04.jpg
+      - image: ../../../../static/img/products/elise/blue/elise-05.jpg
+      - image: ../../../../static/img/products/elise/blue/elise-06.jpg
+      - image: ../../../../static/img/products/elise/blue/elise-07.jpg
+      - image: ../../../../static/img/products/elise/blue/elise-08.jpg
   - id: 18929
     color: Light Green
-    color_code: '#93FF19'
+    color_code: "#93FF19"
     availability: no-stock
     slides:
-      - image: /static/img/products/elise/light-green/elise-00.jpg
-      - image: /static/img/products/elise/light-green/elise-01.jpg
-      - image: /static/img/products/elise/light-green/elise-02.jpg
-      - image: /static/img/products/elise/light-green/elise-03.jpg
-      - image: /static/img/products/elise/light-green/elise-04.jpg
-      - image: /static/img/products/elise/light-green/elise-05.jpg
-      - image: /static/img/products/elise/light-green/elise-06.jpg
-      - image: /static/img/products/elise/light-green/elise-07.jpg
-      - image: /static/img/products/elise/light-green/elise-08.jpg
+      - image: ../../../../static/img/products/elise/light-green/elise-00.jpg
+      - image: ../../../../static/img/products/elise/light-green/elise-01.jpg
+      - image: ../../../../static/img/products/elise/light-green/elise-02.jpg
+      - image: ../../../../static/img/products/elise/light-green/elise-03.jpg
+      - image: ../../../../static/img/products/elise/light-green/elise-04.jpg
+      - image: ../../../../static/img/products/elise/light-green/elise-05.jpg
+      - image: ../../../../static/img/products/elise/light-green/elise-06.jpg
+      - image: ../../../../static/img/products/elise/light-green/elise-07.jpg
+      - image: ../../../../static/img/products/elise/light-green/elise-08.jpg
   - id: 18931
     color: Orange
-    color_code: '#F25C05'
+    color_code: "#F25C05"
     availability: no-stock
     slides:
-      - image: /static/img/products/elise/orange/elise-00.jpg
-      - image: /static/img/products/elise/orange/elise-01.jpg
-      - image: /static/img/products/elise/orange/elise-02.jpg
-      - image: /static/img/products/elise/orange/elise-03.jpg
-      - image: /static/img/products/elise/orange/elise-04.jpg
-      - image: /static/img/products/elise/orange/elise-05.jpg
-      - image: /static/img/products/elise/orange/elise-06.jpg
-      - image: /static/img/products/elise/orange/elise-07.jpg
-      - image: /static/img/products/elise/orange/elise-08.jpg
+      - image: ../../../../static/img/products/elise/orange/elise-00.jpg
+      - image: ../../../../static/img/products/elise/orange/elise-01.jpg
+      - image: ../../../../static/img/products/elise/orange/elise-02.jpg
+      - image: ../../../../static/img/products/elise/orange/elise-03.jpg
+      - image: ../../../../static/img/products/elise/orange/elise-04.jpg
+      - image: ../../../../static/img/products/elise/orange/elise-05.jpg
+      - image: ../../../../static/img/products/elise/orange/elise-06.jpg
+      - image: ../../../../static/img/products/elise/orange/elise-07.jpg
+      - image: ../../../../static/img/products/elise/orange/elise-08.jpg
   - id: 103341
     color: Pink
-    color_code: '#F2A0B7'
+    color_code: "#F2A0B7"
     availability: in-stock
     slides:
-      - image: /static/img/products/elise/pink/elise-00.jpg
-      - image: /static/img/products/elise/pink/elise-01.jpg
-      - image: /static/img/products/elise/pink/elise-02.jpg
-      - image: /static/img/products/elise/pink/elise-03.jpg
-      - image: /static/img/products/elise/pink/elise-04.jpg
-      - image: /static/img/products/elise/pink/elise-05.jpg
-      - image: /static/img/products/elise/pink/elise-06.jpg
-      - image: /static/img/products/elise/pink/elise-07.jpg
-      - image: /static/img/products/elise/pink/elise-08.jpg
+      - image: ../../../../static/img/products/elise/pink/elise-00.jpg
+      - image: ../../../../static/img/products/elise/pink/elise-01.jpg
+      - image: ../../../../static/img/products/elise/pink/elise-02.jpg
+      - image: ../../../../static/img/products/elise/pink/elise-03.jpg
+      - image: ../../../../static/img/products/elise/pink/elise-04.jpg
+      - image: ../../../../static/img/products/elise/pink/elise-05.jpg
+      - image: ../../../../static/img/products/elise/pink/elise-06.jpg
+      - image: ../../../../static/img/products/elise/pink/elise-07.jpg
+      - image: ../../../../static/img/products/elise/pink/elise-08.jpg
   - id: 18932
     color: Grey
-    color_code: '#BFBFBF'
+    color_code: "#BFBFBF"
     availability: no-stock
     slides:
-      - image: /static/img/products/elise/grey/elise-00.jpg
-      - image: /static/img/products/elise/grey/elise-01.jpg
-      - image: /static/img/products/elise/grey/elise-02.jpg
-      - image: /static/img/products/elise/grey/elise-03.jpg
-      - image: /static/img/products/elise/grey/elise-04.jpg
-      - image: /static/img/products/elise/grey/elise-05.jpg
-      - image: /static/img/products/elise/grey/elise-06.jpg
-      - image: /static/img/products/elise/grey/elise-07.jpg
-      - image: /static/img/products/elise/grey/elise-08.jpg
+      - image: ../../../../static/img/products/elise/grey/elise-00.jpg
+      - image: ../../../../static/img/products/elise/grey/elise-01.jpg
+      - image: ../../../../static/img/products/elise/grey/elise-02.jpg
+      - image: ../../../../static/img/products/elise/grey/elise-03.jpg
+      - image: ../../../../static/img/products/elise/grey/elise-04.jpg
+      - image: ../../../../static/img/products/elise/grey/elise-05.jpg
+      - image: ../../../../static/img/products/elise/grey/elise-06.jpg
+      - image: ../../../../static/img/products/elise/grey/elise-07.jpg
+      - image: ../../../../static/img/products/elise/grey/elise-08.jpg
   - id: 103340
     color: Black
-    color_code: '#1D1D1D'
+    color_code: "#1D1D1D"
     availability: in-stock
     slides:
-      - image: /static/img/products/elise/black/elise-00.jpg
-      - image: /static/img/products/elise/black/elise-01.jpg
-      - image: /static/img/products/elise/black/elise-02.jpg
-      - image: /static/img/products/elise/black/elise-03.jpg
-      - image: /static/img/products/elise/black/elise-04.jpg
-      - image: /static/img/products/elise/black/elise-05.jpg
-      - image: /static/img/products/elise/black/elise-06.jpg
-      - image: /static/img/products/elise/black/elise-07.jpg
-      - image: /static/img/products/elise/black/elise-08.jpg
+      - image: ../../../../static/img/products/elise/black/elise-00.jpg
+      - image: ../../../../static/img/products/elise/black/elise-01.jpg
+      - image: ../../../../static/img/products/elise/black/elise-02.jpg
+      - image: ../../../../static/img/products/elise/black/elise-03.jpg
+      - image: ../../../../static/img/products/elise/black/elise-04.jpg
+      - image: ../../../../static/img/products/elise/black/elise-05.jpg
+      - image: ../../../../static/img/products/elise/black/elise-06.jpg
+      - image: ../../../../static/img/products/elise/black/elise-07.jpg
+      - image: ../../../../static/img/products/elise/black/elise-08.jpg
 slides:
   - title: Racing Series
     link: /racing-series
-    image: /static/img/categories/racing-series.svg
+    image: ../../../../static/img/categories/racing-series.svg
   - title: Elise
     link: /racing-series/cadeira-gamer-dt3sports-elise
-    image: /static/img/products/elise/elise.svg
+    image: ../../../../static/img/products/elise/elise.svg
   - title: Elise Fabric
     link: /racing-series/cadeira-gamer-dt3sports-elise-fabric
-    image: /static/img/products/elise-fabric/elise-fabric.svg
+    image: ../../../../static/img/products/elise-fabric/elise-fabric.svg
   - title: Elise Flamengo
     link: /racing-series/cadeira-gamer-dt3sports-elise-flamengo
-    image: /static/img/products/elise-flamengo/elise-flamengo.svg
+    image: ../../../../static/img/products/elise-flamengo/elise-flamengo.svg
   - title: Pixel
     link: /racing-series/cadeira-gamer-dt3sports-rgb-pixel
-    image: /static/img/products/pixel/pixel.svg
+    image: ../../../../static/img/products/pixel/pixel.svg
   - title: Estelar
     link: /racing-series/cadeira-gamer-dt3sports-rgb-estelar
-    image: /static/img/products/estelar/estelar.svg
+    image: ../../../../static/img/products/estelar/estelar.svg
   - title: Jaguar
     link: /racing-series/cadeira-gamer-dt3sports-jaguar
-    image: /static/img/products/jaguar/jaguar.svg
+    image: ../../../../static/img/products/jaguar/jaguar.svg
   - title: Mizano
     link: /racing-series/cadeira-gamer-dt3sports-mizano-fabric
-    image: /static/img/products/mizano/mizano.svg
+    image: ../../../../static/img/products/mizano/mizano.svg
   - title: Módena
     link: /racing-series/cadeira-gamer-dt3sports-modena
-    image: /static/img/products/modena/modena.svg
+    image: ../../../../static/img/products/modena/modena.svg
   - title: Ravena
     link: /racing-series/cadeira-gamer-dt3sports-ravena
-    image: /static/img/products/ravena/ravena.svg
+    image: ../../../../static/img/products/ravena/ravena.svg
   - title: Romeo
     link: /racing-series/cadeira-gamer-dt3sports-romeo-tecido
-    image: /static/img/products/romeo/romeo.svg
+    image: ../../../../static/img/products/romeo/romeo.svg
   - title: Pandora
     link: /racing-series/cadeira-gamer-dt3sports-pandora
-    image: /static/img/products/pandora/pandora.svg
+    image: ../../../../static/img/products/pandora/pandora.svg
 menu:
   items:
     - text: Design
-      link: '#design'
+      link: "#design"
     - text: Construção
-      link: '#construcao'
+      link: "#construcao"
     - text: Mecanismo
-      link: '#mecanismo'
+      link: "#mecanismo"
     - text: Almofadas
-      link: '#almofadas'
+      link: "#almofadas"
     - text: Rodas
-      link: '#rodas'
+      link: "#rodas"
     - text: Couro
-      link: '#couro'
+      link: "#couro"
     - text: Encosto
-      link: '#encosto'
+      link: "#encosto"
     - text: Garantia
-      link: '#garantia'
+      link: "#garantia"
     - text: Especificações
-      link: '#especificacoes'
+      link: "#especificacoes"
 details:
   - title: Almofadas DT3
-    image: /static/img/banner/product/shared/details/almofadas-dt3.svg
+    image: ../../../../static/img/banner/product/shared/details/almofadas-dt3.svg
   - title: Espuma Injetada
-    image: /static/img/banner/product/shared/details/espuma-injetada.svg
+    image: ../../../../static/img/banner/product/shared/details/espuma-injetada.svg
   - title: Braço 3D
-    image: /static/img/banner/product/shared/details/braco-3d.svg
+    image: ../../../../static/img/banner/product/shared/details/braco-3d.svg
   - title: Inclinação
-    image: /static/img/banner/product/shared/details/inclinacao.svg
+    image: ../../../../static/img/banner/product/shared/details/inclinacao.svg
   - title: Base de Aço
-    image: /static/img/banner/product/shared/details/base-aco.svg
+    image: ../../../../static/img/banner/product/shared/details/base-aco.svg
   - title: Rodas de 65mm
-    image: /static/img/banner/product/shared/details/roda-65.svg
+    image: ../../../../static/img/banner/product/shared/details/roda-65.svg
 specs:
-  front: /static/img/products/elise/elise-specs-frontal.svg
-  side: /static/img/products/elise/elise-specs-lateral.svg
+  front: ../../../../static/img/products/elise/elise-specs-frontal.svg
+  side: ../../../../static/img/products/elise/elise-specs-lateral.svg
   items:
     - key: coating
       label: Revestimento
@@ -237,10 +237,10 @@ specs:
       value: Pescoço e lombar
     - key: cylinder
       label: Cilindro
-      value: 'Classe 4, 80mm'
+      value: "Classe 4, 80mm"
     - key: wheels
       label: Rodas
-      value: 'Nylon, 65mm'
+      value: "Nylon, 65mm"
     - key: wheels__silent_design
       label: Rodas Silent Design
     - key: base
@@ -275,26 +275,26 @@ specs:
     - key: warranty__general
       label: Garantia geral
       value: 1
-      unit: ' ano'
+      unit: " ano"
       precision: 0
     - key: warranty__construction
       label: Garantia da estrutura
       value: 4
-      unit: ' anos'
+      unit: " anos"
       precision: 0
     - key: warranty__base
       label: Garantia base e rodas
       value: 2
-      unit: ' anos'
+      unit: " anos"
       precision: 0
     - key: warranty__cylinder
       label: Garantia cilindro de gás
       value: 2
-      unit: ' anos'
+      unit: " anos"
       precision: 0
     - key: certifications
       label: Certificações
-      value: 'BIFMA, EN 1335, TUV'
+      value: "BIFMA, EN 1335, TUV"
     - key: net_weight
       label: Peso líquido
       value: 30
@@ -317,11 +317,11 @@ blocks:
       vertical_alignment: center
       full_width: true
       mobile_card: true
-      background_image: /static/img/banner/product/elise/design__desktop.jpg
+      background_image: ../../../../static/img/banner/product/elise/design__desktop.jpg
       blocks:
         - content:
             - title: Design
-              foreground: '#FFFFFF'
+              foreground: "#FFFFFF"
               text_alignment: left
               line-height: 1em
               _template: TitleBlock
@@ -331,11 +331,11 @@ blocks:
                 as necessidades de quem passa longos períodos em frente ao
                 computador. Ela conta ainda com couro PU premium tricolor e
                 detalhes com textura carbon.
-              foreground: '#FFFFFF'
+              foreground: "#FFFFFF"
               textAlignment: left
               font_size: calc(1rem + 0.25vw)
               line_height: 1.35em
-              font_weight: '300'
+              font_weight: "300"
               _template: ContentBlock
               text_alignment: left
           horizontal_alignment: flex-start
@@ -356,16 +356,16 @@ blocks:
                 – A espuma injetada de alta tecnologia tem maior durabilidade e
                 sofre pouca deformação mesmo após longos períodos de uso
               font_size: calc(0.95rem + 0.25vw)
-              font_weight: '300'
+              font_weight: "300"
               _template: ContentBlock
-              margin_bottom: ''
-              margin_top: ''
+              margin_bottom: ""
+              margin_top: ""
             - title: Estrutura Aço
               text_alignment: left
               font_size: calc(1.80rem + 1vw)
               line-height: 1em
               _template: TitleBlock
-              line_height: ''
+              line_height: ""
               margin_top: 60px
               margin_bottom: 0.25em
             - content: >-
@@ -376,22 +376,22 @@ blocks:
               textAlignment: left
               font_size: calc(0.95rem + 0.25vw)
               line_height: 1.35em
-              font_weight: '300'
+              font_weight: "300"
               _template: ContentBlock
           width: 50%
           background_color_alpha:
-            color: 'rgb(255, 255, 255)'
+            color: "rgb(255, 255, 255)"
         - content:
             - objectFit: contain
               objectPosition: center
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  /static/img/banner/product/elise/construcao__desktop.jpg
+                  ../../../../static/img/banner/product/elise/construcao__desktop.jpg
                 mobile_image: >-
-                  /static/img/banner/product/elise/construcao__mobile.jpg
+                  ../../../../static/img/banner/product/elise/construcao__mobile.jpg
           stretch: true
-          height: ''
+          height: ""
           debug: false
           width: 50%
       full_width: true
@@ -409,9 +409,9 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  /static/img/banner/product/elise/mecanismo__desktop.jpg
+                  ../../../../static/img/banner/product/elise/mecanismo__desktop.jpg
                 mobile_image: >-
-                  /static/img/banner/product/elise/mecanismo__mobile.jpg
+                  ../../../../static/img/banner/product/elise/mecanismo__mobile.jpg
           stretch: true
         - content:
             - title: Mecanismo Borboleta
@@ -424,7 +424,7 @@ blocks:
                 estabilidade, ela ainda conta com regulador de tensão para a
                 função balanço.
               font_size: calc(1rem + 0.25vw)
-              font_weight: '300'
+              font_weight: "300"
               _template: ContentBlock
       full_width: true
       vertical_alignment: center
@@ -434,7 +434,7 @@ blocks:
     banner:
       id: almofadas
       full_width: true
-      background_image: /static/img/banner/product/elise/almofadas__desktop.jpg
+      background_image: ../../../../static/img/banner/product/elise/almofadas__desktop.jpg
       blocks:
         - content:
             - objectFit: contain
@@ -442,15 +442,15 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  /static/img/banner/product/elise/almofadas__desktop.jpg
+                  ../../../../static/img/banner/product/elise/almofadas__desktop.jpg
                 mobile_image: >-
-                  /static/img/banner/product/elise/almofadas__mobile.jpg
+                  ../../../../static/img/banner/product/elise/almofadas__mobile.jpg
           width: 150px
         - background_color_alpha:
-            color: ''
+            color: ""
           content:
             - title: Almofadas de apoio ergonômico
-              foreground: '#2B2B2B'
+              foreground: "#2B2B2B"
               text_alignment: center
               font_size: calc(1.70rem + 1vw)
               line-height: 1em
@@ -462,18 +462,18 @@ blocks:
                 alívio de pressão nos principais pontos de tensão. Removíveis,
                 tornam a Elise ainda mais ajustável.  
                  Com design ergonômico e espuma de 28kg/m³ de densidade, foram projetadas para manter seu pescoço alinhado perfeitamente com a coluna sem causar esforço sobre as costas.
-              foreground: '#2B2B2B'
+              foreground: "#2B2B2B"
               textAlignment: left
               font_size: calc(1rem + 0.25vw)
               line_height: 1.35em
-              font_weight: '300'
+              font_weight: "300"
               _template: ContentBlock
               text_alignment: center
           horizontal_alignment: center
           vertical_alignment: center
           width: 42%
           stretch: false
-          padding_left: ''
+          padding_left: ""
           debug: false
       horizontal_alignment: center
       vertical_alignment: center
@@ -488,8 +488,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: /static/img/banner/product/elise/base__desktop.jpg
-                mobile_image: /static/img/banner/product/elise/base__mobile.jpg
+                desktop_image: ../../../../static/img/banner/product/elise/base__desktop.jpg
+                mobile_image: ../../../../static/img/banner/product/elise/base__mobile.jpg
           stretch: true
         - content:
             - title: Base reforçada
@@ -509,7 +509,7 @@ blocks:
               textAlignment: left
               font_size: calc(1rem + 0.25vw)
               line_height: 1.35em
-              font_weight: '300'
+              font_weight: "300"
               _template: ContentBlock
       full_width: true
       mobile_card: true
@@ -531,7 +531,7 @@ blocks:
               textAlignment: left
               font_size: calc(1rem + 0.25vw)
               line_height: 1.35em
-              font_weight: '300'
+              font_weight: "300"
               _template: ContentBlock
           vertical_alignment: center
         - content:
@@ -539,8 +539,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: /static/img/banner/product/elise/rodas__desktop.jpg
-                mobile_image: /static/img/banner/product/elise/rodas__mobile.jpg
+                desktop_image: ../../../../static/img/banner/product/elise/rodas__desktop.jpg
+                mobile_image: ../../../../static/img/banner/product/elise/rodas__mobile.jpg
           stretch: true
       full_width: true
       mobile_card: true
@@ -554,9 +554,9 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  /static/img/banner/product/elise/material__desktop.jpg
+                  ../../../../static/img/banner/product/elise/material__desktop.jpg
                 mobile_image: >-
-                  /static/img/banner/product/elise/material__mobile.jpg
+                  ../../../../static/img/banner/product/elise/material__mobile.jpg
           stretch: true
         - content:
             - title: Couro PU de alta qualidade
@@ -572,7 +572,7 @@ blocks:
               textAlignment: left
               font_size: calc(0.95rem + 0.25vw)
               line_height: 1.35em
-              font_weight: '300'
+              font_weight: "300"
               _template: ContentBlock
       full_width: true
       vertical_alignment: center
@@ -597,7 +597,7 @@ blocks:
               textAlignment: left
               font_size: calc(1rem + 0.25vw)
               line_height: 1.35em
-              font_weight: '300'
+              font_weight: "300"
               _template: ContentBlock
         - stretch: true
           content:
@@ -605,8 +605,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: /static/img/banner/product/elise/braco__desktop.jpg
-                mobile_image: /static/img/banner/product/elise/braco__mobile.jpg
+                desktop_image: ../../../../static/img/banner/product/elise/braco__desktop.jpg
+                mobile_image: ../../../../static/img/banner/product/elise/braco__mobile.jpg
       vertical_alignment: center
   - _template: BannerBlock
     banner:
@@ -614,34 +614,34 @@ blocks:
       blocks:
         - content:
             - title: INCLINAÇÃO 180°
-              foreground: '#FFFFFF'
+              foreground: "#FFFFFF"
               text_alignment: left
               line-height: 1em
               _template: TitleBlock
               margin_bottom: 0.5vw
             - content: Mecanismo com inclinação de até 180° e função rocking.
-              foreground: '#FFFFFF'
+              foreground: "#FFFFFF"
               textAlignment: left
               font_size: calc(1rem + 0.25vw)
               line_height: 1.35em
-              font_weight: '300'
+              font_weight: "300"
               _template: ContentBlock
           background_color_alpha:
-            color: ''
+            color: ""
         - content:
             - objectFit: contain
               objectPosition: center
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  /static/img/banner/product/elise/reclinio__desktop.jpg
+                  ../../../../static/img/banner/product/elise/reclinio__desktop.jpg
                 mobile_image: >-
-                  /static/img/banner/product/elise/reclinio__mobile.jpg
+                  ../../../../static/img/banner/product/elise/reclinio__mobile.jpg
           stretch: true
       full_width: true
       vertical_alignment: center
       mobile_card: true
-      background_color: '#1D1D1D'
+      background_color: "#1D1D1D"
   - _template: BannerBlock
     banner:
       id: garantia
@@ -655,12 +655,12 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  /static/img/banner/product/elise/garantia__desktop.jpg
+                  ../../../../static/img/banner/product/elise/garantia__desktop.jpg
                 mobile_image: >-
-                  /static/img/banner/product/elise/garantia__mobile.jpg
+                  ../../../../static/img/banner/product/elise/garantia__mobile.jpg
           stretch: true
         - content:
-            - title: 'Todas as cadeiras da Racing Series contam com:'
+            - title: "Todas as cadeiras da Racing Series contam com:"
               text_alignment: left
               line-height: 1em
               _template: TitleBlock
@@ -676,7 +676,7 @@ blocks:
               textAlignment: left
               font_size: calc(1rem + 0.25vw)
               line_height: 1.35em
-              font_weight: '300'
+              font_weight: "300"
               _template: ContentBlock
           width: 50%
       mobile_card: true

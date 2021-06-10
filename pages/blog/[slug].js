@@ -10,10 +10,13 @@ import { ProductInfo } from "../../components/ProductInfo";
 import ProductCarousel from "../../components/Carousel";
 import ColorSelect from "../../components/ColorSelect";
 import MainImage from "../../components/MainImage";
+import { Banner } from "../../components/Banner/component";
+import classNames from "classnames";
 const CarrouselContainer = styled.div`
   display: flex;
   padding: 0px 120px;
   margin-top: 160px;
+  width: 100%;
 `;
 
 const DescriptionContainer = styled.div`
@@ -22,7 +25,7 @@ const DescriptionContainer = styled.div`
 
 export default function BlogTemplate(props) {
   const formOptions = {
-    label: "Blog Page",
+    label: "Editor de Produtos",
     fields: [
       {
         label: "Imagem Principal",
@@ -37,28 +40,13 @@ export default function BlogTemplate(props) {
       },
       {
         name: "frontmatter.title",
-        label: "Title",
-        component: "text",
-      },
-      {
-        name: "frontmatter.date",
-        label: "Date",
-        component: "date",
-      },
-      {
-        name: "frontmatter.author",
-        label: "Author",
+        label: "Título",
         component: "text",
       },
       {
         name: "frontmatter.id",
         label: "ID do Produto",
         component: "number",
-      },
-      {
-        name: "frontmatter.link",
-        label: "Link",
-        component: "text",
       },
       {
         name: "frontmatter.short_name",
@@ -117,9 +105,9 @@ export default function BlogTemplate(props) {
       },
       {
         name: "frontmatter.featured_image",
-        label: "Imagem Destacada",
+        label: "Banner em Destaque",
         component: "group",
-        description: "Imagem representando o produto",
+        description: "Banner Principal do Produto",
         fields: [
           {
             name: "desktop_image",
@@ -143,10 +131,13 @@ export default function BlogTemplate(props) {
         name: "frontmatter.galleries",
         label: "Galeria",
         component: "group-list",
-        description: "Galeria de produtos",
-        itemProps: (item) => ({
-          label: item.name,
-        }),
+        description: "Galeria de Variações",
+        itemProps: (item) => (
+          console.log(item),
+          {
+            label: item.color,
+          }
+        ),
         defaultItem: () => ({
           id: 0,
         }),
@@ -173,12 +164,12 @@ export default function BlogTemplate(props) {
             options: ["no-stock", "in-stock"],
           },
           {
-            label: "Slides",
+            label: "Slides de Categoria",
             name: "slides",
             component: "group-list",
             description: "Fotos do produto",
             itemProps: (item) => ({
-              label: item.name,
+              label: item.title,
             }),
             defaultItem: () => ({
               image: "/static/error.png",
@@ -196,14 +187,18 @@ export default function BlogTemplate(props) {
           },
         ],
       },
+      Blocks,
       {
         name: "frontmatter.slides",
         label: "Slides",
         component: "group-list",
         description: "Produtos da categoria",
-        itemProps: (item) => ({
-          label: item.name,
-        }),
+        itemProps: (item) => (
+          console.log("SLIDES", item),
+          {
+            label: item.title,
+          }
+        ),
         defaultItem: () => ({
           title: "Novo slide",
         }),
@@ -230,7 +225,7 @@ export default function BlogTemplate(props) {
       },
       {
         name: "frontmatter.menu",
-        label: "Menu",
+        label: "Menu Âncora",
         component: "group",
         fields: [
           {
@@ -238,9 +233,12 @@ export default function BlogTemplate(props) {
             name: "items",
             description: "Itens do menu da página de produto",
             component: "group-list",
-            itemProps: (item) => ({
-              label: item.name,
-            }),
+            itemProps: (item) => (
+              console.log("ss", item),
+              {
+                label: item.link,
+              }
+            ),
             defaultItem: () => ({
               title: "Novo link",
             }),
@@ -265,7 +263,7 @@ export default function BlogTemplate(props) {
         description: "Detalhes do produto",
         component: "group-list",
         itemProps: (item) => ({
-          label: item.name,
+          label: item.title,
         }),
         defaultItem: () => ({
           title: "Novo detalhe",
@@ -294,6 +292,8 @@ export default function BlogTemplate(props) {
           {
             name: "front",
             label: "Imagem Frontal",
+            description: "Imagem principal do produto dentro do site",
+
             component: "image",
             parse: (media) => `/static/${media.filename}`,
             uploadDir: () => "/public/static/",
@@ -348,12 +348,6 @@ export default function BlogTemplate(props) {
           },
         ],
       },
-      Blocks,
-      {
-        name: "markdownBody",
-        label: "Blog Body",
-        component: "markdown",
-      },
     ],
   };
 
@@ -377,7 +371,7 @@ export default function BlogTemplate(props) {
   const [chairColor, setChairColor] = React.useState("");
   const mainDesktopImage = post.frontmatter.featured_image?.desktop_image;
   const blocks = post.frontmatter.blocks;
-  console.log(blocks);
+  console.log("blocks", blocks);
   React.useEffect(() => {
     if (!galleries) return;
 
@@ -425,6 +419,40 @@ export default function BlogTemplate(props) {
       </CarrouselContainer>
 
       <MainImage image={mainDesktopImage} />
+
+      {blocks && (
+        <div style={{ width: "100%" }}>
+          {blocks.map((block, index) => {
+            if (!block || !block._template) return;
+
+            switch (block._template) {
+              case "BannerBlock":
+                return (
+                  block.banner && (
+                    <Banner
+                      id={block.banner.id}
+                      key={`home-block-${index}`}
+                      blocks={block.banner.blocks}
+                      backgroundImage={block.banner.background_image}
+                      backgroundColor={block.banner.background_color}
+                      horizontal_alignment={block.banner.horizontal_alignment}
+                      vertical_alignment={block.banner.vertical_alignment}
+                      fullWidth={block.banner.full_width}
+                      stretch={block.banner.stretch}
+                      margin_bottom={block.banner.margin_bottom}
+                      margin_top={block.banner.margin_top}
+                      height={block.banner.height}
+                      debug={block.banner.debug}
+                      className={classNames({
+                        "mobile-card": block.banner.mobile_card,
+                      })}
+                    />
+                  )
+                );
+            }
+          })}
+        </div>
+      )}
 
       <div className="dt3_editor_log">
         <p>

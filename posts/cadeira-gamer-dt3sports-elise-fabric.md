@@ -286,14 +286,6 @@ blocks:
       mobile_card: true
       background_image: /static/img/banner/product/elise-fabric/design__desktop.jpeg
       blocks:
-        - width: 1px
-          content:
-            - objectFit: contain
-              objectPosition: center
-              _template: ImageBlock
-              image:
-                desktop_image: /static/img/banner/product/elise/main-banner__desktop.jpg
-                mobile_image: /static/img/banner/product/elise/main-banner__mobile.jpg
         - content:
             - title: Design
               foreground: '#1D1D1D'

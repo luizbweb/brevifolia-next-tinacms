@@ -16,9 +16,12 @@
     "deploy": "yarn build && yarn export"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/react-fontawesome": "^0.1.14",
     "@tinacms/api-git": "^0.31.0-alpha.5",
     "@tinacms/git-client": "^0.31.0-alpha.5",
     "babel-plugin-styled-components": "^1.12.0",
+    "classnames": "^2.3.1",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
