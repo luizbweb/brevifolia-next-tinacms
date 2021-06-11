@@ -19,45 +19,45 @@ RemarkCreatorPlugin in gatsby-tinacms-remark package 09.29.20
 
 */
 
-import toMarkdownString from '../utils/toMarkdownString'
+import toMarkdownString from "../utils/toMarkdownString";
 
 const MISSING_FILENAME_MESSAGE =
-  'createRemarkButton must be given `filename(form): string`'
+  "createRemarkButton must be given `filename(form): string`";
 const MISSING_FIELDS_MESSAGE =
-  'createRemarkButton must be given `fields: Field[]` with at least 1 item'
+  "createRemarkButton must be given `fields: Field[]` with at least 1 item";
 
 export class MarkdownCreatorPlugin {
-  __type = 'content-creator'
-  name
-  fields
+  __type = "content-creator";
+  name;
+  fields;
 
   // Markdown Specific
-  filename
-  frontmatter
-  body
+  filename;
+  frontmatter;
+  body;
 
   constructor(options) {
     if (!options.filename) {
-      console.error(MISSING_FILENAME_MESSAGE)
-      throw new Error(MISSING_FILENAME_MESSAGE)
+      console.error(MISSING_FILENAME_MESSAGE);
+      throw new Error(MISSING_FILENAME_MESSAGE);
     }
 
     if (!options.fields || options.fields.length === 0) {
-      console.error(MISSING_FIELDS_MESSAGE)
-      throw new Error(MISSING_FIELDS_MESSAGE)
+      console.error(MISSING_FIELDS_MESSAGE);
+      throw new Error(MISSING_FIELDS_MESSAGE);
     }
 
-    this.name = options.label
-    this.fields = options.fields
-    this.filename = options.filename
-    this.frontmatter = options.frontmatter || (() => ({}))
-    this.body = options.body || (() => '')
+    this.name = options.label;
+    this.fields = options.fields;
+    this.filename = options.filename;
+    this.frontmatter = options.frontmatter || (() => ({}));
+    this.body = options.body || (() => "");
   }
 
   async onSubmit(form, cms) {
-    const fileRelativePath = await this.filename(form)
-    const frontmatter = await this.frontmatter(form)
-    const markdownBody = await this.body(form)
+    const fileRelativePath = await this.filename(form);
+    const frontmatter = await this.frontmatter(form);
+    const markdownBody = await this.body(form);
 
     cms.api.git.onChange({
       fileRelativePath,
@@ -66,41 +66,53 @@ export class MarkdownCreatorPlugin {
         frontmatter,
         markdownBody,
       }),
-    })
+    });
   }
 }
 
 export const CreateBlogPlugin = new MarkdownCreatorPlugin({
-  label: 'Add New Post',
-  filename: form => {
-    const slug = form.title.replace(/\s+/g, '-').toLowerCase()
-    return `posts/${slug}.md`
+  label: "Add New Post",
+  filename: (form) => {
+    const slug = form.title.replace(/\s+/g, "-").toLowerCase();
+    return `posts/${slug}.md`;
   },
   fields: [
     {
-      label: 'Title',
-      name: 'title',
-      component: 'text',
+      label: "Imagem Principal",
+      name: "frontmatter.main_image",
+      component: "image",
+      // Generate the frontmatter value based on the filename
+      parse: (media) => `/static/${media.filename}`,
+      // Decide the file upload directory for the post
+      uploadDir: () => "/public/static/",
+      // Generate the src attribute for the preview image.
+      previewSrc: (fullSrc) => fullSrc.replace("/public", ""),
+      clearable: true,
+    },
+    {
+      label: "Title",
+      name: "title",
+      component: "text",
       required: true,
     },
     {
-      label: 'Date',
-      name: 'date',
-      component: 'date',
-      description: 'The default will be today',
+      label: "Date",
+      name: "date",
+      component: "date",
+      description: "The default will be today",
     },
     {
-      label: 'Author',
-      description: 'Who wrote this, yo?',
-      name: 'author',
-      component: 'text',
+      label: "Author",
+      description: "Who wrote this, yo?",
+      name: "author",
+      component: "text",
     },
   ],
-  frontmatter: postInfo => ({
+  frontmatter: (postInfo) => ({
     title: postInfo.title,
     date: postInfo.date || new Date(),
-    author: postInfo.author || 'Kurt Vonnegut',
-    hero_image: '/static/alfons-taekema-bali.jpg',
+    author: postInfo.author || "Kurt Vonnegut",
+    hero_image: "/static/alfons-taekema-bali.jpg",
   }),
   body: () => `New post, who dis?`,
-})
+});

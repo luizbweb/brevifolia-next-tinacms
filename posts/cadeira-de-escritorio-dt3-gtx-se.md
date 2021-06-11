@@ -158,10 +158,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: >-
-                  /static/img/banner/product/gtx/mecanismo__desktop.jpg
-                mobile_image: >-
-                  /static/img/banner/product/gtx/mecanismo__mobile.jpg
+                desktop_image: /static/img/banner/product/gtx/mecanismo__desktop.jpg
+                mobile_image: /static/img/banner/product/gtx/mecanismo__mobile.jpg
           stretch: true
         - content:
             - title: Mecanismo Borboleta
@@ -258,8 +256,7 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: >-
-                  /static/img/banner/product/gtx/garantia__desktop.png
+                desktop_image: /static/img/banner/product/gtx/garantia__desktop.png
                 mobile_image: /static/img/banner/product/gtx/garantia__mobile.jpg
           stretch: true
         - content:

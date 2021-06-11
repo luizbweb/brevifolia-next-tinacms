@@ -12,6 +12,9 @@ import ColorSelect from "../../components/ColorSelect";
 import MainImage from "../../components/MainImage";
 import { Banner } from "../../components/Banner/component";
 import classNames from "classnames";
+import Specs from "../../components/Specs";
+import Menu from "../../components/Menu";
+import CategorySlides from "../../components/CategorySlides";
 const CarrouselContainer = styled.div`
   display: flex;
   padding: 0px 120px;
@@ -37,6 +40,7 @@ export default function BlogTemplate(props) {
         uploadDir: () => "/public/static/",
         // Generate the src attribute for the preview image.
         previewSrc: (fullSrc) => fullSrc.replace("/public", ""),
+        clearable: true,
       },
       {
         name: "frontmatter.title",
@@ -103,30 +107,7 @@ export default function BlogTemplate(props) {
           },
         ],
       },
-      {
-        name: "frontmatter.featured_image",
-        label: "Banner em Destaque",
-        component: "group",
-        description: "Banner Principal do Produto",
-        fields: [
-          {
-            name: "desktop_image",
-            label: "Desktop",
-            component: "image",
-            parse: (media) => `/static/${media.filename}`,
-            uploadDir: () => "/public/static/",
-            previewSrc: (fullSrc) => fullSrc.replace("/public", ""),
-          },
-          {
-            name: "mobile_image",
-            label: "Mobile",
-            component: "image",
-            parse: (media) => `/static/${media.filename}`,
-            uploadDir: () => "/public/static/",
-            previewSrc: (fullSrc) => fullSrc.replace("/public", ""),
-          },
-        ],
-      },
+
       {
         name: "frontmatter.galleries",
         label: "Galeria",
@@ -169,7 +150,7 @@ export default function BlogTemplate(props) {
             component: "group-list",
             description: "Fotos do produto",
             itemProps: (item) => ({
-              label: item.title,
+              label: "Imagem",
             }),
             defaultItem: () => ({
               image: "/static/error.png",
@@ -187,7 +168,6 @@ export default function BlogTemplate(props) {
           },
         ],
       },
-      Blocks,
       {
         name: "frontmatter.slides",
         label: "Slides",
@@ -223,6 +203,31 @@ export default function BlogTemplate(props) {
           },
         ],
       },
+      {
+        name: "frontmatter.featured_image",
+        label: "Banner em Destaque",
+        component: "group",
+        description: "Banner Principal do Produto",
+        fields: [
+          {
+            name: "desktop_image",
+            label: "Desktop",
+            component: "image",
+            parse: (media) => `/static/${media.filename}`,
+            uploadDir: () => "/public/static/",
+            previewSrc: (fullSrc) => fullSrc.replace("/public", ""),
+          },
+          {
+            name: "mobile_image",
+            label: "Mobile",
+            component: "image",
+            parse: (media) => `/static/${media.filename}`,
+            uploadDir: () => "/public/static/",
+            previewSrc: (fullSrc) => fullSrc.replace("/public", ""),
+          },
+        ],
+      },
+      Blocks,
       {
         name: "frontmatter.menu",
         label: "Menu Âncora",
@@ -298,6 +303,7 @@ export default function BlogTemplate(props) {
             parse: (media) => `/static/${media.filename}`,
             uploadDir: () => "/public/static/",
             previewSrc: (fullSrc) => fullSrc.replace("/public", ""),
+            clearable: true,
           },
           {
             name: "side",
@@ -306,6 +312,7 @@ export default function BlogTemplate(props) {
             parse: (media) => `/static/${media.filename}`,
             uploadDir: () => "/public/static/",
             previewSrc: (fullSrc) => fullSrc.replace("/public", ""),
+            clearable: true,
           },
           {
             label: "Itens",
@@ -313,7 +320,7 @@ export default function BlogTemplate(props) {
             description: "Itens especificações do produto",
             component: "group-list",
             itemProps: (item) => ({
-              label: item.name,
+              label: item?.name,
             }),
             defaultItem: () => ({
               title: "Novo link",
@@ -371,7 +378,10 @@ export default function BlogTemplate(props) {
   const [chairColor, setChairColor] = React.useState("");
   const mainDesktopImage = post.frontmatter.featured_image?.desktop_image;
   const blocks = post.frontmatter.blocks;
-  console.log("blocks", blocks);
+  const specs = post.frontmatter.specs;
+  const menu = post.frontmatter.menu;
+  const slides = post.frontmatter.slides;
+  console.log("SLIDES", slides);
   React.useEffect(() => {
     if (!galleries) return;
 
@@ -399,26 +409,32 @@ export default function BlogTemplate(props) {
         </div>
         <h2 className="blog__footer">Written By: {post.frontmatter.author}</h2>
       </article> */}
-      <CarrouselContainer>
-        <ProductCarousel gallery={activeGallery} />
 
-        <DescriptionContainer>
-          <h1>
-            {title} {chairColor}
-          </h1>
-          <h2>{subcategory}</h2>
-          <ProductInfo info={description} />
-          {productType == "variable" && (
-            <ColorSelect
-              options={colors}
-              value={chairColor}
-              setValue={setChairColor}
-            />
-          )}
-        </DescriptionContainer>
-      </CarrouselContainer>
+      {galleries && (
+        <CarrouselContainer>
+          <ProductCarousel gallery={activeGallery} />
 
-      <MainImage image={mainDesktopImage} />
+          <DescriptionContainer>
+            <h1>
+              {title} {chairColor}
+            </h1>
+            <h2>{subcategory}</h2>
+            <ProductInfo info={description} />
+            {productType == "variable" && (
+              <ColorSelect
+                options={colors}
+                value={chairColor}
+                setValue={setChairColor}
+              />
+            )}
+          </DescriptionContainer>
+        </CarrouselContainer>
+      )}
+      {slides && <CategorySlides slides={slides} />}
+
+      {mainDesktopImage && <MainImage image={mainDesktopImage} />}
+
+      {menu && <Menu items={menu.items} />}
 
       {blocks && (
         <div style={{ width: "100%" }}>
@@ -453,8 +469,14 @@ export default function BlogTemplate(props) {
           })}
         </div>
       )}
+      {specs ? (
+        <div style={{ textAlign: "center" }}>
+          <h2 style={{ margin: "1rem 0px" }}>Especificações</h2>
+          <Specs front={specs.front} side={specs.side} />
+        </div>
+      ) : null}
 
-      <div className="dt3_editor_log">
+      {/* <div className="dt3_editor_log">
         <p>
           {" "}
           <b>Log do DT3editor 2.0</b>{" "}
@@ -492,7 +514,7 @@ export default function BlogTemplate(props) {
         <p> details: {JSON.stringify(post.frontmatter.details)} </p>
         <p> blocks: {JSON.stringify(post.frontmatter.blocks)} </p>
         <p> specs: {JSON.stringify(post.frontmatter.specs)} </p>
-      </div>
+      </div> */}
       <style jsx>
         {`
           .blog h1 {

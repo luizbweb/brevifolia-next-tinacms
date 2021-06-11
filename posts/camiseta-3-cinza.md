@@ -37,22 +37,19 @@ galleries:
     availability: in-stock
     slides:
       - image: /static/img/products/camiseta-3-cinza/camiseta-3-cinza.png
-      - image: >-
-          /static/img/products/camiseta-3-cinza/camiseta-3-cinza-00.png
+      - image: /static/img/products/camiseta-3-cinza/camiseta-3-cinza-00.png
   - id: 205237
     color: M
     availability: in-stock
     slides:
       - image: /static/img/products/camiseta-3-cinza/camiseta-3-cinza.png
-      - image: >-
-          /static/img/products/camiseta-3-cinza/camiseta-3-cinza-00.png
+      - image: /static/img/products/camiseta-3-cinza/camiseta-3-cinza-00.png
   - id: 205236
     color: G
     availability: in-stock
     slides:
       - image: /static/img/products/camiseta-3-cinza/camiseta-3-cinza.png
-      - image: >-
-          /static/img/products/camiseta-3-cinza/camiseta-3-cinza-00.png
+      - image: /static/img/products/camiseta-3-cinza/camiseta-3-cinza-00.png
 specs:
   items: null
 price:

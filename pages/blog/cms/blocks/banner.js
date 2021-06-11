@@ -53,9 +53,9 @@ const stretchBlocks = {
 
 const bgImage = {
   ...backgroundImage,
-  parse: media => `/static/${media.filename}`,
-  uploadDir: () => '/public/static/',
-  previewSrc: fullSrc => fullSrc.replace('/public', ''),
+  parse: (media) => `/static/${media.filename}`,
+  uploadDir: () => "/public/static/",
+  previewSrc: (fullSrc) => fullSrc.replace("/public", ""),
 };
 
 const mobileCard = {
@@ -72,7 +72,10 @@ const screen = {
 };
 
 const blockName = (name) => {
-  switch (name) {
+  if (name) {
+    var title = name[0];
+  }
+  switch (title) {
     case "TitleBlock":
       return "Texto";
       break;
@@ -94,6 +97,13 @@ const blockName = (name) => {
 const blocks = {
   name: "blocks",
   label: "Blocos",
+
+  itemProps: (item) => ({
+    label:
+      blockName(item.content?.map((item, index) => item._template)) || "Bloco",
+  }),
+  // itemProps: (item) => ({ label: blockName(item.content[0]?._template) }),
+
   component: "group-list",
   fields: [
     content,

@@ -14,11 +14,12 @@ const ProductCarousel = ({ gallery }) => {
           showStatus={false}
           showIndicators={true}
         >
-          {gallery.slides.map((slide, index) => (
-            <div key={index}>
-              <img src={slide.image} alt={slide.color} />
-            </div>
-          ))}
+          {gallery.slides &&
+            gallery.slides.map((slide, index) => (
+              <div key={index}>
+                <img src={slide.image} alt={slide.color} />
+              </div>
+            ))}
         </Carousel>
       </div>
     </>
