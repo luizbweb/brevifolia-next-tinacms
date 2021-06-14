@@ -8,7 +8,7 @@ const ColorSelect = ({ options, value, setValue }) => {
       onChange={({ target }) => setValue(target.value)}
     >
       <option value="" disabled>
-        Selecione
+        Selecione um Álbum
       </option>
       {options.map((option) => (
         <option key={option} value={option}>

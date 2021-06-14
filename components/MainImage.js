@@ -4,11 +4,17 @@ const MainImage = ({ image }) => {
   console.log(image);
   return (
     <>
-      <img
-        src={image}
-        alt=""
-        style={{ objectFit: "contain", objectPosition: "center", margin: '0px' }}
-      />
+      <div style={{ backgroundColor: "#1d1d1d" }}>
+        <img
+          src={image}
+          alt=""
+          style={{
+            objectFit: "contain",
+            objectPosition: "center",
+            margin: "0px",
+          }}
+        />
+      </div>
     </>
   );
 };
