@@ -15,6 +15,7 @@ import classNames from "classnames";
 import Specs from "../../components/Specs";
 import Menu from "../../components/Menu";
 import CategorySlides from "../../components/CategorySlides";
+import DetailedTable from "../../components/DetailedTable.js";
 const CarrouselContainer = styled.div`
   display: flex;
   padding: 0px 120px;
@@ -319,9 +320,12 @@ export default function BlogTemplate(props) {
             name: "items",
             description: "Itens especificações do produto",
             component: "group-list",
-            itemProps: (item) => ({
-              label: item?.name,
-            }),
+            itemProps: (item) => (
+              console.log("TABELA", item),
+              {
+                label: item?.label,
+              }
+            ),
             defaultItem: () => ({
               title: "Novo link",
             }),
@@ -368,7 +372,6 @@ export default function BlogTemplate(props) {
 
   const title = post.frontmatter.title;
   const description = post.frontmatter.description;
-  const subcategory = post.frontmatter.subcategory;
   const galleries = post.frontmatter.galleries;
   const colors = galleries?.map((gallery) => gallery?.color);
   const productType = post.frontmatter.type;
@@ -381,6 +384,11 @@ export default function BlogTemplate(props) {
   const specs = post.frontmatter.specs;
   const menu = post.frontmatter.menu;
   const slides = post.frontmatter.slides;
+  const micro_name = post.frontmatter.micro_name;
+  const short_name = post.frontmatter.short_name;
+  const category = post.frontmatter.category;
+  const subcategory = post.frontmatter.subcategory;
+
   console.log("SLIDES", slides);
   React.useEffect(() => {
     if (!galleries) return;
@@ -473,6 +481,13 @@ export default function BlogTemplate(props) {
         <div style={{ textAlign: "center" }}>
           <h2 style={{ margin: "1rem 0px" }}>Especificações</h2>
           <Specs front={specs.front} side={specs.side} />
+
+          <DetailedTable
+            rows={specs?.items}
+            colors={colors}
+            model={micro_name || short_name}
+            serie={subcategory || category}
+          />
         </div>
       ) : null}
 

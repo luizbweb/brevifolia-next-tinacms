@@ -290,8 +290,9 @@ blocks:
                 perdendo o formato mesmo após longos períodos de uso.
               _template: ContentBlock
               foreground: '#FFFFFF'
-          horizontal_alignment: center
+          horizontal_alignment: flex-start
           vertical_alignment: center
+          debug: true
       horizontal_alignment: flex-start
       vertical_alignment: stretch
       mobile_card: true

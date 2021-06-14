@@ -8,7 +8,7 @@ micro_name: Romeo
 category: Cadeira
 subcategory: Racing Series
 type: variable
-availability: no-stock
+availability: in-stock
 main_image: /static/img/products/romeo/romeo.jpg
 description: "•\_**Modelo exclusivo da Kabum**\_[clique aqui para comprar](https://www.kabum.com.br/cgi-local/site/listagem/listagem.cgi?string=Romeo&btnG=).\n\n  \n• Apoio de braço 3D ajustável.\n\n  \n• Estrutura 100% de aço reforçado para suportar maior peso.\n\n  \n• Revestimento de tecido.\n\n  \n• Rodas especiais de 65mm super resistentes para piso ou carpete.\n\n  \n• Duas almofadas inclusas para apoio lombar e pescoço. Ambas com logos bordados.\n\n  \n[ Compare este produto com outros modelos clicando aqui](https://dt3sports.com.br/comparativo-modelos/).\n\n[Fazer Download do Manual de Instruções](https://drive.google.com/file/d/138Jcbn_otWSrish8Iqp_Z9cvxNA4bwOr/view?usp=sharing)"
 price:
@@ -332,8 +332,7 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                mobile_image: >-
-                  /static/img/banner/product/romeo/almofadas__mobile.jpg
+                mobile_image: /static/img/banner/product/romeo/almofadas__mobile.jpg
           width: 120px
       horizontal_alignment: center
       vertical_alignment: center
