@@ -40,10 +40,6 @@ featured_image:
   desktop_image: ../../../../static/img/banner/product/elise-fabric/main-banner__desktop.jpg
   mobile_image: ../../../../static/img/banner/product/elise/main-banner__mobile.jpg
 galleries:
-  - id: 888
-    color: blue
-    slides:
-      - image: /static/almofada lombar elite series u-00.jpg
   - id: 338959
     color: Red
     color_code: '#F8002E'
@@ -282,22 +278,6 @@ specs:
 blocks:
   - _template: BannerBlock
     banner:
-      background_image: /static/2-cadeira-royce-desktop.jpg
-      blocks:
-        - horizontalAlignment: center
-          verticalAlignment: flex-start
-          debug: true
-        - horizontalAlignment: center
-          verticalAlignment: flex-start
-          content:
-            - title: Cadeira Bonita
-              _template: TitleBlock
-            - content: Tem uma cadeira bonita aqui
-              _template: ContentBlock
-          debug: true
-      debug: true
-  - _template: BannerBlock
-    banner:
       id: design
       height: 60vh
       horizontal_alignment: flex-end
@@ -435,16 +415,6 @@ blocks:
       background_image: >-
         ../../../../static/img/banner/product/elise-fabric/almofadas__desktop.jpeg
       blocks:
-        - content:
-            - objectFit: contain
-              objectPosition: center
-              _template: ImageBlock
-              image:
-                desktop_image: >-
-                  ../../../../static/img/banner/product/elise-fabric/almofadas__desktop.jpeg
-                mobile_image: >-
-                  ../../../../static/img/banner/product/elise-fabric/almofadas__mobile.jpeg
-          width: 150px
         - background_color_alpha:
             color: ''
           content:
@@ -468,8 +438,8 @@ blocks:
               font_weight: '300'
               _template: ContentBlock
               text_alignment: center
-          horizontal_alignment: center
-          vertical_alignment: center
+          horizontal_alignment: flex-start
+          vertical_alignment: flex-start
           width: 42%
           stretch: false
           padding_left: ''
