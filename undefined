@@ -1,393 +1,406 @@
 ---
-title: Cadeira Gamer Royce
-id: 110481
-link: /elite-series/cadeira-gamer-dt3sports-royce-tecido
-name: Cadeira Gamer DT3Sports Royce Tecido
-short_name: Cadeira Gamer Royce
-micro_name: Royce
+title: Cadeira de Escritório DT3 Gamma Office
+id: 26377
+link: /office-series/cadeira-de-escritorio-dt3-gamma-office/
+name: Cadeira de Escritório DT3 Gamma Office
+short_name: Cadeira de Escritório Gamma Office
+micro_name: Gamma Office
 category: Cadeira
-subcategory: Elite Series
-type: variable
+subcategory: Office Series
+type: simple
 availability: in-stock
-main_image: ../../../../static/img/products/royce/navy-blue/royce-00.jpg
+main_image: /static/img/products/gamma/gamma.jpeg
 description: >-
-  • Apoio de braço 4D.
+  • Apoio de braço 3D ajustável.
 
 
   • Estrutura 100% de aço reforçado para suportar maior peso.
 
 
-  • Estofamento de Tecido de algodão e malha.
+  • Estofamento de couro sintético PU Premium com maior espessura.
 
 
-  • Rodas especiais de 75mm super resistentes para piso ou carpete.
+  • Rodas especiais de 65mm super resistentes para piso ou carpete.
 
 
-  • Duas almofadas XL inclusas para apoio lombar e pescoço com revestimento
-  Suede.
-price:
-  regular: 2999.9
-  boleto: 2699.91
+  • Duas almofadas inclusas para apoio lombar e pescoço. Ambas com logos
+  bordados.
+
+
+  [Fazer Download do Manual de
+  Instruções](https://drive.google.com/file/d/1fzBz5Ony-IWFTqhrmbuIYlOy8b6xN4CK/view?usp=sharing).
 featured_image:
-  desktop_image: ../../../../static/img/uploads/products/featured/h2.png
-  mobile_image: ../../../../static/img/banner/product/royce/royce-00__mobile.jpg
+  desktop_image: /static/img/banner/product/gamma/main-banner__desktop.jpg
+  mobile_image: /static/img/banner/product/gamma/main-banner__desktop.jpg
+price:
+  regular: 1856.9
+  boleto: 1671.21
 galleries:
-  - id: 110921
-    color: Navy Blue
+  - id: 26377
+    color: Black
     availability: in-stock
     slides:
-      - image: ../../../../static/img/products/royce/navy-blue/royce-00.jpg
-      - image: ../../../../static/img/products/royce/navy-blue/royce-01.jpg
-      - image: ../../../../static/img/products/royce/navy-blue/royce-02.jpg
-      - image: ../../../../static/img/products/royce/navy-blue/royce-03.jpg
-      - image: ../../../../static/img/products/royce/navy-blue/royce-04.jpg
-      - image: ../../../../static/img/products/royce/navy-blue/royce-05.jpg
-      - image: ../../../../static/img/products/royce/navy-blue/royce-06.jpg
-      - image: ../../../../static/img/products/royce/navy-blue/royce-07.jpg
-    color_code: '#738996'
-  - id: 110919
-    color: Space Grey
-    availability: in-stock
-    slides:
-      - image: ../../../../static/img/products/royce/space-grey/royce-00.jpg
-      - image: ../../../../static/img/products/royce/space-grey/royce-01.jpg
-      - image: ../../../../static/img/products/royce/space-grey/royce-02.jpg
-      - image: ../../../../static/img/products/royce/space-grey/royce-03.jpg
-      - image: ../../../../static/img/products/royce/space-grey/royce-04.jpg
-      - image: ../../../../static/img/products/royce/space-grey/royce-05.jpg
-      - image: ../../../../static/img/products/royce/space-grey/royce-06.jpg
-      - image: ../../../../static/img/products/royce/space-grey/royce-07.jpg
-    color_code: '#42454e'
+      - image: /static/img/products/gamma/black/gamma-00.jpg
+      - image: /static/img/products/gamma/black/gamma-01.jpg
+      - image: /static/img/products/gamma/black/gamma-02.jpg
+      - image: /static/img/products/gamma/black/gamma-03.jpg
+      - image: /static/img/products/gamma/black/gamma-04.jpg
+      - image: /static/img/products/gamma/black/gamma-05.jpg
+      - image: /static/img/products/gamma/black/gamma-06.jpg
+      - image: /static/img/products/gamma/black/gamma-07.jpg
 slides:
-  - title: Elite Series
-    link: /elite-series
-    image: ../../../../static/img/categories/elite-series.svg
-  - title: Royce
-    link: /elite-series/cadeira-gamer-dt3sports-royce-tecido
-    image: ../../../../static/img/products/royce/royce.svg
-  - title: Rhino
-    link: /elite-series/cadeira-gamer-dt3sports-rhino
-    image: ../../../../static/img/products/rhino/rhino.svg
-  - title: Orion
-    link: /elite-series/cadeira-gamer-dt3sports-orion
-    image: ../../../../static/img/products/orion/orion.svg
-  - title: Onix Diamond
-    link: /elite-series/cadeira-gamer-dt3sports-onix-diamond
-    image: ../../../../static/img/products/onix-dimond/onix-dimond.svg
-  - title: Prime Evo
-    link: /elite-series/cadeira-gamer-dt3sports-prime-evo
-    image: ../../../../static/img/products/prime-evo/prime-evo.svg
-  - title: Orion Flamengo
-    link: /elite-series/cadeira-gamer-dt3sports-orion-flamengo/
-    image: ../../../../static/img/products/orion/orion.svg
-menu:
-  items:
-    - text: Introdução
-      link: '#introducao'
-    - text: Design
-      link: '#design'
-    - text: Contrução
-      link: '#construcao'
-    - text: Espuma
-      link: '#espuma'
-    - text: Rodas
-      link: '#rodas'
-    - text: Base
-      link: '#base'
-    - text: Almofada
-      link: '#almofada'
-    - text: Garantia
-      link: '#garantia'
-    - text: Encosto
-      link: '#reclinio'
-    - text: Especificações
-      link: '#especificacoes'
-details:
-  - title: Almofadas XL
-    image: ../../../../static/img/banner/product/royce/details/almofada.svg
-  - title: Espuma Injetada
-    image: ../../../../static/img/banner/product/royce/details/espuma.svg
-  - title: Mecanismo Frog
-    image: ../../../../static/img/banner/product/royce/details/mecanismo.svg
-  - title: Base Reforçada
-    image: ../../../../static/img/banner/product/royce/details/base.svg
-  - title: Roda 75mm
-    image: ../../../../static/img/banner/product/royce/details/rodinha.svg
-  - title: Braço 4D
-    image: ../../../../static/img/banner/product/royce/details/braco.svg
+  - title: Office Series
+    link: /office-series
+    image: /static/img/categories/office-series.svg
+  - title: Spider
+    link: /office-series/cadeira-de-escritorio-dt3-spider/
+    image: /static/img/products/spider/spider.svg
+  - title: Gamma Office
+    link: /office-series/cadeira-de-escritorio-dt3-gamma-office/
+    image: /static/img/products/gamma-office/gamma-office.svg
+  - title: GTO
+    link: /office-series/cadeira-de-escritorio-dt3-gto-office/
+    image: /static/img/products/gto/gto.svg
+  - title: GTS Black
+    link: /office-series/cadeira-de-escritorio-dt3-gts-black/
+    image: /static/img/products/gts-se/gts-se.svg
+  - title: GTX Special Edition
+    link: /office-series/cadeira-de-escritorio-dt3-gtx-se/
+    image: /static/img/products/gtx-se/gtx-se.svg
 specs:
-  front: ../../../../static/img/products/royce/royce-specs-frontal.svg
-  side: ../../../../static/img/products/royce/royce-specs-lateral.svg
+  front: /static/img/products/gamma/gamma-specs-frontal.svg
+  side: /static/img/products/gamma/gamma-specs-lateral.svg
   items:
     - key: coating
       label: Revestimento
-      value: Tecido de algodão e malha
+      value: Couro PU e couro PU Carbon
     - key: construction
       label: Estrutura
-      value: 100% Aço 2.0mm
+      value: Aço 1.2mm
     - key: upholstery_desnsity
       label: Densidade do estofamento
-      value: 65D
+      value: 50D
     - key: seat_thickness
       label: Espessura do assento
-      value: 12
+      value: '7'
       unit: cm
-      precision: '0'
+      precision: '2'
     - key: arm
       label: Braço
-      value: 4D
+      value: 3D
     - key: pillows
       label: Almofadas
-      value: Pescoço e lombar com revestimento Suede
+      value: Pescoço e lombar
     - key: cylinder
       label: Cilindro
-      value: 'Classe 4, 100mm'
+      value: 'Classe 4, 80mm'
     - key: wheels
       label: Rodas
-      value: 'Nylon com acabamento em PU, 75mm'
+      value: 'Nylon, 65mm'
     - key: wheels__silent_design
       label: Rodas Silent Design
-      value: Sim
     - key: base
       label: Base
-      value: Alumínio
+      value: Metal
     - key: mechanism
       label: Mecanismo
-      value: Frog
+      value: Padrão borboleta
     - key: rocking
       label: Função rocking
-      value: 20
+      value: '12'
       unit: º
-      precision: 0
+      precision: '0'
     - key: rocking_lock
       label: Trava do rocking
-      value: Sim
+      value: '-'
     - key: reclining
       label: Reclinação do encosto
-      value: 160
+      value: '180'
       unit: º
-      precision: 0
-    - key: max_weight
-      label: Peso máximo recomendado
-      value: 180
-      unit: kg
       precision: 0
     - key: max_height
       label: Altura máxima recomendada
-      value: 2.1
+      value: '1.80'
       unit: m
       precision: 2
+    - key: max_weight
+      label: Peso máximo recomendado
+      value: '130'
+      unit: kg
+      precision: '0'
     - key: warranty__general
       label: Garantia geral
-      value: 1
+      value: '1'
       unit: ' ano'
-      precision: 0
+      precision: '0'
     - key: warranty__construction
       label: Garantia da estrutura
-      value: 6
+      value: '4'
       unit: ' anos'
       precision: 0
     - key: warranty__base
       label: Garantia base e rodas
-      value: 3
+      value: '2'
       unit: ' anos'
       precision: 0
     - key: warranty__cylinder
       label: Garantia cilindro de gás
-      value: 2
+      value: '2'
       unit: ' anos'
       precision: 0
     - key: certifications
       label: Certificações
-      value: 'BIFMA, EN 1335, TUV'
+      value: 'BIFMA, SGS, EN1335'
     - key: net_weight
       label: Peso líquido
-      value: 30
+      value: '23.00'
       unit: kg
-      precision: 0
+      precision: '2'
     - key: gross_weight
       label: Peso bruto
-      value: 35
+      value: '25.50'
       unit: kg
-      precision: 0
+      precision: '2'
     - key: box_dimensions
       label: Dimensões da caixa
-      value: 940 x 810 x 410 mm
+      value: 80 x 74 x 33cm
 blocks:
   - _template: BannerBlock
     banner:
       id: design
-      height: 60vh
-      horizontal_alignment: center
-      vertical_alignment: center
-      full_width: true
-      mobile_card: true
       blocks:
-        - horizontalAlignment: center
-          verticalAlignment: flex-start
-        - horizontalAlignment: center
-          verticalAlignment: flex-start
-          horizontal_alignment: flex-start
-          content:
+        - content:
+            - objectFit: contain
+              objectPosition: center
+              _template: ImageBlock
+              image:
+                mobile_image: /static/img/uploads/banner/image/Ergonomia e Design.jpg
+                desktop_image: /static/img/uploads/banner/image/Ergonomia e Design.jpg
+        - content:
             - title: Design
               _template: TitleBlock
+              text_alignment: left
               foreground: '#FFFFFF'
-            - content: >-
-                A costura com padrão hexagonal da Royce complementa o estilo
-                racing com um toque refinado e conforto do revestimento em
-                tecido.
+            - content: "\nA cadeira Gamma traz para a Office Series um design sóbrio que combina com qualquer ambiente, sem deixar de lado o conforto que toda cadeira\_ precisa.\n\nConta ainda com couro PU premium, detalhes com textura carbon e padrão diamantado prensado no couro."
               _template: ContentBlock
               foreground: '#FFFFFF'
+          background_color_alpha:
+            color: 'rgb(0, 0, 0)'
+          horizontal_alignment: center
           vertical_alignment: center
-      background_image: >-
-        ../../../../static/img/uploads/banner/background/2-designmoderno-royce-desktop.jpg
   - _template: BannerBlock
     banner:
       id: construcao
-      height: 60vh
-      background_image: >-
-        ../../../../static/img/uploads/banner/background/3-materialtecido-royce-desktop.jpg
       blocks:
-        - horizontalAlignment: center
-          verticalAlignment: flex-start
-          content:
-            - title: Estrutura 100% aço durabilidade garantida
+        - content:
+            - title: 'MATERIAL DE QUALIDADE '
               _template: TitleBlock
-              foreground: '#FFFFFF'
-            - content: >-
-                A Royce tem estrutura mais larga e reforçada para aguentar até
-                190kg. Produzida com solda automatizada e aço sólido de 25mm de
-                diâmetro, tem sua durabilidade assegurada mesmo após 6 anos de
-                uso pela garantia na estrutura.
-              _template: ContentBlock
-              foreground: '#FFFFFF'
-          horizontal_alignment: flex-start
+              text_alignment: center
+              foreground: '#2A2A2A'
+              font_size: calc(3.60rem + 2vw)
+          width: 100%
+          screen: desktop
           vertical_alignment: center
-        - horizontalAlignment: center
-          verticalAlignment: flex-start
-      full_width: true
-  - _template: BannerBlock
-    banner:
-      id: espuma
-      height: 60vh
-      background_image: >-
-        ../../../../static/img/uploads/banner/background/4-almofadas-royce-desktop.jpg
-      full_width: true
-      blocks:
-        - horizontalAlignment: center
-          verticalAlignment: flex-start
-        - horizontalAlignment: center
-          verticalAlignment: flex-start
-          content:
-            - title: Espuma que não perde o formato
-              _template: TitleBlock
-              foreground: '#FFFFFF'
-            - content: >-
-                – Espuma injetada de densidade 65g/m³ para durabilidade,
-                ergonomia e conforto.  
-
-                – A alta tecnologia torna a espuma dimensionalmente estável, não
-                perdendo o formato mesmo após longos períodos de uso.
-              _template: ContentBlock
-              foreground: '#FFFFFF'
           horizontal_alignment: center
-          vertical_alignment: center
-      horizontal_alignment: flex-start
-      vertical_alignment: stretch
-      mobile_card: true
-  - _template: BannerBlock
-    banner:
-      id: reclínio
-      background_image: >-
-        ../../../../static/img/uploads/banner/background/5-reclinio-royce-desktop.jpg
-      height: 60vh
-      blocks:
-        - horizontalAlignment: center
-          verticalAlignment: flex-start
-          content:
-            - title: Reclínio de até 180º
+        - content:
+            - objectFit: contain
+              objectPosition: center
+              _template: ImageBlock
+              image:
+                desktop_image: >-
+                  /static/img/uploads/banner/image/Material de alta
+                  qualidade.jpg
+                mobile_image: >-
+                  /static/img/uploads/banner/image/Material de alta
+                  qualidade.jpg
+          width: 50%
+        - content:
+            - title: Espuma injetada
               _template: TitleBlock
-              foreground: '#FFFFFF'
+              foreground: '#2A2A2A'
+              font_size: calc(1.80rem + 1vw)
+              margin_bottom: 0.25em
             - content: >-
-                Com o encosto reclinável mais o ajuste do sistema frog, os
-                modelos da Elite Series chegam até 180º da forma mais ergonômica
-                possível. Para melhor posicionamento durante o gameplay ou
-                descanso durante os intervalos.
+                – Espuma injetada de densidade 50kg/m³ e 10cm de espessura para
+                maior conforto e acomodação  
+
+                – A espuma injetada de alta tecnologia tem maior durabilidade e
+                sofre pouca deformação mesmo após longos períodos de uso
               _template: ContentBlock
-              foreground: '#FFFFFF'
-          horizontal_alignment: flex-start
-          vertical_alignment: center
-        - horizontalAlignment: center
-          verticalAlignment: flex-start
-          vertical_alignment: center
-      full_width: true
-      mobile_card: true
-  - _template: BannerBlock
-    banner:
-      id: frog
-      background_image: >-
-        ../../../../static/img/uploads/banner/background/6-sistemafrog-royce-desktop.jpg
-      height: 60vh
-      blocks:
-        - horizontalAlignment: center
-          verticalAlignment: flex-start
-        - horizontalAlignment: center
-          verticalAlignment: flex-start
-          vertical_alignment: center
-          content:
-            - title: Sistema Frog
+              foreground: '#2A2A2A'
+              font_size: calc(0.95rem + 0.25vw)
+              font_weight: '300'
+            - title: Estrutura 100% Aço
               _template: TitleBlock
-              foreground: '#FFFFFF'
+              font_size: calc(1.80rem + 1vw)
+              margin_top: 60px
+              margin_bottom: 0.25em
+              foreground: '#2A2A2A'
             - content: >-
-                A exclusividade de poder travar em qualquer ângulo. O mecanismo
-                frog, proporciona a mesma sensação que as clássicas poltronas de
-                avô dão, onde você sente o seu corpo totalmente em repouso sem
-                forçar a musculatura para atingir a posição ideal e mais
-                confortável.
+                A estrutura de aço sólido de 1.2mm de espessura da Office Series
+                assegura durabilidade e preservação para uso contínuo, garantida
+                em 4 anos pela DT3.
               _template: ContentBlock
-              foreground: '#FFFFFF'
+              font_size: calc(0.95rem + 0.25vw)
+              font_weight: '300'
+              line_height: 1.35em
+              foreground: '#2A2A2A'
+          width: 50%
       full_width: true
       vertical_alignment: center
+      mobile_card: true
+      horizontal_alignment: flex-start
+  - _template: BannerBlock
+    banner:
+      id: almofadas
+      blocks:
+        - content:
+            - title: Almofadas de apoio ergonômico
+              _template: TitleBlock
+            - content: >-
+                As almofadas de pescoço e lombar oferecem apoio e conforto para
+                alívio de pressão nos principais pontos de tensão. Removíveis,
+                tornam a Gamma ainda mais ajustável.  
+                 Com design ergonômico e espuma de 28kg/m³ de densidade, foram projetadas para manter seu pescoço alinhado perfeitamente com a coluna sem causar esforço sobre as costas.
+              _template: ContentBlock
+        - content:
+            - objectFit: contain
+              objectPosition: center
+              _template: ImageBlock
+              image:
+                desktop_image: >-
+                  /static/img/uploads/banner/image/Almofadas de apoio
+                  ergnomico.jpg
+                mobile_image: >-
+                  /static/img/uploads/banner/image/Almofadas de apoio
+                  ergnomico.jpg
+      vertical_alignment: center
+      full_width: true
+  - _template: BannerBlock
+    banner:
+      id: rodas
+      blocks:
+        - content:
+            - title: Rodas de 65mm
+              text_alignment: left
+              line-height: 1em
+              _template: TitleBlock
+              margin_bottom: 0.5vw
+            - content: >-
+                As rodas da Gaming Series são feitas de nylon, com diâmetro de
+                65mm. Altamente resistentes e de fácil movimentação, não deixam
+                marcas ou arranhões no piso.
+              textAlignment: left
+              font_size: calc(1rem + 0.25vw)
+              line_height: 1.35em
+              font_weight: '300'
+              _template: ContentBlock
+          vertical_alignment: center
+        - content:
+            - objectFit: contain
+              objectPosition: center
+              _template: ImageBlock
+              image:
+                desktop_image: /static/img/banner/product/gts/rodas__desktop.jpg
+                mobile_image: /static/img/banner/product/gts/rodas__desktop.jpg
+          stretch: true
+      full_width: true
       mobile_card: true
   - _template: BannerBlock
     banner:
       id: base
       blocks:
-        - horizontalAlignment: center
-          verticalAlignment: flex-start
-          content:
-            - title: Base com reforço premium
+        - content:
+            - objectFit: contain
+              objectPosition: center
+              _template: ImageBlock
+              image:
+                desktop_image: /static/img/banner/product/gts/base__desktop.jpg
+                mobile_image: /static/img/banner/product/gts/base__mobile.jpg
+          stretch: true
+        - content:
+            - title: Base reforçada
+              text_alignment: left
+              line-height: 1em
               _template: TitleBlock
-              foreground: '#FFFFFF'
+              margin_bottom: 0.5vw
             - content: >-
-                Com design inovador e robusto, a base da Elite Series foi
-                aprovada em diversos testes de resistência para garantir
-                segurança e durabilidade. A base sozinha suporta 2500kg mesmo
-                após 1 ano de uso. Isso só é possível pelo seu material de
-                alumínio, com reforço em forma diamantada de 5mm ao longo dos 5
-                pés, que possuem 350mm de raio.
+                A base da Gaming Series é feita inteiramente de aço com pintura
+                eletroestática.  Possui 350mm de raio e 5 pés, garantindo
+                estabilidade e segurança.
+
+                Para assegurar sua durabilidade, possui homologação pelo teste
+                BIFMA  de resistência que certifica o suporte de mais de 1136kg
+                mesmo após 1 ano de uso. 
+              textAlignment: left
+              font_size: calc(1rem + 0.25vw)
+              line_height: 1.35em
+              font_weight: '300'
               _template: ContentBlock
-              foreground: '#FFFFFF'
-          vertical_alignment: center
-        - horizontalAlignment: center
-          verticalAlignment: flex-start
-      height: 60vh
-      background_image: >-
-        ../../../../static/img/uploads/banner/background/7-base-royce-desktop.jpg
       full_width: true
-      vertical_alignment: center
       mobile_card: true
+      vertical_alignment: center
+  - _template: BannerBlock
+    banner:
+      id: braço
+      blocks:
+        - content:
+            - title: Apoio de braço 3D
+              _template: TitleBlock
+              text_alignment: center
+            - content: >-
+                O braço multidirecional te permite ajustar a cadeira para todas
+                as situações do dia. Perfeito para se adaptar a qualquer mesa, o
+                braço 3D possibilita o ajuste da altura, direção e rotação,
+                garantindo comodidade e conforto.
+              _template: ContentBlock
+              text_alignment: right
+          vertical_alignment: center
+        - content:
+            - objectFit: contain
+              objectPosition: center
+              _template: ImageBlock
+              image:
+                desktop_image: /static/img/uploads/banner/image/Apoio de Braço 3D.jpg
+                mobile_image: /static/img/uploads/banner/image/Apoio de Braço 3D.jpg
+      full_width: true
+  - _template: BannerBlock
+    banner:
+      id: inclinação
+      blocks:
+        - content:
+            - objectFit: contain
+              objectPosition: center
+              _template: ImageBlock
+              image:
+                desktop_image: /static/img/uploads/banner/image/Reclinio.jpg
+                mobile_image: /static/img/uploads/banner/image/undefined
+        - content:
+            - title: INCLINAÇÃO 180°
+              _template: TitleBlock
+            - content: Mecanismo com inclinação de até 180° e função rocking.
+              _template: ContentBlock
+      vertical_alignment: center
   - _template: BannerBlock
     banner:
       id: garantia
-      background_image: >-
-        ../../../../static/img/uploads/banner/background/8-garantia-royce-desktop.jpg
-      height: 60vh
+      blocks:
+        - content:
+            - title: ''
+              _template: TitleBlock
+            - content: |-
+                4 anos na estrutura de aço  
+                2 anos na base e nas rodas  
+                2 anos no cilindro de gás  
+                1 ano nas demais parte
+              _template: ContentBlock
+          vertical_alignment: center
+        - content:
+            - objectFit: contain
+              objectPosition: center
+              _template: ImageBlock
+              image:
+                desktop_image: /static/img/uploads/banner/image/Garantia.jpg
+                mobile_image: /static/img/uploads/banner/image/Reclinio.jpg
       full_width: true
-      stretch: true
-      blocks: []
-      mobile_card: true
-keywords: >-
-  cadeira, gamer, jogar, setup, tecido, fibra, natural, reclinio, 180, graus,
-  de, com, para
 ---

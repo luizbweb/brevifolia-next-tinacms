@@ -1,5 +1,5 @@
 ---
-title: Cadeira Gamer DT3sports GTK
+title: ''
 id: 71
 link: /gaming-series/cadeira-gamer-dt3sports-gtk
 name: Cadeira Gamer DT3sports GTK
@@ -8,7 +8,7 @@ micro_name: GTK
 category: Cadeira
 subcategory: Gaming Series
 availability: no-stock
-main_image: /static/img/products/gtk/gtk.jpg
+main_image: ../../../../static/img/products/gtk/gtk.jpg
 description: >-
   • Couro PU.
 
@@ -38,48 +38,48 @@ galleries:
     color_code: '#F8002E'
     availability: in-stock
     slides:
-      - image: /static/img/products/gtk/blue/gtk-00.jpg
-      - image: /static/img/products/gtk/blue/gtk-01.jpg
-      - image: /static/img/products/gtk/blue/gtk-02.jpg
-      - image: /static/img/products/gtk/blue/gtk-03.jpg
-      - image: /static/img/products/gtk/blue/gtk-04.jpg
-      - image: /static/img/products/gtk/blue/gtk-05.jpg
-      - image: /static/img/products/gtk/blue/gtk-06.jpg
-      - image: /static/img/products/gtk/blue/gtk-07.jpg
-      - image: /static/img/products/gtk/blue/gtk-08.jpg
+      - image: ../../../../static/img/products/gtk/blue/gtk-00.jpg
+      - image: ../../../../static/img/products/gtk/blue/gtk-01.jpg
+      - image: ../../../../static/img/products/gtk/blue/gtk-02.jpg
+      - image: ../../../../static/img/products/gtk/blue/gtk-03.jpg
+      - image: ../../../../static/img/products/gtk/blue/gtk-04.jpg
+      - image: ../../../../static/img/products/gtk/blue/gtk-05.jpg
+      - image: ../../../../static/img/products/gtk/blue/gtk-06.jpg
+      - image: ../../../../static/img/products/gtk/blue/gtk-07.jpg
+      - image: ../../../../static/img/products/gtk/blue/gtk-08.jpg
   - id: 16104
     color: Orange
     color_code: '#0433BF'
     availability: in-stock
     slides:
-      - image: /static/img/products/gtk/orange/gtk-00.jpg
-      - image: /static/img/products/gtk/orange/gtk-01.jpg
-      - image: /static/img/products/gtk/orange/gtk-02.jpg
-      - image: /static/img/products/gtk/orange/gtk-03.jpg
-      - image: /static/img/products/gtk/orange/gtk-04.jpg
-      - image: /static/img/products/gtk/orange/gtk-05.jpg
-      - image: /static/img/products/gtk/orange/gtk-06.jpg
-      - image: /static/img/products/gtk/orange/gtk-07.jpg
-      - image: /static/img/products/gtk/orange/gtk-08.jpg
+      - image: ../../../../static/img/products/gtk/orange/gtk-00.jpg
+      - image: ../../../../static/img/products/gtk/orange/gtk-01.jpg
+      - image: ../../../../static/img/products/gtk/orange/gtk-02.jpg
+      - image: ../../../../static/img/products/gtk/orange/gtk-03.jpg
+      - image: ../../../../static/img/products/gtk/orange/gtk-04.jpg
+      - image: ../../../../static/img/products/gtk/orange/gtk-05.jpg
+      - image: ../../../../static/img/products/gtk/orange/gtk-06.jpg
+      - image: ../../../../static/img/products/gtk/orange/gtk-07.jpg
+      - image: ../../../../static/img/products/gtk/orange/gtk-08.jpg
 slides:
   - title: Gaming Series
     link: /gaming-series
-    image: /static/img/categories/gaming-series.svg
+    image: ../../../../static/img/categories/gaming-series.svg
   - title: GTS
     link: /gaming-series/cadeira-gamer-dt3sports-gts
-    image: /static/img/products/gts/gts.svg
+    image: ../../../../static/img/products/gts/gts.svg
   - title: GT
     link: /gaming-series/cadeira-gamer-dt3sports-gt
-    image: /static/img/products/gt/gt.svg
+    image: ../../../../static/img/products/gt/gt.svg
   - title: GTZ
     link: /gaming-series/cadeira-gamer-dt3sports-gtz
-    image: /static/img/products/gtz/gtz.svg
+    image: ../../../../static/img/products/gtz/gtz.svg
   - title: GTI
     link: /gaming-series/cadeira-gamer-dt3sports-gti
-    image: /static/img/products/gti/gti.svg
+    image: ../../../../static/img/products/gti/gti.svg
   - title: GTX
     link: /gaming-series/cadeira-gamer-dt3sports-gtx
-    image: /static/img/products/gtx/gtx.svg
+    image: ../../../../static/img/products/gtx/gtx.svg
 menu:
   items:
     - text: Mecanismo
@@ -91,8 +91,8 @@ menu:
     - text: Garantia
       link: '#garantia'
 specs:
-  front: /static/img/products/gtk/gtk-specs-frontal.svg
-  side: /static/img/products/gtk/gtk-specs-lateral.svg
+  front: ../../../../static/img/products/gtk/gtk-specs-frontal.svg
+  side: ../../../../static/img/products/gtk/gtk-specs-lateral.svg
   items:
     - key: coating
       label: Revestimento
@@ -196,9 +196,9 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  /static/img/banner/product/gtk/mecanismo__desktop.jpg
+                  ../../../../static/img/banner/product/gtk/mecanismo__desktop.jpg
                 mobile_image: >-
-                  /static/img/banner/product/gtk/mecanismo__mobile.jpg
+                  ../../../../static/img/banner/product/gtk/mecanismo__mobile.jpg
           stretch: true
         - content:
             - title: Mecanismo Borboleta
@@ -244,8 +244,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: /static/img/banner/product/gtk/rodas__desktop.jpg
-                mobile_image: /static/img/banner/product/gtk/rodas__desktop.jpg
+                desktop_image: ../../../../static/img/banner/product/gtk/rodas__desktop.jpg
+                mobile_image: ../../../../static/img/banner/product/gtk/rodas__desktop.jpg
           stretch: true
       full_width: true
       mobile_card: true
@@ -258,8 +258,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: /static/img/banner/product/gtk/base__desktop.jpg
-                mobile_image: /static/img/banner/product/gtk/base__mobile.jpg
+                desktop_image: ../../../../static/img/banner/product/gtk/base__desktop.jpg
+                mobile_image: ../../../../static/img/banner/product/gtk/base__mobile.jpg
           stretch: true
         - content:
             - title: Base reforçada
@@ -296,8 +296,8 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  /static/img/banner/product/gtk/garantia__desktop.png
-                mobile_image: /static/img/banner/product/gtk/garantia__mobile.jpg
+                  ../../../../static/img/banner/product/gtk/garantia__desktop.png
+                mobile_image: ../../../../static/img/banner/product/gtk/garantia__mobile.jpg
           stretch: true
         - content:
             - title: 'Todas as cadeiras da Gaming Series contam com:'
@@ -321,7 +321,7 @@ blocks:
           width: 50%
       mobile_card: true
 featublue_image:
-  desktop_image: /static/img/banner/product/gtk/main-banner__desktop.jpg
+  desktop_image: ../../../../static/img/banner/product/gtk/main-banner__desktop.jpg
 price:
   regular: 1149.9
   boleto: 1034.91

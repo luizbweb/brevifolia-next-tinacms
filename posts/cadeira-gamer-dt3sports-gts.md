@@ -1,5 +1,5 @@
 ---
-title: Cadeira Gamer DT3sports GTS
+title: ''
 id: 71
 link: /gaming-series/cadeira-gamer-dt3sports-gts
 name: Cadeira Gamer DT3sports GTS
@@ -8,7 +8,7 @@ micro_name: GTS
 category: Cadeira
 subcategory: Gaming Series
 availability: no-stock
-main_image: /static/img/products/gts/gts.jpg
+main_image: ../../../../static/img/products/gts/gts.jpg
 description: >-
   • Couro PU.
 
@@ -38,85 +38,85 @@ galleries:
     color_code: '#F8002E'
     availability: in-stock
     slides:
-      - image: /static/img/products/gts/red/00.jpg
-      - image: /static/img/products/gts/red/01.jpg
-      - image: /static/img/products/gts/red/02.jpg
-      - image: /static/img/products/gts/red/03.jpg
-      - image: /static/img/products/gts/red/04.jpg
-      - image: /static/img/products/gts/red/05.jpg
-      - image: /static/img/products/gts/red/06.jpg
-      - image: /static/img/products/gts/red/07.jpg
-      - image: /static/img/products/gts/red/08.jpg
+      - image: ../../../../static/img/products/gts/red/00.jpg
+      - image: ../../../../static/img/products/gts/red/01.jpg
+      - image: ../../../../static/img/products/gts/red/02.jpg
+      - image: ../../../../static/img/products/gts/red/03.jpg
+      - image: ../../../../static/img/products/gts/red/04.jpg
+      - image: ../../../../static/img/products/gts/red/05.jpg
+      - image: ../../../../static/img/products/gts/red/06.jpg
+      - image: ../../../../static/img/products/gts/red/07.jpg
+      - image: ../../../../static/img/products/gts/red/08.jpg
   - id: 16104
     color: Blue
     color_code: '#0433BF'
     availability: in-stock
     slides:
-      - image: /static/img/products/gts/blue/00.jpg
-      - image: /static/img/products/gts/blue/01.jpg
-      - image: /static/img/products/gts/blue/02.jpg
-      - image: /static/img/products/gts/blue/03.jpg
-      - image: /static/img/products/gts/blue/04.jpg
-      - image: /static/img/products/gts/blue/05.jpg
-      - image: /static/img/products/gts/blue/06.jpg
-      - image: /static/img/products/gts/blue/07.jpg
-      - image: /static/img/products/gts/blue/08.jpg
+      - image: ../../../../static/img/products/gts/blue/00.jpg
+      - image: ../../../../static/img/products/gts/blue/01.jpg
+      - image: ../../../../static/img/products/gts/blue/02.jpg
+      - image: ../../../../static/img/products/gts/blue/03.jpg
+      - image: ../../../../static/img/products/gts/blue/04.jpg
+      - image: ../../../../static/img/products/gts/blue/05.jpg
+      - image: ../../../../static/img/products/gts/blue/06.jpg
+      - image: ../../../../static/img/products/gts/blue/07.jpg
+      - image: ../../../../static/img/products/gts/blue/08.jpg
   - id: 16106
     color: Green
     color_code: '#51C819'
     availability: in-stock
     slides:
-      - image: /static/img/products/gts/green/00.jpg
-      - image: /static/img/products/gts/green/01.jpg
-      - image: /static/img/products/gts/green/02.jpg
-      - image: /static/img/products/gts/green/03.jpg
-      - image: /static/img/products/gts/green/04.jpg
-      - image: /static/img/products/gts/green/05.jpg
-      - image: /static/img/products/gts/green/06.jpg
-      - image: /static/img/products/gts/green/07.jpg
-      - image: /static/img/products/gts/green/08.jpg
+      - image: ../../../../static/img/products/gts/green/00.jpg
+      - image: ../../../../static/img/products/gts/green/01.jpg
+      - image: ../../../../static/img/products/gts/green/02.jpg
+      - image: ../../../../static/img/products/gts/green/03.jpg
+      - image: ../../../../static/img/products/gts/green/04.jpg
+      - image: ../../../../static/img/products/gts/green/05.jpg
+      - image: ../../../../static/img/products/gts/green/06.jpg
+      - image: ../../../../static/img/products/gts/green/07.jpg
+      - image: ../../../../static/img/products/gts/green/08.jpg
   - id: 16101
     color: Yellow
     color_code: '#FFEB3B'
     availability: in-stock
     slides:
-      - image: /static/img/products/gts/yellow/00.jpg
-      - image: /static/img/products/gts/yellow/01.jpg
-      - image: /static/img/products/gts/yellow/02.jpg
-      - image: /static/img/products/gts/yellow/03.jpg
-      - image: /static/img/products/gts/yellow/04.jpg
-      - image: /static/img/products/gts/yellow/05.jpg
-      - image: /static/img/products/gts/yellow/06.jpg
-      - image: /static/img/products/gts/yellow/07.jpg
-      - image: /static/img/products/gts/yellow/08.jpg
+      - image: ../../../../static/img/products/gts/yellow/00.jpg
+      - image: ../../../../static/img/products/gts/yellow/01.jpg
+      - image: ../../../../static/img/products/gts/yellow/02.jpg
+      - image: ../../../../static/img/products/gts/yellow/03.jpg
+      - image: ../../../../static/img/products/gts/yellow/04.jpg
+      - image: ../../../../static/img/products/gts/yellow/05.jpg
+      - image: ../../../../static/img/products/gts/yellow/06.jpg
+      - image: ../../../../static/img/products/gts/yellow/07.jpg
+      - image: ../../../../static/img/products/gts/yellow/08.jpg
   - id: 16108
     color: Orange
     color_code: '#F25C05'
     availability: in-stock
     slides:
-      - image: /static/img/products/gts/orange/00.JPG
-      - image: /static/img/products/gts/orange/01.JPG
-      - image: /static/img/products/gts/orange/02.JPG
-      - image: /static/img/products/gts/orange/03.JPG
-      - image: /static/img/products/gts/orange/04.JPG
-      - image: /static/img/products/gts/orange/05.JPG
-      - image: /static/img/products/gts/orange/06.JPG
-      - image: /static/img/products/gts/orange/07.JPG
-      - image: /static/img/products/gts/orange/08.JPG
+      - image: ../../../../static/img/products/gts/orange/00.JPG
+      - image: ../../../../static/img/products/gts/orange/01.JPG
+      - image: ../../../../static/img/products/gts/orange/02.JPG
+      - image: ../../../../static/img/products/gts/orange/03.JPG
+      - image: ../../../../static/img/products/gts/orange/04.JPG
+      - image: ../../../../static/img/products/gts/orange/05.JPG
+      - image: ../../../../static/img/products/gts/orange/06.JPG
+      - image: ../../../../static/img/products/gts/orange/07.JPG
+      - image: ../../../../static/img/products/gts/orange/08.JPG
   - id: 16105
     color: Brown
     color_code: '#3E2723'
     availability: in-stock
     slides:
-      - image: /static/img/products/gts/brown/00.jpg
-      - image: /static/img/products/gts/brown/01.jpg
-      - image: /static/img/products/gts/brown/02.jpg
-      - image: /static/img/products/gts/brown/03.jpg
-      - image: /static/img/products/gts/brown/04.jpg
-      - image: /static/img/products/gts/brown/05.jpg
-      - image: /static/img/products/gts/brown/06.jpg
-      - image: /static/img/products/gts/brown/07.jpg
-      - image: /static/img/products/gts/brown/08.jpg
+      - image: ../../../../static/img/products/gts/brown/00.jpg
+      - image: ../../../../static/img/products/gts/brown/01.jpg
+      - image: ../../../../static/img/products/gts/brown/02.jpg
+      - image: ../../../../static/img/products/gts/brown/03.jpg
+      - image: ../../../../static/img/products/gts/brown/04.jpg
+      - image: ../../../../static/img/products/gts/brown/05.jpg
+      - image: ../../../../static/img/products/gts/brown/06.jpg
+      - image: ../../../../static/img/products/gts/brown/07.jpg
+      - image: ../../../../static/img/products/gts/brown/08.jpg
   - id: 16103
     color: Black O
     color_code: >-
@@ -124,76 +124,76 @@ galleries:
       70%, #1D1D1D 70%, #1D1D1D 100%)
     availability: in-stock
     slides:
-      - image: /static/img/products/gts/black-o/00.jpg
-      - image: /static/img/products/gts/black-o/01.jpg
-      - image: /static/img/products/gts/black-o/02.jpg
-      - image: /static/img/products/gts/black-o/03.jpg
-      - image: /static/img/products/gts/black-o/04.jpg
-      - image: /static/img/products/gts/black-o/05.jpg
-      - image: /static/img/products/gts/black-o/06.jpg
-      - image: /static/img/products/gts/black-o/07.jpg
-      - image: /static/img/products/gts/black-o/08.jpg
+      - image: ../../../../static/img/products/gts/black-o/00.jpg
+      - image: ../../../../static/img/products/gts/black-o/01.jpg
+      - image: ../../../../static/img/products/gts/black-o/02.jpg
+      - image: ../../../../static/img/products/gts/black-o/03.jpg
+      - image: ../../../../static/img/products/gts/black-o/04.jpg
+      - image: ../../../../static/img/products/gts/black-o/05.jpg
+      - image: ../../../../static/img/products/gts/black-o/06.jpg
+      - image: ../../../../static/img/products/gts/black-o/07.jpg
+      - image: ../../../../static/img/products/gts/black-o/08.jpg
   - id: 16102
     color: Black
     color_code: '#1D1D1D'
     availability: in-stock
     slides:
-      - image: /static/img/products/gts/black/00.jpg
-      - image: /static/img/products/gts/black/01.jpg
-      - image: /static/img/products/gts/black/02.jpg
-      - image: /static/img/products/gts/black/03.jpg
-      - image: /static/img/products/gts/black/04.jpg
-      - image: /static/img/products/gts/black/05.jpg
-      - image: /static/img/products/gts/black/06.jpg
-      - image: /static/img/products/gts/black/07.jpg
-      - image: /static/img/products/gts/black/08.jpg
+      - image: ../../../../static/img/products/gts/black/00.jpg
+      - image: ../../../../static/img/products/gts/black/01.jpg
+      - image: ../../../../static/img/products/gts/black/02.jpg
+      - image: ../../../../static/img/products/gts/black/03.jpg
+      - image: ../../../../static/img/products/gts/black/04.jpg
+      - image: ../../../../static/img/products/gts/black/05.jpg
+      - image: ../../../../static/img/products/gts/black/06.jpg
+      - image: ../../../../static/img/products/gts/black/07.jpg
+      - image: ../../../../static/img/products/gts/black/08.jpg
   - id: 16107
     color: Grey
     color_code: '#BFBFBF'
     availability: in-stock
     slides:
-      - image: /static/img/products/gts/grey/00.jpg
-      - image: /static/img/products/gts/grey/01.jpg
-      - image: /static/img/products/gts/grey/02.jpg
-      - image: /static/img/products/gts/grey/03.jpg
-      - image: /static/img/products/gts/grey/04.jpg
-      - image: /static/img/products/gts/grey/05.jpg
-      - image: /static/img/products/gts/grey/06.jpg
-      - image: /static/img/products/gts/grey/07.jpg
-      - image: /static/img/products/gts/grey/08.jpg
+      - image: ../../../../static/img/products/gts/grey/00.jpg
+      - image: ../../../../static/img/products/gts/grey/01.jpg
+      - image: ../../../../static/img/products/gts/grey/02.jpg
+      - image: ../../../../static/img/products/gts/grey/03.jpg
+      - image: ../../../../static/img/products/gts/grey/04.jpg
+      - image: ../../../../static/img/products/gts/grey/05.jpg
+      - image: ../../../../static/img/products/gts/grey/06.jpg
+      - image: ../../../../static/img/products/gts/grey/07.jpg
+      - image: ../../../../static/img/products/gts/grey/08.jpg
   - id: 16100
     color: White
     color_code: '#FFFFFF'
     availability: in-stock
     slides:
-      - image: /static/img/products/gts/white/00.jpg
-      - image: /static/img/products/gts/white/01.jpg
-      - image: /static/img/products/gts/white/02.jpg
-      - image: /static/img/products/gts/white/03.jpg
-      - image: /static/img/products/gts/white/04.jpg
-      - image: /static/img/products/gts/white/05.jpg
-      - image: /static/img/products/gts/white/06.jpg
-      - image: /static/img/products/gts/white/07.jpg
-      - image: /static/img/products/gts/white/08.jpg
+      - image: ../../../../static/img/products/gts/white/00.jpg
+      - image: ../../../../static/img/products/gts/white/01.jpg
+      - image: ../../../../static/img/products/gts/white/02.jpg
+      - image: ../../../../static/img/products/gts/white/03.jpg
+      - image: ../../../../static/img/products/gts/white/04.jpg
+      - image: ../../../../static/img/products/gts/white/05.jpg
+      - image: ../../../../static/img/products/gts/white/06.jpg
+      - image: ../../../../static/img/products/gts/white/07.jpg
+      - image: ../../../../static/img/products/gts/white/08.jpg
 slides:
   - title: Gaming Series
     link: /gaming-series
-    image: /static/img/categories/gaming-series.svg
+    image: ../../../../static/img/categories/gaming-series.svg
   - title: GTS
     link: /gaming-series/cadeira-gamer-dt3sports-gts
-    image: /static/img/products/gts/gts.svg
+    image: ../../../../static/img/products/gts/gts.svg
   - title: GT
     link: /gaming-series/cadeira-gamer-dt3sports-gt
-    image: /static/img/products/gt/gt.svg
+    image: ../../../../static/img/products/gt/gt.svg
   - title: GTZ
     link: /gaming-series/cadeira-gamer-dt3sports-gtz
-    image: /static/img/products/gtz/gtz.svg
+    image: ../../../../static/img/products/gtz/gtz.svg
   - title: GTI
     link: /gaming-series/cadeira-gamer-dt3sports-gti
-    image: /static/img/products/gti/gti.svg
+    image: ../../../../static/img/products/gti/gti.svg
   - title: GTX
     link: /gaming-series/cadeira-gamer-dt3sports-gtx
-    image: /static/img/products/gtx/gtx.svg
+    image: ../../../../static/img/products/gtx/gtx.svg
 menu:
   items:
     - text: Mecanismo
@@ -205,8 +205,8 @@ menu:
     - text: Garantia
       link: '#garantia'
 specs:
-  front: /static/img/products/gts/gts-specs-frontal.svg
-  side: /static/img/products/gts/gts-specs-lateral.svg
+  front: ../../../../static/img/products/gts/gts-specs-frontal.svg
+  side: ../../../../static/img/products/gts/gts-specs-lateral.svg
   items:
     - key: coating
       label: Revestimento
@@ -310,9 +310,9 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  /static/img/banner/product/gts/mecanismo__desktop.jpg
+                  ../../../../static/img/banner/product/gts/mecanismo__desktop.jpg
                 mobile_image: >-
-                  /static/img/banner/product/gts/mecanismo__mobile.jpg
+                  ../../../../static/img/banner/product/gts/mecanismo__mobile.jpg
           stretch: true
         - content:
             - title: Mecanismo Borboleta
@@ -358,8 +358,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: /static/img/banner/product/gts/rodas__desktop.jpg
-                mobile_image: /static/img/banner/product/gts/rodas__desktop.jpg
+                desktop_image: ../../../../static/img/banner/product/gts/rodas__desktop.jpg
+                mobile_image: ../../../../static/img/banner/product/gts/rodas__desktop.jpg
           stretch: true
       full_width: true
       mobile_card: true
@@ -372,8 +372,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: /static/img/banner/product/gts/base__desktop.jpg
-                mobile_image: /static/img/banner/product/gts/base__mobile.jpg
+                desktop_image: ../../../../static/img/banner/product/gts/base__desktop.jpg
+                mobile_image: ../../../../static/img/banner/product/gts/base__mobile.jpg
           stretch: true
         - content:
             - title: Base reforçada
@@ -410,8 +410,8 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  /static/img/banner/product/gts/garantia__desktop.png
-                mobile_image: /static/img/banner/product/gts/garantia__mobile.jpg
+                  ../../../../static/img/banner/product/gts/garantia__desktop.png
+                mobile_image: ../../../../static/img/banner/product/gts/garantia__mobile.jpg
           stretch: true
         - content:
             - title: 'Todas as cadeiras da Gaming Series contam com:'
@@ -435,7 +435,7 @@ blocks:
           width: 50%
       mobile_card: true
 featured_image:
-  desktop_image: /static/img/banner/product/gts/main-banner__desktop.jpg
+  desktop_image: ../../../../static/img/banner/product/gts/main-banner__desktop.jpg
 price:
   regular: 1149.9
   boleto: 1034.91

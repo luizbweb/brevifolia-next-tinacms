@@ -8,117 +8,117 @@ micro_name: GTX
 category: Cadeira
 subcategory: Gaming Series
 availability: in-stock
-main_image: /static/img/products/gtx/gtx.jpg
+main_image: ../../../../static/img/products/gtx/gtx.jpg
 galleries:
   - id: 16070
     color: Black
     color_code: '#1D1D1D'
     availability: in-stock
     slides:
-      - image: /static/img/products/gtx/black/gtx-00.jpg
-      - image: /static/img/products/gtx/black/gtx-01.jpg
-      - image: /static/img/products/gtx/black/gtx-02.jpg
-      - image: /static/img/products/gtx/black/gtx-03.jpg
-      - image: /static/img/products/gtx/black/gtx-04.jpg
-      - image: /static/img/products/gtx/black/gtx-05.jpg
-      - image: /static/img/products/gtx/black/gtx-06.jpg
-      - image: /static/img/products/gtx/black/gtx-07.jpg
-      - image: /static/img/products/gtx/black/gtx-08.jpg
-      - image: /static/img/products/gtx/black/gtx-09.jpg
-      - image: /static/img/products/gtx/black/gtx-010.jpg
-      - image: /static/img/products/gtx/black/gtx-011.jpg
-      - image: /static/img/products/gtx/black/gtx-012.jpg
+      - image: ../../../../static/img/products/gtx/black/gtx-00.jpg
+      - image: ../../../../static/img/products/gtx/black/gtx-01.jpg
+      - image: ../../../../static/img/products/gtx/black/gtx-02.jpg
+      - image: ../../../../static/img/products/gtx/black/gtx-03.jpg
+      - image: ../../../../static/img/products/gtx/black/gtx-04.jpg
+      - image: ../../../../static/img/products/gtx/black/gtx-05.jpg
+      - image: ../../../../static/img/products/gtx/black/gtx-06.jpg
+      - image: ../../../../static/img/products/gtx/black/gtx-07.jpg
+      - image: ../../../../static/img/products/gtx/black/gtx-08.jpg
+      - image: ../../../../static/img/products/gtx/black/gtx-09.jpg
+      - image: ../../../../static/img/products/gtx/black/gtx-010.jpg
+      - image: ../../../../static/img/products/gtx/black/gtx-011.jpg
+      - image: ../../../../static/img/products/gtx/black/gtx-012.jpg
   - id: 16071
     color: Black O
     color_code: '#1D1D1D'
     availability: in-stock
     slides:
-      - image: /static/img/products/gtx/black-o/gtx-00.jpg
-      - image: /static/img/products/gtx/black-o/gtx-01.jpg
-      - image: /static/img/products/gtx/black-o/gtx-02.jpg
-      - image: /static/img/products/gtx/black-o/gtx-03.jpg
-      - image: /static/img/products/gtx/black-o/gtx-04.jpg
-      - image: /static/img/products/gtx/black-o/gtx-05.jpg
-      - image: /static/img/products/gtx/black-o/gtx-06.jpg
-      - image: /static/img/products/gtx/black-o/gtx-07.jpg
-      - image: /static/img/products/gtx/black-o/gtx-08.jpg
-      - image: /static/img/products/gtx/black-o/gtx-09.jpg
-      - image: /static/img/products/gtx/black-o/gtx-010.jpg
-      - image: /static/img/products/gtx/black-o/gtx-011.jpg
-      - image: /static/img/products/gtx/black-o/gtx-012.jpg
+      - image: ../../../../static/img/products/gtx/black-o/gtx-00.jpg
+      - image: ../../../../static/img/products/gtx/black-o/gtx-01.jpg
+      - image: ../../../../static/img/products/gtx/black-o/gtx-02.jpg
+      - image: ../../../../static/img/products/gtx/black-o/gtx-03.jpg
+      - image: ../../../../static/img/products/gtx/black-o/gtx-04.jpg
+      - image: ../../../../static/img/products/gtx/black-o/gtx-05.jpg
+      - image: ../../../../static/img/products/gtx/black-o/gtx-06.jpg
+      - image: ../../../../static/img/products/gtx/black-o/gtx-07.jpg
+      - image: ../../../../static/img/products/gtx/black-o/gtx-08.jpg
+      - image: ../../../../static/img/products/gtx/black-o/gtx-09.jpg
+      - image: ../../../../static/img/products/gtx/black-o/gtx-010.jpg
+      - image: ../../../../static/img/products/gtx/black-o/gtx-011.jpg
+      - image: ../../../../static/img/products/gtx/black-o/gtx-012.jpg
   - id: 16072
     color: Blue
     color_code: '#0433BF'
     availability: in-stock
     slides:
-      - image: /static/img/products/gtx/blue/gtx-00.jpg
-      - image: /static/img/products/gtx/blue/gtx-01.jpg
-      - image: /static/img/products/gtx/blue/gtx-02.jpg
-      - image: /static/img/products/gtx/blue/gtx-03.jpg
-      - image: /static/img/products/gtx/blue/gtx-04.jpg
-      - image: /static/img/products/gtx/blue/gtx-05.jpg
-      - image: /static/img/products/gtx/blue/gtx-06.jpg
-      - image: /static/img/products/gtx/blue/gtx-07.jpg
-      - image: /static/img/products/gtx/blue/gtx-08.jpg
-      - image: /static/img/products/gtx/blue/gtx-09.jpg
-      - image: /static/img/products/gtx/blue/gtx-010.jpg
-      - image: /static/img/products/gtx/blue/gtx-011.jpg
-      - image: /static/img/products/gtx/blue/gtx-012.jpg
+      - image: ../../../../static/img/products/gtx/blue/gtx-00.jpg
+      - image: ../../../../static/img/products/gtx/blue/gtx-01.jpg
+      - image: ../../../../static/img/products/gtx/blue/gtx-02.jpg
+      - image: ../../../../static/img/products/gtx/blue/gtx-03.jpg
+      - image: ../../../../static/img/products/gtx/blue/gtx-04.jpg
+      - image: ../../../../static/img/products/gtx/blue/gtx-05.jpg
+      - image: ../../../../static/img/products/gtx/blue/gtx-06.jpg
+      - image: ../../../../static/img/products/gtx/blue/gtx-07.jpg
+      - image: ../../../../static/img/products/gtx/blue/gtx-08.jpg
+      - image: ../../../../static/img/products/gtx/blue/gtx-09.jpg
+      - image: ../../../../static/img/products/gtx/blue/gtx-010.jpg
+      - image: ../../../../static/img/products/gtx/blue/gtx-011.jpg
+      - image: ../../../../static/img/products/gtx/blue/gtx-012.jpg
   - id: 16073
     color: Green
     color_code: '#93FF19'
     availability: in-stock
     slides:
-      - image: /static/img/products/gtx/green/gtx-00.jpg
-      - image: /static/img/products/gtx/green/gtx-01.jpg
-      - image: /static/img/products/gtx/green/gtx-02.jpg
-      - image: /static/img/products/gtx/green/gtx-03.jpg
-      - image: /static/img/products/gtx/green/gtx-04.jpg
-      - image: /static/img/products/gtx/green/gtx-05.jpg
-      - image: /static/img/products/gtx/green/gtx-06.jpg
-      - image: /static/img/products/gtx/green/gtx-07.jpg
-      - image: /static/img/products/gtx/green/gtx-08.jpg
-      - image: /static/img/products/gtx/green/gtx-09.jpg
-      - image: /static/img/products/gtx/green/gtx-010.jpg
-      - image: /static/img/products/gtx/green/gtx-011.jpg
-      - image: /static/img/products/gtx/green/gtx-012.jpg
+      - image: ../../../../static/img/products/gtx/green/gtx-00.jpg
+      - image: ../../../../static/img/products/gtx/green/gtx-01.jpg
+      - image: ../../../../static/img/products/gtx/green/gtx-02.jpg
+      - image: ../../../../static/img/products/gtx/green/gtx-03.jpg
+      - image: ../../../../static/img/products/gtx/green/gtx-04.jpg
+      - image: ../../../../static/img/products/gtx/green/gtx-05.jpg
+      - image: ../../../../static/img/products/gtx/green/gtx-06.jpg
+      - image: ../../../../static/img/products/gtx/green/gtx-07.jpg
+      - image: ../../../../static/img/products/gtx/green/gtx-08.jpg
+      - image: ../../../../static/img/products/gtx/green/gtx-09.jpg
+      - image: ../../../../static/img/products/gtx/green/gtx-010.jpg
+      - image: ../../../../static/img/products/gtx/green/gtx-011.jpg
+      - image: ../../../../static/img/products/gtx/green/gtx-012.jpg
   - id: 18355
     color: Orange
     color_code: '#F25C05'
     availability: in-stock
     slides:
-      - image: /static/img/products/gtx/orange/gtx-00.jpg
-      - image: /static/img/products/gtx/orange/gtx-01.jpg
-      - image: /static/img/products/gtx/orange/gtx-02.jpg
-      - image: /static/img/products/gtx/orange/gtx-03.jpg
-      - image: /static/img/products/gtx/orange/gtx-04.jpg
-      - image: /static/img/products/gtx/orange/gtx-05.jpg
-      - image: /static/img/products/gtx/orange/gtx-06.jpg
-      - image: /static/img/products/gtx/orange/gtx-07.jpg
-      - image: /static/img/products/gtx/orange/gtx-08.jpg
-      - image: /static/img/products/gtx/orange/gtx-09.jpg
-      - image: /static/img/products/gtx/orange/gtx-010.jpg
-      - image: /static/img/products/gtx/orange/gtx-011.jpg
-      - image: /static/img/products/gtx/orange/gtx-012.jpg
+      - image: ../../../../static/img/products/gtx/orange/gtx-00.jpg
+      - image: ../../../../static/img/products/gtx/orange/gtx-01.jpg
+      - image: ../../../../static/img/products/gtx/orange/gtx-02.jpg
+      - image: ../../../../static/img/products/gtx/orange/gtx-03.jpg
+      - image: ../../../../static/img/products/gtx/orange/gtx-04.jpg
+      - image: ../../../../static/img/products/gtx/orange/gtx-05.jpg
+      - image: ../../../../static/img/products/gtx/orange/gtx-06.jpg
+      - image: ../../../../static/img/products/gtx/orange/gtx-07.jpg
+      - image: ../../../../static/img/products/gtx/orange/gtx-08.jpg
+      - image: ../../../../static/img/products/gtx/orange/gtx-09.jpg
+      - image: ../../../../static/img/products/gtx/orange/gtx-010.jpg
+      - image: ../../../../static/img/products/gtx/orange/gtx-011.jpg
+      - image: ../../../../static/img/products/gtx/orange/gtx-012.jpg
 slides:
   - title: Gaming Series
     link: /gaming-series
-    image: /static/img/categories/gaming-series.svg
+    image: ../../../../static/img/categories/gaming-series.svg
   - title: GTX
     link: /gaming-series/cadeira-gamer-dt3sports-gtx
-    image: /static/img/products/gtx/gtx.svg
+    image: ../../../../static/img/products/gtx/gtx.svg
   - title: GT
     link: /gaming-series/cadeira-gamer-dt3sports-gt
-    image: /static/img/products/gt/gt.svg
+    image: ../../../../static/img/products/gt/gt.svg
   - title: GTZ
     link: /gaming-series/cadeira-gamer-dt3sports-gtz
-    image: /static/img/products/gtz/gtz.svg
+    image: ../../../../static/img/products/gtz/gtz.svg
   - title: GTI
     link: /gaming-series/cadeira-gamer-dt3sports-gti
-    image: /static/img/products/gti/gti.svg
+    image: ../../../../static/img/products/gti/gti.svg
   - title: GTS
     link: /gaming-series/cadeira-gamer-dt3sports-gts
-    image: /static/img/products/gts/gts.svg
+    image: ../../../../static/img/products/gts/gts.svg
 menu:
   items:
     - text: Mecanismo
@@ -130,8 +130,8 @@ menu:
     - text: Garantia
       link: '#garantia'
 specs:
-  front: /static/img/products/gtx/gtx-specs-frontal.svg
-  side: /static/img/products/gtx/gtx-specs-lateral.svg
+  front: ../../../../static/img/products/gtx/gtx-specs-frontal.svg
+  side: ../../../../static/img/products/gtx/gtx-specs-lateral.svg
   items:
     - key: coating
       label: Revestimento
@@ -240,9 +240,9 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  /static/img/banner/product/gtx/mecanismo__desktop.jpg
+                  ../../../../static/img/banner/product/gtx/mecanismo__desktop.jpg
                 mobile_image: >-
-                  /static/img/banner/product/gtx/mecanismo__mobile.jpg
+                  ../../../../static/img/banner/product/gtx/mecanismo__mobile.jpg
           stretch: true
         - content:
             - title: Mecanismo Borboleta
@@ -288,8 +288,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: /static/img/banner/product/gtx/rodas__desktop.jpg
-                mobile_image: /static/img/banner/product/gtx/rodas__desktop.jpg
+                desktop_image: ../../../../static/img/banner/product/gtx/rodas__desktop.jpg
+                mobile_image: ../../../../static/img/banner/product/gtx/rodas__desktop.jpg
           stretch: true
       full_width: true
       mobile_card: true
@@ -302,8 +302,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: /static/img/banner/product/gtx/base__desktop.jpg
-                mobile_image: /static/img/banner/product/gtx/base__mobile.jpg
+                desktop_image: ../../../../static/img/banner/product/gtx/base__desktop.jpg
+                mobile_image: ../../../../static/img/banner/product/gtx/base__mobile.jpg
           stretch: true
         - content:
             - title: Base reforçada
@@ -340,8 +340,8 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  /static/img/banner/product/gtx/garantia__desktop.png
-                mobile_image: /static/img/banner/product/gtx/garantia__mobile.jpg
+                  ../../../../static/img/banner/product/gtx/garantia__desktop.png
+                mobile_image: ../../../../static/img/banner/product/gtx/garantia__mobile.jpg
           stretch: true
         - content:
             - title: 'Todas as cadeiras da Gaming Series contam com:'
@@ -366,7 +366,7 @@ blocks:
       mobile_card: true
 featured_image:
   desktop_image: >-
-    /static/img/uploads/products/featured/LAYOUT DESCRIÇÃO - GAMING -
+    ../../../../static/img/uploads/products/featured/LAYOUT DESCRIÇÃO - GAMING -
     GTZ - 1X1INTRO.jpg
 description: >-
   • Couro PU.

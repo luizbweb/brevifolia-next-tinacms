@@ -1,5 +1,5 @@
 ---
-title: Kit Almofadas XL Elite Series Suede
+title: ''
 id: 106151
 link: /acessorios/almofada-lombar-elite-series-suede
 name: Kit Almofadas XL Elite Series Suede
@@ -9,7 +9,7 @@ category: Acessórios
 subcategory: null
 availability: in-stock
 main_image: >-
-  /static/img/products/acessorios/almofada-lombar-elite-series-suede/Black/almofada-lombar-elite-series-suede-02.jpg
+  ../../../../static/img/products/acessorios/almofada-lombar-elite-series-suede/Black/almofada-lombar-elite-series-suede-02.jpg
 description: |-
   • Almofada de cabeça.
 
@@ -27,24 +27,22 @@ galleries:
     id: 205186
     slides:
       - image: >-
-          /static/img/products/acessorios/almofada-lombar-elite-series-suede/Red/eu-qu.jpg
+          ../../../../static/img/products/acessorios/almofada-lombar-elite-series-suede/Red/eu-qu.jpg
   - id: 106151
     color: Black
     availability: in-stock
     slides:
       - image: >-
-          /static/img/products/acessorios/almofada-lombar-elite-series-suede/Black/almofada-lombar-elite-series-suede-02.jpg
+          ../../../../static/img/products/acessorios/almofada-lombar-elite-series-suede/Black/almofada-lombar-elite-series-suede-02.jpg
       - image: >-
-          /static/img/products/acessorios/almofada-lombar-elite-series-suede/Black/almofada-lombar-elite-series-suede-00.jpg
+          ../../../../static/img/products/acessorios/almofada-lombar-elite-series-suede/Black/almofada-lombar-elite-series-suede-00.jpg
       - image: >-
-          /static/img/products/acessorios/almofada-lombar-elite-series-suede/Black/almofada-lombar-elite-series-suede-01.jpg
+          ../../../../static/img/products/acessorios/almofada-lombar-elite-series-suede/Black/almofada-lombar-elite-series-suede-01.jpg
 price:
   regular: 189.9
   boleto: 170.91
 specs:
   front: >-
-    /static/img/products/acessorios/almofada-lombar-elite-series-suede/almofada-lombar-elite-series-suede-specs-frontal.svg
-  side: null
-author: DT3
-date: '2021-06-08T00:00:00Z'
+    ../../../../static/img/products/acessorios/almofada-lombar-elite-series-suede/almofada-lombar-elite-series-suede-specs-frontal.svg
+  side: ../../../../static/img/uploads/products/specs/
 ---

@@ -1,5 +1,5 @@
 ---
-title: Cadeira Gamer Royce
+title: ''
 id: 110481
 link: /elite-series/cadeira-gamer-dt3sports-royce-tecido
 name: Cadeira Gamer DT3Sports Royce Tecido
@@ -25,6 +25,9 @@ description: >-
 
   • Duas almofadas XL inclusas para apoio lombar e pescoço com revestimento
   Suede.
+
+
+  1. • Mecanismo Frog com trava do sistema rockingf
 price:
   regular: 2999.9
   boleto: 2699.91
@@ -290,9 +293,8 @@ blocks:
                 perdendo o formato mesmo após longos períodos de uso.
               _template: ContentBlock
               foreground: '#FFFFFF'
-          horizontal_alignment: flex-start
+          horizontal_alignment: center
           vertical_alignment: center
-          debug: true
       horizontal_alignment: flex-start
       vertical_alignment: stretch
       mobile_card: true

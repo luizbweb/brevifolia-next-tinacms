@@ -9,7 +9,7 @@ category: Camiseta
 subcategory: Merch
 type: simple
 availability: in-stock
-main_image: /static/img/products/camiseta-3-cinza/merch-dt3-camiseta-3-cinza.jpg
+main_image: ../../../../static/img/products/camiseta-3-cinza/merch-dt3-camiseta-3-cinza.jpg
 description: >-
   • Estrutura de Metal.
 
@@ -36,20 +36,23 @@ galleries:
     color: P
     availability: in-stock
     slides:
-      - image: /static/img/products/camiseta-3-cinza/camiseta-3-cinza.png
-      - image: /static/img/products/camiseta-3-cinza/camiseta-3-cinza-00.png
+      - image: ../../../../static/img/products/camiseta-3-cinza/camiseta-3-cinza.png
+      - image: >-
+          ../../../../static/img/products/camiseta-3-cinza/camiseta-3-cinza-00.png
   - id: 205237
     color: M
     availability: in-stock
     slides:
-      - image: /static/img/products/camiseta-3-cinza/camiseta-3-cinza.png
-      - image: /static/img/products/camiseta-3-cinza/camiseta-3-cinza-00.png
+      - image: ../../../../static/img/products/camiseta-3-cinza/camiseta-3-cinza.png
+      - image: >-
+          ../../../../static/img/products/camiseta-3-cinza/camiseta-3-cinza-00.png
   - id: 205236
     color: G
     availability: in-stock
     slides:
-      - image: /static/img/products/camiseta-3-cinza/camiseta-3-cinza.png
-      - image: /static/img/products/camiseta-3-cinza/camiseta-3-cinza-00.png
+      - image: ../../../../static/img/products/camiseta-3-cinza/camiseta-3-cinza.png
+      - image: >-
+          ../../../../static/img/products/camiseta-3-cinza/camiseta-3-cinza-00.png
 specs:
   items: null
 price:

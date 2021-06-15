@@ -9,7 +9,7 @@ category: Bolsa
 subcategory: Merch
 type: simple
 availability: in-stock
-main_image: /static/img/products/bone-oficial-dt3/bone-oficial-dt3.png
+main_image: ../../../../static/img/products/bone-oficial-dt3/bone-oficial-dt3.png
 description: >-
   • Estrutura de Metal.
 
@@ -36,9 +36,9 @@ galleries:
     color: Black
     availability: in-stock
     slides:
-      - image: /static/img/products/bone-oficial-dt3/bone-oficial-dt3.png
+      - image: ../../../../static/img/products/bone-oficial-dt3/bone-oficial-dt3.png
       - image: >-
-          /static/img/products/bone-oficial-dt3/bone-oficial-dt3-00.png
+          ../../../../static/img/products/bone-oficial-dt3/bone-oficial-dt3-00.png
 specs:
   items: null
 price:

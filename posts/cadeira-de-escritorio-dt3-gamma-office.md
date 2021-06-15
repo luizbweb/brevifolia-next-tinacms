@@ -9,7 +9,7 @@ category: Cadeira
 subcategory: Office Series
 type: simple
 availability: in-stock
-main_image: /static/img/products/gamma/gamma.jpeg
+main_image: ../../../../static/img/products/gamma/gamma.jpeg
 description: >-
   • Apoio de braço 3D ajustável.
 
@@ -30,8 +30,8 @@ description: >-
   [Fazer Download do Manual de
   Instruções](https://drive.google.com/file/d/1fzBz5Ony-IWFTqhrmbuIYlOy8b6xN4CK/view?usp=sharing).
 featured_image:
-  desktop_image: /static/img/banner/product/gamma/main-banner__desktop.jpg
-  mobile_image: /static/img/banner/product/gamma/main-banner__desktop.jpg
+  desktop_image: ../../../../static/img/banner/product/gamma/main-banner__desktop.jpg
+  mobile_image: ../../../../static/img/banner/product/gamma/main-banner__desktop.jpg
 price:
   regular: 1856.9
   boleto: 1671.21
@@ -40,36 +40,36 @@ galleries:
     color: Black
     availability: in-stock
     slides:
-      - image: /static/img/products/gamma/black/gamma-00.jpg
-      - image: /static/img/products/gamma/black/gamma-01.jpg
-      - image: /static/img/products/gamma/black/gamma-02.jpg
-      - image: /static/img/products/gamma/black/gamma-03.jpg
-      - image: /static/img/products/gamma/black/gamma-04.jpg
-      - image: /static/img/products/gamma/black/gamma-05.jpg
-      - image: /static/img/products/gamma/black/gamma-06.jpg
-      - image: /static/img/products/gamma/black/gamma-07.jpg
+      - image: ../../../../static/img/products/gamma/black/gamma-00.jpg
+      - image: ../../../../static/img/products/gamma/black/gamma-01.jpg
+      - image: ../../../../static/img/products/gamma/black/gamma-02.jpg
+      - image: ../../../../static/img/products/gamma/black/gamma-03.jpg
+      - image: ../../../../static/img/products/gamma/black/gamma-04.jpg
+      - image: ../../../../static/img/products/gamma/black/gamma-05.jpg
+      - image: ../../../../static/img/products/gamma/black/gamma-06.jpg
+      - image: ../../../../static/img/products/gamma/black/gamma-07.jpg
 slides:
   - title: Office Series
     link: /office-series
-    image: /static/img/categories/office-series.svg
+    image: ../../../../static/img/categories/office-series.svg
   - title: Spider
     link: /office-series/cadeira-de-escritorio-dt3-spider/
-    image: /static/img/products/spider/spider.svg
+    image: ../../../../static/img/products/spider/spider.svg
   - title: Gamma Office
     link: /office-series/cadeira-de-escritorio-dt3-gamma-office/
-    image: /static/img/products/gamma-office/gamma-office.svg
+    image: ../../../../static/img/products/gamma-office/gamma-office.svg
   - title: GTO
     link: /office-series/cadeira-de-escritorio-dt3-gto-office/
-    image: /static/img/products/gto/gto.svg
+    image: ../../../../static/img/products/gto/gto.svg
   - title: GTS Black
     link: /office-series/cadeira-de-escritorio-dt3-gts-black/
-    image: /static/img/products/gts-se/gts-se.svg
+    image: ../../../../static/img/products/gts-se/gts-se.svg
   - title: GTX Special Edition
     link: /office-series/cadeira-de-escritorio-dt3-gtx-se/
-    image: /static/img/products/gtx-se/gtx-se.svg
+    image: ../../../../static/img/products/gtx-se/gtx-se.svg
 specs:
-  front: /static/img/products/gamma/gamma-specs-frontal.svg
-  side: /static/img/products/gamma/gamma-specs-lateral.svg
+  front: ../../../../static/img/products/gamma/gamma-specs-frontal.svg
+  side: ../../../../static/img/products/gamma/gamma-specs-lateral.svg
   items:
     - key: coating
       label: Revestimento
@@ -175,11 +175,9 @@ blocks:
               _template: ImageBlock
               image:
                 mobile_image: >-
-                  /static/img/uploads/banner/image/Ergonomia e
+                  ../../../../static/img/uploads/banner/image/Ergonomia e
                   Design.jpg
-                desktop_image: >-
-                  /static/img/uploads/banner/image/Ergonomia e
-                  Design.jpg
+                desktop_image: /static/merch.png
         - content:
             - title: Design
               _template: TitleBlock
@@ -212,10 +210,10 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  /static/img/uploads/banner/image/Material de alta
+                  ../../../../static/img/uploads/banner/image/Material de alta
                   qualidade.jpg
                 mobile_image: >-
-                  /static/img/uploads/banner/image/Material de alta
+                  ../../../../static/img/uploads/banner/image/Material de alta
                   qualidade.jpg
           width: 50%
         - content:
@@ -273,10 +271,10 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  /static/img/uploads/banner/image/Almofadas de apoio
+                  ../../../../static/img/uploads/banner/image/Almofadas de apoio
                   ergnomico.jpg
                 mobile_image: >-
-                  /static/img/uploads/banner/image/Almofadas de apoio
+                  ../../../../static/img/uploads/banner/image/Almofadas de apoio
                   ergnomico.jpg
       vertical_alignment: center
       full_width: true
@@ -305,8 +303,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: /static/img/banner/product/gts/rodas__desktop.jpg
-                mobile_image: /static/img/banner/product/gts/rodas__desktop.jpg
+                desktop_image: ../../../../static/img/banner/product/gts/rodas__desktop.jpg
+                mobile_image: ../../../../static/img/banner/product/gts/rodas__desktop.jpg
           stretch: true
       full_width: true
       mobile_card: true
@@ -319,8 +317,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: /static/img/banner/product/gts/base__desktop.jpg
-                mobile_image: /static/img/banner/product/gts/base__mobile.jpg
+                desktop_image: ../../../../static/img/banner/product/gts/base__desktop.jpg
+                mobile_image: ../../../../static/img/banner/product/gts/base__mobile.jpg
           stretch: true
         - content:
             - title: Base reforçada
@@ -366,10 +364,10 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  /static/img/uploads/banner/image/Apoio de Braço
+                  ../../../../static/img/uploads/banner/image/Apoio de Braço
                   3D.jpg
                 mobile_image: >-
-                  /static/img/uploads/banner/image/Apoio de Braço
+                  ../../../../static/img/uploads/banner/image/Apoio de Braço
                   3D.jpg
       full_width: true
   - _template: BannerBlock
@@ -381,8 +379,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: /static/img/uploads/banner/image/Reclinio.jpg
-                mobile_image: /static/img/uploads/banner/image/undefined
+                desktop_image: ../../../../static/img/uploads/banner/image/Reclinio.jpg
+                mobile_image: ../../../../static/img/uploads/banner/image/undefined
         - content:
             - title: INCLINAÇÃO 180°
               _template: TitleBlock
@@ -408,7 +406,7 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: /static/img/uploads/banner/image/Garantia.jpg
-                mobile_image: /static/img/uploads/banner/image/Reclinio.jpg
+                desktop_image: ../../../../static/img/uploads/banner/image/Garantia.jpg
+                mobile_image: ../../../../static/img/uploads/banner/image/Reclinio.jpg
       full_width: true
 ---

@@ -9,7 +9,7 @@ category: Cadeira
 subcategory: Office Series
 type: variable
 availability: in-stock
-main_image: /static/img/products/spider/spider.jpg
+main_image: ../../../../static/img/products/spider/spider.jpg
 description: >-
   • Cadeira Mesh e Couro PU.
 
@@ -33,8 +33,8 @@ description: >-
   [Fazer Download do Manual de
   Instruções](https://drive.google.com/drive/u/3/folders/13GuGGg1RK_6-x6AGu6qvJAkI4mCiePxS)
 featured_image:
-  desktop_image: /static/img/banner/product/spider/main-banner__desktop.jpg
-  mobile_image: /static/img/banner/product/spider/main-banner__desktop.jpg
+  desktop_image: ../../../../static/img/banner/product/spider/main-banner__desktop.jpg
+  mobile_image: ../../../../static/img/banner/product/spider/main-banner__desktop.jpg
 price:
   regular: 2499.9
   boleto: 2249.91
@@ -44,74 +44,74 @@ galleries:
     color_code: '#F8002E'
     availability: in-stock
     slides:
-      - image: /static/img/products/spider/red/spider-00.jpg
-      - image: /static/img/products/spider/red/spider-01.jpg
-      - image: /static/img/products/spider/red/spider-02.jpg
-      - image: /static/img/products/spider/red/spider-03.jpg
-      - image: /static/img/products/spider/red/spider-04.jpg
-      - image: /static/img/products/spider/red/spider-05.jpg
-      - image: /static/img/products/spider/red/spider-06.jpg
-      - image: /static/img/products/spider/red/spider-07.jpg
-      - image: /static/img/products/spider/red/spider-08.jpg
-      - image: /static/img/products/spider/red/spider-09.jpg
-      - image: /static/img/products/spider/red/spider-010.jpg
-      - image: /static/img/products/spider/red/spider-011.jpg
+      - image: ../../../../static/img/products/spider/red/spider-00.jpg
+      - image: ../../../../static/img/products/spider/red/spider-01.jpg
+      - image: ../../../../static/img/products/spider/red/spider-02.jpg
+      - image: ../../../../static/img/products/spider/red/spider-03.jpg
+      - image: ../../../../static/img/products/spider/red/spider-04.jpg
+      - image: ../../../../static/img/products/spider/red/spider-05.jpg
+      - image: ../../../../static/img/products/spider/red/spider-06.jpg
+      - image: ../../../../static/img/products/spider/red/spider-07.jpg
+      - image: ../../../../static/img/products/spider/red/spider-08.jpg
+      - image: ../../../../static/img/products/spider/red/spider-09.jpg
+      - image: ../../../../static/img/products/spider/red/spider-010.jpg
+      - image: ../../../../static/img/products/spider/red/spider-011.jpg
   - id: 50046
     color: Blue
     color_code: '#0433BF'
     availability: in-stock
     slides:
-      - image: /static/img/products/spider/blue/spider-00.jpg
-      - image: /static/img/products/spider/blue/spider-01.jpg
-      - image: /static/img/products/spider/blue/spider-02.jpg
-      - image: /static/img/products/spider/blue/spider-03.jpg
-      - image: /static/img/products/spider/blue/spider-04.jpg
-      - image: /static/img/products/spider/blue/spider-05.jpg
-      - image: /static/img/products/spider/blue/spider-06.jpg
-      - image: /static/img/products/spider/blue/spider-07.jpg
-      - image: /static/img/products/spider/blue/spider-08.jpg
-      - image: /static/img/products/spider/blue/spider-09.jpg
-      - image: /static/img/products/spider/blue/spider-010.jpg
-      - image: /static/img/products/spider/blue/spider-011.jpg
+      - image: ../../../../static/img/products/spider/blue/spider-00.jpg
+      - image: ../../../../static/img/products/spider/blue/spider-01.jpg
+      - image: ../../../../static/img/products/spider/blue/spider-02.jpg
+      - image: ../../../../static/img/products/spider/blue/spider-03.jpg
+      - image: ../../../../static/img/products/spider/blue/spider-04.jpg
+      - image: ../../../../static/img/products/spider/blue/spider-05.jpg
+      - image: ../../../../static/img/products/spider/blue/spider-06.jpg
+      - image: ../../../../static/img/products/spider/blue/spider-07.jpg
+      - image: ../../../../static/img/products/spider/blue/spider-08.jpg
+      - image: ../../../../static/img/products/spider/blue/spider-09.jpg
+      - image: ../../../../static/img/products/spider/blue/spider-010.jpg
+      - image: ../../../../static/img/products/spider/blue/spider-011.jpg
   - id: 50043
     color: Black
     color_code: '#1D1D1D'
     availability: in-stock
     slides:
-      - image: /static/img/products/spider/black/spider-00.jpg
-      - image: /static/img/products/spider/black/spider-01.jpg
-      - image: /static/img/products/spider/black/spider-02.jpg
-      - image: /static/img/products/spider/black/spider-03.jpg
-      - image: /static/img/products/spider/black/spider-04.jpg
-      - image: /static/img/products/spider/black/spider-05.jpg
-      - image: /static/img/products/spider/black/spider-06.jpg
-      - image: /static/img/products/spider/black/spider-07.jpg
-      - image: /static/img/products/spider/black/spider-08.jpg
-      - image: /static/img/products/spider/black/spider-09.jpg
-      - image: /static/img/products/spider/black/spider-010.jpg
-      - image: /static/img/products/spider/black/spider-011.jpg
+      - image: ../../../../static/img/products/spider/black/spider-00.jpg
+      - image: ../../../../static/img/products/spider/black/spider-01.jpg
+      - image: ../../../../static/img/products/spider/black/spider-02.jpg
+      - image: ../../../../static/img/products/spider/black/spider-03.jpg
+      - image: ../../../../static/img/products/spider/black/spider-04.jpg
+      - image: ../../../../static/img/products/spider/black/spider-05.jpg
+      - image: ../../../../static/img/products/spider/black/spider-06.jpg
+      - image: ../../../../static/img/products/spider/black/spider-07.jpg
+      - image: ../../../../static/img/products/spider/black/spider-08.jpg
+      - image: ../../../../static/img/products/spider/black/spider-09.jpg
+      - image: ../../../../static/img/products/spider/black/spider-010.jpg
+      - image: ../../../../static/img/products/spider/black/spider-011.jpg
 slides:
   - title: Office Series
     link: /office-series
-    image: /static/img/categories/office-series.svg
+    image: ../../../../static/img/categories/office-series.svg
   - title: Spider
     link: /office-series/cadeira-de-escritorio-dt3-spider/
-    image: /static/img/products/spider/spider.svg
+    image: ../../../../static/img/products/spider/spider.svg
   - title: Gamma Office
     link: /office-series/cadeira-de-escritorio-dt3-gamma-office/
-    image: /static/img/products/gamma-office/gamma-office.svg
+    image: ../../../../static/img/products/gamma-office/gamma-office.svg
   - title: GTO
     link: /office-series/cadeira-de-escritorio-dt3-gto-office/
-    image: /static/img/products/gto/gto.svg
+    image: ../../../../static/img/products/gto/gto.svg
   - title: GTS Black
     link: /office-series/cadeira-de-escritorio-dt3-gts-black/
-    image: /static/img/products/gts-se/gts-se.svg
+    image: ../../../../static/img/products/gts-se/gts-se.svg
   - title: GTX Special Edition
     link: /office-series/cadeira-de-escritorio-dt3-gtx-se/
-    image: /static/img/products/gtx-se/gtx-se.svg
+    image: ../../../../static/img/products/gtx-se/gtx-se.svg
 specs:
-  front: /static/img/products/spider/spider-specs-frontal.svg
-  side: /static/img/products/spider/spider-specs-lateral.svg
+  front: ../../../../static/img/products/spider/spider-specs-frontal.svg
+  side: ../../../../static/img/products/spider/spider-specs-lateral.svg
   items:
     - key: coating
       label: Revestimento

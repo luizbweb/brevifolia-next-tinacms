@@ -1,5 +1,5 @@
 ---
-title: Cadeira Gamer GGRF
+title: ''
 id: 27542
 link: /personalizadas/cadeira-gamer-geekgaming
 name: Cadeira Gamer GGRF
@@ -10,7 +10,7 @@ subcategory: null
 type: simple
 availability: no-stock
 main_image: >-
-  /static/img/products/cadeira-gamer-geekgaming/cadeira-gamer-geekgaming-00.jpg
+  ../../../../static/img/products/cadeira-gamer-geekgaming/cadeira-gamer-geekgaming-00.jpg
 description: >-
   • Apoio de braço 4D ajustável.  
 
@@ -39,10 +39,10 @@ galleries:
     availability: no-stock
     slides:
       - image: >-
-          /static/img/products/cadeira-gamer-geekgaming/cadeira-gamer-geekgaming-00.jpg
+          ../../../../static/img/products/cadeira-gamer-geekgaming/cadeira-gamer-geekgaming-00.jpg
 specs:
-  front: /static/img/placeholders/1x1.png
-  side: /static/img/placeholders/1x1.png
+  front: ../../../../static/img/placeholders/1x1.png
+  side: ../../../../static/img/placeholders/1x1.png
   items:
     - key: coating
       label: Revestimento
@@ -148,9 +148,9 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  /static/img/products/cadeira-gamer-geekgaming/banner-01.jpg
+                  ../../../../static/img/products/cadeira-gamer-geekgaming/banner-01.jpg
                 mobile_image: >-
-                  /static/img/products/cadeira-gamer-geekgaming/banner-01.jpg
+                  ../../../../static/img/products/cadeira-gamer-geekgaming/banner-01.jpg
           stretch: false
           width: 100%
           height: ''
@@ -169,7 +169,7 @@ blocks:
       vertical_alignment: center
       full_width: true
       mobile_card: false
-      background_image: /static/img/products/cadeira-gamer-geekgaming/banner-02.jpg
+      background_image: ../../../../static/img/products/cadeira-gamer-geekgaming/banner-02.jpg
       blocks:
         - width: 1px
           content:
@@ -178,7 +178,7 @@ blocks:
               _template: ImageBlock
               image:
                 mobile_image: >-
-                  /static/img/products/cadeira-gamer-geekgaming/banner-02.jpg
+                  ../../../../static/img/products/cadeira-gamer-geekgaming/banner-02.jpg
         - content:
             - title: Design
               text_alignment: center

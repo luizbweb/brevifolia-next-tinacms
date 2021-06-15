@@ -1,8 +1,7 @@
 ---
-title: Cadeira Gamer DT3Sports Rhino
+title: ''
 id: 18549
 link: /elite-series/cadeira-gamer-dt3sports-rhino
-hero_image: /static/img/products/rhino/red/rhino-00.jpg
 name: Cadeira Gamer DT3Sports Rhino
 short_name: Cadeira Gamer Rhino
 micro_name: Rhino
@@ -279,13 +278,25 @@ blocks:
       blocks:
         - horizontalAlignment: center
           verticalAlignment: flex-start
-          content:
-            - objectFit: cover
-              objectPosition: center
-              _template: ImageBlock
-              image:
-                mobile_image: >-
-                  ../../../../static/img/uploads/banner/image/MicrosoftTeams-imag.png
+        - content:
+            - title: Design
+              foreground: '#FFFFFF'
+              text_alignment: left
+              font_size: calc(1.80rem + 1.45vw)
+              line-height: 1em
+              _template: TitleBlock
+              margin_bottom: 0.15em
+            - content: >-
+                A costura com padrão hexagonal da Rhino complementa o estilo
+                racing com um toque refinado e diferente.
+              foreground: '#FFFFFF'
+              textAlignment: left
+              font_size: calc(1rem + 0.25vw)
+              line_height: 1.35em
+              font_weight: '300'
+              _template: ContentBlock
+          horizontal_alignment: flex-start
+          vertical_alignment: center
       full_width: true
       background_color: '#FFFFFF'
       vertical_alignment: center

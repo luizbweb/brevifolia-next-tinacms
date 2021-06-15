@@ -9,7 +9,7 @@ category: Camiseta
 subcategory: Merch
 type: simple
 availability: in-stock
-main_image: /static/img/products/camiseta-3-preta/camiseta-3-preta.png
+main_image: ../../../../static/img/products/camiseta-3-preta/camiseta-3-preta.png
 description: >-
   • Estrutura de Metal.
 
@@ -36,23 +36,23 @@ galleries:
     color: P
     availability: in-stock
     slides:
-      - image: /static/img/products/camiseta-3-preta/camiseta-3-preta.png
+      - image: ../../../../static/img/products/camiseta-3-preta/camiseta-3-preta.png
       - image: >-
-          /static/img/products/camiseta-3-preta/camiseta-3-preta-00.png
+          ../../../../static/img/products/camiseta-3-preta/camiseta-3-preta-00.png
   - id: 205241
     color: M
     availability: in-stock
     slides:
-      - image: /static/img/products/camiseta-3-preta/camiseta-3-preta.png
+      - image: ../../../../static/img/products/camiseta-3-preta/camiseta-3-preta.png
       - image: >-
-          /static/img/products/camiseta-3-preta/camiseta-3-preta-00.png
+          ../../../../static/img/products/camiseta-3-preta/camiseta-3-preta-00.png
   - id: 205240
     color: G
     availability: in-stock
     slides:
-      - image: /static/img/products/camiseta-3-preta/camiseta-3-preta.png
+      - image: ../../../../static/img/products/camiseta-3-preta/camiseta-3-preta.png
       - image: >-
-          /static/img/products/camiseta-3-preta/camiseta-3-preta-00.png
+          ../../../../static/img/products/camiseta-3-preta/camiseta-3-preta-00.png
 specs:
   items: null
 price:

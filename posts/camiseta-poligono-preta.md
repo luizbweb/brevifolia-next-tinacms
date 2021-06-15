@@ -10,7 +10,7 @@ subcategory: Merch
 type: simple
 availability: in-stock
 main_image: >-
-  /static/img/uploads/products/merch-dt3-camiseta-3-poligono-preta.jpg
+  ../../../../static/img/uploads/products/merch-dt3-camiseta-3-poligono-preta.jpg
 description: >-
   • Estrutura de Metal.
 
@@ -34,32 +34,32 @@ description: >-
   Instruções](https://drive.google.com/open?id=1ciDsM446JU9ELzHeCzmWRduGqkkbOzIM)
 featured_image:
   desktop_image: >-
-    /static/img/banner/product/camiseta-poligono-preta/camiseta-poligono-preta.png
+    ../../../../static/img/banner/product/camiseta-poligono-preta/camiseta-poligono-preta.png
 galleries:
   - id: 205234
     color: P
     availability: in-stock
     slides:
       - image: >-
-          /static/img/products/camiseta-poligono-preta/camiseta-poligono-preta.png
+          ../../../../static/img/products/camiseta-poligono-preta/camiseta-poligono-preta.png
       - image: >-
-          /static/img/products/camiseta-poligono-preta/camiseta-poligono-preta-00.png
+          ../../../../static/img/products/camiseta-poligono-preta/camiseta-poligono-preta-00.png
   - id: 205233
     color: M
     availability: in-stock
     slides:
       - image: >-
-          /static/img/products/camiseta-poligono-preta/camiseta-poligono-preta.png
+          ../../../../static/img/products/camiseta-poligono-preta/camiseta-poligono-preta.png
       - image: >-
-          /static/img/products/camiseta-poligono-preta/camiseta-poligono-preta-00.png
+          ../../../../static/img/products/camiseta-poligono-preta/camiseta-poligono-preta-00.png
   - id: 205232
     color: G
     availability: in-stock
     slides:
       - image: >-
-          /static/img/products/camiseta-poligono-preta/camiseta-poligono-preta.png
+          ../../../../static/img/products/camiseta-poligono-preta/camiseta-poligono-preta.png
       - image: >-
-          /static/img/products/camiseta-poligono-preta/camiseta-poligono-preta-00.png
+          ../../../../static/img/products/camiseta-poligono-preta/camiseta-poligono-preta-00.png
 specs:
   items: null
 price:

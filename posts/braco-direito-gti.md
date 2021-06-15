@@ -1,5 +1,5 @@
 ---
-title: Braço Direito GTI
+title: ''
 id: 18717
 link: /acessorios/braco-direito-gti
 name: Braço Direito GTI
@@ -8,7 +8,8 @@ micro_name: Braço Direito GTI
 category: Acessórios
 subcategory: null
 availability: in-stock
-main_image: /static/img/products/acessorios/braco-direito-gti/braco-direito-gti.jpg
+main_image: >-
+  ../../../../static/img/products/acessorios/braco-direito-gti/braco-direito-gti.jpg
 description: >-
   Braço direito unitário
 
@@ -32,48 +33,46 @@ galleries:
     availability: in-stock
     slides:
       - image: >-
-          /static/img/products/acessorios/braco-direito-gti/braco-direito-gti.jpg
+          ../../../../static/img/products/acessorios/braco-direito-gti/braco-direito-gti.jpg
   - id: 18717
     color: Black
     color_code: '#1D1D1D'
     availability: in-stock
     slides:
       - image: >-
-          /static/img/products/acessorios/braco-direito-gti/braco-direito-gti.jpg
+          ../../../../static/img/products/acessorios/braco-direito-gti/braco-direito-gti.jpg
   - id: 18718
     color: White
     color_code: '#FFFFFF'
     availability: in-stock
     slides:
       - image: >-
-          /static/img/products/acessorios/braco-direito-gti/braco-direito-gti.jpg
+          ../../../../static/img/products/acessorios/braco-direito-gti/braco-direito-gti.jpg
   - id: 18721
     color: Green
     color_code: '#51C819'
     availability: in-stock
     slides:
       - image: >-
-          /static/img/products/acessorios/braco-direito-gti/braco-direito-gti.jpg
+          ../../../../static/img/products/acessorios/braco-direito-gti/braco-direito-gti.jpg
   - id: 18720
     color: Orange
     color_code: '#F25C05'
     availability: in-stock
     slides:
       - image: >-
-          /static/img/products/acessorios/braco-direito-gti/braco-direito-gti.jpg
+          ../../../../static/img/products/acessorios/braco-direito-gti/braco-direito-gti.jpg
   - id: 18722
     color: Blue
     color_code: '#0433BF'
     availability: in-stock
     slides:
       - image: >-
-          /static/img/products/acessorios/braco-direito-gti/braco-direito-gti.jpg
+          ../../../../static/img/products/acessorios/braco-direito-gti/braco-direito-gti.jpg
 price:
   regular: 39.9
   boleto: 35.91
 specs:
-  front: /static/img/placeholders/1x1.png
-  side: /static/img/placeholders/1x1.png
-date: '2021-06-08T00:00:00Z'
-author: DT3
+  front: ../../../../static/img/placeholders/1x1.png
+  side: ../../../../static/img/placeholders/1x1.png
 ---

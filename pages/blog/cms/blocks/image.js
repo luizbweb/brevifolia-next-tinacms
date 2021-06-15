@@ -8,17 +8,21 @@ import {
 } from "../fields";
 
 const _desktopImage = {
-  ...desktopImage,
-  parse: media => `/static/${media.filename}`,
-  uploadDir: () => '/public/static/',
-  previewSrc: fullSrc => fullSrc.replace('/public', ''),
+  name: "desktop_image",
+  label: "Desktop",
+  component: "image",
+  parse: (media) => `/static/${media.filename}`,
+  uploadDir: () => "/public/static/",
+  previewSrc: (fullSrc) => fullSrc.replace("/public", ""),
 };
 
 const _mobileImage = {
-  ...mobileImage,
-  parse: media => `/static/${media.filename}`,
-  uploadDir: () => '/public/static/',
-  previewSrc: fullSrc => fullSrc.replace('/public', ''),
+  name: "mobile_image",
+  label: "Mobile",
+  component: "image",
+  parse: (media) => `/static/${media.filename}`,
+  uploadDir: () => "/public/static/",
+  previewSrc: (fullSrc) => fullSrc.replace("/public", ""),
 };
 
 const image = {

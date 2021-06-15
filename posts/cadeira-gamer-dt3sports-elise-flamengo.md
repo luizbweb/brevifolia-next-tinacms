@@ -1,5 +1,5 @@
 ---
-title: Cadeira Gamer DT3sports Elise Flamengo
+title: ''
 id: 24037
 link: /racing-series/cadeira-gamer-dt3sports-elise-flamengo
 name: Cadeira Gamer DT3sports Elise Flamengo
@@ -9,66 +9,77 @@ category: Cadeira
 subcategory: Racing Series
 type: simple
 availability: in-stock
-main_image: /static/img/products/elise-flamengo/elise-flamengo.jpg
+main_image: ../../../../static/img/products/elise-flamengo/elise-flamengo.jpg
 description: "•\_[**DESCONTO ESPECIAL PARA SÓCIO TORCEDOR. CLIQUE AQUI PARA GERAR UM CUPOM DE DESCONTO**](https://www.dt3sports.com.br/loja/racing-series/cadeira-gamer-dt3sports-elise-flamengo/#)\n\n•  Logo do Flamengo, CRF e DT3sports bordado.\n\n•  Apoio de braço ajustável.\n\n• Estrutura de aço reforçado para suportar maior peso.\n\n• Estofamento de couro sintético PU Premium.\n\n• Rodas especiais de 65mm super resistentes para piso ou carpete.\n\n• Duas almofadas inclusas para apoio lombar e pescoço.\n\n• [Fazer Download do Manual de Instruções](https://drive.google.com/file/d/1hJ6sSJMbc00CaR12y-CPoycYcbwgPeU8/view)"
 price:
   regular: 1499.9
   boleto: 1349.91
 featured_image:
-  desktop_image: /static/img/banner/product/elise-flamengo/main-banner__desktop.jpeg
-  mobile_image: /static/img/banner/product/elise-flamengo/main-banner__mobile.jpeg
+  desktop_image: >-
+    ../../../../static/img/banner/product/elise-flamengo/main-banner__desktop.jpeg
+  mobile_image: >-
+    ../../../../static/img/banner/product/elise-flamengo/main-banner__mobile.jpeg
 galleries:
   - id: 24037
     color: Red
     color_code: '#F8002E'
     availability: in-stock
     slides:
-      - image: /static/img/products/elise-flamengo/red/elise-flamengo-00.jpg
-      - image: /static/img/products/elise-flamengo/red/elise-flamengo-01.jpg
-      - image: /static/img/products/elise-flamengo/red/elise-flamengo-03.jpg
-      - image: /static/img/products/elise-flamengo/red/elise-flamengo-04.jpg
-      - image: /static/img/products/elise-flamengo/red/elise-flamengo-05.jpg
-      - image: /static/img/products/elise-flamengo/red/elise-flamengo-06.jpg
-      - image: /static/img/products/elise-flamengo/red/elise-flamengo-07.jpg
-      - image: /static/img/products/elise-flamengo/red/elise-flamengo-08.jpg
-      - image: /static/img/products/elise-flamengo/red/elise-flamengo-10.jpg
+      - image: >-
+          ../../../../static/img/products/elise-flamengo/red/elise-flamengo-00.jpg
+      - image: >-
+          ../../../../static/img/products/elise-flamengo/red/elise-flamengo-01.jpg
+      - image: >-
+          ../../../../static/img/products/elise-flamengo/red/elise-flamengo-03.jpg
+      - image: >-
+          ../../../../static/img/products/elise-flamengo/red/elise-flamengo-04.jpg
+      - image: >-
+          ../../../../static/img/products/elise-flamengo/red/elise-flamengo-05.jpg
+      - image: >-
+          ../../../../static/img/products/elise-flamengo/red/elise-flamengo-06.jpg
+      - image: >-
+          ../../../../static/img/products/elise-flamengo/red/elise-flamengo-07.jpg
+      - image: >-
+          ../../../../static/img/products/elise-flamengo/red/elise-flamengo-08.jpg
+      - image: >-
+          ../../../../static/img/products/elise-flamengo/red/elise-flamengo-10.jpg
 slides:
   - title: Racing Series
     link: /racing-series
-    image: /static/img/categories/racing-series.svg
+    image: ../../../../static/img/categories/racing-series.svg
   - title: Elise
     link: /racing-series/cadeira-gamer-dt3sports-elise
-    image: /static/img/products/elise/elise.svg
+    image: ../../../../static/img/products/elise/elise.svg
   - title: Elise Fabric
     link: /racing-series/cadeira-gamer-dt3sports-elise-fabric
-    image: /static/img/products/elise-fabric/elise-fabric.svg
+    image: ../../../../static/img/products/elise-fabric/elise-fabric.svg
   - title: Elise Flamengo
     link: /racing-series/cadeira-gamer-dt3sports-elise-flamengo
-    image: /static/img/products/elise-flamengo/elise-flamengo.svg
+    image: ../../../../static/img/products/elise-flamengo/elise-flamengo.svg
   - title: Pixel
     link: /racing-series/cadeira-gamer-dt3sports-rgb-pixel
-    image: /static/img/products/pixel/pixel.svg
+    image: ../../../../static/img/products/pixel/pixel.svg
   - title: Estelar
     link: /racing-series/cadeira-gamer-dt3sports-rgb-estelar
-    image: /static/img/products/estelar/estelar.svg
+    image: ../../../../static/img/products/estelar/estelar.svg
   - title: Jaguar
     link: /racing-series/cadeira-gamer-dt3sports-jaguar
-    image: /static/img/products/jaguar/jaguar.svg
+    image: ../../../../static/img/products/jaguar/jaguar.svg
   - title: Mizano
     link: /racing-series/cadeira-gamer-dt3sports-mizano-fabric
-    image: /static/img/products/mizano/mizano.svg
+    image: ../../../../static/img/products/mizano/mizano.svg
   - title: Módena
     link: /racing-series/cadeira-gamer-dt3sports-modena
-    image: /static/img/products/modena/modena.svg
+    image: ../../../../static/img/products/modena/modena.svg
   - title: Ravena
     link: /racing-series/cadeira-gamer-dt3sports-ravena
-    image: /static/img/products/ravena/ravena.svg
+    image: ../../../../static/img/products/ravena/ravena.svg
   - title: Romeo
     link: /racing-series/cadeira-gamer-dt3sports-romeo-tecido
-    image: /static/img/products/romeo/romeo.svg
+    image: ../../../../static/img/products/romeo/romeo.svg
   - title: Pandora
     link: /racing-series/cadeira-gamer-dt3sports-pandora
-    image: /static/img/products/pandora/pandora.svg
+    image: ../../../../static/img/products/pandora/pandora.svg
 menu:
   items:
     - text: Design
@@ -91,20 +102,20 @@ menu:
       link: '#especificacoes'
 details:
   - title: Almofadas DT3
-    image: /static/img/banner/product/shared/details/almofadas-dt3.svg
+    image: ../../../../static/img/banner/product/shared/details/almofadas-dt3.svg
   - title: Espuma Injetada
-    image: /static/img/banner/product/shared/details/espuma-injetada.svg
+    image: ../../../../static/img/banner/product/shared/details/espuma-injetada.svg
   - title: Braço 3D
-    image: /static/img/banner/product/shared/details/braco-3d.svg
+    image: ../../../../static/img/banner/product/shared/details/braco-3d.svg
   - title: Inclinação
-    image: /static/img/banner/product/shared/details/inclinacao.svg
+    image: ../../../../static/img/banner/product/shared/details/inclinacao.svg
   - title: Base de Aço
-    image: /static/img/banner/product/shared/details/base-aco.svg
+    image: ../../../../static/img/banner/product/shared/details/base-aco.svg
   - title: Rodas de 65mm
-    image: /static/img/banner/product/shared/details/roda-65.svg
+    image: ../../../../static/img/banner/product/shared/details/roda-65.svg
 specs:
-  front: /static/img/products/elise/elise-specs-frontal.svg
-  side: /static/img/products/elise/elise-specs-lateral.svg
+  front: ../../../../static/img/products/elise/elise-specs-frontal.svg
+  side: ../../../../static/img/products/elise/elise-specs-lateral.svg
   items:
     - key: coating
       label: Revestimento
@@ -208,7 +219,8 @@ blocks:
       vertical_alignment: center
       full_width: true
       mobile_card: true
-      background_image: /static/img/banner/product/elise-flamengo/design__desktop.jpeg
+      background_image: >-
+        ../../../../static/img/banner/product/elise-flamengo/design__desktop.jpeg
       blocks:
         - width: 1px
           content:
@@ -217,9 +229,9 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  /static/img/banner/product/elise-flamengo/main-banner__desktop.jpeg
+                  ../../../../static/img/banner/product/elise-flamengo/main-banner__desktop.jpeg
                 mobile_image: >-
-                  /static/img/banner/product/elise-flamengo/main-banner__mobile.jpeg
+                  ../../../../static/img/banner/product/elise-flamengo/main-banner__mobile.jpeg
         - content:
             - title: Design
               foreground: '#FFFFFF'
@@ -286,9 +298,9 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  /static/img/banner/product/elise-flamengo/construcao__desktop.jpeg
+                  ../../../../static/img/banner/product/elise-flamengo/construcao__desktop.jpeg
                 mobile_image: >-
-                  /static/img/banner/product/elise-flamengo/construcao__desktop.jpeg
+                  ../../../../static/img/banner/product/elise-flamengo/construcao__desktop.jpeg
           stretch: true
           height: ''
           debug: false
@@ -307,8 +319,10 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: /static/img/banner/product/elise/mecanismo__desktop.jpg
-                mobile_image: /static/img/banner/product/elise/mecanismo__mobile.jpg
+                desktop_image: >-
+                  ../../../../static/img/banner/product/elise/mecanismo__desktop.jpg
+                mobile_image: >-
+                  ../../../../static/img/banner/product/elise/mecanismo__mobile.jpg
           stretch: true
         - content:
             - title: Mecanismo Borboleta
@@ -331,15 +345,18 @@ blocks:
     banner:
       id: almofadas
       full_width: true
-      background_image: /static/img/banner/product/elise-flamengo/almofadas__desktop.jpeg
+      background_image: >-
+        ../../../../static/img/banner/product/elise-flamengo/almofadas__desktop.jpeg
       blocks:
         - content:
             - objectFit: contain
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: /static/img/banner/product/elise/almofadas__desktop.jpg
-                mobile_image: /static/img/banner/product/elise/almofadas__mobile.jpg
+                desktop_image: >-
+                  ../../../../static/img/banner/product/elise/almofadas__desktop.jpg
+                mobile_image: >-
+                  ../../../../static/img/banner/product/elise/almofadas__mobile.jpg
           width: 150px
         - background_color_alpha:
             color: ''
@@ -383,8 +400,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: /static/img/banner/product/elise/base__desktop.jpg
-                mobile_image: /static/img/banner/product/elise/base__mobile.jpg
+                desktop_image: ../../../../static/img/banner/product/elise/base__desktop.jpg
+                mobile_image: ../../../../static/img/banner/product/elise/base__mobile.jpg
           stretch: true
         - content:
             - title: Base reforçada
@@ -434,8 +451,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: /static/img/banner/product/elise/rodas__desktop.jpg
-                mobile_image: /static/img/banner/product/elise/rodas__mobile.jpg
+                desktop_image: ../../../../static/img/banner/product/elise/rodas__desktop.jpg
+                mobile_image: ../../../../static/img/banner/product/elise/rodas__mobile.jpg
           stretch: true
       full_width: true
       mobile_card: true
@@ -449,9 +466,9 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  /static/img/banner/product/elise-flamengo/material__desktop.jpeg
+                  ../../../../static/img/banner/product/elise-flamengo/material__desktop.jpeg
                 mobile_image: >-
-                  /static/img/banner/product/elise-flamengo/material__desktop.jpeg
+                  ../../../../static/img/banner/product/elise-flamengo/material__desktop.jpeg
           stretch: true
         - content:
             - title: Couro PU de alta qualidade
@@ -500,8 +517,10 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: /static/img/banner/product/elise-flamengo/braco__desktop.jpeg
-                mobile_image: /static/img/banner/product/elise-flamengo/braco__mobile.jpeg
+                desktop_image: >-
+                  ../../../../static/img/banner/product/elise-flamengo/braco__desktop.jpeg
+                mobile_image: >-
+                  ../../../../static/img/banner/product/elise-flamengo/braco__mobile.jpeg
       vertical_alignment: center
   - _template: BannerBlock
     banner:
@@ -528,8 +547,10 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: /static/img/banner/product/elise/reclinio__desktop.jpg
-                mobile_image: /static/img/banner/product/elise/reclinio__mobile.jpg
+                desktop_image: >-
+                  ../../../../static/img/banner/product/elise/reclinio__desktop.jpg
+                mobile_image: >-
+                  ../../../../static/img/banner/product/elise/reclinio__mobile.jpg
           stretch: true
       full_width: true
       vertical_alignment: center
@@ -548,9 +569,9 @@ blocks:
               _template: ImageBlock
               image:
                 desktop_image: >-
-                  /static/img/banner/product/elise-flamengo/garantia__desktop.jpeg
+                  ../../../../static/img/banner/product/elise-flamengo/garantia__desktop.jpeg
                 mobile_image: >-
-                  /static/img/banner/product/elise-flamengo/garantia__mobile.jpeg
+                  ../../../../static/img/banner/product/elise-flamengo/garantia__mobile.jpeg
           stretch: true
         - content:
             - title: 'Todas as cadeiras da Racing Series contam com:'

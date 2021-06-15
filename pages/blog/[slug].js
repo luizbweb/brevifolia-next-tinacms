@@ -44,7 +44,7 @@ export default function BlogTemplate(props) {
         clearable: true,
       },
       {
-        name: "frontmatter.title",
+        name: "frontmatter.name",
         label: "Título",
         component: "text",
       },
@@ -320,12 +320,9 @@ export default function BlogTemplate(props) {
             name: "items",
             description: "Itens especificações do produto",
             component: "group-list",
-            itemProps: (item) => (
-              console.log("TABELA", item),
-              {
-                label: item?.label,
-              }
-            ),
+            itemProps: (item) => ({
+              label: item?.label,
+            }),
             defaultItem: () => ({
               title: "Novo link",
             }),
@@ -370,7 +367,9 @@ export default function BlogTemplate(props) {
     return date.toDateString().slice(4);
   }
 
-  const title = post.frontmatter.title;
+  const title = post.frontmatter.name;
+  console.log("TITULO", title);
+  console.log("AQUISDAI", post.frontmatter);
   const description = post.frontmatter.description;
   const galleries = post.frontmatter.galleries;
   const colors = galleries?.map((gallery) => gallery?.color);

@@ -9,7 +9,7 @@ category: Merch
 subcategory: Merch
 type: simple
 availability: in-stock
-main_image: /static/img/products/dt3-bolsa/dt3-bolsa.png
+main_image: ../../../../static/img/products/dt3-bolsa/dt3-bolsa.png
 description: >-
   • Estrutura de Metal.
 
@@ -32,18 +32,16 @@ description: >-
   [Fazer Download do Manual de
   Instruções](https://drive.google.com/open?id=1ciDsM446JU9ELzHeCzmWRduGqkkbOzIM)
 featured_image:
-  desktop_image: /static/img/banner/product/dt3-bolsa/dt3-bolsa.png
+  desktop_image: ../../../../static/img/banner/product/dt3-bolsa/dt3-bolsa.png
 galleries:
   - id: 205226
     color: Red
     availability: in-stock
     slides:
-      - image: /static/img/products/dt3-bolsa/dt3-bolsa.png
-      - image: /static/img/products/dt3-bolsa/dt3-bolsa-01.png
+      - image: ../../../../static/img/products/dt3-bolsa/dt3-bolsa.png
+      - image: ../../../../static/img/products/dt3-bolsa/dt3-bolsa-01.png
 specs: null
 price:
   regular: 1169.91
   boleto: 1299.9
-date: '2021-06-07T00:00:00Z'
-author: DT3
 ---

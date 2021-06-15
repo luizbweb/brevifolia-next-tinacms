@@ -1,5 +1,5 @@
 ---
-title: Cadeira Gamer DT3Sports Jaguar
+title: ''
 id: 102278
 link: /racing-series/cadeira-gamer-dt3sports-jaguar
 name: Cadeira Gamer DT3Sports Jaguar
@@ -9,7 +9,7 @@ category: Cadeira
 subcategory: Racing Series
 availability: in-stock
 type: variable
-main_image: /static/img/products/jaguar/jaguar.jpg
+main_image: ../../../../static/img/products/jaguar/jaguar.jpg
 description: >-
   • Apoio de braço 2D ajustável.
 
@@ -25,98 +25,98 @@ price:
   regular: 1499.9
   boleto: 1349.91
 featured_image:
-  desktop_image: /static/img/uploads/products/featured/1-intro-jaguar-desktop.jpg
-  mobile_image: /static/img/banner/product/jaguar/jaguar-main-banner__mobile.jpg
+  desktop_image: ../../../../static/img/uploads/products/featured/1-intro-jaguar-desktop.jpg
+  mobile_image: ../../../../static/img/banner/product/jaguar/jaguar-main-banner__mobile.jpg
 galleries:
   - id: 102284
     color: Red
     color_code: '#F8002E'
     availability: in-stock
     slides:
-      - image: /static/img/products/jaguar/red/jaguar-00.jpg
-      - image: /static/img/products/jaguar/red/jaguar-01.jpg
-      - image: /static/img/products/jaguar/red/jaguar-02.jpg
-      - image: /static/img/products/jaguar/red/jaguar-03.jpg
-      - image: /static/img/products/jaguar/red/jaguar-04.jpg
-      - image: /static/img/products/jaguar/red/jaguar-05.jpg
-      - image: /static/img/products/jaguar/red/jaguar-06.jpg
-      - image: /static/img/products/jaguar/red/jaguar-07.jpg
+      - image: ../../../../static/img/products/jaguar/red/jaguar-00.jpg
+      - image: ../../../../static/img/products/jaguar/red/jaguar-01.jpg
+      - image: ../../../../static/img/products/jaguar/red/jaguar-02.jpg
+      - image: ../../../../static/img/products/jaguar/red/jaguar-03.jpg
+      - image: ../../../../static/img/products/jaguar/red/jaguar-04.jpg
+      - image: ../../../../static/img/products/jaguar/red/jaguar-05.jpg
+      - image: ../../../../static/img/products/jaguar/red/jaguar-06.jpg
+      - image: ../../../../static/img/products/jaguar/red/jaguar-07.jpg
   - id: 105219
     color: Grey
     color_code: '#BFBFBF'
     availability: in-stock
     slides:
-      - image: /static/img/products/jaguar/grey/jaguar-00.jpg
-      - image: /static/img/products/jaguar/grey/jaguar-01.jpg
-      - image: /static/img/products/jaguar/grey/jaguar-02.jpg
-      - image: /static/img/products/jaguar/grey/jaguar-03.jpg
-      - image: /static/img/products/jaguar/grey/jaguar-04.jpg
-      - image: /static/img/products/jaguar/grey/jaguar-05.jpg
-      - image: /static/img/products/jaguar/grey/jaguar-06.jpg
-      - image: /static/img/products/jaguar/grey/jaguar-07.jpg
+      - image: ../../../../static/img/products/jaguar/grey/jaguar-00.jpg
+      - image: ../../../../static/img/products/jaguar/grey/jaguar-01.jpg
+      - image: ../../../../static/img/products/jaguar/grey/jaguar-02.jpg
+      - image: ../../../../static/img/products/jaguar/grey/jaguar-03.jpg
+      - image: ../../../../static/img/products/jaguar/grey/jaguar-04.jpg
+      - image: ../../../../static/img/products/jaguar/grey/jaguar-05.jpg
+      - image: ../../../../static/img/products/jaguar/grey/jaguar-06.jpg
+      - image: ../../../../static/img/products/jaguar/grey/jaguar-07.jpg
   - id: 102281
     color: Black
     color_code: '#1D1D1D'
     availability: in-stock
     slides:
-      - image: /static/img/products/jaguar/dark-grey/jaguar-00.jpg
-      - image: /static/img/products/jaguar/dark-grey/jaguar-01.jpg
-      - image: /static/img/products/jaguar/dark-grey/jaguar-02.jpg
-      - image: /static/img/products/jaguar/dark-grey/jaguar-03.jpg
-      - image: /static/img/products/jaguar/dark-grey/jaguar-04.jpg
-      - image: /static/img/products/jaguar/dark-grey/jaguar-05.jpg
-      - image: /static/img/products/jaguar/dark-grey/jaguar-06.jpg
-      - image: /static/img/products/jaguar/dark-grey/jaguar-07.jpg
+      - image: ../../../../static/img/products/jaguar/dark-grey/jaguar-00.jpg
+      - image: ../../../../static/img/products/jaguar/dark-grey/jaguar-01.jpg
+      - image: ../../../../static/img/products/jaguar/dark-grey/jaguar-02.jpg
+      - image: ../../../../static/img/products/jaguar/dark-grey/jaguar-03.jpg
+      - image: ../../../../static/img/products/jaguar/dark-grey/jaguar-04.jpg
+      - image: ../../../../static/img/products/jaguar/dark-grey/jaguar-05.jpg
+      - image: ../../../../static/img/products/jaguar/dark-grey/jaguar-06.jpg
+      - image: ../../../../static/img/products/jaguar/dark-grey/jaguar-07.jpg
   - id: 106437
     color: Blue
     color_code: '#0433BF'
     availability: in-stock
     slides:
-      - image: /static/img/products/jaguar/blue/jaguar-00.jpg
-      - image: /static/img/products/jaguar/blue/jaguar-01.jpg
-      - image: /static/img/products/jaguar/blue/jaguar-02.jpg
-      - image: /static/img/products/jaguar/blue/jaguar-03.jpg
-      - image: /static/img/products/jaguar/blue/jaguar-04.jpg
-      - image: /static/img/products/jaguar/blue/jaguar-05.jpg
-      - image: /static/img/products/jaguar/blue/jaguar-06.jpg
-      - image: /static/img/products/jaguar/blue/jaguar-07.jpg
+      - image: ../../../../static/img/products/jaguar/blue/jaguar-00.jpg
+      - image: ../../../../static/img/products/jaguar/blue/jaguar-01.jpg
+      - image: ../../../../static/img/products/jaguar/blue/jaguar-02.jpg
+      - image: ../../../../static/img/products/jaguar/blue/jaguar-03.jpg
+      - image: ../../../../static/img/products/jaguar/blue/jaguar-04.jpg
+      - image: ../../../../static/img/products/jaguar/blue/jaguar-05.jpg
+      - image: ../../../../static/img/products/jaguar/blue/jaguar-06.jpg
+      - image: ../../../../static/img/products/jaguar/blue/jaguar-07.jpg
 slides:
   - title: Racing Series
     link: /racing-series
-    image: /static/img/categories/racing-series.svg
+    image: ../../../../static/img/categories/racing-series.svg
   - title: Elise
     link: /racing-series/cadeira-gamer-dt3sports-elise
-    image: /static/img/products/elise/elise.svg
+    image: ../../../../static/img/products/elise/elise.svg
   - title: Elise Fabric
     link: /racing-series/cadeira-gamer-dt3sports-elise-fabric
-    image: /static/img/products/elise-fabric/elise-fabric.svg
+    image: ../../../../static/img/products/elise-fabric/elise-fabric.svg
   - title: Elise Flamengo
     link: /racing-series/cadeira-gamer-dt3sports-elise-flamengo
-    image: /static/img/products/elise-flamengo/elise-flamengo.svg
+    image: ../../../../static/img/products/elise-flamengo/elise-flamengo.svg
   - title: Pixel
     link: /racing-series/cadeira-gamer-dt3sports-rgb-pixel
-    image: /static/img/products/pixel/pixel.svg
+    image: ../../../../static/img/products/pixel/pixel.svg
   - title: Estelar
     link: /racing-series/cadeira-gamer-dt3sports-rgb-estelar
-    image: /static/img/products/estelar/estelar.svg
+    image: ../../../../static/img/products/estelar/estelar.svg
   - title: Jaguar
     link: /racing-series/cadeira-gamer-dt3sports-jaguar
-    image: /static/img/products/jaguar/jaguar.svg
+    image: ../../../../static/img/products/jaguar/jaguar.svg
   - title: Mizano
     link: /racing-series/cadeira-gamer-dt3sports-mizano-fabric
-    image: /static/img/products/mizano/mizano.svg
+    image: ../../../../static/img/products/mizano/mizano.svg
   - title: Módena
     link: /racing-series/cadeira-gamer-dt3sports-modena
-    image: /static/img/products/modena/modena.svg
+    image: ../../../../static/img/products/modena/modena.svg
   - title: Ravena
     link: /racing-series/cadeira-gamer-dt3sports-ravena
-    image: /static/img/products/ravena/ravena.svg
+    image: ../../../../static/img/products/ravena/ravena.svg
   - title: Romeo
     link: /racing-series/cadeira-gamer-dt3sports-romeo-tecido
-    image: /static/img/products/romeo/romeo.svg
+    image: ../../../../static/img/products/romeo/romeo.svg
   - title: Pandora
     link: /racing-series/cadeira-gamer-dt3sports-pandora
-    image: /static/img/products/pandora/pandora.svg
+    image: ../../../../static/img/products/pandora/pandora.svg
 menu:
   items:
     - text: Design
@@ -139,18 +139,18 @@ menu:
       link: '#especificacoes'
 details:
   - title: Almofadas DT3
-    image: /static/img/banner/product/shared/details/almofadas-dt3.svg
+    image: ../../../../static/img/banner/product/shared/details/almofadas-dt3.svg
   - title: Espuma Injetada
-    image: /static/img/banner/product/shared/details/espuma-injetada.svg
+    image: ../../../../static/img/banner/product/shared/details/espuma-injetada.svg
   - title: Braço 2D
-    image: /static/img/banner/product/shared/details/braco-2d.svg
+    image: ../../../../static/img/banner/product/shared/details/braco-2d.svg
   - title: Inclinação
-    image: /static/img/banner/product/shared/details/inclinacao.svg
+    image: ../../../../static/img/banner/product/shared/details/inclinacao.svg
   - title: Roda Nylon
-    image: /static/img/banner/product/shared/details/rodas-65.svg
+    image: ../../../../static/img/banner/product/shared/details/rodas-65.svg
 specs:
-  front: /static/img/products/jaguar/jaguar-specs-frontal.svg
-  side: /static/img/products/jaguar/jaguar-specs-lateral.svg
+  front: ../../../../static/img/products/jaguar/jaguar-specs-frontal.svg
+  side: ../../../../static/img/products/jaguar/jaguar-specs-lateral.svg
   items:
     - key: coating
       label: Revestimento
@@ -271,7 +271,8 @@ blocks:
       background_color: '#000000'
       stretch: false
       mobile_card: true
-      background_image: /static/img/uploads/banner/background/2-material-jaguar-desktop.jpg
+      background_image: >-
+        ../../../../static/img/uploads/banner/background/2-material-jaguar-desktop.jpg
       height: 60vh
   - _template: BannerBlock
     banner:
@@ -307,7 +308,8 @@ blocks:
       debug: false
       vertical_alignment: center
       horizontal_alignment: flex-start
-      background_image: /static/img/uploads/banner/background/3-almofada-jaguar-desktop.jpg
+      background_image: >-
+        ../../../../static/img/uploads/banner/background/3-almofada-jaguar-desktop.jpg
       height: 60vh
   - _template: BannerBlock
     banner:
@@ -316,13 +318,15 @@ blocks:
       vertical_alignment: center
       id: reclinio
       mobile_card: true
-      background_image: /static/img/uploads/banner/background/4-reclino-jaguar-desktop.jpg
+      background_image: >-
+        ../../../../static/img/uploads/banner/background/4-reclino-jaguar-desktop.jpg
       height: 60vh
   - _template: BannerBlock
     banner:
       id: rodas
       full_width: true
-      background_image: /static/img/uploads/banner/background/4-rodas-jaguar-desktop.jpg
+      background_image: >-
+        ../../../../static/img/uploads/banner/background/4-rodas-jaguar-desktop.jpg
       blocks: []
       horizontal_alignment: center
       vertical_alignment: center
@@ -335,7 +339,8 @@ blocks:
       full_width: true
       vertical_alignment: center
       mobile_card: true
-      background_image: /static/img/uploads/banner/background/5-couro-jaguar-desktop.jpg
+      background_image: >-
+        ../../../../static/img/uploads/banner/background/5-couro-jaguar-desktop.jpg
       height: 60vh
   - _template: BannerBlock
     banner:
@@ -345,7 +350,8 @@ blocks:
       horizontal_alignment: flex-start
       blocks: []
       mobile_card: true
-      background_image: /static/img/uploads/banner/background/6-garantia-jaguar-desktop.jpg
+      background_image: >-
+        ../../../../static/img/uploads/banner/background/6-garantia-jaguar-desktop.jpg
       height: 60vh
 keywords: >-
   cadeira, gamer, jogar, setup, couro, pu, reclinio 180, graus, braço, 2d, de,

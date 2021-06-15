@@ -1,5 +1,5 @@
 ---
-title: Cadeira Gamer DT3sports RGB Pixel
+title: ''
 id: 105535
 link: /racing-series/cadeira-gamer-dt3sports-rgb-pixel
 name: Cadeira Gamer DT3sports RGB Pixel
@@ -9,7 +9,7 @@ category: Cadeira
 subcategory: Racing Series
 type: simple
 availability: in-stock
-main_image: /static/img/products/pixel/pixel.jpg
+main_image: ../../../../static/img/products/pixel/pixel.jpg
 description: >-
   A Cadeira RGB Pixel é exclusiva no Brasil e totalmente personalizada! As
   medidas da cadeira foram reduzidas, atingindo uma melhor ergonomia para
@@ -44,55 +44,55 @@ galleries:
     color: RGB
     color_code: 'linear-gradient(55deg, rgb(13, 62, 199) 0%, rgb(235, 11, 96) 100%)'
     slides:
-      - image: /static/img/products/pixel/pixel-00.jpg
-      - image: /static/img/products/pixel/pixel-01.jpg
-      - image: /static/img/products/pixel/pixel-02.jpg
-      - image: /static/img/products/pixel/pixel-03.jpg
-      - image: /static/img/products/pixel/pixel-04.jpg
-      - image: /static/img/products/pixel/pixel-05.jpg
-      - image: /static/img/products/pixel/pixel-06.jpg
-      - image: /static/img/products/pixel/pixel-07.jpg
-      - image: /static/img/products/pixel/pixel-08.jpg
-      - image: /static/img/products/pixel/pixel-09.jpg
-      - image: /static/img/products/pixel/pixel-10.jpg
-      - image: /static/img/products/pixel/pixel-11.jpg
+      - image: ../../../../static/img/products/pixel/pixel-00.jpg
+      - image: ../../../../static/img/products/pixel/pixel-01.jpg
+      - image: ../../../../static/img/products/pixel/pixel-02.jpg
+      - image: ../../../../static/img/products/pixel/pixel-03.jpg
+      - image: ../../../../static/img/products/pixel/pixel-04.jpg
+      - image: ../../../../static/img/products/pixel/pixel-05.jpg
+      - image: ../../../../static/img/products/pixel/pixel-06.jpg
+      - image: ../../../../static/img/products/pixel/pixel-07.jpg
+      - image: ../../../../static/img/products/pixel/pixel-08.jpg
+      - image: ../../../../static/img/products/pixel/pixel-09.jpg
+      - image: ../../../../static/img/products/pixel/pixel-10.jpg
+      - image: ../../../../static/img/products/pixel/pixel-11.jpg
 slides:
   - title: Racing Series
     link: /racing-series
-    image: /static/img/categories/racing-series.svg
+    image: ../../../../static/img/categories/racing-series.svg
   - title: Elise
     link: /racing-series/cadeira-gamer-dt3sports-elise
-    image: /static/img/products/elise/elise.svg
+    image: ../../../../static/img/products/elise/elise.svg
   - title: Elise Fabric
     link: /racing-series/cadeira-gamer-dt3sports-elise-fabric
-    image: /static/img/products/elise-fabric/elise-fabric.svg
+    image: ../../../../static/img/products/elise-fabric/elise-fabric.svg
   - title: Elise Flamengo
     link: /racing-series/cadeira-gamer-dt3sports-elise-flamengo
-    image: /static/img/products/elise-flamengo/elise-flamengo.svg
+    image: ../../../../static/img/products/elise-flamengo/elise-flamengo.svg
   - title: Pixel
     link: /racing-series/cadeira-gamer-dt3sports-rgb-pixel
-    image: /static/img/products/pixel/pixel.svg
+    image: ../../../../static/img/products/pixel/pixel.svg
   - title: Estelar
     link: /racing-series/cadeira-gamer-dt3sports-rgb-estelar
-    image: /static/img/products/estelar/estelar.svg
+    image: ../../../../static/img/products/estelar/estelar.svg
   - title: Jaguar
     link: /racing-series/cadeira-gamer-dt3sports-jaguar
-    image: /static/img/products/jaguar/jaguar.svg
+    image: ../../../../static/img/products/jaguar/jaguar.svg
   - title: Mizano
     link: /racing-series/cadeira-gamer-dt3sports-mizano-fabric
-    image: /static/img/products/mizano/mizano.svg
+    image: ../../../../static/img/products/mizano/mizano.svg
   - title: Módena
     link: /racing-series/cadeira-gamer-dt3sports-modena
-    image: /static/img/products/modena/modena.svg
+    image: ../../../../static/img/products/modena/modena.svg
   - title: Ravena
     link: /racing-series/cadeira-gamer-dt3sports-ravena
-    image: /static/img/products/ravena/ravena.svg
+    image: ../../../../static/img/products/ravena/ravena.svg
   - title: Romeo
     link: /racing-series/cadeira-gamer-dt3sports-romeo-tecido
-    image: /static/img/products/romeo/romeo.svg
+    image: ../../../../static/img/products/romeo/romeo.svg
   - title: Pandora
     link: /racing-series/cadeira-gamer-dt3sports-pandora
-    image: /static/img/products/pandora/pandora.svg
+    image: ../../../../static/img/products/pandora/pandora.svg
 menu:
   items:
     - text: Bateria
@@ -116,11 +116,11 @@ menu:
     - text: Tabela detalhada
       link: '#tabela'
 featured_image:
-  desktop_image: /static/img/uploads/products/featured/
-  mobile_image: /static/img/banner/product/pixel/pixel-main-banner__mobile.jpg
+  desktop_image: ../../../../static/img/uploads/products/featured/
+  mobile_image: ../../../../static/img/banner/product/pixel/pixel-main-banner__mobile.jpg
 specs:
-  front: /static/img/products/pixel/pixel-specs-frontal.svg
-  side: /static/img/products/pixel/pixel-specs-lateral.svg
+  front: ../../../../static/img/products/pixel/pixel-specs-frontal.svg
+  side: ../../../../static/img/products/pixel/pixel-specs-lateral.svg
   items:
     - key: coating
       label: Revestimento
@@ -232,7 +232,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: /static/img/uploads/banner/image/2-teaser-pixel-desktop.jpg
+                desktop_image: >-
+                  ../../../../static/img/uploads/banner/image/2-teaser-pixel-desktop.jpg
       id: design
   - _template: BannerBlock
     banner:
@@ -242,7 +243,8 @@ blocks:
       vertical_alignment: center
       mobile_card: true
       height: 60vh
-      background_image: /static/img/uploads/banner/background/4-estatura-pixel-desktop.jpg
+      background_image: >-
+        ../../../../static/img/uploads/banner/background/4-estatura-pixel-desktop.jpg
   - _template: BannerBlock
     banner:
       id: reclinio
@@ -251,7 +253,8 @@ blocks:
       stretch: true
       mobile_card: true
       height: 60vh
-      background_image: /static/img/uploads/banner/background/6-reclino-pixel-desktop.jpg
+      background_image: >-
+        ../../../../static/img/uploads/banner/background/6-reclino-pixel-desktop.jpg
   - _template: BannerBlock
     banner:
       id: bateria
@@ -260,7 +263,8 @@ blocks:
       mobile_card: true
       vertical_alignment: center
       background_color: '#000000'
-      background_image: /static/img/uploads/banner/background/2-bateria-estelar-desktop.jpg
+      background_image: >-
+        ../../../../static/img/uploads/banner/background/2-bateria-estelar-desktop.jpg
       height: 60vh
   - _template: BannerBlock
     banner:
@@ -270,7 +274,8 @@ blocks:
       vertical_alignment: center
       mobile_card: true
       height: 60vh
-      background_image: /static/img/uploads/banner/background/5-espuma-pixel-desktop.jpg
+      background_image: >-
+        ../../../../static/img/uploads/banner/background/5-espuma-pixel-desktop.jpg
   - _template: BannerBlock
     banner:
       id: revestimento
@@ -280,7 +285,8 @@ blocks:
       background_color: '#000000'
       vertical_alignment: center
       height: 60vh
-      background_image: /static/img/uploads/banner/background/8-couro-pixel-desktop.jpg
+      background_image: >-
+        ../../../../static/img/uploads/banner/background/8-couro-pixel-desktop.jpg
   - _template: BannerBlock
     banner:
       id: almofadas
@@ -290,12 +296,14 @@ blocks:
       mobile_card: true
       vertical_alignment: center
       height: 60vh
-      background_image: /static/img/uploads/banner/background/7-almofadas-pixel-desktop.jpg
+      background_image: >-
+        ../../../../static/img/uploads/banner/background/7-almofadas-pixel-desktop.jpg
   - _template: BannerBlock
     banner:
       id: base
       height: 60vh
-      background_image: /static/img/uploads/banner/background/9-base-pixel-desktop.jpg
+      background_image: >-
+        ../../../../static/img/uploads/banner/background/9-base-pixel-desktop.jpg
   - _template: BannerBlock
     banner:
       id: garantia
@@ -305,7 +313,8 @@ blocks:
       background_color: '#000000'
       blocks: []
       height: 60vh
-      background_image: /static/img/uploads/banner/background/10-garantia-pixel-desktop.jpg
+      background_image: >-
+        ../../../../static/img/uploads/banner/background/10-garantia-pixel-desktop.jpg
 keywords: >-
   cadeira, infantil, gamer, jogar, setup, estelar, pixel, rgb, luzes, fita, led,
   braço, braços, 2d, reclinio, 180, graus, de, para, com

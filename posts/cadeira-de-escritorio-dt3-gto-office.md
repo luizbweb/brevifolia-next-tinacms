@@ -9,7 +9,7 @@ category: Cadeira
 subcategory: Office Series
 type: simple
 availability: in-stock
-main_image: /static/img/products/gto-office/gto-office.jpg
+main_image: ../../../../static/img/products/gto-office/gto-office.jpg
 description: >-
   • Couro PU.
 
@@ -37,47 +37,49 @@ description: >-
   [Fazer Download do Manual de
   Instruções](https://drive.google.com/file/d/1y5oMJEpGANYNm2GusZiGwWScnfmoj2ID/view?usp=sharing)
 featured_image:
-  desktop_image: /static/img/uploads/products/featured/MicrosoftTeams-image (1).png
-  mobile_image: /static/img/banner/product/gto/main-banner__desktop.jpg
+  desktop_image: >-
+    ../../../../static/img/uploads/products/featured/MicrosoftTeams-image
+    (1).png
+  mobile_image: ../../../../static/img/banner/product/gto/main-banner__desktop.jpg
 galleries:
   - id: 306
     color: Black
     availability: in-stock
     slides:
-      - image: /static/img/products/gto-office/black/gto-office-00.jpg
-      - image: /static/img/products/gto-office/black/gto-office-01.jpg
-      - image: /static/img/products/gto-office/black/gto-office-02.jpg
-      - image: /static/img/products/gto-office/black/gto-office-03.jpg
-      - image: /static/img/products/gto-office/black/gto-office-04.jpg
-      - image: /static/img/products/gto-office/black/gto-office-05.jpg
-      - image: /static/img/products/gto-office/black/gto-office-06.jpg
-      - image: /static/img/products/gto-office/black/gto-office-07.jpg
-      - image: /static/img/products/gto-office/black/gto-office-08.jpg
-      - image: /static/img/products/gto-office/black/gto-office-09.jpg
-      - image: /static/img/products/gto-office/black/gto-office-010.jpg
-      - image: /static/img/products/gto-office/black/gto-office-011.jpg
+      - image: ../../../../static/img/products/gto-office/black/gto-office-00.jpg
+      - image: ../../../../static/img/products/gto-office/black/gto-office-01.jpg
+      - image: ../../../../static/img/products/gto-office/black/gto-office-02.jpg
+      - image: ../../../../static/img/products/gto-office/black/gto-office-03.jpg
+      - image: ../../../../static/img/products/gto-office/black/gto-office-04.jpg
+      - image: ../../../../static/img/products/gto-office/black/gto-office-05.jpg
+      - image: ../../../../static/img/products/gto-office/black/gto-office-06.jpg
+      - image: ../../../../static/img/products/gto-office/black/gto-office-07.jpg
+      - image: ../../../../static/img/products/gto-office/black/gto-office-08.jpg
+      - image: ../../../../static/img/products/gto-office/black/gto-office-09.jpg
+      - image: ../../../../static/img/products/gto-office/black/gto-office-010.jpg
+      - image: ../../../../static/img/products/gto-office/black/gto-office-011.jpg
 slides:
   - title: Office Series
     link: /office-series
-    image: /static/img/categories/office-series.svg
+    image: ../../../../static/img/categories/office-series.svg
   - title: Spider
     link: /office-series/cadeira-de-escritorio-dt3-spider/
-    image: /static/img/products/spider/spider.svg
+    image: ../../../../static/img/products/spider/spider.svg
   - title: Gamma Office
     link: /office-series/cadeira-de-escritorio-dt3-gamma-office/
-    image: /static/img/products/gamma-office/gamma-office.svg
+    image: ../../../../static/img/products/gamma-office/gamma-office.svg
   - title: GTO
     link: /office-series/cadeira-de-escritorio-dt3-gto-office/
-    image: /static/img/products/gto/gto.svg
+    image: ../../../../static/img/products/gto/gto.svg
   - title: GTS Black
     link: /office-series/cadeira-de-escritorio-dt3-gts-black/
-    image: /static/img/products/gts-se/gts-se.svg
+    image: ../../../../static/img/products/gts-se/gts-se.svg
   - title: GTX Special Edition
     link: /office-series/cadeira-de-escritorio-dt3-gtx-se/
-    image: /static/img/products/gtx-se/gtx-se.svg
+    image: ../../../../static/img/products/gtx-se/gtx-se.svg
 specs:
-  front: /static/img/products/gto-office/gto-office-specs-frontal.svg
-  side: /static/img/products/gto-office/gto-office-specs-lateral.svg
+  front: ../../../../static/img/products/gto-office/gto-office-specs-frontal.svg
+  side: ../../../../static/img/products/gto-office/gto-office-specs-lateral.svg
   items:
     - key: coating
       label: Revestimento
@@ -178,8 +180,11 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: /static/img/uploads/banner/image/Mecanismo Borboleta.png
-                mobile_image: /static/img/banner/product/gts/mecanismo__mobile.jpg
+                desktop_image: >-
+                  ../../../../static/img/uploads/banner/image/Mecanismo
+                  Borboleta.png
+                mobile_image: >-
+                  ../../../../static/img/banner/product/gts/mecanismo__mobile.jpg
           stretch: true
         - content:
             - title: Mecanismo Borboleta
@@ -225,8 +230,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: /static/img/uploads/banner/image/Rodas de 65mm.png
-                mobile_image: /static/img/uploads/banner/image/Rodas de 65mm.png
+                desktop_image: ../../../../static/img/uploads/banner/image/Rodas de 65mm.png
+                mobile_image: ../../../../static/img/uploads/banner/image/Rodas de 65mm.png
           stretch: true
       full_width: true
       mobile_card: true
@@ -239,8 +244,8 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: /static/img/uploads/banner/image/Base Reforçada.png
-                mobile_image: /static/img/banner/product/gts/base__mobile.jpg
+                desktop_image: ../../../../static/img/uploads/banner/image/Base Reforçada.png
+                mobile_image: ../../../../static/img/banner/product/gts/base__mobile.jpg
           stretch: true
         - content:
             - title: Base reforçada
@@ -276,8 +281,9 @@ blocks:
               objectPosition: center
               _template: ImageBlock
               image:
-                desktop_image: /static/img/banner/product/gts/garantia__desktop.png
-                mobile_image: /static/img/banner/product/gts/garantia__mobile.jpg
+                desktop_image: >-
+                  ../../../../static/img/banner/product/gts/garantia__desktop.png
+                mobile_image: ../../../../static/img/banner/product/gts/garantia__mobile.jpg
           stretch: true
         - content:
             - title: 'Todas as cadeiras da Gaming Series contam com:'

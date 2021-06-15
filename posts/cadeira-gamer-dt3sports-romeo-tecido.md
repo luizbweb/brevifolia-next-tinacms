@@ -1,5 +1,5 @@
 ---
-title: Cadeira Gamer DT3sports Romeo Tecido
+title: ''
 id: 16399
 link: /racing-series/cadeira-gamer-dt3sports-romeo-tecido
 name: Cadeira Gamer DT3sports Romeo Tecido
@@ -8,15 +8,15 @@ micro_name: Romeo
 category: Cadeira
 subcategory: Racing Series
 type: variable
-availability: in-stock
-main_image: /static/img/products/romeo/romeo.jpg
+availability: no-stock
+main_image: ../../../../static/img/products/romeo/romeo.jpg
 description: "•\_**Modelo exclusivo da Kabum**\_[clique aqui para comprar](https://www.kabum.com.br/cgi-local/site/listagem/listagem.cgi?string=Romeo&btnG=).\n\n  \n• Apoio de braço 3D ajustável.\n\n  \n• Estrutura 100% de aço reforçado para suportar maior peso.\n\n  \n• Revestimento de tecido.\n\n  \n• Rodas especiais de 65mm super resistentes para piso ou carpete.\n\n  \n• Duas almofadas inclusas para apoio lombar e pescoço. Ambas com logos bordados.\n\n  \n[ Compare este produto com outros modelos clicando aqui](https://dt3sports.com.br/comparativo-modelos/).\n\n[Fazer Download do Manual de Instruções](https://drive.google.com/file/d/138Jcbn_otWSrish8Iqp_Z9cvxNA4bwOr/view?usp=sharing)"
 price:
   regular: 2222.11
   boleto: 1999.9
 featured_image:
-  desktop_image: /static/img/uploads/products/featured/romeo-intro.png
-  mobile_image: /static/img/banner/product/romeo/main-banner__mobile.jpg
+  desktop_image: ../../../../static/img/uploads/products/featured/romeo-intro.png
+  mobile_image: ../../../../static/img/banner/product/romeo/main-banner__mobile.jpg
 galleries:
   - id: 16435
     color: Red
@@ -25,21 +25,21 @@ galleries:
       70%, #1D1D1D 70%, #1D1D1D 100%)
     availability: no-stock
     slides:
-      - image: /static/img/products/romeo/red/romeo-00.jpg
-      - image: /static/img/products/romeo/red/romeo-01.jpg
-      - image: /static/img/products/romeo/red/romeo-02.jpg
-      - image: /static/img/products/romeo/red/romeo-03.jpg
-      - image: /static/img/products/romeo/red/romeo-04.jpg
+      - image: ../../../../static/img/products/romeo/red/romeo-00.jpg
+      - image: ../../../../static/img/products/romeo/red/romeo-01.jpg
+      - image: ../../../../static/img/products/romeo/red/romeo-02.jpg
+      - image: ../../../../static/img/products/romeo/red/romeo-03.jpg
+      - image: ../../../../static/img/products/romeo/red/romeo-04.jpg
   - id: 16434
     color: Grey
     color_code: '#BFBFBF'
     availability: no-stock
     slides:
-      - image: /static/img/products/romeo/grey/romeo-00.jpg
-      - image: /static/img/products/romeo/grey/romeo-01.jpg
-      - image: /static/img/products/romeo/grey/romeo-02.jpg
-      - image: /static/img/products/romeo/grey/romeo-03.jpg
-      - image: /static/img/products/romeo/grey/romeo-04.jpg
+      - image: ../../../../static/img/products/romeo/grey/romeo-00.jpg
+      - image: ../../../../static/img/products/romeo/grey/romeo-01.jpg
+      - image: ../../../../static/img/products/romeo/grey/romeo-02.jpg
+      - image: ../../../../static/img/products/romeo/grey/romeo-03.jpg
+      - image: ../../../../static/img/products/romeo/grey/romeo-04.jpg
   - id: 104058
     color: Fabric Red
     color_code: >-
@@ -47,48 +47,48 @@ galleries:
       70%, #F8002E 70%, #F8002E 100%)
     availability: no-stock
     slides:
-      - image: /static/img/products/romeo/fabric-red/romeo-00.jpg
-      - image: /static/img/products/romeo/fabric-red/romeo-01.jpg
-      - image: /static/img/products/romeo/fabric-red/romeo-02.jpg
-      - image: /static/img/products/romeo/fabric-red/romeo-03.jpg
-      - image: /static/img/products/romeo/fabric-red/romeo-04.jpg
+      - image: ../../../../static/img/products/romeo/fabric-red/romeo-00.jpg
+      - image: ../../../../static/img/products/romeo/fabric-red/romeo-01.jpg
+      - image: ../../../../static/img/products/romeo/fabric-red/romeo-02.jpg
+      - image: ../../../../static/img/products/romeo/fabric-red/romeo-03.jpg
+      - image: ../../../../static/img/products/romeo/fabric-red/romeo-04.jpg
 slides:
   - title: Racing Series
     link: /racing-series
-    image: /static/img/categories/racing-series.svg
+    image: ../../../../static/img/categories/racing-series.svg
   - title: Elise
     link: /racing-series/cadeira-gamer-dt3sports-elise
-    image: /static/img/products/elise/elise.svg
+    image: ../../../../static/img/products/elise/elise.svg
   - title: Elise Fabric
     link: /racing-series/cadeira-gamer-dt3sports-elise-fabric
-    image: /static/img/products/elise-fabric/elise-fabric.svg
+    image: ../../../../static/img/products/elise-fabric/elise-fabric.svg
   - title: Elise Flamengo
     link: /racing-series/cadeira-gamer-dt3sports-elise-flamengo
-    image: /static/img/products/elise-flamengo/elise-flamengo.svg
+    image: ../../../../static/img/products/elise-flamengo/elise-flamengo.svg
   - title: Pixel
     link: /racing-series/cadeira-gamer-dt3sports-rgb-pixel
-    image: /static/img/products/pixel/pixel.svg
+    image: ../../../../static/img/products/pixel/pixel.svg
   - title: Estelar
     link: /racing-series/cadeira-gamer-dt3sports-rgb-estelar
-    image: /static/img/products/estelar/estelar.svg
+    image: ../../../../static/img/products/estelar/estelar.svg
   - title: Jaguar
     link: /racing-series/cadeira-gamer-dt3sports-jaguar
-    image: /static/img/products/jaguar/jaguar.svg
+    image: ../../../../static/img/products/jaguar/jaguar.svg
   - title: Mizano
     link: /racing-series/cadeira-gamer-dt3sports-mizano-fabric
-    image: /static/img/products/mizano/mizano.svg
+    image: ../../../../static/img/products/mizano/mizano.svg
   - title: Módena
     link: /racing-series/cadeira-gamer-dt3sports-modena
-    image: /static/img/products/modena/modena.svg
+    image: ../../../../static/img/products/modena/modena.svg
   - title: Ravena
     link: /racing-series/cadeira-gamer-dt3sports-ravena
-    image: /static/img/products/ravena/ravena.svg
+    image: ../../../../static/img/products/ravena/ravena.svg
   - title: Romeo
     link: /racing-series/cadeira-gamer-dt3sports-romeo-tecido
-    image: /static/img/products/romeo/romeo.svg
+    image: ../../../../static/img/products/romeo/romeo.svg
   - title: Pandora
     link: /racing-series/cadeira-gamer-dt3sports-pandora
-    image: /static/img/products/pandora/pandora.svg
+    image: ../../../../static/img/products/pandora/pandora.svg
 menu:
   items:
     - text: Design
@@ -111,20 +111,20 @@ menu:
       link: '#especificacoes'
 details:
   - title: Almofadas DT3
-    image: /static/img/banner/product/shared/details/almofadas-dt3.svg
+    image: ../../../../static/img/banner/product/shared/details/almofadas-dt3.svg
   - title: Espuma Injetada
-    image: /static/img/banner/product/shared/details/espuma-injetada.svg
+    image: ../../../../static/img/banner/product/shared/details/espuma-injetada.svg
   - title: Braço 3D
-    image: /static/img/banner/product/shared/details/braco-3d.svg
+    image: ../../../../static/img/banner/product/shared/details/braco-3d.svg
   - title: Inclinação
-    image: /static/img/banner/product/shared/details/inclinacao.svg
+    image: ../../../../static/img/banner/product/shared/details/inclinacao.svg
   - title: Base de Aço
-    image: /static/img/banner/product/shared/details/base-aco.svg
+    image: ../../../../static/img/banner/product/shared/details/base-aco.svg
   - title: Rodas de 65mm
-    image: /static/img/banner/product/shared/details/roda-65.svg
+    image: ../../../../static/img/banner/product/shared/details/roda-65.svg
 specs:
-  front: /static/img/products/romeo/romeo-specs-frontal.svg
-  side: /static/img/products/romeo/romeo-specs-lateral.svg
+  front: ../../../../static/img/products/romeo/romeo-specs-frontal.svg
+  side: ../../../../static/img/products/romeo/romeo-specs-lateral.svg
   items:
     - key: coating
       label: Revestimento
@@ -249,7 +249,7 @@ blocks:
       stretch: false
       mobile_card: true
       height: 60vh
-      background_image: /static/img/uploads/banner/background/2-ergonomia.jpg
+      background_image: ../../../../static/img/uploads/banner/background/2-ergonomia.jpg
   - _template: BannerBlock
     banner:
       blocks:
@@ -296,7 +296,7 @@ blocks:
       vertical_alignment: center
       horizontal_alignment: flex-start
       height: 60vh
-      background_image: /static/img/uploads/banner/background/3-material.jpg
+      background_image: ../../../../static/img/uploads/banner/background/3-material.jpg
   - _template: BannerBlock
     banner:
       blocks:
@@ -319,20 +319,21 @@ blocks:
       vertical_alignment: center
       id: mecanismo
       mobile_card: true
-      background_image: /static/img/uploads/banner/background/4-mecanismo.jpg
+      background_image: ../../../../static/img/uploads/banner/background/4-mecanismo.jpg
       height: 60vh
   - _template: BannerBlock
     banner:
       id: almofadas
       full_width: true
-      background_image: /static/img/uploads/banner/background/5-almofadas.jpg
+      background_image: ../../../../static/img/uploads/banner/background/5-almofadas.jpg
       blocks:
         - content:
             - objectFit: contain
               objectPosition: center
               _template: ImageBlock
               image:
-                mobile_image: /static/img/banner/product/romeo/almofadas__mobile.jpg
+                mobile_image: >-
+                  ../../../../static/img/banner/product/romeo/almofadas__mobile.jpg
           width: 120px
       horizontal_alignment: center
       vertical_alignment: center
@@ -366,7 +367,7 @@ blocks:
       full_width: true
       mobile_card: true
       vertical_alignment: center
-      background_image: /static/img/uploads/banner/background/6-rodas.jpg
+      background_image: ../../../../static/img/uploads/banner/background/6-rodas.jpg
       height: 60vh
   - _template: BannerBlock
     banner:
@@ -393,7 +394,7 @@ blocks:
         - horizontalAlignment: center
           verticalAlignment: flex-start
       vertical_alignment: center
-      background_image: /static/img/uploads/banner/background/8-apoio.jpg
+      background_image: ../../../../static/img/uploads/banner/background/8-apoio.jpg
       height: 60vh
   - _template: BannerBlock
     banner:
@@ -421,7 +422,7 @@ blocks:
       vertical_alignment: center
       mobile_card: true
       background_color: '#1D1D1D'
-      background_image: /static/img/uploads/banner/background/9-reclinio.jpg
+      background_image: ../../../../static/img/uploads/banner/background/9-reclinio.jpg
       height: 60vh
   - _template: BannerBlock
     banner:
@@ -446,7 +447,7 @@ blocks:
         - horizontalAlignment: center
           verticalAlignment: flex-start
       mobile_card: true
-      background_image: /static/img/uploads/banner/background/11-produtoesclusivo.jpg
+      background_image: ../../../../static/img/uploads/banner/background/11-produtoesclusivo.jpg
       height: 60vh
   - _template: BannerBlock
     banner:
@@ -478,7 +479,7 @@ blocks:
               _template: ContentBlock
           width: 50%
       mobile_card: true
-      background_image: /static/img/uploads/banner/background/10-garantia.jpg
+      background_image: ../../../../static/img/uploads/banner/background/10-garantia.jpg
       height: 60vh
 keywords: >-
   cadeira, gamer, jogar, setup, tecido, fibra, natural, dacron, reclinio, 180,

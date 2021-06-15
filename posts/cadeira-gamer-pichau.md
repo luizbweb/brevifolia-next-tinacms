@@ -9,7 +9,8 @@ category: Personalizadas
 subcategory: null
 type: simple
 availability: no-stock
-main_image: /static/1-bannerintro-royce-desktop.jpg
+main_image: >-
+  ../../../../static/img/products/cadeira-gamer-pichau/cadeira-gamer-pichau-00.jpg
 description: >-
   • Apoio de braço 4D ajustável.  
 
