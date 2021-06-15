@@ -114,12 +114,9 @@ export default function BlogTemplate(props) {
         label: "Galeria",
         component: "group-list",
         description: "Galeria de Variações",
-        itemProps: (item) => (
-          console.log(item),
-          {
-            label: item.color,
-          }
-        ),
+        itemProps: (item) => ({
+          label: item.color,
+        }),
         defaultItem: () => ({
           id: 0,
         }),
@@ -174,12 +171,9 @@ export default function BlogTemplate(props) {
         label: "Slides",
         component: "group-list",
         description: "Produtos da categoria",
-        itemProps: (item) => (
-          console.log("SLIDES", item),
-          {
-            label: item.title,
-          }
-        ),
+        itemProps: (item) => ({
+          label: item.title,
+        }),
         defaultItem: () => ({
           title: "Novo slide",
         }),
@@ -239,12 +233,9 @@ export default function BlogTemplate(props) {
             name: "items",
             description: "Itens do menu da página de produto",
             component: "group-list",
-            itemProps: (item) => (
-              console.log("ss", item),
-              {
-                label: item.link,
-              }
-            ),
+            itemProps: (item) => ({
+              label: item.link,
+            }),
             defaultItem: () => ({
               title: "Novo link",
             }),
@@ -368,8 +359,6 @@ export default function BlogTemplate(props) {
   }
 
   const title = post.frontmatter.name;
-  console.log("TITULO", title);
-  console.log("AQUISDAI", post.frontmatter);
   const description = post.frontmatter.description;
   const galleries = post.frontmatter.galleries;
   const colors = galleries?.map((gallery) => gallery?.color);
@@ -388,7 +377,6 @@ export default function BlogTemplate(props) {
   const category = post.frontmatter.category;
   const subcategory = post.frontmatter.subcategory;
 
-  console.log("SLIDES", slides);
   React.useEffect(() => {
     if (!galleries) return;
 
