@@ -1,5 +1,5 @@
 ---
-title: 'Cadeira Gamer Elise '
+title: ''
 id: 13528
 link: /racing-series/cadeira-gamer-dt3sports-elise
 name: Cadeira Gamer DT3sports Elise
@@ -25,9 +25,6 @@ description: >-
 
   • Duas almofadas inclusas para apoio lombar e pescoço. Ambas com logos
   bordados.
-
-
-  muito bonita
 
 
   • [Fazer Download do Manual de
