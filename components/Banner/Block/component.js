@@ -148,7 +148,6 @@ export const Block = ({
 const StyledBlock = styled.div`
   display: flex;
   flex-flow: column wrap;
-
   background-color: ${(props) =>
     props.background_color_alpha?.color?.replace(
       ")",
@@ -162,6 +161,16 @@ const StyledBlock = styled.div`
 
   max-width: 100%;
   width: 100%;
+
+  p {
+    font-size: 20px;
+    font-weight: 100;
+  }
+  h2 {
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 0px;
+  }
 
   @media (max-width: 959px) {
     &.screen__desktop {

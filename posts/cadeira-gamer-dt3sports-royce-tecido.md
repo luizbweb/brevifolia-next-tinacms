@@ -283,14 +283,12 @@ blocks:
               _template: TitleBlock
               foreground: '#FFFFFF'
             - content: >-
-                – Espuma injetada de densidade 65g/m³ para durabilidade,
-                ergonomia e conforto.  
-
-                – A alta tecnologia torna a espuma dimensionalmente estável, não
-                perdendo o formato mesmo após longos períodos de uso.
+                Espuma injetada de densidade 65g/m³ para durabilidade, ergonomia
+                e conforto.  
+                 A alta tecnologia torna a espuma dimensionalmente estável, não perdendo o formato mesmo após longos períodos de uso.
               _template: ContentBlock
               foreground: '#FFFFFF'
-          horizontal_alignment: center
+          horizontal_alignment: flex-start
           vertical_alignment: center
       horizontal_alignment: flex-start
       vertical_alignment: stretch
