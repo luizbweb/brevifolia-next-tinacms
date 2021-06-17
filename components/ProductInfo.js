@@ -6,6 +6,7 @@ const Container = styled.div`
   p {
     font-size: 1rem;
     margin-bottom: 12px;
+    font-family: "Open Sans", sans-serif !important;
   }
 `;
 

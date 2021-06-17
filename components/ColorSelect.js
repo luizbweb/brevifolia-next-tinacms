@@ -3,7 +3,11 @@ import React from "react";
 const ColorSelect = ({ options, value, setValue }) => {
   return (
     <select
-      style={{ width: "100%", height: "40px", maxWidth: "432px" }}
+      style={{
+        width: "100%",
+        height: "40px",
+        maxWidth: "432px",
+      }}
       value={value}
       onChange={({ target }) => setValue(target.value)}
     >

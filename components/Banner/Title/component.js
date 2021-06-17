@@ -42,11 +42,15 @@ export const Title = ({
 const StyledTitle = styled.div`
   margin-bottom: 0.35em;
 
-  font-family: "Poppins", sans-serif;
-
   border-width: ${(props) => (props.debug ? "1px" : "0px")};
   border-color: #f50057;
   border-style: solid;
+
+  h2 {
+    /* font-size: 12px !important;
+     */
+    font-family: "Poppins", sans-serif !important;
+  }
 
   @media (max-width: 959px) {
     color: #1d1d1d;

@@ -25,6 +25,10 @@ const CarrouselContainer = styled.div`
 
 const DescriptionContainer = styled.div`
   width: 100%;
+  h1 {
+    font-family: "Poppins", sans-serif !important;
+    color: #a712ff;
+  }
 `;
 
 export default function BlogTemplate(props) {

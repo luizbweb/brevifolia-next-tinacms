@@ -18,7 +18,7 @@ export const Banner = ({
   height,
   debug,
 }) => {
-  console.log(backgroundImage);
+  console.log("ID", id);
   console.log(blocks);
   return (
     <StyledBanner

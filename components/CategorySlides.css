@@ -1,0 +1,14 @@
+.rec.rec-arrow {
+  border: 0px;
+  background-color: #fff !important;
+  box-shadow: unset !important;
+  color: #000 !important;
+}
+/* round buttons on hover */
+.rec.rec-arrow:hover {
+  background-color: transparent !important;
+  outline: none;
+  box-shadow: unset;
+  color: #000 !important;
+  border: 0px;
+}

@@ -90,16 +90,12 @@ menu:
       link: '#construcao'
     - text: Espuma
       link: '#espuma'
-    - text: Rodas
-      link: '#rodas'
     - text: Base
       link: '#base'
     - text: Almofada
       link: '#almofada'
     - text: Garantia
       link: '#garantia'
-    - text: Encosto
-      link: '#reclinio'
     - text: Especificações
       link: '#especificacoes'
 details:

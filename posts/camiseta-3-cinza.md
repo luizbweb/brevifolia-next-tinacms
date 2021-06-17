@@ -9,7 +9,8 @@ category: Camiseta
 subcategory: Merch
 type: simple
 availability: in-stock
-main_image: ../../../../static/img/products/camiseta-3-cinza/merch-dt3-camiseta-3-cinza.jpg
+main_image: >-
+  ../../../../static/img/products/camiseta-3-cinza/merch-dt3-camiseta-3-cinza.jpg
 description: >-
   • Estrutura de Metal.
 

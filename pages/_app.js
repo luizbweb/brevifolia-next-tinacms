@@ -6,6 +6,7 @@ import { MarkdownFieldPlugin } from "react-tinacms-editor";
 import { DateFieldPlugin } from "react-tinacms-date";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import "./_app.css";
+import "../components/CategorySlides.css";
 
 import { CreateBlogPlugin } from "../plugins/markdownCreator";
 

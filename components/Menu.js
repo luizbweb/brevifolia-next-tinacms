@@ -35,7 +35,6 @@ const MenuWrapper = styled.div`
 `;
 
 const Menu = ({ items }) => {
-  console.log("ITEM", items);
   return (
     <>
       <Container>
@@ -43,7 +42,9 @@ const Menu = ({ items }) => {
           {items &&
             items.map((item, index) => (
               <div>
-                <h1>{item.text}</h1>
+                <a href={item.link}>
+                  <h1>{item.text}</h1>
+                </a>
               </div>
             ))}
         </MenuWrapper>

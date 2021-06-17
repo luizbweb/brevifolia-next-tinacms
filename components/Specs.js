@@ -19,10 +19,12 @@ const Container = styled.div`
 const Specs = ({ front, side }) => {
   return (
     <>
-      <Container>
-        {front && <img src={front} alt="" />}
-        {side && <img src={side} alt="" />}
-      </Container>
+      <div id={"especificacoes"}>
+        <Container>
+          {front && <img src={front} alt="" />}
+          {side && <img src={side} alt="" />}
+        </Container>
+      </div>
     </>
   );
 };

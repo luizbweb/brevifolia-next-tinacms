@@ -4,7 +4,7 @@ const MainImage = ({ image }) => {
   console.log(image);
   return (
     <>
-      <div style={{ backgroundColor: "#1d1d1d" }}>
+      <div id={"introducao"} style={{ backgroundColor: "#1d1d1d" }}>
         <img
           src={image}
           alt=""
