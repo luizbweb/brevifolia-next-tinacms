@@ -4,8 +4,11 @@ import { usePlugin } from "tinacms";
 
 import Layout from "../components/Layout";
 import BlogList from "../components/BlogList";
+import Header from "../components/Header";
 
 const Index = ({ jsonFile, allBlogs }) => {
+  const [searchTerm, setSearchTerm] = React.useState("");
+  console.log(`SSD`, searchTerm);
   const formOptions = {
     label: "Site Config",
     fields: [
@@ -35,8 +38,9 @@ const Index = ({ jsonFile, allBlogs }) => {
       siteTitle={data.title}
       siteDescription={data.description}
     >
+      <Header searchTerm={searchTerm} setSearchTerm={setSearchTerm} />
       <section>
-        <BlogList allBlogs={allBlogs} />
+        <BlogList searchTerm={searchTerm} allBlogs={allBlogs} />
       </section>
     </Layout>
   );

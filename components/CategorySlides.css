@@ -12,3 +12,7 @@
   color: #000 !important;
   border: 0px;
 }
+/* hide disabled buttons */
+.rec.rec-arrow:disabled {
+  visibility: hidden;
+}

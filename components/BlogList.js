@@ -17,29 +17,42 @@ const BlogList = (props) => {
     <>
       <ul className="list">
         {posts.length > 1 &&
-          posts.map((post) => (
-            <Link key={post.slug} href={{ pathname: `/blog/${post.slug}` }}>
-              <a>
-                <li>
-                  <div className="hero_image">
-                    <img
-                      src={post.document.data.main_image}
-                      alt={post.document.data.main_image}
-                    />
-                  </div>
-                  <div className="blog__info">
-                    <h2>{post.document.data.name}</h2>
-                    {/* <h3> {reformatDate(post.document.data.date)}</h3> */}
-                    <p>
-                      <ReactMarkdown
-                        source={truncateSummary(post.document.content)}
+          posts
+            .filter((post) => {
+              if (props.searchTerm == "") {
+                return post;
+              }
+              if (
+                post.document.data.name
+                  .toLowerCase()
+                  .includes(props.searchTerm.toLowerCase())
+              ) {
+                return post;
+              }
+            })
+            .map((post) => (
+              <Link key={post.slug} href={{ pathname: `/blog/${post.slug}` }}>
+                <a>
+                  <li>
+                    <div className="hero_image">
+                      <img
+                        src={post.document.data.main_image}
+                        alt={post.document.data.main_image}
                       />
-                    </p>
-                  </div>
-                </li>
-              </a>
-            </Link>
-          ))}
+                    </div>
+                    <div className="blog__info">
+                      <h2>{post.document.data.name}</h2>
+                      {/* <h3> {reformatDate(post.document.data.date)}</h3> */}
+                      <p>
+                        <ReactMarkdown
+                          source={truncateSummary(post.document.content)}
+                        />
+                      </p>
+                    </div>
+                  </li>
+                </a>
+              </Link>
+            ))}
       </ul>
       <style jsx>
         {`

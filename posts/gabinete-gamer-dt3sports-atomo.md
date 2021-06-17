@@ -11,11 +11,18 @@ type: simple
 availability: in-stock
 main_image: ../../../../static/img/products/atomo/atomo.jpg
 description: >-
-  O DT3sports Atomo é um gabinete excepcional. Seu PSU shroud moderno apresenta
-  espaço para mostrar sua fonte enquanto esconde aqueles cabos/fios feios,
-  deixando seu espaço mais limpo e bonito. Possui um belo painel frontal de
-  vidro temperado 4mm com padrão geométrico, lateral de acrílico transparente e
-  ainda traz um fan traseiro incluso. Produto exclusivo da QueroPreço.
+  O DT3sports Atomo é um gabinete excepcional. 
+
+
+  Seu PSU shroud moderno apresenta espaço para mostrar sua fonte enquanto
+  esconde aqueles cabos/fios feios, deixando seu espaço mais limpo e bonito. 
+
+
+  Possui um belo painel frontal de vidro temperado 4mm com padrão geométrico,
+  lateral de acrílico transparente e ainda traz um fan traseiro incluso. 
+
+
+  Produto exclusivo da QueroPreço.
 
 
   Acompanha 1 fan 120mm traseiro.

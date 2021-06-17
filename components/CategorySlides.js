@@ -48,9 +48,11 @@ const CategorySlides = ({ slides }) => {
           itemsToShow={8}
           itemsToScroll={3}
           enableMouseSwipe={false}
+          enableSwipe={true}
           pagination={false}
-          // renderArrow={pointer.myArrow}
-          // showArrows={}
+          enableTilt={true}
+          disableArrowsOnEnd={true}
+          transitionMs={1000}
         >
           {slides &&
             slides.map((slide, index) => (
@@ -61,18 +63,6 @@ const CategorySlides = ({ slides }) => {
             ))}
         </Carousel>
       </Container>
-      {/* <Carousel>
-        <img src={slides[0].image} alt={slides[0].title} />
-        <img src={slides[0].image} alt={slides[0].title} />
-      </Carousel> */}
-      {/* <Carousel itemsToShow={3}>
-        <Item>1</Item>
-        <Item>2</Item>
-        <Item>3</Item>
-        <Item>4</Item>
-        <Item>5</Item>
-        <Item>6</Item>
-      </Carousel> */}
     </>
   );
 };

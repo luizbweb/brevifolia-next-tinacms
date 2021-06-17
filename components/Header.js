@@ -1,64 +1,45 @@
-import Link from "next/link";
+import React from "react";
+import styled from "styled-components";
+import { FaSearch } from "react-icons/fa";
+const Container = styled.div`
+  padding: 0px 120px;
+  display: flex;
+  width: 100%;
+  height: 60px;
+  justify-content: flex-end;
+  align-items: center;
+  background: rgb(19 16 16 / 90%);
+  div {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  svg {
+    margin: 0px 12px;
+  }
+  input {
+    width: 250px;
+    height: 100%;
+    max-height: 40px;
+    font-weight: bold;
+  }
+`;
 
-export default function Header(props) {
+const Header = ({ setSearchTerm }) => {
   return (
-    <header className="header">
-      <nav
-        className="nav"
-        role="navigation"
-        aria-label="main navigation"
-      >
-        <Link href="/">
-          <h1>{props.siteTitle}</h1>
-        </Link>
-        <div>
-          <Link href={`${typeof window !== "undefined" &&
-          window.location.pathname == "/info" ?
-          "/" : "/info"}`}>
-            <h1>{`${typeof window !== "undefined" &&
-          window.location.pathname == "/info" ?
-          "close" : "info"}`}</h1>
-          </Link>
-        </div>
-      </nav>
-      <style jsx>
-        {`
-          h1 {
-            margin-bottom: 0;
-          }
-          h1:hover {
-            cursor: pointer;
-          }
-          nav {
-            padding: 1.5rem 1.25rem;
-            border-bottom: 1px solid #ebebeb;
-            display: flex;
-            justify-content: space-between;
-            flex-direction: row;
-            align-items: center;
-          }
-          img {
-            margin-bottom: 0;
-          }
-          @media (min-width: 768px) {
-            .header {
-              height: 100vh;
-              position: fixed;
-              left: 0;
-              top: 0;
-            }
-            .nav {
-              padding: 2rem;
-              width: 30vw;
-              height: 100%;
-              border-right: 1px solid #ebebeb;
-              border-bottom: none;
-              flex-direction: column;
-              align-items: flex-start;
-            }
-          }
-        `}
-      </style>
-    </header>
+    <Container>
+      <div>
+        <FaSearch color={"white"} />
+        <input
+          type="text"
+          placeholder="Procure um produto"
+          onChange={(e) => {
+            setSearchTerm(e.target.value);
+          }}
+        />
+      </div>
+    </Container>
   );
-}
+};
+
+export default Header;
