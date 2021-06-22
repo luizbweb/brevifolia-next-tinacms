@@ -20,6 +20,7 @@ const ProductCarousel = ({ gallery }) => {
                 <img src={slide.image} alt={slide.color} />
               </div>
             ))}
+
         </Carousel>
       </div>
     </>

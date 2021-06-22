@@ -340,63 +340,14 @@ blocks:
           width: 50%
   - _template: BannerBlock
     banner:
-      blocks:
-        - content:
-            - title: Espuma injetada
-              font_size: calc(1.80rem + 1vw)
-              _template: TitleBlock
-              margin_bottom: 0.25em
-            - content: >-
-                – Espuma injetada de densidade 50kg/m³ no encosto e assento para
-                maior conforto e acomodação  
-
-                – A espuma injetada de alta tecnologia tem maior durabilidade e
-                sofre pouca deformação mesmo após longos períodos de uso
-              font_size: calc(0.95rem + 0.25vw)
-              font_weight: '300'
-              _template: ContentBlock
-              margin_bottom: ''
-              margin_top: ''
-            - title: Estrutura Aço
-              text_alignment: left
-              font_size: calc(1.80rem + 1vw)
-              line-height: 1em
-              _template: TitleBlock
-              line_height: ''
-              margin_top: 60px
-              margin_bottom: 0.25em
-            - content: >-
-                A estrutura de aço sólido de 1.2 mm de espessura da Elise
-                assegura durabilidade e preservação para uso contínuo, garantida
-                em 4 anos pela DT3sports. Com suporte a peso máximo recomendado
-                de até 130kg.
-              textAlignment: left
-              font_size: calc(0.95rem + 0.25vw)
-              line_height: 1.35em
-              font_weight: '300'
-              _template: ContentBlock
-          width: 50%
-          background_color_alpha:
-            color: 'rgb(255, 255, 255)'
-        - content:
-            - objectFit: contain
-              objectPosition: center
-              _template: ImageBlock
-              image:
-                desktop_image: >-
-                  ../../../../static/img/banner/product/elise/construcao__desktop.jpg
-                mobile_image: >-
-                  ../../../../static/img/banner/product/elise/construcao__mobile.jpg
-          stretch: true
-          height: ''
-          debug: false
-          width: 50%
+      blocks: []
       full_width: true
       id: construcao
       mobile_card: true
       debug: false
       vertical_alignment: center
       horizontal_alignment: flex-start
+      background_image: /static/2-cadeira-royce-desktop.jpg
   - _template: BannerBlock
     banner:
       blocks:
@@ -433,16 +384,6 @@ blocks:
       full_width: true
       background_image: ../../../../static/img/banner/product/elise/almofadas__desktop.jpg
       blocks:
-        - content:
-            - objectFit: contain
-              objectPosition: center
-              _template: ImageBlock
-              image:
-                desktop_image: >-
-                  ../../../../static/img/banner/product/elise/almofadas__desktop.jpg
-                mobile_image: >-
-                  ../../../../static/img/banner/product/elise/almofadas__mobile.jpg
-          width: 150px
         - background_color_alpha:
             color: ''
           content:

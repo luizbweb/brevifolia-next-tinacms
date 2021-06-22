@@ -1,5 +1,8 @@
 import Link from "next/link";
 import ReactMarkdown from "react-markdown";
+import Image  from 'next/image'
+
+
 
 const BlogList = (props) => {
   function truncateSummary(content) {
@@ -8,7 +11,7 @@ const BlogList = (props) => {
 
   function reformatDate(fullDate) {
     const date = new Date(fullDate);
-    return date.toDateString().slice(4);
+    return date.toDateString().slice(4);   
   }
 
   const posts = props.allBlogs;

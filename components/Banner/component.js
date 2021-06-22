@@ -1,7 +1,6 @@
 import React from "react";
 import styled from "styled-components";
 import classnames from "classnames";
-
 import { Block } from "./Block/component";
 
 export const Banner = ({

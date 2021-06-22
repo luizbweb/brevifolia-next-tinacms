@@ -9,6 +9,10 @@ const Container = styled.div`
   justify-content: flex-end;
   align-items: center;
   background: rgb(19 16 16 / 90%);
+  position: fixed;
+   z-index: 1000;
+   top:0;
+
   div {
     display: flex;
     justify-content: space-around;

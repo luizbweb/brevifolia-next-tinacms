@@ -5,7 +5,7 @@ import classnames from "classnames";
 
 import { Title } from "../Title/component";
 import { Content } from "../Content/component";
-import { Image } from "../Image/component";
+import { Images } from "../Image/component";
 import { Video } from "../Video/component";
 import { Actions } from "../Actions/component";
 // import { Props } from "./types";
@@ -129,7 +129,7 @@ export const Block = ({
             case "ActionsBlock":
               return <Actions key={`block-content-${index}`} {...content} />;
             case "ImageBlock":
-              return <Image key={`block-content-${index}`} {...content} />;
+              return <Images key={`block-content-${index}`} {...content} />;
             case "VideoBlock":
               return <Video key={`block-content-${index}`} {...content} />;
           }
@@ -222,7 +222,7 @@ const StyledBlock = styled.div`
       padding-bottom: 24px;
     }
 
-    &.background.image ${Image} {
+    &.background.image ${Images} {
       display: none;
     }
 

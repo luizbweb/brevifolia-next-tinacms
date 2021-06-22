@@ -1,13 +1,13 @@
 import matter from "gray-matter";
 import { useJsonForm } from "next-tinacms-json";
 import { usePlugin } from "tinacms";
-
+import {useState} from "react"
 import Layout from "../components/Layout";
 import BlogList from "../components/BlogList";
 import Header from "../components/Header";
 
 const Index = ({ jsonFile, allBlogs }) => {
-  const [searchTerm, setSearchTerm] = React.useState("");
+  const [searchTerm, setSearchTerm] = useState("");
   console.log(`SSD`, searchTerm);
   const formOptions = {
     label: "Site Config",

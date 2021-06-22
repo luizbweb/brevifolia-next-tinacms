@@ -16,6 +16,12 @@ import Specs from "../../components/Specs";
 import Menu from "../../components/Menu";
 import CategorySlides from "../../components/CategorySlides";
 import DetailedTable from "../../components/DetailedTable.js";
+import slugify from "slugify";
+import Header from "../../components/Header";
+
+
+
+
 const CarrouselContainer = styled.div`
   display: flex;
   padding: 0px 120px;
@@ -32,6 +38,17 @@ const DescriptionContainer = styled.div`
 `;
 
 export default function BlogTemplate(props) {
+
+console.log('PROPS', props)
+
+
+
+const chairslug = slugify(props.markdownFile.frontmatter.name,{
+  replacement: '-',
+  lower:true
+})
+
+
   const formOptions = {
     label: "Editor de Produtos",
     fields: [
@@ -42,7 +59,7 @@ export default function BlogTemplate(props) {
         // Generate the frontmatter value based on the filename
         parse: (media) => `/static/${media.filename}`,
         // Decide the file upload directory for the post
-        uploadDir: () => "/public/static/",
+        uploadDir: () => `/public/static/img/products/`,
         // Generate the src attribute for the preview image.
         previewSrc: (fullSrc) => fullSrc.replace("/public", ""),
         clearable: true,
@@ -391,7 +408,11 @@ export default function BlogTemplate(props) {
     if (gallery) setActiveGallery(gallery);
   }, [chairColor, galleries]);
   return (
+
     <Layout siteTitle={props.title}>
+    <Header/>
+
+
       {/* <article className="blog">
         <figure className="blog__hero">
           <img
@@ -408,7 +429,6 @@ export default function BlogTemplate(props) {
         </div>
         <h2 className="blog__footer">Written By: {post.frontmatter.author}</h2>
       </article> */}
-
       {galleries && (
         <CarrouselContainer>
           <ProductCarousel gallery={activeGallery} />

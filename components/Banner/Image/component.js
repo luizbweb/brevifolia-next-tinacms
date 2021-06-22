@@ -5,7 +5,7 @@ import styled from "styled-components";
 // import { Button } from "~components/Button";
 // import { Props } from './types';
 
-export const Image = ({
+export const Images = ({
   className,
   image,
   objectFit,
@@ -14,7 +14,10 @@ export const Image = ({
 }) => {
   // console.log(image);
   return (
-    <>{image && <img src={image.desktop_image} alt={link} />}</>
+    <>{image && <img src={image.desktop_image} alt={link} />}
+    
+    </>
+
     // <Button className={className} href={link}>
     //   <ResponsiveImage
     //     objectPosition={objectPosition}
