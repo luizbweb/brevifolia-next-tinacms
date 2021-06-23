@@ -19,9 +19,6 @@ import DetailedTable from "../../components/DetailedTable.js";
 import slugify from "slugify";
 import Header from "../../components/Header";
 
-
-
-
 const CarrouselContainer = styled.div`
   display: flex;
   padding: 0px 120px;
@@ -38,16 +35,12 @@ const DescriptionContainer = styled.div`
 `;
 
 export default function BlogTemplate(props) {
+  console.log("PROPS", props);
 
-console.log('PROPS', props)
-
-
-
-const chairslug = slugify(props.markdownFile.frontmatter.name,{
-  replacement: '-',
-  lower:true
-})
-
+  const chairslug = slugify(props.markdownFile.frontmatter.name, {
+    replacement: "-",
+    lower: true,
+  });
 
   const formOptions = {
     label: "Editor de Produtos",
@@ -408,10 +401,8 @@ const chairslug = slugify(props.markdownFile.frontmatter.name,{
     if (gallery) setActiveGallery(gallery);
   }, [chairColor, galleries]);
   return (
-
     <Layout siteTitle={props.title}>
-    <Header/>
-
+      <Header noSearch={true} />
 
       {/* <article className="blog">
         <figure className="blog__hero">
@@ -685,7 +676,7 @@ const chairslug = slugify(props.markdownFile.frontmatter.name,{
   );
 }
 
-BlogTemplate.getInitialProps = async function(ctx) {
+BlogTemplate.getInitialProps = async function (ctx) {
   const { slug } = ctx.query;
   const content = await import(`../../posts/${slug}.md`);
   const config = await import(`../../data/config.json`);
