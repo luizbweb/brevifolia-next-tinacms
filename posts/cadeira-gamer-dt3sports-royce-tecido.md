@@ -217,7 +217,8 @@ blocks:
           verticalAlignment: flex-start
           content:
             - _template: VideoBlock
-              video: 'https://www.youtube.com/embed/DTmYxPmSZ4Q'
+              video: >-
+                https://www.youtube.com/embed/DTmYxPmSZ4Q?controls=0&autoplay=1&mute=1
               width: 100%
               height: '500'
         - horizontalAlignment: center
