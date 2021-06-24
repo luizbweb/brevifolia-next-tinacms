@@ -1,4 +1,4 @@
-import React, { FunctionComponent } from "react";
+import React, { FunctionComponent, useEffect } from "react";
 import styled from "styled-components";
 
 // import { ResponsiveImage } from "~components/ResponsiveImage";
@@ -11,11 +11,30 @@ export const Images = ({
   objectFit,
   objectPosition,
   link,
+  padding,
+  setPadding,
 }) => {
-  // console.log(image);
+  useEffect(() => {
+    if (setPadding) {
+      setPadding(false);
+    } else {
+      return null;
+    }
+  }, [image]);
+
+  // setPadding(false);
+
+  console.log("PADDING", typeof setPadding);
+
   return (
-    <>{image && <img src={image.desktop_image} alt={link} />}
-    
+    <>
+      {image && (
+        <img
+          src={image.desktop_image}
+          style={{ marginBottom: "0px" }}
+          alt={link}
+        />
+      )}
     </>
 
     // <Button className={className} href={link}>
@@ -39,6 +58,7 @@ const StyledImage = styled.div`
   width: ${(props) => props.width || "100%"};
   height: ${(props) => props.height || "100%"};
   overflow: hidden;
+  margin: 0px;
 
   border-width: ${(props) => (props.debug ? "1px" : "0px")};
   border-color: #007ac1;
@@ -50,7 +70,7 @@ const StyledImage = styled.div`
     cursor: auto;
   }
   img {
-    objectfit: contain;
+    object-fit: contain;
   }
 `;
 

@@ -167,104 +167,19 @@ specs:
 blocks:
   - _template: BannerBlock
     banner:
-      id: design
-      blocks:
-        - content:
-            - objectFit: contain
-              objectPosition: center
-              _template: ImageBlock
-              image:
-                mobile_image: >-
-                  ../../../../static/img/uploads/banner/image/Ergonomia e
-                  Design.jpg
-                desktop_image: /static/merch.png
-        - content:
-            - title: Design
-              _template: TitleBlock
-              text_alignment: left
-              foreground: '#FFFFFF'
-            - content: "\nA cadeira Gamma traz para a Office Series um design sóbrio que combina com qualquer ambiente, sem deixar de lado o conforto que toda cadeira\_ precisa.\n\nConta ainda com couro PU premium, detalhes com textura carbon e padrão diamantado prensado no couro."
-              _template: ContentBlock
-              foreground: '#FFFFFF'
-          background_color_alpha:
-            color: 'rgb(0, 0, 0)'
-          horizontal_alignment: center
-          vertical_alignment: center
-  - _template: BannerBlock
-    banner:
-      id: construcao
-      blocks:
-        - content:
-            - title: 'MATERIAL DE QUALIDADE '
-              _template: TitleBlock
-              text_alignment: center
-              foreground: '#2A2A2A'
-              font_size: calc(3.60rem + 2vw)
-          width: 100%
-          screen: desktop
-          vertical_alignment: center
-          horizontal_alignment: center
-        - content:
-            - objectFit: contain
-              objectPosition: center
-              _template: ImageBlock
-              image:
-                desktop_image: >-
-                  ../../../../static/img/uploads/banner/image/Material de alta
-                  qualidade.jpg
-                mobile_image: >-
-                  ../../../../static/img/uploads/banner/image/Material de alta
-                  qualidade.jpg
-          width: 50%
-        - content:
-            - title: Espuma injetada
-              _template: TitleBlock
-              foreground: '#2A2A2A'
-              font_size: calc(1.80rem + 1vw)
-              margin_bottom: 0.25em
-            - content: >-
-                – Espuma injetada de densidade 50kg/m³ e 10cm de espessura para
-                maior conforto e acomodação  
-
-                – A espuma injetada de alta tecnologia tem maior durabilidade e
-                sofre pouca deformação mesmo após longos períodos de uso
-              _template: ContentBlock
-              foreground: '#2A2A2A'
-              font_size: calc(0.95rem + 0.25vw)
-              font_weight: '300'
-            - title: Estrutura 100% Aço
-              _template: TitleBlock
-              font_size: calc(1.80rem + 1vw)
-              margin_top: 60px
-              margin_bottom: 0.25em
-              foreground: '#2A2A2A'
-            - content: >-
-                A estrutura de aço sólido de 1.2mm de espessura da Office Series
-                assegura durabilidade e preservação para uso contínuo, garantida
-                em 4 anos pela DT3.
-              _template: ContentBlock
-              font_size: calc(0.95rem + 0.25vw)
-              font_weight: '300'
-              line_height: 1.35em
-              foreground: '#2A2A2A'
-          width: 50%
-      full_width: true
-      vertical_alignment: center
-      mobile_card: true
-      horizontal_alignment: flex-start
-  - _template: BannerBlock
-    banner:
       id: almofadas
       blocks:
         - content:
             - title: Almofadas de apoio ergonômico
               _template: TitleBlock
+              foreground: '#000000'
             - content: >-
                 As almofadas de pescoço e lombar oferecem apoio e conforto para
                 alívio de pressão nos principais pontos de tensão. Removíveis,
                 tornam a Gamma ainda mais ajustável.  
                  Com design ergonômico e espuma de 28kg/m³ de densidade, foram projetadas para manter seu pescoço alinhado perfeitamente com a coluna sem causar esforço sobre as costas.
               _template: ContentBlock
+              foreground: '#000000'
         - content:
             - objectFit: contain
               objectPosition: center

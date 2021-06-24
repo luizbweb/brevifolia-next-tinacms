@@ -17,8 +17,10 @@ export const Banner = ({
   height,
   debug,
 }) => {
-  console.log("ID", id);
-  console.log(blocks);
+  const [padding, setPadding] = React.useState(true);
+  console.log("ID", blocks);
+  // console.log("AQUI", blocks[0]?.content?[0].image)
+
   return (
     <StyledBanner
       id={id}
@@ -29,7 +31,6 @@ export const Banner = ({
       })}
       backgroundImage={backgroundImage}
       blocks={blocks}
-      backgroundImage={backgroundImage}
       horizontal_alignment={horizontal_alignment}
       vertical_alignment={vertical_alignment}
       fullWidth={fullWidth}
@@ -38,10 +39,13 @@ export const Banner = ({
       margin_top={margin_top}
       height={height || "70vh"}
       debug={debug}
+      padding={padding}
     >
       {blocks &&
         blocks.map((block, index) => (
           <Block
+            padding={padding}
+            setPadding={setPadding}
             content={block.content}
             key={`banner-block-${index}`}
             padding_left={block.padding_left}
@@ -68,8 +72,9 @@ const StyledBanner = styled.div`
   flex-flow: row wrap;
   justify-content: ${(props) => props.horizontal_alignment};
   align-items: ${(props) => props.vertical_alignment};
-  padding-left: 4vw;
-  padding-right: 120px;
+  /* padding-left: ${(props) => (!props.backgroundImage ? "0px" : "4vw")}; */
+  height: ${(props) => (!props.backgroundImage ? "100%" : "70vh")};
+  padding-right: ${(props) => (props.padding ? "120px" : "0px")};
   padding-top: ${(props) => (props.debug ? "8px" : "0px")};
   padding-bottom: ${(props) => (props.debug ? "8px" : "0px")};
   border-width: ${(props) => (props.debug ? "3px" : "0px")};
@@ -77,8 +82,7 @@ const StyledBanner = styled.div`
   border-style: solid;
   background-image: url(${(props) => props.backgroundImage});
 
-
-  color:#fff;
+  color: #fff;
 
   @media (max-width: 420px) {
     border-radius: 8px;
@@ -200,7 +204,7 @@ const StyledBanner = styled.div`
   }
 
   @media (min-width: 421px) and (max-width: 959px) {
-    border-radius:  8px 8px 0px 0px;
+    border-radius: 8px 8px 0px 0px;
     margin-top: 60px;
 
     :last-child {
@@ -243,7 +247,7 @@ const StyledBanner = styled.div`
   }
 
   @media (min-width: 960px) {
-    height: ${(props) => props.height};
+    /* height: ${(props) => props.height}; */
     min-height: 100px;
 
     margin-top: ${(props) => props.margin_top};

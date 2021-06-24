@@ -278,6 +278,14 @@ specs:
 blocks:
   - _template: BannerBlock
     banner:
+      id: video
+      blocks:
+        - horizontalAlignment: center
+          verticalAlignment: flex-start
+          content:
+            - _template: VideoBlock
+  - _template: BannerBlock
+    banner:
       id: design
       height: 60vh
       horizontal_alignment: flex-end
@@ -381,6 +389,8 @@ blocks:
   - _template: BannerBlock
     banner:
       blocks:
+        - horizontalAlignment: center
+          verticalAlignment: flex-start
         - content:
             - objectFit: contain
               objectPosition: center

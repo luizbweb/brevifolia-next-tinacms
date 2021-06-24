@@ -23,6 +23,8 @@ export const Block = ({
   width,
   height,
   debug,
+  padding,
+  setPadding,
 }) => {
   const [open, setOpen] = useState(false);
   console.log(content);
@@ -72,6 +74,7 @@ export const Block = ({
   // height={"auto"}
   // debug={block.debug}
   console.log("content", content);
+
   return (
     <StyledBlock
       onClick={openCard}
@@ -129,9 +132,22 @@ export const Block = ({
             case "ActionsBlock":
               return <Actions key={`block-content-${index}`} {...content} />;
             case "ImageBlock":
-              return <Images key={`block-content-${index}`} {...content} />;
+              return (
+                <Images
+                  key={`block-content-${index}`}
+                  {...content}
+                  padding={padding}
+                  setPadding={setPadding}
+                />
+              );
             case "VideoBlock":
-              return <Video key={`block-content-${index}`} {...content} />;
+              return (
+                <Video
+                  key={`block-content-${index}`}
+                  {...content}
+                  setPadding={setPadding}
+                />
+              );
           }
         })}
 

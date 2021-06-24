@@ -3,17 +3,19 @@ import styled from "styled-components";
 
 // import { Props } from './types';
 
-export const Video = ({ className, src }) => {
+export const Video = ({ className, src, width, height }) => {
   if (!src) return null;
 
   return (
-    <video
+    <iframe
       className={className}
       controls={false}
       autoPlay={true}
       muted={true}
       loop={true}
       src={src}
+      width={width}
+      height={height}
     />
   );
 };

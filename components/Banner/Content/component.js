@@ -39,7 +39,7 @@ const StyledContent = styled.div`
   border-width: ${(props) => (props.debug ? "1px" : "0px")};
   border-color: #d500f9;
   border-style: solid;
-  p {
+  padding: 0px 4vw;
     line-height: 1.25em;
   }
 

@@ -307,7 +307,9 @@ blocks:
       height: 60vh
   - _template: BannerBlock
     banner:
-      blocks: []
+      blocks:
+        - horizontalAlignment: center
+          verticalAlignment: flex-start
       full_width: true
       id: construcao
       mobile_card: true

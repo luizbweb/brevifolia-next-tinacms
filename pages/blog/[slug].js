@@ -175,6 +175,7 @@ export default function BlogTemplate(props) {
                 parse: (media) => `/static/${media.filename}`,
                 uploadDir: () => "/public/static/",
                 previewSrc: (fullSrc) => fullSrc.replace("/public", ""),
+                clearable: true,
               },
             ],
           },
@@ -209,6 +210,7 @@ export default function BlogTemplate(props) {
             parse: (media) => `/static/${media.filename}`,
             uploadDir: () => "/public/static/",
             previewSrc: (fullSrc) => fullSrc.replace("/public", ""),
+            clearable: true,
           },
         ],
       },
@@ -225,6 +227,7 @@ export default function BlogTemplate(props) {
             parse: (media) => `/static/${media.filename}`,
             uploadDir: () => "/public/static/",
             previewSrc: (fullSrc) => fullSrc.replace("/public", ""),
+            clearable: true,
           },
           {
             name: "mobile_image",
@@ -233,6 +236,7 @@ export default function BlogTemplate(props) {
             parse: (media) => `/static/${media.filename}`,
             uploadDir: () => "/public/static/",
             previewSrc: (fullSrc) => fullSrc.replace("/public", ""),
+            clearable: true,
           },
         ],
       },
@@ -292,6 +296,7 @@ export default function BlogTemplate(props) {
             parse: (media) => `/static/${media.filename}`,
             uploadDir: () => "/public/static/",
             previewSrc: (fullSrc) => fullSrc.replace("/public", ""),
+            clearable: true,
           },
         ],
       },
@@ -404,22 +409,6 @@ export default function BlogTemplate(props) {
     <Layout siteTitle={props.title}>
       <Header noSearch={true} />
 
-      {/* <article className="blog">
-        <figure className="blog__hero">
-          <img
-            src={post.frontmatter.main_image}
-            alt={`blog_hero_${post.frontmatter.title}`}
-          />
-        </figure>
-        <div className="blog__info">
-          <h1>{post.frontmatter.title}</h1>
-          <h3>{reformatDate(post.frontmatter.date)}</h3>
-        </div>
-        <div className="blog__body">
-          <ReactMarkdown source={post.markdownBody} />
-        </div>
-        <h2 className="blog__footer">Written By: {post.frontmatter.author}</h2>
-      </article> */}
       {galleries && (
         <CarrouselContainer>
           <ProductCarousel gallery={activeGallery} />

@@ -14,6 +14,7 @@ const _desktopImage = {
   parse: (media) => `/static/${media.filename}`,
   uploadDir: () => "/public/static/",
   previewSrc: (fullSrc) => fullSrc.replace("/public", ""),
+  clearable: true,
 };
 
 const _mobileImage = {
@@ -23,6 +24,7 @@ const _mobileImage = {
   parse: (media) => `/static/${media.filename}`,
   uploadDir: () => "/public/static/",
   previewSrc: (fullSrc) => fullSrc.replace("/public", ""),
+  clearable: true,
 };
 
 const image = {

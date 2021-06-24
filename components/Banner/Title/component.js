@@ -45,6 +45,7 @@ const StyledTitle = styled.div`
   border-width: ${(props) => (props.debug ? "1px" : "0px")};
   border-color: #f50057;
   border-style: solid;
+  padding: 0px 4vw;
 
   h2 {
     /* font-size: 12px !important;

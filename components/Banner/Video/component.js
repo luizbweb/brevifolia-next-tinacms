@@ -4,8 +4,17 @@ import styled from "styled-components";
 import { Video as Player } from "../../Video";
 // import { Props } from "./types";
 
-export const Video = ({ className, video }) => {
-  return <Player src={video} className={className} />;
+export const Video = ({ className, video, width, height, setPadding }) => {
+  React.useEffect(() => {
+    if (setPadding) {
+      setPadding(false);
+    } else {
+      return null;
+    }
+  }, [video]);
+  return (
+    <Player src={video} className={className} width={width} height={height} />
+  );
 };
 
 const StyledVideo = styled(Video)`

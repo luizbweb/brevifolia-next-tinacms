@@ -3,7 +3,7 @@ import {
   VideoBlock,
   TitleBlock,
   ContentBlock,
-  ActionsBlock,
+  // ActionsBlock,
 } from ".";
 
 import {
@@ -30,7 +30,7 @@ const content = {
   templates: {
     TitleBlock,
     ContentBlock,
-    ActionsBlock,
+    // ActionsBlock,
     ImageBlock,
     VideoBlock,
   },
@@ -56,6 +56,7 @@ const bgImage = {
   parse: (media) => `/static/${media.filename}`,
   uploadDir: () => "/public/static/",
   previewSrc: (fullSrc) => fullSrc.replace("/public", ""),
+  clearable: true,
 };
 
 const mobileCard = {
