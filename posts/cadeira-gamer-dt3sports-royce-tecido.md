@@ -212,6 +212,18 @@ specs:
 blocks:
   - _template: BannerBlock
     banner:
+      blocks:
+        - horizontalAlignment: center
+          verticalAlignment: flex-start
+          content:
+            - _template: VideoBlock
+              video: 'https://www.youtube.com/embed/DTmYxPmSZ4Q'
+              width: 100%
+              height: '500'
+        - horizontalAlignment: center
+          verticalAlignment: flex-start
+  - _template: BannerBlock
+    banner:
       id: design
       height: 60vh
       horizontal_alignment: center
